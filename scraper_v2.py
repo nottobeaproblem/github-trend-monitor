@@ -8,7 +8,7 @@ from typing import List, Dict, Set
 # ==================== 配置区 ====================
 # 你的 GitHub Personal Access Token
 # 建议通过环境变量传入，避免硬编码
-GITHUB_TOKEN = os.getenv("GITHUB_TOKEN", "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")
+GITHUB_TOKEN = os.getenv("GITHUB_TOKEN")
 
 # 搜索关键词分组（按领域）
 DOMAIN_QUERIES = {
@@ -261,7 +261,7 @@ def save_repos_to_csv(repos: List[Dict], domains: List[str] = None):
 
 # ==================== 主程序 ====================
 def main():
-    if GITHUB_TOKEN == "你的_TOKEN":
+    if not GITHUB_TOKEN :
         print("错误：请设置 GITHUB_TOKEN 环境变量或在代码中填写有效的 Token")
         return
 
