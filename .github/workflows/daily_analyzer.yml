@@ -8,11 +8,13 @@ on:
 jobs:
   analyze:
     runs-on: ubuntu-latest
+    timeout-minutes: 10
     steps:
       - name: Checkout repository
         uses: actions/checkout@v4
         with:
           token: ${{ secrets.GH_TOKEN }}
+          persist-credentials: true
 
       - name: Set up Python
         uses: actions/setup-python@v4
@@ -28,9 +30,16 @@ jobs:
         run: python analyzer.py
 
       - name: Commit and push changes
+        env:
+          GH_TOKEN: ${{ secrets.GH_TOKEN }}
         run: |
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Action"
           git add data/
-          git diff --quiet && git diff --staged --quiet || git commit -m "Update metrics [skip ci]"
-          git push
+          git status
+          if git diff --cached --quiet; then
+            echo "No changes to commit"
+          else
+            git commit -m "Update metrics [skip ci]"
+            git push https://${GH_TOKEN}@github.com/${{ github.repository }}.git HEAD:${GITHUB_REF#refs/heads/}
+          fi
