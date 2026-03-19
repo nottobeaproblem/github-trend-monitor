@@ -13,6 +13,7 @@ jobs:
         uses: actions/checkout@v3
         with:
           token: ${{ secrets.GH_TOKEN }}  # 使用你设置的 secret
+          persist-credentials: true  # 确保后续的 git push 能复用这个凭证
 
       - name: Set up Python
         uses: actions/setup-python@v4
