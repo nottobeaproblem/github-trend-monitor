@@ -1,0 +1,36 @@
+name: Daily Scraper
+
+on:
+  schedule:
+    - cron: '0 2 * * *'   # UTC 2:00 = 北京时间 10:00
+  workflow_dispatch:       # 允许手动触发
+
+jobs:
+  scrape:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v3
+        with:
+          token: ${{ secrets.GH_TOKEN }}  # 使用你设置的 secret
+
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.9'
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      - name: Run scraper
+        env:
+          GITHUB_TOKEN: ${{ secrets.GH_TOKEN }}
+        run: python scraper_v2.py   # 注意文件名，如果改名为 scraper.py 则相应调整
+
+      - name: Commit and push changes
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git add data/
+          git diff --quiet && git diff --staged --quiet || git commit -m "Update data [skip ci]"
+          git push
