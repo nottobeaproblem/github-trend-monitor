@@ -2,13 +2,13 @@ name: Daily Analyzer
 
 on:
   schedule:
-    - cron: '0 3 * * *'
+    - cron: '0 3 * * *'   # UTC 3:00 = 北京时间 11:00
   workflow_dispatch:
 
 jobs:
   analyze:
     runs-on: ubuntu-latest
-    timeout-minutes: 10
+    timeout-minutes: 30
     steps:
       - name: Checkout repository
         uses: actions/checkout@v4
@@ -29,13 +29,14 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.GH_TOKEN }}
         run: python analyzer.py
 
-      - name: Commit and push changes
+      - name: Commit and push metrics
         env:
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
         run: |
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Action"
-          git add data/
+          # 强制添加 metrics 目录（即使被 .gitignore 忽略）
+          git add -f data/metrics/
           git status
           if git diff --cached --quiet; then
             echo "No changes to commit"

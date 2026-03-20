@@ -2,13 +2,13 @@ name: Daily Reporter
 
 on:
   schedule:
-    - cron: '0 4 * * *'
+    - cron: '0 4 * * *'   # UTC 4:00 = 北京时间 12:00
   workflow_dispatch:
 
 jobs:
   report:
     runs-on: ubuntu-latest
-    timeout-minutes: 5
+    timeout-minutes: 10
     steps:
       - name: Checkout repository
         uses: actions/checkout@v4

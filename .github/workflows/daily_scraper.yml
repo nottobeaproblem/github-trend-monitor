@@ -2,8 +2,8 @@ name: Daily Scraper
 
 on:
   schedule:
-    - cron: '0 2 * * *'   # UTC 2:00
-  workflow_dispatch:
+    - cron: '0 2 * * *'   # UTC 2:00 = 北京时间 10:00
+  workflow_dispatch:       # 允许手动触发
 
 jobs:
   scrape:
@@ -29,19 +29,14 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.GH_TOKEN }}
         run: python scraper_v2.py
 
-      - name: Debug last_run file (if exists)
-        run: cat data/last_run.txt || echo "last_run.txt not exist"
-
-      - name: Debug data directory
-        run: ls -la data/ || echo "data/ empty or not exist"
-
       - name: Commit and push changes
         env:
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
         run: |
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Action"
-          git add data/
+          # 强制添加所有数据文件（包括被 .gitignore 忽略的 CSV）
+          git add -f data/
           git status
           if git diff --cached --quiet; then
             echo "No changes to commit"
