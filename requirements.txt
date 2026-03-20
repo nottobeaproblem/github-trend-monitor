@@ -1,2 +1,5 @@
 requests
 pandas
+wordcloud
+matplotlib
+jieba

@@ -1,0 +1,12 @@
+# 项目生成的数据文件
+data/*.csv
+data/metrics/
+*.html
+
+# IDE 配置
+.idea/
+.vscode/
+
+# Python 缓存
+__pycache__/
+*.pyc
