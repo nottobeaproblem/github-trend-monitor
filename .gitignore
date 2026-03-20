@@ -1,6 +1,7 @@
 # 项目生成的数据文件
 data/*.csv
 data/metrics/
+!data/last_run.txt
 *.html
 
 # IDE 配置
