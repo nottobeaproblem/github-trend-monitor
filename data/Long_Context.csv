@@ -1060,3 +1060,340 @@
 1188361481,dedcs157/biyesheji1508,基于微信小程序的小说阅读系统ssm,https://github.com/dedcs157/biyesheji1508,0,0,JavaScript,,2026-03-22T00:59:22Z,2026-03-22,True,Long Context
 1188281735,ashutoshblitz30/Stochastic-Market-Forecasting,Exploring State Space Models for noise-robust financial time-series.,https://github.com/ashutoshblitz30/Stochastic-Market-Forecasting,0,0,Jupyter Notebook,,2026-03-21T21:31:24Z,2026-03-22,True,Long Context
 1188316099,Sandeeprajendr/Adaptive-StatArb-Kalman,State-space modeling approach to pairs trading using Kalman filter for time-varying hedge ratio.,https://github.com/Sandeeprajendr/Adaptive-StatArb-Kalman,0,0,,,2026-03-21T22:53:40Z,2026-03-22,True,Long Context
+1188538552,vlytvynchyk/rag-vs-long-context,"Benchmark comparing RAG, Long Context, and No Context approaches for LLM-based documentation Q&A. Tested on FastAPI docs (~117K tokens) with local models via Ollama. Includes test scripts, results, and chart generation.",https://github.com/vlytvynchyk/rag-vs-long-context,0,0,Python,,2026-03-22T08:12:46Z,2026-03-23,True,Long Context
+1189188510,NightPoetry/WalnutEverMemFoundation,"WalnutEverMemFoundation (Walnut-EverMem-Foundation): A binary-logic based infinite context memory foundation for LLMs, serving as an AI memory OS that requires Skill modules for practical use.",https://github.com/NightPoetry/WalnutEverMemFoundation,0,0,,,2026-03-23T04:11:40Z,2026-03-23,True,Long Context
+1189092588,emiliano-gramm/MambaQuantization,In this repository I explore the Quantization Techniques that are becoming more prevalent in recent times.,https://github.com/emiliano-gramm/MambaQuantization,0,0,Python,,2026-03-23T01:01:27Z,2026-03-23,True,Long Context
+1188829882,nlaanait/mamba3-mojo,port of mamba3 into mojo+max,https://github.com/nlaanait/mamba3-mojo,0,0,Python,,2026-03-22T16:35:43Z,2026-03-23,True,Long Context
+1188880746,varun29-git/NNCS-Mamba,,https://github.com/varun29-git/NNCS-Mamba,0,0,Python,,2026-03-22T17:54:19Z,2026-03-23,True,Long Context
+1189155537,silvermpx/mamba-rs,"Mamba SSM in Rust with CUDA. Training + inference, forward + backward (BPTT), burn-in, custom CUDA kernels.",https://github.com/silvermpx/mamba-rs,0,0,,,2026-03-23T03:07:47Z,2026-03-23,True,Long Context
+1188711207,Jun-1225/yolo-mamba,,https://github.com/Jun-1225/yolo-mamba,0,0,Python,,2026-03-22T13:34:09Z,2026-03-23,True,Long Context
+1188528730,Ansir117/Pralleled-Mamba-MIL,,https://github.com/Ansir117/Pralleled-Mamba-MIL,0,0,Python,,2026-03-22T07:51:28Z,2026-03-23,True,Long Context
+1188923915,ihagoyal21/MAT-Mamba-Extension,,https://github.com/ihagoyal21/MAT-Mamba-Extension,0,0,,,2026-03-22T19:06:27Z,2026-03-23,True,Long Context
+1188973996,KieranMalandain/mamba-lob-forecasting,Using the Mamba-2 architecture for Limit Order Book forecasting.,https://github.com/KieranMalandain/mamba-lob-forecasting,0,0,Python,,2026-03-22T20:37:53Z,2026-03-23,True,Long Context
+1188436493,albertzjj/deep-person-reid-mamba,,https://github.com/albertzjj/deep-person-reid-mamba,0,0,Python,,2026-03-22T04:20:22Z,2026-03-23,True,Long Context
+1189026817,thomas2mars/ViT2MambaFormer,,https://github.com/thomas2mars/ViT2MambaFormer,0,0,,,2026-03-22T22:26:20Z,2026-03-23,True,Long Context
+1188816687,Raagulbharatwaj/Continuous-Telemetry-Anomaly-Detection-using-Mamba-2,,https://github.com/Raagulbharatwaj/Continuous-Telemetry-Anomaly-Detection-using-Mamba-2,0,0,Python,,2026-03-22T16:15:12Z,2026-03-23,True,Long Context
+1189178017,gavlooth/wavepde-chess-lux,Julia/Lux Wave-PDE chess language model replacing the Mamba backbone,https://github.com/gavlooth/wavepde-chess-lux,0,0,Julia,,2026-03-23T03:50:57Z,2026-03-23,True,Long Context
+1188508211,jacksonwu09/D2CMFDet,"Code for ""D2CMFDet: Disparity-Guided Dynamic Cross-modal Mamba Fusion for Multispectral Object Detection""",https://github.com/jacksonwu09/D2CMFDet,0,0,,,2026-03-22T07:07:55Z,2026-03-23,True,Long Context
+1188642952,thupalo/tensorrt-on-dgx-spark,"Deploy Nemotron 3 Nano 30B on NVIDIA DGX Spark using TensorRT-LLM (Blackwell GB10, NVFP4 quantization, OpenAI-compatible API)",https://github.com/thupalo/tensorrt-on-dgx-spark,0,0,Shell,"aarch64,blackwell,docker,inference,local-llm,mamba,mixture-of-experts,nemotron,nvfp4,nvidia-dgx-spark,openai-compatible,tensorrt-llm",2026-03-22T11:35:26Z,2026-03-23,True,Long Context
+1188622504,thupalo/llama-on-dgx-spark,"Deploy Nemotron 3 Nano 30B with 1M context window on NVIDIA DGX Spark using llama.cpp (Blackwell sm_121, Q4_0 KV cache quantization)",https://github.com/thupalo/llama-on-dgx-spark,0,0,Shell,"1m-context-window,aarch64,blackwell,cuda,gguf,inference,kv-cache-quantization,llama-cpp,local-llm,long-context,mamba,mixture-of-experts,nemotron,nvidia-dgx-spark",2026-03-22T10:57:36Z,2026-03-23,True,Long Context
+1188598991,MUDSHOT/KairosAI,"KairosAI is a high-performance multimodal AI system that performs sentiment and emotion analysis on text (and images) using a Mamba state-space model. The project combines deep learning, multi-task learning, and modern NLP pipelines to deliver fast, accurate, and emotion-aware predictions suitable for real-world applications.",https://github.com/MUDSHOT/KairosAI,0,0,,,2026-03-22T10:12:47Z,2026-03-23,True,Long Context
+1188741558,ssmdigital/ssmdigital2,,https://github.com/ssmdigital/ssmdigital2,0,0,JavaScript,,2026-03-22T14:21:00Z,2026-03-23,True,Long Context
+1189114508,IBO-Mike/SSM,Mypetstore based on SSM,https://github.com/IBO-Mike/SSM,0,0,Java,,2026-03-23T01:48:01Z,2026-03-23,True,Long Context
+1188505506,kevinyang5771323/SSmHDCxPqb,,https://github.com/kevinyang5771323/SSmHDCxPqb,1,0,,,2026-03-22T07:02:12Z,2026-03-23,True,Long Context
+1188399176,dedcs157/biyesheji1670,_8xh87+ssm,https://github.com/dedcs157/biyesheji1670,0,0,JavaScript,,2026-03-22T02:42:23Z,2026-03-23,True,Long Context
+1188369346,dedcs157/biyesheji1538,基于ssm选课系统+ssm,https://github.com/dedcs157/biyesheji1538,0,0,JavaScript,,2026-03-22T01:20:49Z,2026-03-23,True,Long Context
+1188561277,dedcs157/biyesheji1871,基于ssm选课系统+ssm,https://github.com/dedcs157/biyesheji1871,0,0,JavaScript,,2026-03-22T08:59:11Z,2026-03-23,True,Long Context
+1188358249,DanielJ-CS/SSMSShortcuts,Keyboard Shortcuts SSMS,https://github.com/DanielJ-CS/SSMSShortcuts,0,0,,,2026-03-22T00:50:16Z,2026-03-23,True,Long Context
+1188361594,daaanielj/SSMSShortcuts,,https://github.com/daaanielj/SSMSShortcuts,0,0,TSQL,,2026-03-22T00:59:41Z,2026-03-23,True,Long Context
+1188721671,UltraMonarch/ssmlpuay,,https://github.com/UltraMonarch/ssmlpuay,0,0,,,2026-03-22T13:50:42Z,2026-03-23,True,Long Context
+1188591998,Albab001/SSMT,tool for time based SSMT,https://github.com/Albab001/SSMT,0,0,,,2026-03-22T09:58:51Z,2026-03-23,True,Long Context
+1188532350,Phascolarctos/koala-ssm,,https://github.com/Phascolarctos/koala-ssm,0,0,Java,,2026-03-22T07:59:30Z,2026-03-23,True,Long Context
+1188917314,atis941/SSM_CSTT,,https://github.com/atis941/SSM_CSTT,0,0,Jupyter Notebook,,2026-03-22T18:54:44Z,2026-03-23,True,Long Context
+1188936947,nos1dot618/not-ssms,Lightweight SQL Server client.,https://github.com/nos1dot618/not-ssms,0,0,PowerShell,"database-client,powershell,sql-server,ssms",2026-03-22T19:29:32Z,2026-03-23,True,Long Context
+1188926224,AlRos14/ssm-connect,"Bash script to open a shell or port-forward to EC2 instances via AWS SSM — no SSH, no keys, no open ports.",https://github.com/AlRos14/ssm-connect,0,0,Shell,,2026-03-22T19:10:31Z,2026-03-23,True,Long Context
+1188923298,r-andres/visual-ssmm-monitor,,https://github.com/r-andres/visual-ssmm-monitor,0,0,TypeScript,,2026-03-22T19:05:22Z,2026-03-23,True,Long Context
+1188351623,hellioscn/ssmc-discord-bot,,https://github.com/hellioscn/ssmc-discord-bot,0,0,JavaScript,,2026-03-22T00:31:04Z,2026-03-23,True,Long Context
+1188878657,naho-create/SSMG-oem-app,,https://github.com/naho-create/SSMG-oem-app,0,0,HTML,,2026-03-22T17:50:53Z,2026-03-23,True,Long Context
+1189187485,WatchfulInk/ansible-ssm-lab,,https://github.com/WatchfulInk/ansible-ssm-lab,0,0,,,2026-03-23T04:09:42Z,2026-03-23,True,Long Context
+1188364410,Jeevan-Neupane/ssm-pca-viewer,"A lightweight Python viewer for exploring Statistical Shape Model (SSM) outputs from ShapeWorks Studio  interactively deform bone meshes along PCA modes using sliders, with no ShapeWorks installation required.",https://github.com/Jeevan-Neupane/ssm-pca-viewer,0,0,Python,,2026-03-22T01:08:00Z,2026-03-23,True,Long Context
+1188463079,dedcs157/biyesheji1715,在线选座+ssm,https://github.com/dedcs157/biyesheji1715,0,0,JavaScript,,2026-03-22T05:28:03Z,2026-03-23,True,Long Context
+1188500700,dedcs157/biyesheji1788,答题小程序ssm,https://github.com/dedcs157/biyesheji1788,0,0,JavaScript,,2026-03-22T06:52:13Z,2026-03-23,True,Long Context
+1188471381,dedcs157/biyesheji1735,健身小程序+ssm,https://github.com/dedcs157/biyesheji1735,0,0,JavaScript,,2026-03-22T05:46:44Z,2026-03-23,True,Long Context
+1188472432,dedcs157/biyesheji1738,博客小程序+ssm,https://github.com/dedcs157/biyesheji1738,0,0,JavaScript,,2026-03-22T05:49:17Z,2026-03-23,True,Long Context
+1188470819,dedcs157/biyesheji1734,停车场管理+ssm,https://github.com/dedcs157/biyesheji1734,0,0,JavaScript,,2026-03-22T05:45:29Z,2026-03-23,True,Long Context
+1188586879,dedcs157/biyesheji1897,捷邻小程序+ssm,https://github.com/dedcs157/biyesheji1897,0,0,JavaScript,,2026-03-22T09:48:45Z,2026-03-23,True,Long Context
+1188374348,dedcs157/biyesheji1564,捷邻小程序+ssm,https://github.com/dedcs157/biyesheji1564,0,0,JavaScript,,2026-03-22T01:34:24Z,2026-03-23,True,Long Context
+1188578083,dedcs157/biyesheji1887,论坛小程序+ssm,https://github.com/dedcs157/biyesheji1887,0,0,JavaScript,,2026-03-22T09:31:49Z,2026-03-23,True,Long Context
+1188372324,dedcs157/biyesheji1554,论坛小程序+ssm,https://github.com/dedcs157/biyesheji1554,0,0,JavaScript,,2026-03-22T01:28:50Z,2026-03-23,True,Long Context
+1188519603,dedcs157/biyesheji1817,外卖小程序ssm,https://github.com/dedcs157/biyesheji1817,0,0,JavaScript,,2026-03-22T07:32:18Z,2026-03-23,True,Long Context
+1188736913,pangoro24/aws-privatelink-private-instance-ssm,Plantillas de CloudFormation para desplegar y acceder de forma segura a instancias EC2 privadas mediante VPC Endpoints y Systems Manager,https://github.com/pangoro24/aws-privatelink-private-instance-ssm,0,0,,,2026-03-22T14:13:57Z,2026-03-23,True,Long Context
+1188462500,dedcs157/biyesheji1714,社区互助养老+ssm,https://github.com/dedcs157/biyesheji1714,0,0,JavaScript,,2026-03-22T05:26:37Z,2026-03-23,True,Long Context
+1188367269,dedcs157/biyesheji1527,同城家政服务+ssm,https://github.com/dedcs157/biyesheji1527,0,0,JavaScript,,2026-03-22T01:15:16Z,2026-03-23,True,Long Context
+1188542142,dedcs157/biyesheji1850,车视界小程序+ssm,https://github.com/dedcs157/biyesheji1850,0,0,JavaScript,,2026-03-22T08:20:08Z,2026-03-23,True,Long Context
+1188466658,dedcs157/biyesheji1723,酒店管理系统+ssm,https://github.com/dedcs157/biyesheji1723,0,0,JavaScript,,2026-03-22T05:36:16Z,2026-03-23,True,Long Context
+1188551956,dedcs157/biyesheji1862,基于SSM框架的童装购买平台微信小程序+ssm,https://github.com/dedcs157/biyesheji1862,0,0,JavaScript,,2026-03-22T08:40:13Z,2026-03-23,True,Long Context
+1188550186,dedcs157/biyesheji1860,同城家政服务+ssm,https://github.com/dedcs157/biyesheji1860,0,0,JavaScript,,2026-03-22T08:36:35Z,2026-03-23,True,Long Context
+1188466137,dedcs157/biyesheji1722,专利服务系统+ssm,https://github.com/dedcs157/biyesheji1722,0,0,JavaScript,,2026-03-22T05:35:14Z,2026-03-23,True,Long Context
+1188364474,dedcs157/biyesheji1517,车视界小程序+ssm,https://github.com/dedcs157/biyesheji1517,0,0,JavaScript,,2026-03-22T01:08:08Z,2026-03-23,True,Long Context
+1188465842,dedcs157/biyesheji1721,驾校管理系统+ssm,https://github.com/dedcs157/biyesheji1721,0,0,JavaScript,,2026-03-22T05:34:32Z,2026-03-23,True,Long Context
+1188367616,dedcs157/biyesheji1529,基于SSM框架的童装购买平台微信小程序+ssm,https://github.com/dedcs157/biyesheji1529,0,0,JavaScript,,2026-03-22T01:16:11Z,2026-03-23,True,Long Context
+1188507246,dedcs157/biyesheji1799,球馆预约系统ssm,https://github.com/dedcs157/biyesheji1799,0,0,JavaScript,,2026-03-22T07:06:00Z,2026-03-23,True,Long Context
+1188524522,dedcs157/biyesheji1824,食堂订餐小程序ssm,https://github.com/dedcs157/biyesheji1824,0,0,JavaScript,,2026-03-22T07:42:30Z,2026-03-23,True,Long Context
+1188375534,dedcs157/biyesheji1571,学生购电小程序+ssm,https://github.com/dedcs157/biyesheji1571,0,0,JavaScript,,2026-03-22T01:37:40Z,2026-03-23,True,Long Context
+1188372612,dedcs157/biyesheji1555,自助购药小程序+ssm,https://github.com/dedcs157/biyesheji1555,0,0,JavaScript,,2026-03-22T01:29:30Z,2026-03-23,True,Long Context
+1188587644,dedcs157/biyesheji1898,微信阅读小程序+ssm,https://github.com/dedcs157/biyesheji1898,0,0,JavaScript,,2026-03-22T09:50:12Z,2026-03-23,True,Long Context
+1188374502,dedcs157/biyesheji1565,微信阅读小程序+ssm,https://github.com/dedcs157/biyesheji1565,0,0,JavaScript,,2026-03-22T01:34:51Z,2026-03-23,True,Long Context
+1188465315,dedcs157/biyesheji1720,自修室预约系统+ssm,https://github.com/dedcs157/biyesheji1720,0,0,JavaScript,,2026-03-22T05:33:17Z,2026-03-23,True,Long Context
+1188578911,dedcs157/biyesheji1888,自助购药小程序+ssm,https://github.com/dedcs157/biyesheji1888,0,0,JavaScript,,2026-03-22T09:33:32Z,2026-03-23,True,Long Context
+1188380137,dedcs157/biyesheji1597,党建工作小秘书+ssm,https://github.com/dedcs157/biyesheji1597,0,0,JavaScript,,2026-03-22T01:50:21Z,2026-03-23,True,Long Context
+1188373273,dedcs157/biyesheji1559,校园订餐小程序+ssm,https://github.com/dedcs157/biyesheji1559,0,0,JavaScript,,2026-03-22T01:31:25Z,2026-03-23,True,Long Context
+1188365076,dedcs157/biyesheji1519,优选驾考小程序+ssm,https://github.com/dedcs157/biyesheji1519,0,0,JavaScript,,2026-03-22T01:09:43Z,2026-03-23,True,Long Context
+1188602648,dedcs157/biyesheji1918,同城交易小程序+ssm,https://github.com/dedcs157/biyesheji1918,0,0,JavaScript,,2026-03-22T10:19:53Z,2026-03-23,True,Long Context
+1188543746,dedcs157/biyesheji1852,优选驾考小程序+ssm,https://github.com/dedcs157/biyesheji1852,0,0,JavaScript,,2026-03-22T08:23:17Z,2026-03-23,True,Long Context
+1188610072,dedcs157/biyesheji1930,党建工作小秘书+ssm,https://github.com/dedcs157/biyesheji1930,0,0,JavaScript,,2026-03-22T10:34:03Z,2026-03-23,True,Long Context
+1188511871,dedcs157/biyesheji1806,疫苗预约小程序ssm,https://github.com/dedcs157/biyesheji1806,0,0,JavaScript,,2026-03-22T07:15:22Z,2026-03-23,True,Long Context
+1188525337,dedcs157/biyesheji1825,微信社团小程序ssm,https://github.com/dedcs157/biyesheji1825,0,0,JavaScript,,2026-03-22T07:44:15Z,2026-03-23,True,Long Context
+1188494259,dedcs157/biyesheji1779,婚庆摄影小程序ssm,https://github.com/dedcs157/biyesheji1779,0,0,JavaScript,,2026-03-22T06:38:26Z,2026-03-23,True,Long Context
+1188592740,dedcs157/biyesheji1904,学生购电小程序+ssm,https://github.com/dedcs157/biyesheji1904,0,0,JavaScript,,2026-03-22T10:00:21Z,2026-03-23,True,Long Context
+1188377878,dedcs157/biyesheji1585,同城交易小程序+ssm,https://github.com/dedcs157/biyesheji1585,0,0,JavaScript,,2026-03-22T01:44:22Z,2026-03-23,True,Long Context
+1188480961,dedcs157/biyesheji1756,奶茶点餐小程序ssm,https://github.com/dedcs157/biyesheji1756,0,0,JavaScript,,2026-03-22T06:09:27Z,2026-03-23,True,Long Context
+1188491269,tlstngud/sisa-experiment,SSM-Informed Softmax Attention (SISA) - Score-Level Fusion,https://github.com/tlstngud/sisa-experiment,0,0,Python,,2026-03-22T06:31:57Z,2026-03-23,True,Long Context
+1188582724,dedcs157/biyesheji1892,校园订餐小程序+ssm,https://github.com/dedcs157/biyesheji1892,0,0,JavaScript,,2026-03-22T09:40:48Z,2026-03-23,True,Long Context
+1188521312,dedcs157/biyesheji1819,垃圾分类小程序ssm,https://github.com/dedcs157/biyesheji1819,0,0,JavaScript,,2026-03-22T07:35:49Z,2026-03-23,True,Long Context
+1188464349,dedcs157/biyesheji1718,微信点餐系统小程序+ssm,https://github.com/dedcs157/biyesheji1718,0,0,JavaScript,,2026-03-22T05:30:59Z,2026-03-23,True,Long Context
+1188373843,dedcs157/biyesheji1562,数学辅导微信小程序+ssm,https://github.com/dedcs157/biyesheji1562,0,0,JavaScript,,2026-03-22T01:33:05Z,2026-03-23,True,Long Context
+1188963168,dedcs157/biyesheji2286,基于SSM的酒店管理系统,https://github.com/dedcs157/biyesheji2286,0,0,JavaScript,,2026-03-22T20:17:34Z,2026-03-23,True,Long Context
+1188362584,dedcs157/biyesheji1511,微信点餐系统小程序ssm,https://github.com/dedcs157/biyesheji1511,0,0,JavaScript,,2026-03-22T01:02:37Z,2026-03-23,True,Long Context
+1188370029,dedcs157/biyesheji1541,研知识题库小程序ssm+springboot,https://github.com/dedcs157/biyesheji1541,0,0,JavaScript,,2026-03-22T01:22:36Z,2026-03-23,True,Long Context
+1188496957,dedcs157/biyesheji1783,课堂考勤微信小程序ssm,https://github.com/dedcs157/biyesheji1783,0,0,JavaScript,,2026-03-22T06:44:13Z,2026-03-23,True,Long Context
+1188564347,dedcs157/biyesheji1874,研知识题库小程序ssm+springboot,https://github.com/dedcs157/biyesheji1874,0,0,JavaScript,,2026-03-22T09:05:04Z,2026-03-23,True,Long Context
+1188361098,dedcs157/biyesheji1507,小程序插画共享平台ssm,https://github.com/dedcs157/biyesheji1507,0,0,JavaScript,,2026-03-22T00:58:15Z,2026-03-23,True,Long Context
+1188574411,dedcs157/biyesheji1883,鲜花销售微信小程序+ssm,https://github.com/dedcs157/biyesheji1883,0,0,JavaScript,,2026-03-22T09:24:26Z,2026-03-23,True,Long Context
+1188521998,dedcs157/biyesheji1820,教育培训微信小程序ssm,https://github.com/dedcs157/biyesheji1820,0,0,JavaScript,,2026-03-22T07:37:13Z,2026-03-23,True,Long Context
+1188671852,dedcs157/biyesheji2006,学生毕业管理系统_y65fk+ssm,https://github.com/dedcs157/biyesheji2006,0,0,JavaScript,,2026-03-22T12:28:00Z,2026-03-23,True,Long Context
+1188488729,dedcs157/biyesheji1770,高校学习助手小程序ssm,https://github.com/dedcs157/biyesheji1770,0,0,JavaScript,,2026-03-22T06:26:21Z,2026-03-23,True,Long Context
+1188399322,Danielfoojunwei/SSH-Hybrid-Spectral-Safety-Horizons-for-Hybrid-SSM-Transformer-Models,,https://github.com/Danielfoojunwei/SSH-Hybrid-Spectral-Safety-Horizons-for-Hybrid-SSM-Transformer-Models,0,0,,,2026-03-22T02:42:46Z,2026-03-23,True,Long Context
+1188464059,dedcs157/biyesheji1717,学习自律养成小程序+ssm,https://github.com/dedcs157/biyesheji1717,0,0,JavaScript,,2026-03-22T05:30:19Z,2026-03-23,True,Long Context
+1188535082,dedcs157/biyesheji1840,小程序插画共享平台ssm,https://github.com/dedcs157/biyesheji1840,0,0,JavaScript,,2026-03-22T08:05:15Z,2026-03-23,True,Long Context
+1188537740,dedcs157/biyesheji1844,微信点餐系统小程序ssm,https://github.com/dedcs157/biyesheji1844,0,0,JavaScript,,2026-03-22T08:11:00Z,2026-03-23,True,Long Context
+1188584583,dedcs157/biyesheji1894,新冠疫苗预约小程序+ssm,https://github.com/dedcs157/biyesheji1894,0,0,JavaScript,,2026-03-22T09:44:22Z,2026-03-23,True,Long Context
+1188652295,dedcs157/biyesheji1986,农业电商服务系统_30249+ssm,https://github.com/dedcs157/biyesheji1986,0,0,JavaScript,,2026-03-22T11:52:46Z,2026-03-23,True,Long Context
+1188390605,dedcs157/biyesheji1654,农业电商服务系统_30249+ssm,https://github.com/dedcs157/biyesheji1654,0,0,JavaScript,,2026-03-22T02:19:27Z,2026-03-23,True,Long Context
+1188366493,dedcs157/biyesheji1524,小程序国产动漫论坛+ssm,https://github.com/dedcs157/biyesheji1524,0,0,JavaScript,,2026-03-22T01:13:22Z,2026-03-23,True,Long Context
+1188468121,dedcs157/biyesheji1726,家庭大厨微信小程序+ssm,https://github.com/dedcs157/biyesheji1726,0,0,JavaScript,,2026-03-22T05:39:29Z,2026-03-23,True,Long Context
+1188585471,dedcs157/biyesheji1895,数学辅导微信小程序+ssm,https://github.com/dedcs157/biyesheji1895,0,0,JavaScript,,2026-03-22T09:46:12Z,2026-03-23,True,Long Context
+1188472084,dedcs157/biyesheji1737,课程答疑微信小程序+ssm,https://github.com/dedcs157/biyesheji1737,0,0,JavaScript,,2026-03-22T05:48:22Z,2026-03-23,True,Long Context
+1188371605,dedcs157/biyesheji1550,鲜花销售微信小程序+ssm,https://github.com/dedcs157/biyesheji1550,0,0,JavaScript,,2026-03-22T01:26:54Z,2026-03-23,True,Long Context
+1188547763,dedcs157/biyesheji1857,小程序国产动漫论坛+ssm,https://github.com/dedcs157/biyesheji1857,0,0,JavaScript,,2026-03-22T08:31:20Z,2026-03-23,True,Long Context
+1188402824,dedcs157/biyesheji1675,学生毕业管理系统_y65fk+ssm,https://github.com/dedcs157/biyesheji1675,0,0,JavaScript,,2026-03-22T02:51:58Z,2026-03-23,True,Long Context
+1188373688,dedcs157/biyesheji1561,新冠疫苗预约小程序+ssm,https://github.com/dedcs157/biyesheji1561,0,0,JavaScript,,2026-03-22T01:32:38Z,2026-03-23,True,Long Context
+1188471907,dedcs157/biyesheji1736,在线课堂微信小程序+ssm,https://github.com/dedcs157/biyesheji1736,0,0,JavaScript,,2026-03-22T05:47:57Z,2026-03-23,True,Long Context
+1188474647,dedcs157/biyesheji1743,校园失物招领小程序ssm,https://github.com/dedcs157/biyesheji1743,0,0,JavaScript,,2026-03-22T05:54:48Z,2026-03-23,True,Long Context
+1188469813,dedcs157/biyesheji1731,高质量阅读微信小程序+ssm,https://github.com/dedcs157/biyesheji1731,0,0,JavaScript,,2026-03-22T05:43:25Z,2026-03-23,True,Long Context
+1188504881,dedcs157/biyesheji1795,微信小程序评分小程序ssm,https://github.com/dedcs157/biyesheji1795,0,0,JavaScript,,2026-03-22T07:00:48Z,2026-03-23,True,Long Context
+1188378040,dedcs157/biyesheji1586,农产品自主供销小程序+ssm,https://github.com/dedcs157/biyesheji1586,0,0,JavaScript,,2026-03-22T01:44:50Z,2026-03-23,True,Long Context
+1188966640,dedcs157/biyesheji2290,基于SSM的淘宝屋购物商城,https://github.com/dedcs157/biyesheji2290,0,0,JavaScript,,2026-03-22T20:23:51Z,2026-03-23,True,Long Context
+1188359884,dedcs157/biyesheji1504,学习资料库小程序设计ssm,https://github.com/dedcs157/biyesheji1504,0,0,JavaScript,,2026-03-22T00:54:53Z,2026-03-23,True,Long Context
+1188461936,dedcs157/biyesheji1713,外卖点餐的设计与实现+ssm,https://github.com/dedcs157/biyesheji1713,0,0,JavaScript,,2026-03-22T05:25:12Z,2026-03-23,True,Long Context
+1188461449,dedcs157/biyesheji1712,公交信息在线查询系统+ssm,https://github.com/dedcs157/biyesheji1712,0,0,JavaScript,,2026-03-22T05:24:00Z,2026-03-23,True,Long Context
+1188581889,dedcs157/biyesheji1891,游乐园智慧向导小程序+ssm,https://github.com/dedcs157/biyesheji1891,0,0,JavaScript,,2026-03-22T09:39:14Z,2026-03-23,True,Long Context
+1188467238,dedcs157/biyesheji1724,微信小程序打印室预约+ssm,https://github.com/dedcs157/biyesheji1724,0,0,JavaScript,,2026-03-22T05:37:29Z,2026-03-23,True,Long Context
+1188603243,dedcs157/biyesheji1919,农产品自主供销小程序+ssm,https://github.com/dedcs157/biyesheji1919,0,0,JavaScript,,2026-03-22T10:20:56Z,2026-03-23,True,Long Context
+1188469384,dedcs157/biyesheji1729,实验室管理微信小程序+ssm,https://github.com/dedcs157/biyesheji1729,0,0,JavaScript,,2026-03-22T05:42:20Z,2026-03-23,True,Long Context
+1188611672,dedcs157/biyesheji1933,“最多跑一次”微信小程序+ssm,https://github.com/dedcs157/biyesheji1933,0,0,JavaScript,,2026-03-22T10:37:02Z,2026-03-23,True,Long Context
+1188612200,dedcs157/biyesheji1934,“健康早知道”微信小程序+ssm,https://github.com/dedcs157/biyesheji1934,0,0,JavaScript,,2026-03-22T10:38:07Z,2026-03-23,True,Long Context
+1188487311,dedcs157/biyesheji1768,即时空教室查询小程序ssm,https://github.com/dedcs157/biyesheji1768,0,0,,,2026-03-22T06:23:01Z,2026-03-23,True,Long Context
+1188373057,dedcs157/biyesheji1558,游乐园智慧向导小程序+ssm,https://github.com/dedcs157/biyesheji1558,0,0,JavaScript,,2026-03-22T01:30:50Z,2026-03-23,True,Long Context
+1188533075,dedcs157/biyesheji1837,学习资料库小程序设计ssm,https://github.com/dedcs157/biyesheji1837,0,0,JavaScript,,2026-03-22T08:01:03Z,2026-03-23,True,Long Context
+1188380820,dedcs157/biyesheji1601,“健康早知道”微信小程序+ssm,https://github.com/dedcs157/biyesheji1601,0,0,JavaScript,,2026-03-22T01:52:12Z,2026-03-23,True,Long Context
+1188476019,dedcs157/biyesheji1747,高校学生事务管理系统ssm,https://github.com/dedcs157/biyesheji1747,0,0,JavaScript,,2026-03-22T05:58:15Z,2026-03-23,True,Long Context
+1188380692,dedcs157/biyesheji1600,“最多跑一次”微信小程序+ssm,https://github.com/dedcs157/biyesheji1600,0,0,JavaScript,,2026-03-22T01:51:46Z,2026-03-23,True,Long Context
+1188373505,dedcs157/biyesheji1560,校园二手交易平台小程序+ssm,https://github.com/dedcs157/biyesheji1560,0,0,JavaScript,,2026-03-22T01:32:09Z,2026-03-23,True,Long Context
+1188484672,dedcs157/biyesheji1763,社区二手物品交易小程序ssm,https://github.com/dedcs157/biyesheji1763,0,0,JavaScript,,2026-03-22T06:17:23Z,2026-03-23,True,Long Context
+1188365491,dedcs157/biyesheji1520,微信小程序医院挂号系统+ssm,https://github.com/dedcs157/biyesheji1520,0,0,JavaScript,,2026-03-22T01:10:45Z,2026-03-23,True,Long Context
+1188375365,dedcs157/biyesheji1570,微信小程序校园失物招领+ssm,https://github.com/dedcs157/biyesheji1570,0,0,JavaScript,,2026-03-22T01:37:12Z,2026-03-23,True,Long Context
+1188542946,dedcs157/biyesheji1851,微信智能招聘小程序设计+ssm,https://github.com/dedcs157/biyesheji1851,0,0,JavaScript,,2026-03-22T08:21:44Z,2026-03-23,True,Long Context
+1188366233,dedcs157/biyesheji1523,游戏账号交易微信小程序+ssm,https://github.com/dedcs157/biyesheji1523,0,0,JavaScript,,2026-03-22T01:12:46Z,2026-03-23,True,Long Context
+1188675381,dedcs157/biyesheji2009,生活小助手微信小程序_k1s0l+ssm,https://github.com/dedcs157/biyesheji2009,0,0,JavaScript,,2026-03-22T12:33:59Z,2026-03-23,True,Long Context
+1188405208,dedcs157/biyesheji1678,生活小助手微信小程序_k1s0l+ssm,https://github.com/dedcs157/biyesheji1678,0,0,JavaScript,,2026-03-22T02:58:13Z,2026-03-23,True,Long Context
+1188546724,dedcs157/biyesheji1856,游戏账号交易微信小程序+ssm,https://github.com/dedcs157/biyesheji1856,0,0,JavaScript,,2026-03-22T08:29:27Z,2026-03-23,True,Long Context
+1188463491,dedcs157/biyesheji1716,二手交易网站设计与实现+ssm,https://github.com/dedcs157/biyesheji1716,0,0,JavaScript,,2026-03-22T05:28:55Z,2026-03-23,True,Long Context
+1188885574,dedcs157/biyesheji2199,基于SSM架构的网上书城系统,https://github.com/dedcs157/biyesheji2199,0,0,JavaScript,,2026-03-22T18:01:57Z,2026-03-23,True,Long Context
+1189097350,dedcs157/biyesheji2462,基于SSM的网上鲜花销售系统,https://github.com/dedcs157/biyesheji2462,0,0,JavaScript,,2026-03-23T01:11:42Z,2026-03-23,True,Long Context
+1188496317,dedcs157/biyesheji1782,校园顺路代送微信小程序ssm,https://github.com/dedcs157/biyesheji1782,0,0,JavaScript,,2026-03-22T06:42:51Z,2026-03-23,True,Long Context
+1188468969,dedcs157/biyesheji1728,未知小程序的设计与实现+ssm,https://github.com/dedcs157/biyesheji1728,0,0,JavaScript,,2026-03-22T05:41:20Z,2026-03-23,True,Long Context
+1188495622,dedcs157/biyesheji1781,微信小程序线上教育商城ssm,https://github.com/dedcs157/biyesheji1781,0,0,JavaScript,,2026-03-22T06:41:22Z,2026-03-23,True,Long Context
+1188544571,dedcs157/biyesheji1853,微信小程序医院挂号系统+ssm,https://github.com/dedcs157/biyesheji1853,0,0,JavaScript,,2026-03-22T08:24:57Z,2026-03-23,True,Long Context
+1188364826,dedcs157/biyesheji1518,微信智能招聘小程序设计+ssm,https://github.com/dedcs157/biyesheji1518,0,0,JavaScript,,2026-03-22T01:09:03Z,2026-03-23,True,Long Context
+1188516058,dedcs157/biyesheji1812,小程序疫苗预约网站系统ssm,https://github.com/dedcs157/biyesheji1812,0,0,JavaScript,,2026-03-22T07:24:39Z,2026-03-23,True,Long Context
+1188522642,dedcs157/biyesheji1821,食堂校园预约就餐小程序ssm,https://github.com/dedcs157/biyesheji1821,0,0,JavaScript,,2026-03-22T07:38:31Z,2026-03-23,True,Long Context
+1188591951,dedcs157/biyesheji1903,微信小程序校园失物招领+ssm,https://github.com/dedcs157/biyesheji1903,0,0,JavaScript,,2026-03-22T09:58:46Z,2026-03-23,True,Long Context
+1188583875,dedcs157/biyesheji1893,校园二手交易平台小程序+ssm,https://github.com/dedcs157/biyesheji1893,0,0,JavaScript,,2026-03-22T09:43:03Z,2026-03-23,True,Long Context
+1188375201,dedcs157/biyesheji1569,微信小程序的学生选课系统+ssm,https://github.com/dedcs157/biyesheji1569,0,0,JavaScript,,2026-03-22T01:36:44Z,2026-03-23,True,Long Context
+1188591197,dedcs157/biyesheji1902,微信小程序的学生选课系统+ssm,https://github.com/dedcs157/biyesheji1902,0,0,JavaScript,,2026-03-22T09:57:13Z,2026-03-23,True,Long Context
+1188681836,1wri/AccommodationSystem,民宿管理系统带万字论文和ppt，基于ssm+jsp的住宿管理系统，java项目，ssm，jsp项目,https://github.com/1wri/AccommodationSystem,0,0,Java,,2026-03-22T12:44:57Z,2026-03-23,True,Long Context
+1188548580,dedcs157/biyesheji1858,宠物店商城小程序设计与实现+ssm,https://github.com/dedcs157/biyesheji1858,0,0,JavaScript,,2026-03-22T08:33:06Z,2026-03-23,True,Long Context
+1188367802,dedcs157/biyesheji1530,火锅店点餐系统的设计与实现+ssm,https://github.com/dedcs157/biyesheji1530,0,0,JavaScript,,2026-03-22T01:16:38Z,2026-03-23,True,Long Context
+1188370594,dedcs157/biyesheji1544,基于微信小程序的短视频系统+ssm,https://github.com/dedcs157/biyesheji1544,0,0,JavaScript,,2026-03-22T01:24:02Z,2026-03-23,True,Long Context
+1188483271,dedcs157/biyesheji1760,“村游网”系统的微信小程序开发ssm,https://github.com/dedcs157/biyesheji1760,0,0,JavaScript,,2026-03-22T06:14:21Z,2026-03-23,True,Long Context
+1188569350,dedcs157/biyesheji1877,基于微信小程序的短视频系统+ssm,https://github.com/dedcs157/biyesheji1877,0,0,JavaScript,,2026-03-22T09:14:14Z,2026-03-23,True,Long Context
+1188366756,dedcs157/biyesheji1525,宠物店商城小程序设计与实现+ssm,https://github.com/dedcs157/biyesheji1525,0,0,JavaScript,,2026-03-22T01:13:59Z,2026-03-23,True,Long Context
+1188478610,dedcs157/biyesheji1752,微信小程序软件缺陷管理系统ssm,https://github.com/dedcs157/biyesheji1752,0,0,JavaScript,,2026-03-22T06:04:12Z,2026-03-23,True,Long Context
+1188552939,dedcs157/biyesheji1863,火锅店点餐系统的设计与实现+ssm,https://github.com/dedcs157/biyesheji1863,0,0,JavaScript,,2026-03-22T08:42:12Z,2026-03-23,True,Long Context
+1188340795,dedcs157/biyesheji999,ssm网上购物商城的设计与实现+jsp,https://github.com/dedcs157/biyesheji999,0,0,JavaScript,,2026-03-22T00:00:00Z,2026-03-23,True,Long Context
+1188575080,dedcs157/biyesheji1884,高校毕业论文管理系统小程序+ssm,https://github.com/dedcs157/biyesheji1884,0,0,JavaScript,,2026-03-22T09:25:51Z,2026-03-23,True,Long Context
+1188502235,dedcs157/biyesheji1791,基于微信小程序疫苗预约系统+ssm,https://github.com/dedcs157/biyesheji1791,0,0,JavaScript,,2026-03-22T06:55:24Z,2026-03-23,True,Long Context
+1188371833,dedcs157/biyesheji1551,高校毕业论文管理系统小程序+ssm,https://github.com/dedcs157/biyesheji1551,0,0,JavaScript,,2026-03-22T01:27:28Z,2026-03-23,True,Long Context
+1188379672,dedcs157/biyesheji1594,基于微信小程序的校园商铺系统+ssm,https://github.com/dedcs157/biyesheji1594,0,0,JavaScript,,2026-03-22T01:49:01Z,2026-03-23,True,Long Context
+1188374879,dedcs157/biyesheji1567,微信小程序的驾校预约管理系统+ssm,https://github.com/dedcs157/biyesheji1567,0,0,JavaScript,,2026-03-22T01:35:50Z,2026-03-23,True,Long Context
+1188478107,dedcs157/biyesheji1751,基于微信平台的文玩销售小程序ssm,https://github.com/dedcs157/biyesheji1751,0,0,JavaScript,,2026-03-22T06:02:59Z,2026-03-23,True,Long Context
+1188470000,dedcs157/biyesheji1732,个人日程安排微信小程序的实现+ssm,https://github.com/dedcs157/biyesheji1732,0,0,JavaScript,,2026-03-22T05:43:54Z,2026-03-23,True,Long Context
+1188562340,dedcs157/biyesheji1872,自驾游拼团小程序的设计与实现+ssm,https://github.com/dedcs157/biyesheji1872,0,0,JavaScript,,2026-03-22T09:01:12Z,2026-03-23,True,Long Context
+1188404460,dedcs157/biyesheji1677,微信小程序的图书管理系统-论文+ssm,https://github.com/dedcs157/biyesheji1677,0,0,JavaScript,,2026-03-22T02:56:11Z,2026-03-23,True,Long Context
+1188590356,dedcs157/biyesheji1901,微信小程序的英语学习激励系统+ssm,https://github.com/dedcs157/biyesheji1901,0,0,JavaScript,,2026-03-22T09:55:39Z,2026-03-23,True,Long Context
+1188475286,dedcs157/biyesheji1745,基于微信小程序的小区疫情防控ssm,https://github.com/dedcs157/biyesheji1745,0,0,JavaScript,,2026-03-22T05:56:22Z,2026-03-23,True,Long Context
+1188608502,dedcs157/biyesheji1927,基于微信小程序的校园商铺系统+ssm,https://github.com/dedcs157/biyesheji1927,0,0,JavaScript,,2026-03-22T10:30:55Z,2026-03-23,True,Long Context
+1188369595,dedcs157/biyesheji1539,自驾游拼团小程序的设计与实现+ssm,https://github.com/dedcs157/biyesheji1539,0,0,JavaScript,,2026-03-22T01:21:28Z,2026-03-23,True,Long Context
+1188361481,dedcs157/biyesheji1508,基于微信小程序的小说阅读系统ssm,https://github.com/dedcs157/biyesheji1508,0,0,JavaScript,,2026-03-22T00:59:22Z,2026-03-23,True,Long Context
+1188515442,dedcs157/biyesheji1811,基于微信小程序点餐系统的设计ssm,https://github.com/dedcs157/biyesheji1811,0,0,JavaScript,,2026-03-22T07:23:13Z,2026-03-23,True,Long Context
+1188674193,dedcs157/biyesheji2008,微信小程序的图书管理系统-论文+ssm,https://github.com/dedcs157/biyesheji2008,0,0,JavaScript,,2026-03-22T12:31:57Z,2026-03-23,True,Long Context
+1188376498,dedcs157/biyesheji1577,基于微信小程序的药店管理系统+ssm,https://github.com/dedcs157/biyesheji1577,0,0,JavaScript,,2026-03-22T01:40:34Z,2026-03-23,True,Long Context
+1188375067,dedcs157/biyesheji1568,微信小程序的英语学习激励系统+ssm,https://github.com/dedcs157/biyesheji1568,0,0,JavaScript,,2026-03-22T01:36:22Z,2026-03-23,True,Long Context
+1188600654,dedcs157/biyesheji1914,基于微信小程序的电影交流平台+ssm,https://github.com/dedcs157/biyesheji1914,0,0,JavaScript,,2026-03-22T10:16:03Z,2026-03-23,True,Long Context
+1188598337,dedcs157/biyesheji1910,基于微信小程序的药店管理系统+ssm,https://github.com/dedcs157/biyesheji1910,0,0,JavaScript,,2026-03-22T10:11:30Z,2026-03-23,True,Long Context
+1188379446,dedcs157/biyesheji1593,基于微信小程序的新生报到系统+ssm,https://github.com/dedcs157/biyesheji1593,0,0,JavaScript,,2026-03-22T01:48:23Z,2026-03-23,True,Long Context
+1188535858,dedcs157/biyesheji1841,基于微信小程序的小说阅读系统ssm,https://github.com/dedcs157/biyesheji1841,0,0,JavaScript,,2026-03-22T08:06:56Z,2026-03-23,True,Long Context
+1188467670,dedcs157/biyesheji1725,家庭财务管理系统的设计与实现+ssm,https://github.com/dedcs157/biyesheji1725,0,0,JavaScript,,2026-03-22T05:38:28Z,2026-03-23,True,Long Context
+1188499965,dedcs157/biyesheji1787,校园约拍微信小程序设计与实现ssm,https://github.com/dedcs157/biyesheji1787,0,0,JavaScript,,2026-03-22T06:50:41Z,2026-03-23,True,Long Context
+1188524036,dedcs157/biyesheji1823,微信小程序的高校党费收缴系统ssm,https://github.com/dedcs157/biyesheji1823,0,0,JavaScript,,2026-03-22T07:41:28Z,2026-03-23,True,Long Context
+1188589458,dedcs157/biyesheji1900,微信小程序的驾校预约管理系统+ssm,https://github.com/dedcs157/biyesheji1900,0,0,JavaScript,,2026-03-22T09:53:55Z,2026-03-23,True,Long Context
+1188607946,dedcs157/biyesheji1926,基于微信小程序的新生报到系统+ssm,https://github.com/dedcs157/biyesheji1926,0,0,JavaScript,,2026-03-22T10:29:49Z,2026-03-23,True,Long Context
+1188377159,dedcs157/biyesheji1581,基于微信小程序的电影交流平台+ssm,https://github.com/dedcs157/biyesheji1581,0,0,JavaScript,,2026-03-22T01:42:21Z,2026-03-23,True,Long Context
+1188376993,dedcs157/biyesheji1580,基于微信小程序的电影院票务系统+ssm,https://github.com/dedcs157/biyesheji1580,0,0,JavaScript,,2026-03-22T01:41:58Z,2026-03-23,True,Long Context
+1188372148,dedcs157/biyesheji1553,面向企事业单位的项目申报小程序+ssm,https://github.com/dedcs157/biyesheji1553,0,0,JavaScript,,2026-03-22T01:28:21Z,2026-03-23,True,Long Context
+1188378824,dedcs157/biyesheji1590,基于微信小程序的游泳馆管理系统+ssm,https://github.com/dedcs157/biyesheji1590,0,0,JavaScript,,2026-03-22T01:46:50Z,2026-03-23,True,Long Context
+1188664179,dedcs157/biyesheji1999,基于微信小程序的电影院票务系统+ssm,https://github.com/dedcs157/biyesheji1999,0,0,JavaScript,,2026-03-22T12:14:31Z,2026-03-23,True,Long Context
+1188485295,dedcs157/biyesheji1764,中国剪纸微信小程序的设计与实现ssm,https://github.com/dedcs157/biyesheji1764,0,0,JavaScript,,2026-03-22T06:18:40Z,2026-03-23,True,Long Context
+1188376759,dedcs157/biyesheji1579,基于微信小程序的美容院管理系统+ssm,https://github.com/dedcs157/biyesheji1579,0,0,JavaScript,,2026-03-22T01:41:21Z,2026-03-23,True,Long Context
+1188363163,dedcs157/biyesheji1513,客运自助售票小程序的设计与实现+ssm,https://github.com/dedcs157/biyesheji1513,0,0,JavaScript,,2026-03-22T01:04:23Z,2026-03-23,True,Long Context
+1188475634,dedcs157/biyesheji1746,健身达人微信小程序的设计与实现ssm,https://github.com/dedcs157/biyesheji1746,0,0,JavaScript,,2026-03-22T05:57:16Z,2026-03-23,True,Long Context
+1188597385,dedcs157/biyesheji1909,基于微信小程序的足浴城消费系统+ssm,https://github.com/dedcs157/biyesheji1909,0,0,JavaScript,,2026-03-22T10:09:41Z,2026-03-23,True,Long Context
+1188693367,biyeshejifudao/30001,基于小程序的购物系统设计与实现ssm,https://github.com/biyeshejifudao/30001,0,0,,,2026-03-22T13:04:55Z,2026-03-23,True,Long Context
+1188598949,dedcs157/biyesheji1911,基于微信小程序的自习室预约系统+ssm,https://github.com/dedcs157/biyesheji1911,0,0,JavaScript,,2026-03-22T10:12:43Z,2026-03-23,True,Long Context
+1188376355,dedcs157/biyesheji1576,基于微信小程序的足浴城消费系统+ssm,https://github.com/dedcs157/biyesheji1576,0,0,JavaScript,,2026-03-22T01:40:09Z,2026-03-23,True,Long Context
+1188493506,dedcs157/biyesheji1778,便捷饭店点餐小程序的设计与实现ssm,https://github.com/dedcs157/biyesheji1778,0,0,JavaScript,,2026-03-22T06:36:54Z,2026-03-23,True,Long Context
+1188539135,dedcs157/biyesheji1846,客运自助售票小程序的设计与实现+ssm,https://github.com/dedcs157/biyesheji1846,0,0,JavaScript,,2026-03-22T08:13:57Z,2026-03-23,True,Long Context
+1188365699,dedcs157/biyesheji1521,基于微信小程序的体育课评分系统+ssm,https://github.com/dedcs157/biyesheji1521,0,0,JavaScript,,2026-03-22T01:11:15Z,2026-03-23,True,Long Context
+1188600020,dedcs157/biyesheji1913,基于微信小程序的电影院票务系统+ssm,https://github.com/dedcs157/biyesheji1913,0,0,JavaScript,,2026-03-22T10:14:49Z,2026-03-23,True,Long Context
+1188570159,dedcs157/biyesheji1878,基于微信小程序的付费自习室系统+ssm,https://github.com/dedcs157/biyesheji1878,0,0,JavaScript,,2026-03-22T09:15:42Z,2026-03-23,True,Long Context
+1188577044,dedcs157/biyesheji1886,面向企事业单位的项目申报小程序+ssm,https://github.com/dedcs157/biyesheji1886,0,0,JavaScript,,2026-03-22T09:29:48Z,2026-03-23,True,Long Context
+1188397801,dedcs157/biyesheji1667,基于微信小程序的电影院票务系统+ssm,https://github.com/dedcs157/biyesheji1667,0,0,JavaScript,,2026-03-22T02:38:35Z,2026-03-23,True,Long Context
+1188605914,dedcs157/biyesheji1923,基于微信小程序的游泳馆管理系统+ssm,https://github.com/dedcs157/biyesheji1923,0,0,JavaScript,,2026-03-22T10:25:50Z,2026-03-23,True,Long Context
+1188376608,dedcs157/biyesheji1578,基于微信小程序的自习室预约系统+ssm,https://github.com/dedcs157/biyesheji1578,0,0,JavaScript,,2026-03-22T01:40:54Z,2026-03-23,True,Long Context
+1188507931,dedcs157/biyesheji1800,基于java的餐厅点餐系统微信小程序ssm,https://github.com/dedcs157/biyesheji1800,0,0,JavaScript,,2026-03-22T07:07:20Z,2026-03-23,True,Long Context
+1188545337,dedcs157/biyesheji1854,基于微信小程序的体育课评分系统+ssm,https://github.com/dedcs157/biyesheji1854,0,0,JavaScript,,2026-03-22T08:26:28Z,2026-03-23,True,Long Context
+1188599431,dedcs157/biyesheji1912,基于微信小程序的美容院管理系统+ssm,https://github.com/dedcs157/biyesheji1912,0,0,JavaScript,,2026-03-22T10:13:36Z,2026-03-23,True,Long Context
+1188370794,dedcs157/biyesheji1545,基于微信小程序的付费自习室系统+ssm,https://github.com/dedcs157/biyesheji1545,0,0,JavaScript,,2026-03-22T01:24:33Z,2026-03-23,True,Long Context
+1188360863,dedcs157/biyesheji1506,微信小程序跑腿平台的设计与实现ssm,https://github.com/dedcs157/biyesheji1506,0,0,JavaScript,,2026-03-22T00:57:33Z,2026-03-23,True,Long Context
+1188534489,dedcs157/biyesheji1839,微信小程序跑腿平台的设计与实现ssm,https://github.com/dedcs157/biyesheji1839,0,0,JavaScript,,2026-03-22T08:03:59Z,2026-03-23,True,Long Context
+1188395623,dedcs157/biyesheji1663,基于微信小程序的图书馆座位预约_7kci7+ssm,https://github.com/dedcs157/biyesheji1663,0,0,JavaScript,,2026-03-22T02:32:52Z,2026-03-23,True,Long Context
+1188489392,dedcs157/biyesheji1771,基于微信平台的购物商城小程序开发ssm,https://github.com/dedcs157/biyesheji1771,0,0,JavaScript,,2026-03-22T06:27:47Z,2026-03-23,True,Long Context
+1188379238,dedcs157/biyesheji1592,基于微信小程序的新生自助报到系统+ssm,https://github.com/dedcs157/biyesheji1592,0,0,JavaScript,,2026-03-22T01:47:55Z,2026-03-23,True,Long Context
+1188363707,dedcs157/biyesheji1515,基于微信小程序的医院体检管理系统+ssm,https://github.com/dedcs157/biyesheji1515,0,0,JavaScript,,2026-03-22T01:05:56Z,2026-03-23,True,Long Context
+1188363389,dedcs157/biyesheji1514,松江大学城就餐推荐系统设计与实现+ssm,https://github.com/dedcs157/biyesheji1514,0,0,JavaScript,,2026-03-22T01:05:00Z,2026-03-23,True,Long Context
+1188477700,dedcs157/biyesheji1750,基于微信小程序的教学质量评价系统ssm,https://github.com/dedcs157/biyesheji1750,0,0,JavaScript,,2026-03-22T06:02:04Z,2026-03-23,True,Long Context
+1188540744,dedcs157/biyesheji1848,基于微信小程序的医院体检管理系统+ssm,https://github.com/dedcs157/biyesheji1848,0,0,JavaScript,,2026-03-22T08:17:14Z,2026-03-23,True,Long Context
+1188469630,dedcs157/biyesheji1730,阳光电脑公司的维修服务微信小程序+ssm,https://github.com/dedcs157/biyesheji1730,0,0,JavaScript,,2026-03-22T05:42:56Z,2026-03-23,True,Long Context
+1188518898,dedcs157/biyesheji1816,基于微信小程序的校园综合服务平台ssm,https://github.com/dedcs157/biyesheji1816,0,0,JavaScript,,2026-03-22T07:30:41Z,2026-03-23,True,Long Context
+1188659604,dedcs157/biyesheji1995,基于微信小程序的图书馆座位预约_7kci7+ssm,https://github.com/dedcs157/biyesheji1995,0,0,JavaScript,,2026-03-22T12:06:15Z,2026-03-23,True,Long Context
+1189097780,dedcs157/biyesheji2463,基于SSM的养老院管理系统的设计与实现,https://github.com/dedcs157/biyesheji2463,0,0,JavaScript,,2026-03-23T01:12:42Z,2026-03-23,True,Long Context
+1188476455,dedcs157/biyesheji1748,校园反诈骗微信小程序的设计与开发ssm,https://github.com/dedcs157/biyesheji1748,0,0,JavaScript,,2026-03-22T05:59:18Z,2026-03-23,True,Long Context
+1188540023,dedcs157/biyesheji1847,松江大学城就餐推荐系统设计与实现+ssm,https://github.com/dedcs157/biyesheji1847,0,0,JavaScript,,2026-03-22T08:15:41Z,2026-03-23,True,Long Context
+1188497668,dedcs157/biyesheji1784,基于微信小程序的二手物品交易平台ssm,https://github.com/dedcs157/biyesheji1784,0,0,JavaScript,,2026-03-22T06:45:41Z,2026-03-23,True,Long Context
+1188516750,dedcs157/biyesheji1813,基于微信小程序的医院挂号预约系统ssm,https://github.com/dedcs157/biyesheji1813,0,0,JavaScript,,2026-03-22T07:26:14Z,2026-03-23,True,Long Context
+1188517540,dedcs157/biyesheji1814,基于微信小程序的校园二手交易平台ssm,https://github.com/dedcs157/biyesheji1814,0,0,JavaScript,,2026-03-22T07:27:46Z,2026-03-23,True,Long Context
+1188607274,dedcs157/biyesheji1925,基于微信小程序的新生自助报到系统+ssm,https://github.com/dedcs157/biyesheji1925,0,0,JavaScript,,2026-03-22T10:28:25Z,2026-03-23,True,Long Context
+1188479729,dedcs157/biyesheji1754,澡堂预订的微信小程序的设计和利用ssm,https://github.com/dedcs157/biyesheji1754,0,0,JavaScript,,2026-03-22T06:06:42Z,2026-03-23,True,Long Context
+1188365900,dedcs157/biyesheji1522,基于微信小程序的场地预约设计与实现+ssm,https://github.com/dedcs157/biyesheji1522,0,0,JavaScript,,2026-03-22T01:11:50Z,2026-03-23,True,Long Context
+1188378692,dedcs157/biyesheji1589,基于微信小程序的智能停车场管理系统+ssm,https://github.com/dedcs157/biyesheji1589,0,0,JavaScript,,2026-03-22T01:46:27Z,2026-03-23,True,Long Context
+1188525980,dedcs157/biyesheji1826,基于微信小程序的跳蚤市场设计与实现ssm,https://github.com/dedcs157/biyesheji1826,0,0,JavaScript,,2026-03-22T07:45:41Z,2026-03-23,True,Long Context
+1188477092,dedcs157/biyesheji1749,基于微信小程序的电影院订票选座系统ssm,https://github.com/dedcs157/biyesheji1749,0,0,JavaScript,,2026-03-22T06:00:51Z,2026-03-23,True,Long Context
+1188605242,dedcs157/biyesheji1922,基于微信小程序的智能停车场管理系统+ssm,https://github.com/dedcs157/biyesheji1922,0,0,JavaScript,,2026-03-22T10:24:28Z,2026-03-23,True,Long Context
+1188486195,dedcs157/biyesheji1766,在线厨艺平台的设计与实现微信小程序ssm,https://github.com/dedcs157/biyesheji1766,0,0,JavaScript,,2026-03-22T06:20:42Z,2026-03-23,True,Long Context
+1188486838,dedcs157/biyesheji1767,基于微信小程序的小区管理系统的设计ssm,https://github.com/dedcs157/biyesheji1767,0,0,JavaScript,,2026-03-22T06:21:58Z,2026-03-23,True,Long Context
+1189091611,dedcs157/biyesheji2453,基于SSM的流浪动物救助系统的设计与实现,https://github.com/dedcs157/biyesheji2453,0,0,JavaScript,,2026-03-23T00:59:20Z,2026-03-23,True,Long Context
+1188546053,dedcs157/biyesheji1855,基于微信小程序的场地预约设计与实现+ssm,https://github.com/dedcs157/biyesheji1855,0,0,JavaScript,,2026-03-22T08:27:59Z,2026-03-23,True,Long Context
+1188657096,dedcs157/biyesheji1992,基于微信小程序的付费自习室管理系统+ssm,https://github.com/dedcs157/biyesheji1992,0,0,JavaScript,,2026-03-22T12:01:39Z,2026-03-23,True,Long Context
+1188482738,dedcs157/biyesheji1759,基于小程序宿舍报修系统的设计与实现ssm,https://github.com/dedcs157/biyesheji1759,0,0,JavaScript,,2026-03-22T06:13:10Z,2026-03-23,True,Long Context
+1188393498,dedcs157/biyesheji1660,基于微信小程序的付费自习室管理系统+ssm,https://github.com/dedcs157/biyesheji1660,0,0,JavaScript,,2026-03-22T02:27:19Z,2026-03-23,True,Long Context
+1188604596,dedcs157/biyesheji1921,基于微信小程序图书馆座位再利用系统+ssm,https://github.com/dedcs157/biyesheji1921,0,0,JavaScript,,2026-03-22T10:23:20Z,2026-03-23,True,Long Context
+1188511063,dedcs157/biyesheji1805,学生资助在线管理软件开发微信小程序ssm,https://github.com/dedcs157/biyesheji1805,0,0,JavaScript,,2026-03-22T07:13:43Z,2026-03-23,True,Long Context
+1188367080,dedcs157/biyesheji1526,基于微信小程序校园订餐的设计与开发+ssm,https://github.com/dedcs157/biyesheji1526,0,0,JavaScript,,2026-03-22T01:14:48Z,2026-03-23,True,Long Context
+1188549222,dedcs157/biyesheji1859,基于微信小程序校园订餐的设计与开发+ssm,https://github.com/dedcs157/biyesheji1859,0,0,JavaScript,,2026-03-22T08:34:26Z,2026-03-23,True,Long Context
+1188378559,dedcs157/biyesheji1588,基于微信小程序图书馆座位再利用系统+ssm,https://github.com/dedcs157/biyesheji1588,0,0,JavaScript,,2026-03-22T01:46:08Z,2026-03-23,True,Long Context
+1189093133,dedcs157/biyesheji2455,基于SSM框架的老年群体安全用药管理系统,https://github.com/dedcs157/biyesheji2455,0,0,JavaScript,,2026-03-23T01:02:41Z,2026-03-23,True,Long Context
+1188666293,dedcs157/biyesheji2001,基于微信小程序的社区志愿者服务平台 _8xh87+ssm,https://github.com/dedcs157/biyesheji2001,0,0,JavaScript,,2026-03-22T12:18:18Z,2026-03-23,True,Long Context
+1188565655,dedcs157/biyesheji1875,基于微信小程序的高校课堂教学管理系统+ssm,https://github.com/dedcs157/biyesheji1875,0,0,JavaScript,,2026-03-22T09:07:37Z,2026-03-23,True,Long Context
+1188567039,dedcs157/biyesheji1876,基于微信小程序的食堂窗口自助点餐系统+ssm,https://github.com/dedcs157/biyesheji1876,0,0,,,2026-03-22T09:10:14Z,2026-03-23,True,Long Context
+1189166255,dedcs157/biyesheji2561,基于SSM的宠物店线上运营系统的设计与实现,https://github.com/dedcs157/biyesheji2561,0,0,JavaScript,,2026-03-23T03:27:59Z,2026-03-23,True,Long Context
+1188370408,dedcs157/biyesheji1543,基于微信小程序的食堂窗口自助点餐系统+ssm,https://github.com/dedcs157/biyesheji1543,0,0,JavaScript,,2026-03-22T01:23:32Z,2026-03-23,True,Long Context
+1188595629,dedcs157/biyesheji1907,基于微信小程序的食堂线上预约点餐系统+ssm,https://github.com/dedcs157/biyesheji1907,0,0,JavaScript,,2026-03-22T10:06:13Z,2026-03-23,True,Long Context
+1188512580,dedcs157/biyesheji1807,速达物流信息查询微信小程序设计与实现ssm,https://github.com/dedcs157/biyesheji1807,0,0,JavaScript,,2026-03-22T07:16:50Z,2026-03-23,True,Long Context
+1189096810,dedcs157/biyesheji2461,基于SSM+VUE的智慧出租管理系统的设计与实现,https://github.com/dedcs157/biyesheji2461,0,0,JavaScript,,2026-03-23T01:10:37Z,2026-03-23,True,Long Context
+1188376040,dedcs157/biyesheji1574,基于微信小程序的食堂线上预约点餐系统+ssm,https://github.com/dedcs157/biyesheji1574,0,0,JavaScript,,2026-03-22T01:39:13Z,2026-03-23,True,Long Context
+1188470200,dedcs157/biyesheji1733,基于H5的智慧消防微信小程序设计与开发+ssm,https://github.com/dedcs157/biyesheji1733,0,0,JavaScript,,2026-03-22T05:44:22Z,2026-03-23,True,Long Context
+1188529187,dedcs157/biyesheji1831,基于微信小程序的手机商城的设计与实现ssm,https://github.com/dedcs157/biyesheji1831,0,0,JavaScript,,2026-03-22T07:52:27Z,2026-03-23,True,Long Context
+1188370210,dedcs157/biyesheji1542,基于微信小程序的高校课堂教学管理系统+ssm,https://github.com/dedcs157/biyesheji1542,0,0,JavaScript,,2026-03-22T01:23:04Z,2026-03-23,True,Long Context
+1188488102,dedcs157/biyesheji1769,基于微信小程序的社区垃圾回收管理系统ssm,https://github.com/dedcs157/biyesheji1769,0,0,JavaScript,,2026-03-22T06:24:57Z,2026-03-23,True,Long Context
+1188518252,dedcs157/biyesheji1815,基于微信小程序高校订餐系统的设计与开发ssm,https://github.com/dedcs157/biyesheji1815,0,0,JavaScript,,2026-03-22T07:29:19Z,2026-03-23,True,Long Context
+1188498241,dedcs157/biyesheji1785,基于微信小程序投票评选系统的设计与实现ssm,https://github.com/dedcs157/biyesheji1785,0,0,JavaScript,,2026-03-22T06:46:55Z,2026-03-23,True,Long Context
+1188520280,dedcs157/biyesheji1818,基于微信小程序的外卖点餐系统设计与实现ssm,https://github.com/dedcs157/biyesheji1818,0,0,JavaScript,,2026-03-22T07:33:47Z,2026-03-23,True,Long Context
+1188503662,dedcs157/biyesheji1793,基于微信小程序的学生签到系统设计与实现ssm,https://github.com/dedcs157/biyesheji1793,0,0,JavaScript,,2026-03-22T06:58:17Z,2026-03-23,True,Long Context
+1188376191,dedcs157/biyesheji1575,基于微信小程序的青少年素质教育培训系统+ssm,https://github.com/dedcs157/biyesheji1575,0,0,JavaScript,,2026-03-22T01:39:39Z,2026-03-23,True,Long Context
+1188510427,dedcs157/biyesheji1804,基于微信小程序的走失人员的报备平台设计ssm,https://github.com/dedcs157/biyesheji1804,0,0,JavaScript,,2026-03-22T07:12:24Z,2026-03-23,True,Long Context
+1188505975,dedcs157/biyesheji1797,新冠肺炎服务预约微信小程序的设计与实现ssm,https://github.com/dedcs157/biyesheji1797,0,0,JavaScript,,2026-03-22T07:03:11Z,2026-03-23,True,Long Context
+1188596542,dedcs157/biyesheji1908,基于微信小程序的青少年素质教育培训系统+ssm,https://github.com/dedcs157/biyesheji1908,0,0,JavaScript,,2026-03-22T10:08:05Z,2026-03-23,True,Long Context
+1188558164,dedcs157/biyesheji1868,基于微信小程序的民宿短租系统设计与实现+ssm,https://github.com/dedcs157/biyesheji1868,0,0,JavaScript,,2026-03-22T08:52:47Z,2026-03-23,True,Long Context
+1188674507,vincentclaes/openclaw-aws-lightsail-terraform,"Terraform module for running OpenClaw on AWS Lightsail with Amazon Bedrock, SSH access, SSM fallback, and SSH-tunneled dashboard access.",https://github.com/vincentclaes/openclaw-aws-lightsail-terraform,0,0,HCL,"amazon-bedrock,aws-lightsail,aws-systems-manager,bedrock,openclaw,ssh,terraform,terraform-module",2026-03-22T12:32:30Z,2026-03-23,True,Long Context
+1188368873,dedcs157/biyesheji1535,基于微信小程序的民宿短租系统设计与实现+ssm,https://github.com/dedcs157/biyesheji1535,0,0,JavaScript,,2026-03-22T01:19:31Z,2026-03-23,True,Long Context
+1188509032,dedcs157/biyesheji1802,基于微信小程序的新生报到系统的设计与实现ssm,https://github.com/dedcs157/biyesheji1802,0,0,JavaScript,,2026-03-22T07:09:36Z,2026-03-23,True,Long Context
+1188537144,dedcs157/biyesheji1843,基于微信平台的报刊订阅小程序的设计与实现ssm,https://github.com/dedcs157/biyesheji1843,0,0,JavaScript,,2026-03-22T08:09:41Z,2026-03-23,True,Long Context
+1188368034,dedcs157/biyesheji1531,基于微信小程序的宠物寄养平台的设计与实现+ssm,https://github.com/dedcs157/biyesheji1531,0,0,JavaScript,,2026-03-22T01:17:14Z,2026-03-23,True,Long Context
+1189095480,dedcs157/biyesheji2458,基于 SSM 框架的医院人力资源管理系统的设计与实,https://github.com/dedcs157/biyesheji2458,0,0,JavaScript,,2026-03-23T01:07:50Z,2026-03-23,True,Long Context
+1188661251,1wri/PetMall,基于JavaWeb的宠物商城网站带项目文档和ppt_管理系统_毕业设计源码，基于ssm+jsp的宠物商城系统，java项目，ssm项目，jsp项目,https://github.com/1wri/PetMall,0,0,Java,,2026-03-22T12:09:11Z,2026-03-23,True,Long Context
+1188367444,dedcs157/biyesheji1528,基于微信平台健身小助手小程序的设计与实现+ssm,https://github.com/dedcs157/biyesheji1528,0,0,JavaScript,,2026-03-22T01:15:42Z,2026-03-23,True,Long Context
+1188362234,dedcs157/biyesheji1510,基于微信平台的报刊订阅小程序的设计与实现ssm,https://github.com/dedcs157/biyesheji1510,0,0,JavaScript,,2026-03-22T01:01:31Z,2026-03-23,True,Long Context
+1188551149,dedcs157/biyesheji1861,基于微信平台健身小助手小程序的设计与实现+ssm,https://github.com/dedcs157/biyesheji1861,0,0,JavaScript,,2026-03-22T08:38:34Z,2026-03-23,True,Long Context
+1188553894,dedcs157/biyesheji1864,基于微信小程序的宠物寄养平台的设计与实现+ssm,https://github.com/dedcs157/biyesheji1864,0,0,JavaScript,,2026-03-22T08:44:07Z,2026-03-23,True,Long Context
+1188491826,dedcs157/biyesheji1775,基于微信小程序的快递管理平台的设计与实现ssm,https://github.com/dedcs157/biyesheji1775,0,0,JavaScript,,2026-03-22T06:33:10Z,2026-03-23,True,Long Context
+1188626260,1wri/PetShop,宠物商城系统带项目论文和ppt，基于ssm+jsp的宠物商店系统，基于spring+springmvc+mybatis+jsp的宠物交易管理系统，java项目，ssm项目，jsp项目,https://github.com/1wri/PetShop,0,0,Java,,2026-03-22T11:04:32Z,2026-03-23,True,Long Context
+1188396098,dedcs157/biyesheji1664,基于微信小程序的小微金融企业的设计与实现_3539r+ssm,https://github.com/dedcs157/biyesheji1664,0,0,JavaScript,,2026-03-22T02:34:10Z,2026-03-23,True,Long Context
+1188474897,dedcs157/biyesheji1744,“返家乡”高校暑期社会实践微信小程序设计与开发ssm,https://github.com/dedcs157/biyesheji1744,0,0,JavaScript,,2026-03-22T05:55:26Z,2026-03-23,True,Long Context
+1188490604,dedcs157/biyesheji1773,基于JAVA的微信食堂线上订餐小程序的设计与实现ssm,https://github.com/dedcs157/biyesheji1773,0,0,JavaScript,,2026-03-22T06:30:32Z,2026-03-23,True,Long Context
+1188660625,dedcs157/biyesheji1996,基于微信小程序的小微金融企业的设计与实现_3539r+ssm,https://github.com/dedcs157/biyesheji1996,0,0,JavaScript,,2026-03-22T12:07:59Z,2026-03-23,True,Long Context
+1188912326,dedcs157/biyesheji2227,ssm具有推荐功能的二手交易平台小程序设计与实现,https://github.com/dedcs157/biyesheji2227,0,0,JavaScript,,2026-03-22T18:46:24Z,2026-03-23,True,Long Context
+1188464825,dedcs157/biyesheji1719,校园资讯平台微信小程序+ssm（微信端有问题，暂时不卖）,https://github.com/dedcs157/biyesheji1719,0,0,JavaScript,,2026-03-22T05:32:08Z,2026-03-23,True,Long Context
+1188527081,dedcs157/biyesheji1828,基于微信小程序的网约巴士订票平台的设计与实现ssm,https://github.com/dedcs157/biyesheji1828,0,0,JavaScript,,2026-03-22T07:48:02Z,2026-03-23,True,Long Context
+1189102952,GreenHand0001/1603136270,【Java计算机毕业设计分享】基于SSM的SSM公司项目管理系统设计与实现，MySQL Java开发 毕业设计 实战项目【附源码、文档报告、代码讲解】,https://github.com/GreenHand0001/1603136270,0,0,,,2026-03-23T01:23:28Z,2026-03-23,True,Long Context
+1188361856,dedcs157/biyesheji1509,基于微信小程序的在线点餐（堂食）平台的设计与实现ssm,https://github.com/dedcs157/biyesheji1509,0,0,JavaScript,,2026-03-22T01:00:24Z,2026-03-23,True,Long Context
+1188536382,dedcs157/biyesheji1842,基于微信小程序的在线点餐（堂食）平台的设计与实现ssm,https://github.com/dedcs157/biyesheji1842,0,0,JavaScript,,2026-03-22T08:08:02Z,2026-03-23,True,Long Context
+1188531829,dedcs157/biyesheji1835,基于微信小程序的医院综合服务平台的设计与实现ssm,https://github.com/dedcs157/biyesheji1835,0,0,JavaScript,,2026-03-22T07:58:16Z,2026-03-23,True,Long Context
+1188359045,dedcs157/biyesheji1502,基于微信小程序的医院综合服务平台的设计与实现ssm,https://github.com/dedcs157/biyesheji1502,0,0,JavaScript,,2026-03-22T00:52:32Z,2026-03-23,True,Long Context
+1188563311,dedcs157/biyesheji1873,基于微信小程序的企业职工薪资查询系统设计与实现+ssm,https://github.com/dedcs157/biyesheji1873,0,0,JavaScript,,2026-03-22T09:03:04Z,2026-03-23,True,Long Context
+1188472983,dedcs157/biyesheji1739,基于微信小程序的校园二手交易平台系统设计与开发ssm,https://github.com/dedcs157/biyesheji1739,0,0,JavaScript,,2026-03-22T05:50:40Z,2026-03-23,True,Long Context
+1189092422,dedcs157/biyesheji2454,基于SSM框架的课程实验教学项目管理系统的设计与实现,https://github.com/dedcs157/biyesheji2454,0,0,JavaScript,,2026-03-23T01:01:04Z,2026-03-23,True,Long Context
+1188369842,dedcs157/biyesheji1540,基于微信小程序的企业职工薪资查询系统设计与实现+ssm,https://github.com/dedcs157/biyesheji1540,0,0,JavaScript,,2026-03-22T01:22:08Z,2026-03-23,True,Long Context
+1188530563,dedcs157/biyesheji1833,基于大学生社团活动管理的微信小程序的设计与实现ssm,https://github.com/dedcs157/biyesheji1833,0,0,JavaScript,,2026-03-22T07:55:31Z,2026-03-23,True,Long Context
+1188494866,dedcs157/biyesheji1780,基于微信的疫情期间学生请假与销假系统的设计与实现ssm,https://github.com/dedcs157/biyesheji1780,0,0,JavaScript,,2026-03-22T06:39:46Z,2026-03-23,True,Long Context
+1188910355,dedcs157/biyesheji2225,ssm基于微信小程序的大学校园失物招领系统的设计与实现,https://github.com/dedcs157/biyesheji2225,0,0,JavaScript,,2026-03-22T18:42:59Z,2026-03-23,True,Long Context
+1189095127,GreenHand0001/5798078925,【Java计算机毕业设计分享】基于SSM的医患管理系统，MySQL Java开发 毕业设计 实战项目【附源码、文档报告、代码讲解】,https://github.com/GreenHand0001/5798078925,0,0,,,2026-03-23T01:07:03Z,2026-03-23,True,Long Context
+1189098256,GreenHand0001/5844005821,【Java计算机毕业设计分享】基于SSM的民宿管理系统，MySQL Java开发 毕业设计 实战项目【附源码、文档报告、代码讲解】,https://github.com/GreenHand0001/5844005821,0,0,,,2026-03-23T01:13:34Z,2026-03-23,True,Long Context
+1189101862,GreenHand0001/4259267457,【Java计算机毕业设计分享】基于SSM的选课排课管理系统，MySQL Java开发 毕业设计 实战项目【附源码、文档报告、代码讲解】,https://github.com/GreenHand0001/4259267457,0,0,,,2026-03-23T01:21:07Z,2026-03-23,True,Long Context
+1189093271,GreenHand0001/8785203360,【Java计算机毕业设计分享】基于SSM校园教务管理系统，MySQL Java开发 毕业设计 实战项目【附源码、文档报告、代码讲解】,https://github.com/GreenHand0001/8785203360,0,0,,,2026-03-23T01:02:57Z,2026-03-23,True,Long Context
+1188703986,GreenHand0001/9075232534,【Java计算机毕业设计分享】基于SSM的斗车交易管理系统，MySQL Java开发 毕业设计 实战项目【附源码、文档报告、代码讲解】,https://github.com/GreenHand0001/9075232534,0,0,,,2026-03-22T13:22:33Z,2026-03-23,True,Long Context
+1189093888,GreenHand0001/2803630500,【Java计算机毕业设计分享】基于SSM的校园活动管理平台，MySQL Java开发 毕业设计 实战项目【附源码、文档报告、代码讲解】,https://github.com/GreenHand0001/2803630500,0,0,,,2026-03-23T01:04:18Z,2026-03-23,True,Long Context
+1189100095,GreenHand0001/7767153688,【Java计算机毕业设计分享】基于SSM的学生成绩管理系统，MySQL Java开发 毕业设计 实战项目【附源码、文档报告、代码讲解】,https://github.com/GreenHand0001/7767153688,0,0,,,2026-03-23T01:17:18Z,2026-03-23,True,Long Context
+1189100654,GreenHand0001/8313907406,【Java计算机毕业设计分享】基于SSM的学生公寓管理系统，MySQL Java开发 毕业设计 实战项目【附源码、文档报告、代码讲解】,https://github.com/GreenHand0001/8313907406,0,0,,,2026-03-23T01:18:31Z,2026-03-23,True,Long Context
+1189092144,GreenHand0001/8595692149,【Java计算机毕业设计分享】基于SSM的学生信息管理系统，MySQL Java开发 毕业设计 实战项目【附源码、文档报告、代码讲解】,https://github.com/GreenHand0001/8595692149,0,0,,,2026-03-23T01:00:28Z,2026-03-23,True,Long Context
+1189095700,GreenHand0001/3608905266,【Java计算机毕业设计分享】基于SSM的疫情物资管理系统，MySQL Java开发 毕业设计 实战项目【附源码、文档报告、代码讲解】,https://github.com/GreenHand0001/3608905266,0,0,,,2026-03-23T01:08:16Z,2026-03-23,True,Long Context
+1189103543,GreenHand0001/4813127697,【Java计算机毕业设计分享】基于SSM的出租车管理系统，MySQL Java开发 毕业设计 实战项目【附源码、文档报告、代码讲解】,https://github.com/GreenHand0001/4813127697,0,0,,,2026-03-23T01:24:46Z,2026-03-23,True,Long Context
+1188595140,andiledata99/Hospital_Bed_Occupancy_Data_Engineering_Project,"The objective of this project is to design and implement a data warehouse solution that enables healthcare stakeholders to monitor, analyze, and optimize hospital bed occupancy. By applying data engineering principles—including star schema modeling, database creation in SQL Server Management Studio (SSMS), data population",https://github.com/andiledata99/Hospital_Bed_Occupancy_Data_Engineering_Project,0,0,,,2026-03-22T10:05:14Z,2026-03-23,True,Long Context
+1189092676,GreenHand0001/7461106100,【Java计算机毕业设计分享】基于SSM的办公自动化管理系统，MySQL Java开发 毕业设计 实战项目【附源码、文档报告、代码讲解】,https://github.com/GreenHand0001/7461106100,0,0,,,2026-03-23T01:01:38Z,2026-03-23,True,Long Context
+1188703176,GreenHand0001/9853553948,【Java计算机毕业设计分享】基于SSM的在线云音乐管理系统，MySQL Java开发 毕业设计 实战项目【附源码、文档报告、代码讲解】,https://github.com/GreenHand0001/9853553948,0,0,,,2026-03-22T13:21:15Z,2026-03-23,True,Long Context
+1189099568,GreenHand0001/8269105113,【Java计算机毕业设计分享】基于SSM的星空游戏购买下载平台，MySQL Java开发 毕业设计 实战项目【附源码、文档报告、代码讲解】,https://github.com/GreenHand0001/8269105113,0,0,,,2026-03-23T01:16:04Z,2026-03-23,True,Long Context
+1189097620,GreenHand0001/8092999099,【Java计算机毕业设计分享】基于SSM的乐购游戏商城管理系统，MySQL Java开发 毕业设计 实战项目【附源码、文档报告、代码讲解】,https://github.com/GreenHand0001/8092999099,0,0,,,2026-03-23T01:12:19Z,2026-03-23,True,Long Context
+1188702458,GreenHand0001/6277757949,【Java计算机毕业设计分享】基于SSM中小型企业财务管理系统，MySQL Java开发 毕业设计 实战项目【附源码、文档报告、代码讲解】,https://github.com/GreenHand0001/6277757949,0,0,,,2026-03-22T13:19:55Z,2026-03-23,True,Long Context
+1188706403,GreenHand0001/3011179696,【Java计算机毕业设计分享】基于SSM的云趣科技客户管理系统，MySQL Java开发 毕业设计 实战项目【附源码、文档报告、代码讲解】,https://github.com/GreenHand0001/3011179696,0,0,,,2026-03-22T13:26:21Z,2026-03-23,True,Long Context
+1189096379,GreenHand0001/9682937859,【Java计算机毕业设计分享】基于SSM的网上拍卖系统设计实现，MySQL Java开发 毕业设计 实战项目【附源码、文档报告、代码讲解】,https://github.com/GreenHand0001/9682937859,0,0,,,2026-03-23T01:09:44Z,2026-03-23,True,Long Context
+1189104198,GreenHand0001/5522903887,【Java计算机毕业设计分享】基于SSM的高校教学业绩信息管理系统，MySQL Java开发 毕业设计 实战项目【附源码、文档报告、代码讲解】,https://github.com/GreenHand0001/5522903887,0,0,,,2026-03-23T01:26:09Z,2026-03-23,True,Long Context
+1189098921,GreenHand0001/5824966715,【Java计算机毕业设计分享】基于SSM的农业视频实时发布管理系统，MySQL Java开发 毕业设计 实战项目【附源码、文档报告、代码讲解】,https://github.com/GreenHand0001/5824966715,0,0,,,2026-03-23T01:14:49Z,2026-03-23,True,Long Context
+1188701640,GreenHand0001/7737375010,【Java计算机毕业设计分享】基于SSM的削面快餐店点餐服务系统，MySQL Java开发 毕业设计 实战项目【附源码、文档报告、代码讲解】,https://github.com/GreenHand0001/7737375010,0,0,,,2026-03-22T13:18:32Z,2026-03-23,True,Long Context
+1189097007,GreenHand0001/1259715170,【Java计算机毕业设计分享】基于SSM的开放式教学评价管理系统，MySQL Java开发 毕业设计 实战项目【附源码、文档报告、代码讲解】,https://github.com/GreenHand0001/1259715170,0,0,,,2026-03-23T01:11:02Z,2026-03-23,True,Long Context
+1189101241,GreenHand0001/5136764713,【Java计算机毕业设计分享】基于SSM的医学生在线学习交流平台，MySQL Java开发 毕业设计 实战项目【附源码、文档报告、代码讲解】,https://github.com/GreenHand0001/5136764713,0,0,,,2026-03-23T01:19:50Z,2026-03-23,True,Long Context
+1189102432,GreenHand0001/7613573732,【Java计算机毕业设计分享】基于SSM的大学学术交流论坛管理系统，MySQL Java开发 毕业设计 实战项目【附源码、文档报告、代码讲解】,https://github.com/GreenHand0001/7613573732,0,0,,,2026-03-23T01:22:17Z,2026-03-23,True,Long Context
+1188705596,GreenHand0001/2363967173,【Java计算机毕业设计分享】基于SSM的乡镇自来水收费管理系统，MySQL Java开发 毕业设计 实战项目【附源码、文档报告、代码讲解】,https://github.com/GreenHand0001/2363967173,0,0,,,2026-03-22T13:25:05Z,2026-03-23,True,Long Context
+1188704787,GreenHand0001/7848282206,【Java计算机毕业设计分享】基于SSM的汽车客运站管理系统设计与实现，MySQL Java开发 毕业设计 实战项目【附源码、文档报告、代码讲解】,https://github.com/GreenHand0001/7848282206,0,0,,,2026-03-22T13:23:51Z,2026-03-23,True,Long Context
+1189094507,GreenHand0001/4267532009,【Java计算机毕业设计分享】基于SSM的网络游戏公司官方平台设计与实现，MySQL Java开发 毕业设计 实战项目【附源码、文档报告、代码讲解】,https://github.com/GreenHand0001/4267532009,0,0,,,2026-03-23T01:05:38Z,2026-03-23,True,Long Context
+1188606303,1wri/traveling,"旅游网站系统 java springboot ssm mysql (源代码+数据库+配套论文) 角色：管理员、用户 管理员：管理员进入后台管理系统主页面，主要功能包括包含系统首页、用户管理、经典类型管理、旅游景点管理、门票订单管理、门票退订管理、客房类型管理、酒店信息管理、客房订单管理、客房退订管理、旅游路线管理、路线预定管理、取消 预定管理、留言板、系统管理等管理操作。 Python+Django+Vue,php,Flask,node.js,SSM,JSP,Uniapp,hadoop,spark,hive,ThinkPhp,Flask,Koa,Express,Springcloud,ASP.Net,C#,Mysql,大数据毕业设计,基于微信小程序,Ai对话,协同过滤推荐算法  ",https://github.com/1wri/traveling,0,0,Java,,2026-03-22T10:26:34Z,2026-03-23,True,Long Context
+1188757785,nlarissaW/systematic-macro-research,"Systematic macro research pipeline using Bayesian stress testing, state-space modeling, and macro strategy backtesting.",https://github.com/nlarissaW/systematic-macro-research,0,0,,,2026-03-22T14:46:01Z,2026-03-23,True,Long Context
