@@ -1,0 +1,42 @@
+name: Init Company Calendar
+
+on:
+  workflow_dispatch:
+
+jobs:
+  init:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.GH_TOKEN }}
+          persist-credentials: true
+
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.9'
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      - name: Run init script
+        run: python init_company_calendar.py
+
+      - name: Generate calendar JSON
+        run: python generate_calendar_json.py
+
+      - name: Commit and push data
+        env:
+          GH_TOKEN: ${{ secrets.GH_TOKEN }}
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git add -f data/
+          git status
+          if git diff --cached --quiet; then
+            echo "No changes to commit"
+          else
+            git commit -m "Initialize company releases [skip ci]"
+            git push https://${GH_TOKEN}@github.com/${{ github.repository }}.git HEAD:${GITHUB_REF#refs/heads/}
+          fi
