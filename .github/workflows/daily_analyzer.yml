@@ -36,7 +36,7 @@ jobs:
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Action"
           # 强制添加 metrics 目录（即使被 .gitignore 忽略）
-          git add -f data/metrics/
+          git add -f data/
           git status
           if git diff --cached --quiet; then
             echo "No changes to commit"

@@ -3,3 +3,5 @@ pandas
 wordcloud
 matplotlib
 jieba
+huggingface_hub   # Hugging Face
+feedparser        # RSS

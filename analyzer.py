@@ -24,10 +24,11 @@ def main():
         print("错误：未找到 GITHUB_TOKEN 环境变量")
         return
 
-    # 获取所有领域文件（排除 all_repos.csv 和 metrics 目录）
+    # 获取所有领域文件（排除 all_repos.csv、company_releases.csv 和 metrics 目录）
     domain_files = glob.glob(os.path.join("data", "*.csv"))
     domain_files = [f for f in domain_files
                     if not f.endswith("all_repos.csv")
+                    and not f.endswith("company_releases.csv")
                     and not os.path.basename(f).startswith("metrics")]
 
     metrics = []  # 用于保存今日指标
@@ -38,7 +39,14 @@ def main():
         domain = os.path.basename(domain_file).replace(".csv", "").replace("_", " ")
         print(f"\n处理领域: {domain}")
         df = pd.read_csv(domain_file)
-        active_repos = df[df['is_active'] == True]
+        # 转换 is_active 为布尔类型（可能存储为字符串）
+        if 'is_active' in df.columns:
+            df['is_active'] = df['is_active'].astype(str).str.lower() == 'true'
+        else:
+            # 如果没有 is_active 列，默认所有项目为活跃
+            df['is_active'] = True
+
+        active_repos = df[df['is_active'] == True]   # 关键修正：定义 active_repos
 
         for index, row in active_repos.iterrows():
             full_name = row['name']
@@ -72,12 +80,16 @@ def main():
         return
 
     global_df = pd.read_csv('data/all_repos.csv')
+    # 确保 is_active 列为布尔类型
+    if 'is_active' in global_df.columns:
+        global_df['is_active'] = global_df['is_active'].astype(str).str.lower() == 'true'
+    else:
+        global_df['is_active'] = True
 
     # 获取最近30天的指标文件（按文件名排序）
     all_metrics_files = sorted(os.listdir('data/metrics'))
     if len(all_metrics_files) < 2:
         print("指标数据不足（少于2天），无法进行淘汰分析")
-        # 仍然需要将今日指标更新到全局文件吗？暂时不更新，保持原样
         return
 
     # 取最早和最晚的30天范围（如果总天数>30，则取最近30天；否则取全部）
@@ -106,6 +118,10 @@ def main():
     # 可选：同步更新各领域文件中的 is_active（保持一致性）
     for domain_file in domain_files:
         domain_df = pd.read_csv(domain_file)
+        if 'is_active' in domain_df.columns:
+            domain_df['is_active'] = domain_df['is_active'].astype(str).str.lower() == 'true'
+        else:
+            domain_df['is_active'] = True
         domain_df.loc[domain_df['name'].isin(to_deactivate), 'is_active'] = False
         domain_df.to_csv(domain_file, index=False)
     print("已同步更新各领域文件的活跃状态")

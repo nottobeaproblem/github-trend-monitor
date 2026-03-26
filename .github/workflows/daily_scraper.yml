@@ -29,6 +29,14 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.GH_TOKEN }}
         run: python scraper_v2.py
 
+      - name: Run company crawler
+        env:
+          GITHUB_TOKEN: ${{ secrets.GH_TOKEN }}
+        run: python company_crawler.py
+
+      - name: Generate calendar JSON
+        run: python generate_calendar_json.py
+
       - name: Commit and push changes
         env:
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
