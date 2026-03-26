@@ -1,4 +1,4 @@
-﻿id,name,description,url,stars,forks,language,topics,created_at,first_seen,is_active,domains
+id,name,description,url,stars,forks,language,topics,created_at,first_seen,is_active,domains
 1186389044,lambda-calculus-LLM/lambda-RLM,Method for Long Context RLMs using verifiable Lambda Calculus ,https://github.com/lambda-calculus-LLM/lambda-RLM,70,3,Python,,2026-03-19T15:17:13Z,2026-03-26,True,Long Context
 1186979270,SabanamPoudel/rlm-vs-llm-long-context-demo,,https://github.com/SabanamPoudel/rlm-vs-llm-long-context-demo,4,0,Python,,2026-03-20T07:47:20Z,2026-03-26,True,Long Context
 1186312362,FastLM/MKA,[ACM CF'26 Oral] MKA: Memory-Keyed Attention for Efficient Long-Context Reasoning,https://github.com/FastLM/MKA,4,1,Python,,2026-03-19T13:50:11Z,2026-03-26,True,Long Context
@@ -114,7 +114,7 @@
 1189407118,meigeni0929/Hash-Mamba,,https://github.com/meigeni0929/Hash-Mamba,0,0,,,2026-03-23T09:41:23Z,2026-03-26,True,Long Context
 1192359755,zxt0217/WeatherMamba,WeatherMamba: Robust LiDAR Point Cloud Segmentation for Autonomous Driving under Adverse Weather Conditions,https://github.com/zxt0217/WeatherMamba,0,0,Python,,2026-03-26T06:16:19Z,2026-03-26,True,Long Context
 1187955576,lth-fighting/Prediction-of-Relative-Ribosome-Stalling-Degree-using-MambaPlus-Transformer,"A hybrid architecture where a multi-scale CNN first encodes DNA k-mers, then parallel Bi-MambaPlus and Transformer branches capture both directional and global sequence patterns. Their outputs are fused and combined with seven biophysical features before final regression layers predict ribosome stalling.",https://github.com/lth-fighting/Prediction-of-Relative-Ribosome-Stalling-Degree-using-MambaPlus-Transformer,1,0,Python,,2026-03-21T12:23:39Z,2026-03-26,True,Long Context
-1192439460,Zhangyu657/few-shot-mamba,few-shot-mamba第一版改进,https://github.com/Zhangyu657/few-shot-mamba,0,0,,,2026-03-26T08:08:52Z,2026-03-26,True,Long Context
+1192439460,Zhangyu657/few-shot-mamba,few-shot-mamba第一版改进,https://github.com/Zhangyu657/few-shot-mamba,0,0,,,2026-03-26T08:08:52Z,2026-03-26,False,Long Context
 1187409697,suenot/156-bidirectional-mamba,,https://github.com/suenot/156-bidirectional-mamba,0,0,Python,,2026-03-20T17:35:15Z,2026-03-26,True,Long Context
 1186455723,ntrphanikumar/learn-transformers-mamba,,https://github.com/ntrphanikumar/learn-transformers-mamba,0,0,Python,,2026-03-19T16:36:40Z,2026-03-26,True,Long Context
 1186463959,adarsh-test-1/mamba-rag-sdk,,https://github.com/adarsh-test-1/mamba-rag-sdk,1,0,Rust,"ai-sdk,graph-rag,high-performance,knowledge-graph,local-ai,mamba,nlp,rag,rust,ssm",2026-03-19T16:46:19Z,2026-03-26,True,Long Context

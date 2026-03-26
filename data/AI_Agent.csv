@@ -1,4 +1,4 @@
-﻿id,name,description,url,stars,forks,language,topics,created_at,first_seen,is_active,domains
+id,name,description,url,stars,forks,language,topics,created_at,first_seen,is_active,domains
 1185864608,iflytek/astronclaw-tutorial,从零到工作流，掌握 AstronClaw（云端）与 Loomy（桌面）的 AI 助手实战教程 | A complete tutorial to master AstronClaw (cloud AI) & Loomy (desktop AI),https://github.com/iflytek/astronclaw-tutorial,276,0,JavaScript,"agent,ai-agent,openclaw",2026-03-19T02:40:44Z,2026-03-26,True,AI Agent
 1189734908,tanviet12/chat-quality-agent,Chat Quality Agent - Agent phân tích chất lượng CSKH bằng AI,https://github.com/tanviet12/chat-quality-agent,216,204,Go,"ai-agent,facebook-messenger,zalo",2026-03-23T16:04:28Z,2026-03-26,True,AI Agent
 1188833811,krzysztofdudek/ResearcherSkill,One file. Your AI agent becomes a scientist. 30+ experiments while you sleep.,https://github.com/krzysztofdudek/ResearcherSkill,111,9,,"ai-agent,ai-coding,autonomous,autoresearch,claude-code,codex,cursor,developer-tools,experimentation,optimization,prompt-engineering,research-automation,skill",2026-03-22T16:41:35Z,2026-03-26,True,AI Agent
@@ -1074,7 +1074,7 @@
 1191761985,99manjusharma/AgenticAI,"A multi-agent AI system that analyzes a product specification and generates user stories, features, and development tasks. It demonstrates agent orchestration, routing, evaluation, and knowledge-augmented prompting using Python and the OpenAI API.",https://github.com/99manjusharma/AgenticAI,0,0,,,2026-03-25T15:04:16Z,2026-03-26,True,AI Agent
 1189339459,neokn/AgenticSystem,,https://github.com/neokn/AgenticSystem,0,0,Go,,2026-03-23T08:11:35Z,2026-03-26,True,AI Agent
 1191975614,HeshamFS/AgenticFlow,,https://github.com/HeshamFS/AgenticFlow,1,0,TypeScript,,2026-03-25T19:12:42Z,2026-03-26,True,AI Agent
-1186486774,nludd25/agenticSeek,,https://github.com/nludd25/agenticSeek,0,0,Python,,2026-03-19T17:15:13Z,2026-03-26,True,AI Agent
+1186486774,nludd25/agenticSeek,,https://github.com/nludd25/agenticSeek,0,0,Python,,2026-03-19T17:15:13Z,2026-03-26,False,AI Agent
 1188487879,bernedom/agenticStamps,A python tool to create stamps for 3d printing,https://github.com/bernedom/agenticStamps,0,0,Python,,2026-03-22T06:24:25Z,2026-03-26,True,AI Agent
 1188631032,RajeswariKumaran/AgenticInterpretability,Semantic convention implementation for improving agentic AI interpretability,https://github.com/RajeswariKumaran/AgenticInterpretability,0,0,Jupyter Notebook,,2026-03-22T11:12:46Z,2026-03-26,True,AI Agent
 1190169048,JiangZehua/AgenticPCG,,https://github.com/JiangZehua/AgenticPCG,0,0,,,2026-03-24T03:00:41Z,2026-03-26,True,AI Agent
@@ -1883,7 +1883,7 @@
 1188969256,OpenClaw-DevGoda/Openclaw-Test,openclaw testing,https://github.com/OpenClaw-DevGoda/Openclaw-Test,0,0,Python,,2026-03-22T20:28:47Z,2026-03-26,True,AI Agent
 1190145498,famorliu-hash/openclaw,openclaw repository,https://github.com/famorliu-hash/openclaw,0,0,,,2026-03-24T02:21:25Z,2026-03-26,True,AI Agent
 1187003291,memimy2015/openclaw,fork openclaw,https://github.com/memimy2015/openclaw,0,0,TypeScript,,2026-03-20T08:24:41Z,2026-03-26,True,AI Agent
-1188309210,sruj75/clawfounder,personal openclaw,https://github.com/sruj75/clawfounder,0,0,TypeScript,,2026-03-21T22:36:03Z,2026-03-26,True,AI Agent
+1188309210,sruj75/clawfounder,personal openclaw,https://github.com/sruj75/clawfounder,0,0,TypeScript,,2026-03-21T22:36:03Z,2026-03-26,False,AI Agent
 1190823891,g09055836077-arch/macmini2-openclaw,macmini2-openclaw,https://github.com/g09055836077-arch/macmini2-openclaw,0,0,,,2026-03-24T16:49:33Z,2026-03-26,True,AI Agent
 1189046940,senecajohns/WrenchAI,OpenClaw project,https://github.com/senecajohns/WrenchAI,0,0,JavaScript,,2026-03-22T23:12:53Z,2026-03-26,True,AI Agent
 1189123456,odin12github/openclaw,parispodbot openclaw,https://github.com/odin12github/openclaw,0,0,,,2026-03-23T02:06:13Z,2026-03-26,True,AI Agent
