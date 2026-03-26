@@ -2,61 +2,57 @@ import pandas as pd
 import requests
 import os
 import time
-import glob
 from datetime import datetime, timedelta
+import glob
 
-# ==================== 配置 ====================
-BATCH_SIZE = 50          # GraphQL 每批仓库数
-GRAPHQL_URL = "https://api.github.com/graphql"
-HEADERS = {"Authorization": f"token {os.getenv('GITHUB_TOKEN')}"}
-MAX_RETRIES = 3
-SLEEP_BETWEEN_BATCH = 1  # 批次间休息秒数
-
-def graphql_get_stars_batch(repos):
+# ==================== GraphQL 批量获取 Star 数 ====================
+def get_stars_batch(repos, token):
     """
     repos: list of (owner, repo) tuples
-    returns: dict {full_name: stars} for successful requests, None for failed repos
+    returns: dict {full_name: stars}
     """
-    if not repos:
-        return {}
-    query_parts = []
-    for idx, (owner, repo) in enumerate(repos):
-        query_parts.append(f"  repo{idx}: repository(owner: \"{owner}\", name: \"{repo}\") {{ stargazerCount }}")
-    query = "query {\n" + "\n".join(query_parts) + "\n}"
-    for attempt in range(MAX_RETRIES):
+    results = {}
+    batch_size = 50
+    for i in range(0, len(repos), batch_size):
+        batch = repos[i:i+batch_size]
+        query = "query {\n"
+        for idx, (owner, repo) in enumerate(batch):
+            # 使用别名，确保变量名唯一
+            query += f"  r{idx}: repository(owner: \"{owner}\", name: \"{repo}\") {{ stargazerCount }}\n"
+        query += "}"
+        headers = {"Authorization": f"token {token}"}
         try:
-            response = requests.post(GRAPHQL_URL, json={"query": query}, headers=HEADERS, timeout=15)
-            if response.status_code == 429:
-                wait = 2 ** attempt
-                print(f"  速率限制，等待 {wait} 秒后重试...")
-                time.sleep(wait)
-                continue
+            response = requests.post("https://api.github.com/graphql", json={"query": query}, headers=headers, timeout=15)
             response.raise_for_status()
             data = response.json()
             if "data" in data:
-                stars_map = {}
-                for idx, (owner, repo) in enumerate(repos):
+                for idx, (owner, repo) in enumerate(batch):
                     full_name = f"{owner}/{repo}"
-                    stargazer = data["data"].get(f"repo{idx}", {}).get("stargazerCount")
-                    if stargazer is not None:
-                        stars_map[full_name] = stargazer
+                    star_data = data["data"].get(f"r{idx}")
+                    if star_data is not None:
+                        results[full_name] = star_data["stargazerCount"]
                     else:
-                        stars_map[full_name] = None  # 标记为不存在
-                return stars_map
+                        # 仓库可能不存在或已删除
+                        results[full_name] = None
             else:
-                print(f"  GraphQL 返回错误: {data.get('errors', '未知错误')}")
-                return None
+                # 错误处理：打印错误信息，继续下一批
+                print(f"GraphQL batch error: {data}")
+                # 可选：回退到逐个请求？这里简单标记所有为 None
+                for owner, repo in batch:
+                    full_name = f"{owner}/{repo}"
+                    results[full_name] = None
         except Exception as e:
-            print(f"  GraphQL 请求失败 (尝试 {attempt+1}/{MAX_RETRIES}): {e}")
-            if attempt == MAX_RETRIES - 1:
-                return None
-            time.sleep(2 ** attempt)
-    return None
+            print(f"GraphQL batch request failed: {e}")
+            for owner, repo in batch:
+                results[f"{owner}/{repo}"] = None
+        time.sleep(0.5)  # 避免触发次级速率限制
+    return results
 
-def get_consecutive_no_growth_days(star_series):
+# ==================== 连续无增长天数计算 ====================
+def consecutive_no_growth_days(star_series):
     """
-    从最新一天向前计算连续无增长天数
     star_series: list of stars in chronological order (oldest first)
+    returns: number of consecutive days without growth from the latest day backwards
     """
     if len(star_series) < 2:
         return 0
@@ -68,6 +64,7 @@ def get_consecutive_no_growth_days(star_series):
             break
     return count
 
+# ==================== 主函数 ====================
 def main():
     token = os.getenv("GITHUB_TOKEN")
     if not token:
@@ -86,59 +83,57 @@ def main():
         return
 
     # 2. 收集所有活跃项目
-    active_repos = []  # 列表元素: (full_name, domain)
-    repo_domain_map = {}
+    all_active_repos = []          # 存储 (full_name, domain)
+    domain_repo_map = {}           # full_name -> domain
+    today = datetime.now().strftime("%Y-%m-%d")
+
     for domain_file in domain_files:
         domain = os.path.basename(domain_file).replace(".csv", "").replace("_", " ")
         df = pd.read_csv(domain_file)
+        # 列名兼容：优先使用 'name'，否则尝试其他
+        name_col = None
+        for col in ['name', 'full_name', 'repo_name']:
+            if col in df.columns:
+                name_col = col
+                break
+        if name_col is None:
+            print(f"警告：领域文件 {domain_file} 中没有找到名称列，跳过")
+            continue
+        # 处理 is_active 列
         if 'is_active' in df.columns:
             df['is_active'] = df['is_active'].astype(str).str.lower() == 'true'
         else:
             df['is_active'] = True
-        for _, row in df[df['is_active']].iterrows():
-            full_name = row['name']
-            active_repos.append((full_name, domain))
-            repo_domain_map[full_name] = domain
 
-    print(f"共发现 {len(active_repos)} 个活跃项目")
+        active = df[df['is_active'] == True]
+        for _, row in active.iterrows():
+            full_name = row[name_col]
+            owner, repo = full_name.split('/')
+            all_active_repos.append((owner, repo))
+            domain_repo_map[full_name] = domain
 
-    if not active_repos:
-        print("没有活跃项目，结束")
-        return
+    print(f"共有 {len(all_active_repos)} 个活跃项目")
 
-    # 3. 分批获取 Star 数
-    today = datetime.now().strftime("%Y-%m-%d")
+    # 3. 批量获取当前 Star 数
+    print("正在批量获取当前 Star 数...")
+    stars_map = get_stars_batch(all_active_repos, token)
+
+    # 4. 生成今日指标文件
     metrics = []
-    deactivate_list = []   # 记录需要淘汰的仓库
+    deactivate_list = []   # 404 仓库（stars_map 中为 None）
+    for (owner, repo) in all_active_repos:
+        full_name = f"{owner}/{repo}"
+        stars = stars_map.get(full_name)
+        if stars is None:
+            deactivate_list.append(full_name)
+            continue
+        metrics.append({
+            'name': full_name,
+            'stars': stars,
+            'collected_at': today,
+            'domain': domain_repo_map[full_name]
+        })
 
-    # 将 active_repos 按批次处理
-    for i in range(0, len(active_repos), BATCH_SIZE):
-        batch = active_repos[i:i+BATCH_SIZE]
-        batch_names = [full_name for full_name, _ in batch]
-        batch_owner_repo = [full_name.split('/') for full_name, _ in batch]
-        print(f"批次 {i//BATCH_SIZE + 1}/{(len(active_repos)-1)//BATCH_SIZE+1}，共 {len(batch)} 个项目")
-        stars_map = graphql_get_stars_batch(batch_owner_repo)
-        if stars_map is None:
-            print("  批次失败，跳过（后续会作为不存在标记）")
-            # 如果批次失败，标记该批次所有仓库为不可用（需要淘汰）
-            for full_name, domain in batch:
-                deactivate_list.append(full_name)
-        else:
-            for full_name, domain in batch:
-                stars = stars_map.get(full_name)
-                if stars is None:
-                    # 仓库不存在，标记淘汰
-                    deactivate_list.append(full_name)
-                else:
-                    metrics.append({
-                        'name': full_name,
-                        'stars': stars,
-                        'collected_at': today,
-                        'domain': domain
-                    })
-        time.sleep(SLEEP_BETWEEN_BATCH)
-
-    # 4. 保存今日指标
     if metrics:
         metrics_file = f'data/metrics/metrics_{today}.csv'
         os.makedirs('data/metrics', exist_ok=True)
@@ -146,107 +141,160 @@ def main():
         print(f"今日指标已保存到 {metrics_file} (成功 {len(metrics)} 条)")
     else:
         print("今日无任何指标数据")
+        if deactivate_list:
+            print("发现需要标记为不活跃的仓库，将进行更新")
+        else:
+            return
 
-    # 5. 淘汰处理
-    # 5.1 处理不存在的仓库（404）
+    # 5. 标记 404 仓库为不活跃
     if deactivate_list:
-        print(f"发现 {len(deactivate_list)} 个不存在的仓库，标记为不活跃")
+        print(f"发现 {len(deactivate_list)} 个不存在的仓库，准备标记为不活跃")
         # 更新全局文件
         if os.path.exists('data/all_repos.csv'):
             global_df = pd.read_csv('data/all_repos.csv')
-            if 'is_active' in global_df.columns:
-                global_df['is_active'] = global_df['is_active'].astype(str).str.lower() == 'true'
+            name_col = None
+            for col in ['name', 'full_name', 'repo_name']:
+                if col in global_df.columns:
+                    name_col = col
+                    break
+            if name_col is None:
+                print("错误：global_df 中找不到名称列，跳过更新")
             else:
-                global_df['is_active'] = True
-            global_df.loc[global_df['name'].isin(deactivate_list), 'is_active'] = False
-            global_df.to_csv('data/all_repos.csv', index=False)
+                if 'is_active' in global_df.columns:
+                    global_df['is_active'] = global_df['is_active'].astype(str).str.lower() == 'true'
+                else:
+                    global_df['is_active'] = True
+                global_df.loc[global_df[name_col].isin(deactivate_list), 'is_active'] = False
+                global_df.to_csv('data/all_repos.csv', index=False)
+                print(f"已更新全局文件，标记 {len(deactivate_list)} 个仓库为不活跃")
         # 更新各领域文件
         for domain_file in domain_files:
             domain_df = pd.read_csv(domain_file)
+            name_col = None
+            for col in ['name', 'full_name', 'repo_name']:
+                if col in domain_df.columns:
+                    name_col = col
+                    break
+            if name_col is None:
+                continue
             if 'is_active' in domain_df.columns:
                 domain_df['is_active'] = domain_df['is_active'].astype(str).str.lower() == 'true'
             else:
                 domain_df['is_active'] = True
-            domain_df.loc[domain_df['name'].isin(deactivate_list), 'is_active'] = False
+            domain_df.loc[domain_df[name_col].isin(deactivate_list), 'is_active'] = False
             domain_df.to_csv(domain_file, index=False)
-        print(f"已标记 {len(deactivate_list)} 个仓库为不活跃")
+        print("已同步更新各领域文件的活跃状态")
 
-    # 5.2 基于连续无增长天数淘汰
-    # 获取最近30天的指标文件（如果存在）
-    if not os.path.exists('data/metrics'):
+    # 6. 淘汰逻辑（基于连续无增长天数 + 原有规则）
+    # 需要读取最近 30 天的指标文件
+    metrics_dir = 'data/metrics'
+    if not os.path.exists(metrics_dir):
         print("指标目录不存在，跳过淘汰")
         return
-    all_metrics_files = sorted(os.listdir('data/metrics'))
+
+    all_metrics_files = sorted(os.listdir(metrics_dir))
     if len(all_metrics_files) < 2:
         print("指标数据不足（少于2天），无法进行淘汰分析")
         return
 
-    # 读取最近30天的所有指标文件
-    recent_files = all_metrics_files[-30:] if len(all_metrics_files) > 30 else all_metrics_files
-    # 构建每个仓库的每日 star 序列（按日期顺序）
-    star_series = {}
+    # 取最近 30 天文件（如果超过 30 天）
+    if len(all_metrics_files) > 30:
+        recent_files = all_metrics_files[-30:]
+    else:
+        recent_files = all_metrics_files
+
+    # 读取所有指标文件，按项目聚合
+    all_data = []
     for fname in recent_files:
-        date = fname.replace('metrics_', '').replace('.csv', '')
-        df = pd.read_csv(os.path.join('data/metrics', fname))
-        for _, row in df.iterrows():
-            name = row['name']
-            stars = row['stars']
-            star_series.setdefault(name, []).append((date, stars))
+        df = pd.read_csv(os.path.join(metrics_dir, fname))
+        # 确保有 name 列
+        if 'name' not in df.columns:
+            # 尝试其他列名
+            name_col = None
+            for col in ['name', 'full_name', 'repo_name']:
+                if col in df.columns:
+                    name_col = col
+                    break
+            if name_col is None:
+                continue
+            df = df.rename(columns={name_col: 'name'})
+        df['date'] = fname.split('_')[1].replace('.csv', '')  # 提取日期
+        all_data.append(df)
 
-    # 计算每个仓库的连续无增长天数及当前 star
-    to_deactivate_by_growth = []
-    for name, series in star_series.items():
-        if len(series) < 2:
-            continue
+    if not all_data:
+        print("无法加载指标文件，跳过淘汰")
+        return
+
+    combined = pd.concat(all_data, ignore_index=True)
+    # 按项目分组，收集每日 star 列表
+    growth_analysis = []
+    for name, group in combined.groupby('name'):
         # 按日期排序
-        series_sorted = sorted(series, key=lambda x: x[0])
-        star_values = [s[1] for s in series_sorted]
-        current_stars = star_values[-1]
-        consecutive_no_growth = get_consecutive_no_growth_days(star_values)
-        # 根据 star 区间确定阈值
-        if current_stars < 10:
-            threshold = 3
-        elif current_stars < 100:
-            threshold = 5
-        elif current_stars < 200:
-            threshold = 10
+        group = group.sort_values('date')
+        stars_series = group['stars'].tolist()
+        # 计算连续无增长天数
+        no_growth_days = consecutive_no_growth_days(stars_series)
+        # 获取最新 star 数
+        latest_stars = stars_series[-1]
+        # 计算 30 天总增长（如果至少有两天数据）
+        if len(stars_series) >= 2:
+            total_growth = stars_series[-1] - stars_series[0]
         else:
-            continue  # 高热度项目不淘汰
-        if consecutive_no_growth >= threshold:
-            to_deactivate_by_growth.append(name)
+            total_growth = 0
 
-    if to_deactivate_by_growth:
-        print(f"发现 {len(to_deactivate_by_growth)} 个项目因连续无增长而淘汰")
-        # 更新全局文件和各领域文件
+        # 淘汰判断
+        should_deactivate = False
+        # 条件1：404 已经处理过，这里不再重复
+        # 条件2：连续无增长天数超过阈值
+        if latest_stars < 10 and no_growth_days >= 3:
+            should_deactivate = True
+        elif latest_stars < 100 and no_growth_days >= 5:
+            should_deactivate = True
+        elif latest_stars < 200 and no_growth_days >= 10:
+            should_deactivate = True
+        # 条件3：30 天总增长小于 5（辅助淘汰）
+        if total_growth < 5:
+            should_deactivate = True
+
+        if should_deactivate:
+            growth_analysis.append(name)
+
+    print(f"发现 {len(growth_analysis)} 个项目满足淘汰条件（连续无增长或增长过慢）")
+
+    if growth_analysis:
         # 更新全局文件
         if os.path.exists('data/all_repos.csv'):
             global_df = pd.read_csv('data/all_repos.csv')
-            if 'is_active' in global_df.columns:
-                global_df['is_active'] = global_df['is_active'].astype(str).str.lower() == 'true'
-            else:
-                global_df['is_active'] = True
-            global_df.loc[global_df['name'].isin(to_deactivate_by_growth), 'is_active'] = False
-            global_df.to_csv('data/all_repos.csv', index=False)
+            name_col = None
+            for col in ['name', 'full_name', 'repo_name']:
+                if col in global_df.columns:
+                    name_col = col
+                    break
+            if name_col is not None:
+                if 'is_active' in global_df.columns:
+                    global_df['is_active'] = global_df['is_active'].astype(str).str.lower() == 'true'
+                else:
+                    global_df['is_active'] = True
+                global_df.loc[global_df[name_col].isin(growth_analysis), 'is_active'] = False
+                global_df.to_csv('data/all_repos.csv', index=False)
+                print(f"已更新全局文件，标记 {len(growth_analysis)} 个项目为不活跃")
+        # 更新各领域文件
         for domain_file in domain_files:
             domain_df = pd.read_csv(domain_file)
+            name_col = None
+            for col in ['name', 'full_name', 'repo_name']:
+                if col in domain_df.columns:
+                    name_col = col
+                    break
+            if name_col is None:
+                continue
             if 'is_active' in domain_df.columns:
                 domain_df['is_active'] = domain_df['is_active'].astype(str).str.lower() == 'true'
             else:
                 domain_df['is_active'] = True
-            domain_df.loc[domain_df['name'].isin(to_deactivate_by_growth), 'is_active'] = False
+            domain_df.loc[domain_df[name_col].isin(growth_analysis), 'is_active'] = False
             domain_df.to_csv(domain_file, index=False)
-        print(f"已标记 {len(to_deactivate_by_growth)} 个项目为不活跃")
-
-    # 可选：保留原有的 30天总增长 <5 的淘汰（作为辅助）
-    if len(all_metrics_files) >= 2:
-        first_day = pd.read_csv(os.path.join('data/metrics', recent_files[0]))
-        last_day = pd.read_csv(os.path.join('data/metrics', recent_files[-1]))
-        merged = pd.merge(first_day, last_day, on='name', suffixes=('_first', '_last'))
-        merged['growth_30d'] = merged['stars_last'] - merged['stars_first']
-        to_deactivate_30d = merged[(merged['growth_30d'] < 5) & (merged['stars_last'] < 10)]['name'].tolist()
-        if to_deactivate_30d:
-            print(f"发现 {len(to_deactivate_30d)} 个项目因30天增长<5且star<10而淘汰")
-            # 合并淘汰列表并更新（此处省略重复代码，可复用上面逻辑）
+        print("已同步更新各领域文件的活跃状态")
 
     print("analyzer 执行完成")
 
