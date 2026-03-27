@@ -180,5 +180,31 @@
     "url": "https://simonwillison.net/guides/agentic-engineering-patterns/using-git-with-coding-agents/#atom-everything",
     "tags": "",
     "created_at": "2026-03-26 08:25:20"
+  },
+  {
+    "id": "rss_https://deepmind.google/blog/gemini-3-1-flash-live-making-audio-ai-more-natural-and-reliable/",
+    "company": "Google DeepMind",
+    "title": "Gemini 3.1 Flash Live: Making audio AI more natural and reliable",
+    "publish_date": "2026-03-26",
+    "type": "其他",
+    "open_source": "否",
+    "summary": "Our latest voice model has improved precision and lower latency to make voice interactions more fluid, natural and precise.",
+    "details": "",
+    "url": "https://deepmind.google/blog/gemini-3-1-flash-live-making-audio-ai-more-natural-and-reliable/",
+    "tags": "",
+    "created_at": "2026-03-27 04:29:11"
+  },
+  {
+    "id": "rss_https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-1-flash-live/",
+    "company": "Google AI",
+    "title": "Gemini 3.1 Flash Live: Making audio AI more natural and reliable",
+    "publish_date": "2026-03-26",
+    "type": "其他",
+    "open_source": "否",
+    "summary": "The Gemini emblem sits next to text reading 'Gemini 3.1 Flash Live'. The background has blue, multicolored dots making up a microphone icon",
+    "details": "",
+    "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-1-flash-live/",
+    "tags": "",
+    "created_at": "2026-03-27 04:29:11"
   }
 ]
