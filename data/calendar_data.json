@@ -206,5 +206,18 @@
     "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-1-flash-live/",
     "tags": "",
     "created_at": "2026-03-27 04:29:11"
+  },
+  {
+    "id": "rss_https://simonwillison.net/2026/Mar/27/datasette-showboat/#atom-everything",
+    "company": "Simon Willison",
+    "title": "datasette-showboat 0.1a2",
+    "publish_date": "2026-03-27",
+    "type": "其他",
+    "open_source": "否",
+    "summary": "<p><strong>Release:</strong> <a href=\"https://github.com/simonw/datasette-showboat/releases/tag/0.1a2\">datasette-showboat 0.1a2</a></p>\n    <p>I added an option to export a Markdown file from my app t",
+    "details": "",
+    "url": "https://simonwillison.net/2026/Mar/27/datasette-showboat/#atom-everything",
+    "tags": "",
+    "created_at": "2026-03-28 04:13:40"
   }
 ]
