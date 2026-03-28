@@ -368,44 +368,44 @@ id,name,description,url,stars,forks,language,topics,created_at,first_seen,is_act
 1193065780,p-faulkner/rgn-eahubcrew-dr-status,Status Board for upcoming Eagle Hub Crew DR test,https://github.com/p-faulkner/rgn-eahubcrew-dr-status,0,0,,,2026-03-26T20:54:11Z,2026-03-27,False,Speculative Model
 1193175994,ShoShoOHIO/Eaglercraft-Modpack-REUPLOAD-FROM-LAX1DUDE,This is that Modpack that lax1dude made. This is just for people in schools where the normal website is blocked.,https://github.com/ShoShoOHIO/Eaglercraft-Modpack-REUPLOAD-FROM-LAX1DUDE,0,0,,,2026-03-27T00:27:53Z,2026-03-27,False,Speculative Model
 1193034380,k123659/Doclify-Cli-for-Docs,"Doclify is an intelligent command-line tool that automates the process of documenting your software projects. By leveraging the fast inference of the Groq API, Doclify scans your codebase, understands the context of each file using advanced LLMs (like Llama 3, Qwen, or deepseek",https://github.com/k123659/Doclify-Cli-for-Docs,0,0,Python,,2026-03-26T20:05:58Z,2026-03-27,False,Speculative Model
-1193444811,fun7-wq/medusaRazbor,,https://github.com/fun7-wq/medusaRazbor,0,0,HTML,,2026-03-27T08:25:35Z,2026-03-28,True,Speculative Model
-1193432541,harutoforever/Medusa,,https://github.com/harutoforever/Medusa,0,0,HTML,,2026-03-27T08:07:40Z,2026-03-28,True,Speculative Model
-1193441045,Koninklijke-van-Twist/Medusa,Overzicht goed te keuren uren vanuit BC,https://github.com/Koninklijke-van-Twist/Medusa,0,0,PHP,,2026-03-27T08:20:03Z,2026-03-28,True,Speculative Model
-1193768164,webbersagency/order-gift-promotions-medusa,Order gift promotions for Medusa v2,https://github.com/webbersagency/order-gift-promotions-medusa,0,0,TypeScript,,2026-03-27T15:03:59Z,2026-03-28,True,Speculative Model
-1194083609,MA-Abahmane/medusajs,,https://github.com/MA-Abahmane/medusajs,0,0,TypeScript,,2026-03-27T22:44:06Z,2026-03-28,True,Speculative Model
-1193854625,crystalloide/cassandra-medusa,Gestion centralisée des sauvegarde avec Medusa,https://github.com/crystalloide/cassandra-medusa,1,0,,,2026-03-27T16:44:41Z,2026-03-28,True,Speculative Model
-1194023582,fwss09/medusa-storefront-app,,https://github.com/fwss09/medusa-storefront-app,0,0,TypeScript,,2026-03-27T20:46:29Z,2026-03-28,True,Speculative Model
-1193994690,Wellington-SFernandes/cyber-lab-medusa,"Cybersecurity lab simulating brute force attacks using Medusa (FTP, DVWA, SMB)",https://github.com/Wellington-SFernandes/cyber-lab-medusa,0,0,,,2026-03-27T19:59:40Z,2026-03-28,True,Speculative Model
-1193546169,AQANikolay/Medusa-aqa-framework,"E2E, API and UI test automation framework for Medusa e-commerce using Python, Playwright, Pytest",https://github.com/AQANikolay/Medusa-aqa-framework,0,0,Python,,2026-03-27T10:43:12Z,2026-03-28,True,Speculative Model
-1194123979,alancostaoliveira/kali-medusa-bruteforce,"Practical security lab demonstrating brute force attacks with Medusa, Kali Linux, Metasploitable 2 and DVWA",https://github.com/alancostaoliveira/kali-medusa-bruteforce,1,0,Shell,,2026-03-28T00:21:43Z,2026-03-28,True,Speculative Model
-1193754101,onlinesmarty/medusa-openclaw-missioncontrol-hub,,https://github.com/onlinesmarty/medusa-openclaw-missioncontrol-hub,0,0,TypeScript,,2026-03-27T14:48:01Z,2026-03-28,True,Speculative Model
-1193384926,administrator-max/eagle,,https://github.com/administrator-max/eagle,0,0,JavaScript,,2026-03-27T06:55:47Z,2026-03-28,True,Speculative Model
-1194094513,Elanix-AI/EagleRecords,,https://github.com/Elanix-AI/EagleRecords,0,0,,,2026-03-27T23:08:21Z,2026-03-28,True,Speculative Model
-1193989473,TayeburRahman/EagleLikes,,https://github.com/TayeburRahman/EagleLikes,0,0,TypeScript,,2026-03-27T19:51:34Z,2026-03-28,True,Speculative Model
-1194087377,lucassolorzano-ui/EaglerServer,,https://github.com/lucassolorzano-ui/EaglerServer,0,0,JavaScript,,2026-03-27T22:52:27Z,2026-03-28,True,Speculative Model
-1194129512,PixlGalaxy/EagleHacks2026,,https://github.com/PixlGalaxy/EagleHacks2026,0,0,,,2026-03-28T00:35:56Z,2026-03-28,True,Speculative Model
-1194161437,Bvqlz/EagleHacks-Arthex,,https://github.com/Bvqlz/EagleHacks-Arthex,0,0,TypeScript,,2026-03-28T01:52:26Z,2026-03-28,True,Speculative Model
-1194135350,Frogman34000/eaglercraftLauncher-files,files for my eaglercraft launcher,https://github.com/Frogman34000/eaglercraftLauncher-files,0,0,HTML,,2026-03-28T00:50:26Z,2026-03-28,True,Speculative Model
-1193644632,DevangPatelUK/HYPER-EAGLE-ONLINE-SUITE-EAGLESpreadSheet-v1.2,,https://github.com/DevangPatelUK/HYPER-EAGLE-ONLINE-SUITE-EAGLESpreadSheet-v1.2,1,0,TypeScript,,2026-03-27T12:49:55Z,2026-03-28,True,Speculative Model
-1193941546,virgysk/eaglefront,,https://github.com/virgysk/eaglefront,0,0,CSS,,2026-03-27T18:39:58Z,2026-03-28,True,Speculative Model
-1194180146,SamCCYT/eaglercraft,,https://github.com/SamCCYT/eaglercraft,0,0,HTML,,2026-03-28T02:36:16Z,2026-03-28,True,Speculative Model
-1194052644,sanskartorch123/Eaglercraftlol,s,https://github.com/sanskartorch123/Eaglercraftlol,0,0,,,2026-03-27T21:40:34Z,2026-03-28,True,Speculative Model
-1193935576,ElMiniMarcossaa/eaglercrafthtml,,https://github.com/ElMiniMarcossaa/eaglercrafthtml,0,0,HTML,,2026-03-27T18:31:10Z,2026-03-28,True,Speculative Model
-1194041725,gagnonthe/eaglercraft-serv,,https://github.com/gagnonthe/eaglercraft-serv,0,0,Shell,,2026-03-27T21:19:24Z,2026-03-28,True,Speculative Model
-1193629666,mrmattsheumack/eagle-tracker,,https://github.com/mrmattsheumack/eagle-tracker,0,0,HTML,,2026-03-27T12:30:28Z,2026-03-28,True,Speculative Model
-1193805492,PUPOLIK/ScEagle,"ScEagle - расширение для браузера, которое определяет фишинговые сайты по возрасту домена и выявляет подделки известных сервисов.",https://github.com/PUPOLIK/ScEagle,0,0,JavaScript,,2026-03-27T15:45:40Z,2026-03-28,True,Speculative Model
-1194011403,jimmortel/eagle-tetris,"A fast-paced, ""Eagle-themed"" classic Tetris experience built for the Farcaster ecosystem. Part of the Eagle Arcade suite on Solana. 🦅🧱🎮",https://github.com/jimmortel/eagle-tetris,0,0,HTML,,2026-03-27T20:26:05Z,2026-03-28,True,Speculative Model
-1194147448,YDX64/eagle-api,"Eagle - Unified Football Prediction Engine with Poisson, Odds Movement, and Streak Detection",https://github.com/YDX64/eagle-api,0,0,Python,,2026-03-28T01:20:12Z,2026-03-28,True,Speculative Model
-1193399954,administrator-max/eagle-vercel,,https://github.com/administrator-max/eagle-vercel,0,0,JavaScript,,2026-03-27T07:18:22Z,2026-03-28,True,Speculative Model
-1194104833,somararegala-debug/Eagle_Air,,https://github.com/somararegala-debug/Eagle_Air,0,0,,,2026-03-27T23:32:46Z,2026-03-28,True,Speculative Model
-1193954382,iammansoor007/Eagle-Revolution,,https://github.com/iammansoor007/Eagle-Revolution,0,0,TypeScript,,2026-03-27T18:58:59Z,2026-03-28,True,Speculative Model
-1193685907,Eagleworrior/EAGLEX-CASINO,,https://github.com/Eagleworrior/EAGLEX-CASINO,0,0,,,2026-03-27T13:31:00Z,2026-03-28,True,Speculative Model
-1194059840,m3tr0m0l4/eagler-proxy,a proxy to allow more users to connect to the mc server,https://github.com/m3tr0m0l4/eagler-proxy,0,0,JavaScript,,2026-03-27T21:54:49Z,2026-03-28,True,Speculative Model
-1194083958,lucassolorzano-ui/PeregrinoEaglerServer,Servidor Fanon de Peregirno,https://github.com/lucassolorzano-ui/PeregrinoEaglerServer,0,0,Batchfile,,2026-03-27T22:44:56Z,2026-03-28,True,Speculative Model
-1193457896,palloma3035-a11y/black-eaglees-media,,https://github.com/palloma3035-a11y/black-eaglees-media,0,0,TypeScript,,2026-03-27T08:44:42Z,2026-03-28,True,Speculative Model
-1194119906,Die16/Eagle-Hacks-2026,,https://github.com/Die16/Eagle-Hacks-2026,0,0,,,2026-03-28T00:11:15Z,2026-03-28,True,Speculative Model
-1193878134,Celeritas7/Eagle_eye_plus,,https://github.com/Celeritas7/Eagle_eye_plus,0,0,HTML,,2026-03-27T17:13:48Z,2026-03-28,True,Speculative Model
-1194084014,Jayme-G/SCR_StarEagle,"Um protetor de tela bonito, leve e totalmente configurável com efeito starfield 3D, música de fundo e imagem central animada.",https://github.com/Jayme-G/SCR_StarEagle,1,0,Python,,2026-03-27T22:45:03Z,2026-03-28,True,Speculative Model
-1193778008,projectsbaabayakuub/compositional-eos-eagle-ford,14-component Peng-Robinson EOS calibrated to NETL Eagle Ford benchmarks for CO₂-EOR research,https://github.com/projectsbaabayakuub/compositional-eos-eagle-ford,0,0,MATLAB,,2026-03-27T15:14:41Z,2026-03-28,True,Speculative Model
-1194081957,SuperDuck4000/Eaglecraft-1.11.2,The full Eaglecraft 1.11.2 version.,https://github.com/SuperDuck4000/Eaglecraft-1.11.2,0,0,,,2026-03-27T22:40:38Z,2026-03-28,True,Speculative Model
-1193748785,benoitme/gaussmarkov-libraries-eagle-kicad,Native Eagle and KiCad 8.0/10.0 versions of the classic Gauss Markov Eagle libraries. Includes fully linked symbols (.kicad_sym) and footprints (.pretty) for guitar pedal DIYers. Xml format for Eagle libraries (bye bye binary). Optimized and cleaned up for modern PCB design,https://github.com/benoitme/gaussmarkov-libraries-eagle-kicad,0,0,,,2026-03-27T14:41:59Z,2026-03-28,True,Speculative Model
+1193444811,fun7-wq/medusaRazbor,,https://github.com/fun7-wq/medusaRazbor,0,0,HTML,,2026-03-27T08:25:35Z,2026-03-28,False,Speculative Model
+1193432541,harutoforever/Medusa,,https://github.com/harutoforever/Medusa,0,0,HTML,,2026-03-27T08:07:40Z,2026-03-28,False,Speculative Model
+1193441045,Koninklijke-van-Twist/Medusa,Overzicht goed te keuren uren vanuit BC,https://github.com/Koninklijke-van-Twist/Medusa,0,0,PHP,,2026-03-27T08:20:03Z,2026-03-28,False,Speculative Model
+1193768164,webbersagency/order-gift-promotions-medusa,Order gift promotions for Medusa v2,https://github.com/webbersagency/order-gift-promotions-medusa,0,0,TypeScript,,2026-03-27T15:03:59Z,2026-03-28,False,Speculative Model
+1194083609,MA-Abahmane/medusajs,,https://github.com/MA-Abahmane/medusajs,0,0,TypeScript,,2026-03-27T22:44:06Z,2026-03-28,False,Speculative Model
+1193854625,crystalloide/cassandra-medusa,Gestion centralisée des sauvegarde avec Medusa,https://github.com/crystalloide/cassandra-medusa,1,0,,,2026-03-27T16:44:41Z,2026-03-28,False,Speculative Model
+1194023582,fwss09/medusa-storefront-app,,https://github.com/fwss09/medusa-storefront-app,0,0,TypeScript,,2026-03-27T20:46:29Z,2026-03-28,False,Speculative Model
+1193994690,Wellington-SFernandes/cyber-lab-medusa,"Cybersecurity lab simulating brute force attacks using Medusa (FTP, DVWA, SMB)",https://github.com/Wellington-SFernandes/cyber-lab-medusa,0,0,,,2026-03-27T19:59:40Z,2026-03-28,False,Speculative Model
+1193546169,AQANikolay/Medusa-aqa-framework,"E2E, API and UI test automation framework for Medusa e-commerce using Python, Playwright, Pytest",https://github.com/AQANikolay/Medusa-aqa-framework,0,0,Python,,2026-03-27T10:43:12Z,2026-03-28,False,Speculative Model
+1194123979,alancostaoliveira/kali-medusa-bruteforce,"Practical security lab demonstrating brute force attacks with Medusa, Kali Linux, Metasploitable 2 and DVWA",https://github.com/alancostaoliveira/kali-medusa-bruteforce,1,0,Shell,,2026-03-28T00:21:43Z,2026-03-28,False,Speculative Model
+1193754101,onlinesmarty/medusa-openclaw-missioncontrol-hub,,https://github.com/onlinesmarty/medusa-openclaw-missioncontrol-hub,0,0,TypeScript,,2026-03-27T14:48:01Z,2026-03-28,False,Speculative Model
+1193384926,administrator-max/eagle,,https://github.com/administrator-max/eagle,0,0,JavaScript,,2026-03-27T06:55:47Z,2026-03-28,False,Speculative Model
+1194094513,Elanix-AI/EagleRecords,,https://github.com/Elanix-AI/EagleRecords,0,0,,,2026-03-27T23:08:21Z,2026-03-28,False,Speculative Model
+1193989473,TayeburRahman/EagleLikes,,https://github.com/TayeburRahman/EagleLikes,0,0,TypeScript,,2026-03-27T19:51:34Z,2026-03-28,False,Speculative Model
+1194087377,lucassolorzano-ui/EaglerServer,,https://github.com/lucassolorzano-ui/EaglerServer,0,0,JavaScript,,2026-03-27T22:52:27Z,2026-03-28,False,Speculative Model
+1194129512,PixlGalaxy/EagleHacks2026,,https://github.com/PixlGalaxy/EagleHacks2026,0,0,,,2026-03-28T00:35:56Z,2026-03-28,False,Speculative Model
+1194161437,Bvqlz/EagleHacks-Arthex,,https://github.com/Bvqlz/EagleHacks-Arthex,0,0,TypeScript,,2026-03-28T01:52:26Z,2026-03-28,False,Speculative Model
+1194135350,Frogman34000/eaglercraftLauncher-files,files for my eaglercraft launcher,https://github.com/Frogman34000/eaglercraftLauncher-files,0,0,HTML,,2026-03-28T00:50:26Z,2026-03-28,False,Speculative Model
+1193644632,DevangPatelUK/HYPER-EAGLE-ONLINE-SUITE-EAGLESpreadSheet-v1.2,,https://github.com/DevangPatelUK/HYPER-EAGLE-ONLINE-SUITE-EAGLESpreadSheet-v1.2,1,0,TypeScript,,2026-03-27T12:49:55Z,2026-03-28,False,Speculative Model
+1193941546,virgysk/eaglefront,,https://github.com/virgysk/eaglefront,0,0,CSS,,2026-03-27T18:39:58Z,2026-03-28,False,Speculative Model
+1194180146,SamCCYT/eaglercraft,,https://github.com/SamCCYT/eaglercraft,0,0,HTML,,2026-03-28T02:36:16Z,2026-03-28,False,Speculative Model
+1194052644,sanskartorch123/Eaglercraftlol,s,https://github.com/sanskartorch123/Eaglercraftlol,0,0,,,2026-03-27T21:40:34Z,2026-03-28,False,Speculative Model
+1193935576,ElMiniMarcossaa/eaglercrafthtml,,https://github.com/ElMiniMarcossaa/eaglercrafthtml,0,0,HTML,,2026-03-27T18:31:10Z,2026-03-28,False,Speculative Model
+1194041725,gagnonthe/eaglercraft-serv,,https://github.com/gagnonthe/eaglercraft-serv,0,0,Shell,,2026-03-27T21:19:24Z,2026-03-28,False,Speculative Model
+1193629666,mrmattsheumack/eagle-tracker,,https://github.com/mrmattsheumack/eagle-tracker,0,0,HTML,,2026-03-27T12:30:28Z,2026-03-28,False,Speculative Model
+1193805492,PUPOLIK/ScEagle,"ScEagle - расширение для браузера, которое определяет фишинговые сайты по возрасту домена и выявляет подделки известных сервисов.",https://github.com/PUPOLIK/ScEagle,0,0,JavaScript,,2026-03-27T15:45:40Z,2026-03-28,False,Speculative Model
+1194011403,jimmortel/eagle-tetris,"A fast-paced, ""Eagle-themed"" classic Tetris experience built for the Farcaster ecosystem. Part of the Eagle Arcade suite on Solana. 🦅🧱🎮",https://github.com/jimmortel/eagle-tetris,0,0,HTML,,2026-03-27T20:26:05Z,2026-03-28,False,Speculative Model
+1194147448,YDX64/eagle-api,"Eagle - Unified Football Prediction Engine with Poisson, Odds Movement, and Streak Detection",https://github.com/YDX64/eagle-api,0,0,Python,,2026-03-28T01:20:12Z,2026-03-28,False,Speculative Model
+1193399954,administrator-max/eagle-vercel,,https://github.com/administrator-max/eagle-vercel,0,0,JavaScript,,2026-03-27T07:18:22Z,2026-03-28,False,Speculative Model
+1194104833,somararegala-debug/Eagle_Air,,https://github.com/somararegala-debug/Eagle_Air,0,0,,,2026-03-27T23:32:46Z,2026-03-28,False,Speculative Model
+1193954382,iammansoor007/Eagle-Revolution,,https://github.com/iammansoor007/Eagle-Revolution,0,0,TypeScript,,2026-03-27T18:58:59Z,2026-03-28,False,Speculative Model
+1193685907,Eagleworrior/EAGLEX-CASINO,,https://github.com/Eagleworrior/EAGLEX-CASINO,0,0,,,2026-03-27T13:31:00Z,2026-03-28,False,Speculative Model
+1194059840,m3tr0m0l4/eagler-proxy,a proxy to allow more users to connect to the mc server,https://github.com/m3tr0m0l4/eagler-proxy,0,0,JavaScript,,2026-03-27T21:54:49Z,2026-03-28,False,Speculative Model
+1194083958,lucassolorzano-ui/PeregrinoEaglerServer,Servidor Fanon de Peregirno,https://github.com/lucassolorzano-ui/PeregrinoEaglerServer,0,0,Batchfile,,2026-03-27T22:44:56Z,2026-03-28,False,Speculative Model
+1193457896,palloma3035-a11y/black-eaglees-media,,https://github.com/palloma3035-a11y/black-eaglees-media,0,0,TypeScript,,2026-03-27T08:44:42Z,2026-03-28,False,Speculative Model
+1194119906,Die16/Eagle-Hacks-2026,,https://github.com/Die16/Eagle-Hacks-2026,0,0,,,2026-03-28T00:11:15Z,2026-03-28,False,Speculative Model
+1193878134,Celeritas7/Eagle_eye_plus,,https://github.com/Celeritas7/Eagle_eye_plus,0,0,HTML,,2026-03-27T17:13:48Z,2026-03-28,False,Speculative Model
+1194084014,Jayme-G/SCR_StarEagle,"Um protetor de tela bonito, leve e totalmente configurável com efeito starfield 3D, música de fundo e imagem central animada.",https://github.com/Jayme-G/SCR_StarEagle,1,0,Python,,2026-03-27T22:45:03Z,2026-03-28,False,Speculative Model
+1193778008,projectsbaabayakuub/compositional-eos-eagle-ford,14-component Peng-Robinson EOS calibrated to NETL Eagle Ford benchmarks for CO₂-EOR research,https://github.com/projectsbaabayakuub/compositional-eos-eagle-ford,0,0,MATLAB,,2026-03-27T15:14:41Z,2026-03-28,False,Speculative Model
+1194081957,SuperDuck4000/Eaglecraft-1.11.2,The full Eaglecraft 1.11.2 version.,https://github.com/SuperDuck4000/Eaglecraft-1.11.2,0,0,,,2026-03-27T22:40:38Z,2026-03-28,False,Speculative Model
+1193748785,benoitme/gaussmarkov-libraries-eagle-kicad,Native Eagle and KiCad 8.0/10.0 versions of the classic Gauss Markov Eagle libraries. Includes fully linked symbols (.kicad_sym) and footprints (.pretty) for guitar pedal DIYers. Xml format for Eagle libraries (bye bye binary). Optimized and cleaned up for modern PCB design,https://github.com/benoitme/gaussmarkov-libraries-eagle-kicad,0,0,,,2026-03-27T14:41:59Z,2026-03-28,False,Speculative Model

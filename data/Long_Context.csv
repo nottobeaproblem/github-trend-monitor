@@ -1166,377 +1166,377 @@ id,name,description,url,stars,forks,language,topics,created_at,first_seen,is_act
 1192223602,sdsded124/42,基于VUE3+SSM框架的在线宠物商城 基于vue的视频播放器的设计与实现 基于SSM的毕业生就业管理系统+vue ssm框架的校园闲置物品交易平台+jsp ssm社区医疗保健监控系统+vue ssm阅微文学网站的设计与开发+vue Java Web的怀旧唱片售卖系统+vue SSM的游戏商城的设计与实现+jsp vue的音乐播放器的设计与实现+vue 家政公司服务平台的设计与实现+vue 快餐店点餐结算系统的设计与实现 ssm学费管理系统的设计与实现+jsp ssm学生社团管理系统+vue ssm图书馆书库管理系统+vue ssm校内二手商城交易系统+vue 个性化旅游攻略定制系统设计与实现 网络游戏交易系统的设计与实现+jsp ssm基于ssm的房源管理系统+vue,https://github.com/sdsded124/42,0,0,JavaScript,,2026-03-26T02:22:58Z,2026-03-27,False,Long Context
 1192213258,sdsded124/120,基于web的素材网的设计与实现+vue ssm驾校预约管理系统+jsp ssm网上购物平台设计+jsp 《数据库系统原理》课程平台的设 ssm毕业设计选题系统+jsp echarts的基金交易网站的设计与实现 校内信息服务发布系统的设计与实现 ssm企业员工管理系统+vue ssm停车管理系统+jsp ssm校园二手交易管理系统+vue 校园线上订餐系统的设计与实现+vue ssm杂志在线阅读网站+vue ssm教室信息管理系统+vue ssm公交车信息管理系统+vue ssm好例文共享平台的设计与实现+jsp 汽车客运订票系统的设计与实现+vue ssm学生档案管理系统+jsp 中小型医院管理系统的设计与实现+jsp ssm订餐管理系统+jsp 仓库在线管理系统的设计与实现+vue,https://github.com/sdsded124/120,0,0,JavaScript,,2026-03-26T02:03:17Z,2026-03-27,False,Long Context
 1192843114,mehdiAI2020/state-space-models-from-scratch,,https://github.com/mehdiAI2020/state-space-models-from-scratch,0,0,Python,,2026-03-26T16:04:44Z,2026-03-27,False,Long Context
-1193510444,lihao1951/FlagOS-LongContext-ICL-Annotation,Flagos的比赛,https://github.com/lihao1951/FlagOS-LongContext-ICL-Annotation,0,0,,,2026-03-27T09:55:57Z,2026-03-28,True,Long Context
-1193434556,akkii2006/long-context-reasoning-dataset,,https://github.com/akkii2006/long-context-reasoning-dataset,0,0,Python,,2026-03-27T08:10:38Z,2026-03-28,True,Long Context
-1193471277,mbilgesu/gemini-long-context-eval,LLM long-context reasoning evaluation dataset and benchmark,https://github.com/mbilgesu/gemini-long-context-eval,0,0,,,2026-03-27T09:03:18Z,2026-03-28,True,Long Context
-1193598422,Abhi-1122/Long-Context-Eval-dataset,,https://github.com/Abhi-1122/Long-Context-Eval-dataset,0,0,Python,,2026-03-27T11:51:48Z,2026-03-28,True,Long Context
-1193748344,sanjaybasu/inhibitory-attention-ehr,Inhibitory Attention for Clinical Long-Context EHR Reasoning (NeurIPS 2026),https://github.com/sanjaybasu/inhibitory-attention-ehr,0,0,Python,,2026-03-27T14:41:26Z,2026-03-28,True,Long Context
-1193582256,yzamari/mlx-turboquant,TurboQuant KV cache compression for MLX-LM — run longer contexts on Apple Silicon with 5x less memory,https://github.com/yzamari/mlx-turboquant,0,0,Python,,2026-03-27T11:29:36Z,2026-03-28,True,Long Context
-1193579940,lucaspirola/engram,ENGRAM = ENGRAM Nested Graph for Recursive Agent Memory — middleware that enables small local LLMs to sustain long contexts and agentic flows,https://github.com/lucaspirola/engram,0,0,Python,,2026-03-27T11:26:28Z,2026-03-28,True,Long Context
-1193923481,ramp906592/bert-long-sequence,,https://github.com/ramp906592/bert-long-sequence,0,0,Jupyter Notebook,,2026-03-27T18:13:50Z,2026-03-28,True,Long Context
-1193946185,lapac009-ctrl/index.html,mamba rp,https://github.com/lapac009-ctrl/index.html,0,0,HTML,,2026-03-27T18:46:31Z,2026-03-28,True,Long Context
-1193606765,l-dy0503/GA-Mamba,,https://github.com/l-dy0503/GA-Mamba,0,0,,,2026-03-27T12:00:38Z,2026-03-28,True,Long Context
-1193402717,Greenmamba29/mamba-health,,https://github.com/Greenmamba29/mamba-health,0,0,TypeScript,,2026-03-27T07:22:22Z,2026-03-28,True,Long Context
-1194004520,lapac009-ctrl/mamba-roleplay,mamabarp,https://github.com/lapac009-ctrl/mamba-roleplay,0,0,HTML,,2026-03-27T20:14:40Z,2026-03-28,True,Long Context
-1193428674,Jason-Chen615/Fuzz-Mamba,,https://github.com/Jason-Chen615/Fuzz-Mamba,0,0,Python,,2026-03-27T08:01:57Z,2026-03-28,True,Long Context
-1193728872,jaquimbayoc7/mamba-student-profiles,Análisis de perfiles motivacionales de estudiantes del Semillero MAMBA — CORHUILA. Modelo híbrido clustering + clasificación para despliegue con FastAPI.,https://github.com/jaquimbayoc7/mamba-student-profiles,0,0,Jupyter Notebook,,2026-03-27T14:19:08Z,2026-03-28,True,Long Context
-1193299474,kairopeixoto109-code/trabajo-de-esnpanhol-mamba,,https://github.com/kairopeixoto109-code/trabajo-de-esnpanhol-mamba,0,0,HTML,,2026-03-27T04:31:25Z,2026-03-28,True,Long Context
-1193481781,heeh02/hybridVLA,a vla design with attention and mamba block,https://github.com/heeh02/hybridVLA,0,0,,,2026-03-27T09:18:10Z,2026-03-28,True,Long Context
-1194120559,msy069/MDH-CMambaNet,"a morphology-aware deformable hybrid CNN-Mamba network, MDH-CMambaNet, for nuclei instance segmentation and classification.",https://github.com/msy069/MDH-CMambaNet,0,0,,,2026-03-28T00:13:00Z,2026-03-28,True,Long Context
-1193620601,tompkbiggs-star/SSMTBWeddingBingo,wesite for guests to upload wedding photos based on bingo sheet.,https://github.com/tompkbiggs-star/SSMTBWeddingBingo,0,0,HTML,,2026-03-27T12:18:45Z,2026-03-28,True,Long Context
-1193886503,micheleDibi/ssmllive,,https://github.com/micheleDibi/ssmllive,0,0,TypeScript,,2026-03-27T17:24:38Z,2026-03-28,True,Long Context
-1193483697,nbcgggh0-alt/BotSSMCEXI,,https://github.com/nbcgggh0-alt/BotSSMCEXI,0,0,Python,,2026-03-27T09:20:48Z,2026-03-28,True,Long Context
-1194012251,m-qiang/HeartSSM,"Learning a dynamic four-chamber shape model of the human heart for 95,695 UK Biobank participants",https://github.com/m-qiang/HeartSSM,0,0,,,2026-03-27T20:27:24Z,2026-03-28,True,Long Context
-1193474160,qwerbv/ssm_learning,,https://github.com/qwerbv/ssm_learning,0,0,Java,,2026-03-27T09:07:28Z,2026-03-28,True,Long Context
-1193337519,wgx112358/myltx_ssm,,https://github.com/wgx112358/myltx_ssm,0,0,Python,,2026-03-27T05:40:51Z,2026-03-28,True,Long Context
-1194063887,kvemuru/ssm_asr,Exploring state space model based automated speech recognition ,https://github.com/kvemuru/ssm_asr,0,0,Python,,2026-03-27T22:03:13Z,2026-03-28,True,Long Context
-1194201368,juzi1556/biyesheji1038,ssm基于SSM的旅游管理系统+jsp,https://github.com/juzi1556/biyesheji1038,0,0,JavaScript,,2026-03-28T03:23:47Z,2026-03-28,True,Long Context
-1194208243,juzi1556/biyesheji1094,ssm基于SSM的宠物领养系统+jsp,https://github.com/juzi1556/biyesheji1094,0,0,JavaScript,,2026-03-28T03:39:02Z,2026-03-28,True,Long Context
-1193398163,charles-future/amazon-ssm-agent,,https://github.com/charles-future/amazon-ssm-agent,0,0,Go,,2026-03-27T07:15:47Z,2026-03-28,True,Long Context
-1193478873,batinkurt1/SSMs_for_Filtering,,https://github.com/batinkurt1/SSMs_for_Filtering,0,0,,,2026-03-27T09:14:07Z,2026-03-28,True,Long Context
-1194220539,StarlightSSM/PortFolio_SSM,2026년 버전 포트폴리오,https://github.com/StarlightSSM/PortFolio_SSM,0,0,HTML,,2026-03-28T04:07:21Z,2026-03-28,True,Long Context
-1193585184,ViniciusAlfredo-DBA/HandsOn,HandsOn aula SSMS e GitHub,https://github.com/ViniciusAlfredo-DBA/HandsOn,0,0,,,2026-03-27T11:33:30Z,2026-03-28,True,Long Context
-1193482147,pavan-kumar-ceemala/aws-ssm-tunnel-project,,https://github.com/pavan-kumar-ceemala/aws-ssm-tunnel-project,0,0,PowerShell,,2026-03-27T09:18:39Z,2026-03-28,True,Long Context
-1193865926,juzi1556/biyesheji916,ssm神马物流+vue,https://github.com/juzi1556/biyesheji916,0,0,,,2026-03-27T16:58:49Z,2026-03-28,True,Long Context
-1194204716,juzi1556/biyesheji1062,ssm物业管理+jsp,https://github.com/juzi1556/biyesheji1062,0,0,JavaScript,,2026-03-28T03:31:20Z,2026-03-28,True,Long Context
-1193851020,juzi1556/biyesheji805,ssm助学贷款+jsp,https://github.com/juzi1556/biyesheji805,0,0,,,2026-03-27T16:40:13Z,2026-03-28,True,Long Context
-1194198279,juzi1556/biyesheji1015,ssm同学录网站+vue,https://github.com/juzi1556/biyesheji1015,0,0,JavaScript,,2026-03-28T03:16:47Z,2026-03-28,True,Long Context
-1193856014,juzi1556/biyesheji841,ssm会议管理系统,https://github.com/juzi1556/biyesheji841,0,0,,,2026-03-27T16:46:23Z,2026-03-28,True,Long Context
-1194198431,juzi1556/biyesheji1016,ssm物资进销存jsp,https://github.com/juzi1556/biyesheji1016,0,0,JavaScript,,2026-03-28T03:17:09Z,2026-03-28,True,Long Context
-1194212746,juzi1556/biyesheji1129,ssm校医务系统+vue,https://github.com/juzi1556/biyesheji1129,0,0,JavaScript,,2026-03-28T03:49:13Z,2026-03-28,True,Long Context
-1194202876,juzi1556/biyesheji1047,ssm广告管理系统+vue,https://github.com/juzi1556/biyesheji1047,0,0,JavaScript,,2026-03-28T03:27:03Z,2026-03-28,True,Long Context
-1193656978,biyeshejifudao/30248,食堂订餐小程序ssm,https://github.com/biyeshejifudao/30248,0,0,,,2026-03-27T13:03:47Z,2026-03-28,True,Long Context
-1193858057,juzi1556/biyesheji856,ssm宠物领养系统+vue,https://github.com/juzi1556/biyesheji856,0,0,,,2026-03-27T16:48:50Z,2026-03-28,True,Long Context
-1194203291,juzi1556/biyesheji1051,ssm汽车租赁系统+jsp,https://github.com/juzi1556/biyesheji1051,0,0,JavaScript,,2026-03-28T03:28:01Z,2026-03-28,True,Long Context
-1194206095,juzi1556/biyesheji1075,ssm课程管理系统+vue,https://github.com/juzi1556/biyesheji1075,0,0,JavaScript,,2026-03-28T03:34:27Z,2026-03-28,True,Long Context
-1193655092,biyeshejifudao/30230,疫苗预约小程序ssm,https://github.com/biyeshejifudao/30230,0,0,,,2026-03-27T13:01:54Z,2026-03-28,True,Long Context
-1193855862,juzi1556/biyesheji840,ssm校园教务系统+vue,https://github.com/juzi1556/biyesheji840,0,0,,,2026-03-27T16:46:13Z,2026-03-28,True,Long Context
-1194209512,juzi1556/biyesheji1104,ssm摊位管理系统+jsp,https://github.com/juzi1556/biyesheji1104,0,0,JavaScript,,2026-03-28T03:41:54Z,2026-03-28,True,Long Context
-1193852578,juzi1556/biyesheji816,ssm会员管理系统+jsp,https://github.com/juzi1556/biyesheji816,0,0,,,2026-03-27T16:42:05Z,2026-03-28,True,Long Context
-1193859008,juzi1556/biyesheji863,ssm民宿管理系统+jsp,https://github.com/juzi1556/biyesheji863,0,0,,,2026-03-27T16:50:02Z,2026-03-28,True,Long Context
-1194202173,juzi1556/biyesheji1042,ssm在线交友系统+vue,https://github.com/juzi1556/biyesheji1042,0,0,JavaScript,,2026-03-28T03:25:29Z,2026-03-28,True,Long Context
-1194202410,juzi1556/biyesheji1043,ssm网上商城系统+vue,https://github.com/juzi1556/biyesheji1043,0,0,JavaScript,,2026-03-28T03:25:59Z,2026-03-28,True,Long Context
-1194206229,juzi1556/biyesheji1076,ssm电子病历系统+jsp,https://github.com/juzi1556/biyesheji1076,0,0,JavaScript,,2026-03-28T03:34:43Z,2026-03-28,True,Long Context
-1193657118,biyeshejifudao/30249,微信社团小程序ssm,https://github.com/biyeshejifudao/30249,0,0,,,2026-03-27T13:03:54Z,2026-03-28,True,Long Context
-1193856926,juzi1556/biyesheji848,ssm学生宿舍管理+jsp,https://github.com/juzi1556/biyesheji848,0,0,,,2026-03-27T16:47:29Z,2026-03-28,True,Long Context
-1194213947,juzi1556/biyesheji1137,ssm社区生鲜商城+jsp,https://github.com/juzi1556/biyesheji1137,0,0,JavaScript,,2026-03-28T03:51:56Z,2026-03-28,True,Long Context
-1193858670,juzi1556/biyesheji860,ssm电动车租赁网站+jsp,https://github.com/juzi1556/biyesheji860,0,0,,,2026-03-27T16:49:35Z,2026-03-28,True,Long Context
-1193859355,juzi1556/biyesheji866,ssm框架的购物网站+vue,https://github.com/juzi1556/biyesheji866,0,0,,,2026-03-27T16:50:29Z,2026-03-28,True,Long Context
-1194205988,juzi1556/biyesheji1074,基于ssm的软考系统+vue,https://github.com/juzi1556/biyesheji1074,0,0,JavaScript,,2026-03-28T03:34:12Z,2026-03-28,True,Long Context
-1194214545,juzi1556/biyesheji1141,ssm校园活动资讯网+vue,https://github.com/juzi1556/biyesheji1141,0,0,JavaScript,,2026-03-28T03:53:16Z,2026-03-28,True,Long Context
-1194200030,juzi1556/biyesheji1029,ssm大学学生成长系+vue,https://github.com/juzi1556/biyesheji1029,0,0,JavaScript,,2026-03-28T03:20:54Z,2026-03-28,True,Long Context
-1193343059,sdsded124/biyesheji2286,基于SSM的酒店管理系统,https://github.com/sdsded124/biyesheji2286,0,0,JavaScript,,2026-03-27T05:50:07Z,2026-03-28,True,Long Context
-1194209091,juzi1556/biyesheji1101,ssm校园二手交易市场+vue,https://github.com/juzi1556/biyesheji1101,0,0,JavaScript,,2026-03-28T03:40:56Z,2026-03-28,True,Long Context
-1193850528,juzi1556/biyesheji801,ssm人事管理信息系统+jsp,https://github.com/juzi1556/biyesheji801,0,0,,,2026-03-27T16:39:36Z,2026-03-28,True,Long Context
-1194198147,juzi1556/biyesheji1014,ssm校园二手交易平台+vue,https://github.com/juzi1556/biyesheji1014,0,0,JavaScript,,2026-03-28T03:16:27Z,2026-03-28,True,Long Context
-1193866209,juzi1556/biyesheji919,ssm校园资讯推荐系统+jsp,https://github.com/juzi1556/biyesheji919,0,0,,,2026-03-27T16:59:15Z,2026-03-28,True,Long Context
-1193656482,biyeshejifudao/30244,教育培训微信小程序ssm,https://github.com/biyeshejifudao/30244,0,0,,,2026-03-27T13:03:23Z,2026-03-28,True,Long Context
-1193853460,juzi1556/biyesheji822,ssm海鲜自助餐厅系统+vue,https://github.com/juzi1556/biyesheji822,0,0,,,2026-03-27T16:43:11Z,2026-03-28,True,Long Context
-1193854123,juzi1556/biyesheji828,ssm应急资源管理系统+jsp,https://github.com/juzi1556/biyesheji828,0,0,,,2026-03-27T16:44:02Z,2026-03-28,True,Long Context
-1194208482,juzi1556/biyesheji1096,ssm新生报道管理系统+jsp,https://github.com/juzi1556/biyesheji1096,0,0,JavaScript,,2026-03-28T03:39:34Z,2026-03-28,True,Long Context
-1193856417,juzi1556/biyesheji844,ssm校园活动管理平台+vue,https://github.com/juzi1556/biyesheji844,0,0,,,2026-03-27T16:46:51Z,2026-03-28,True,Long Context
-1193864134,juzi1556/biyesheji902,ssm学生成绩管理系统+vue,https://github.com/juzi1556/biyesheji902,0,0,,,2026-03-27T16:56:44Z,2026-03-28,True,Long Context
-1194209867,juzi1556/biyesheji1107,ssm员工信息管理系统+jsp,https://github.com/juzi1556/biyesheji1107,0,0,JavaScript,,2026-03-28T03:42:38Z,2026-03-28,True,Long Context
-1194198790,juzi1556/biyesheji1019,ssm宠物店管理平台开发,https://github.com/juzi1556/biyesheji1019,0,0,JavaScript,,2026-03-28T03:18:00Z,2026-03-28,True,Long Context
-1194214411,juzi1556/biyesheji1140,ssm校内互助交易平台+vue,https://github.com/juzi1556/biyesheji1140,0,0,JavaScript,,2026-03-28T03:52:59Z,2026-03-28,True,Long Context
-1194200478,juzi1556/biyesheji1032,ssm酒店客房管理系统+jsp,https://github.com/juzi1556/biyesheji1032,0,0,JavaScript,,2026-03-28T03:21:51Z,2026-03-28,True,Long Context
-1193852067,juzi1556/biyesheji812,ssm共享客栈管理系统+jsp,https://github.com/juzi1556/biyesheji812,0,0,,,2026-03-27T16:41:28Z,2026-03-28,True,Long Context
-1193863889,juzi1556/biyesheji900,ssm旅游攻略网站设计+jsp,https://github.com/juzi1556/biyesheji900,0,0,,,2026-03-27T16:56:27Z,2026-03-28,True,Long Context
-1193854241,juzi1556/biyesheji829,ssm学生信息管理系统+jsp,https://github.com/juzi1556/biyesheji829,0,0,,,2026-03-27T16:44:10Z,2026-03-28,True,Long Context
-1194206726,juzi1556/biyesheji1081,ssm学生就业管理系统+jsp,https://github.com/juzi1556/biyesheji1081,0,0,JavaScript,,2026-03-28T03:35:52Z,2026-03-28,True,Long Context
-1194212629,juzi1556/biyesheji1128,ssm奖助学金管理系统+vue,https://github.com/juzi1556/biyesheji1128,0,0,JavaScript,,2026-03-28T03:48:57Z,2026-03-28,True,Long Context
-1194199919,juzi1556/biyesheji1028,ssm宠物医院管理系统+vue,https://github.com/juzi1556/biyesheji1028,0,0,JavaScript,,2026-03-28T03:20:37Z,2026-03-28,True,Long Context
-1194205194,juzi1556/biyesheji1066,ssm培训机构运营系统+vue,https://github.com/juzi1556/biyesheji1066,0,0,JavaScript,,2026-03-28T03:32:18Z,2026-03-28,True,Long Context
-1194215156,juzi1556/biyesheji1146,ssm课程资源管理系统+jsp,https://github.com/juzi1556/biyesheji1146,0,0,JavaScript,,2026-03-28T03:54:44Z,2026-03-28,True,Long Context
-1193859682,juzi1556/biyesheji869,ssm临沂旅游咨询系统+vue,https://github.com/juzi1556/biyesheji869,0,0,,,2026-03-27T16:50:55Z,2026-03-28,True,Long Context
-1193857437,juzi1556/biyesheji851,ssm人力资源管理系统+vue,https://github.com/juzi1556/biyesheji851,0,0,,,2026-03-27T16:48:04Z,2026-03-28,True,Long Context
-1193862982,juzi1556/biyesheji894,ssm餐厅点菜管理系统+vue,https://github.com/juzi1556/biyesheji894,0,0,,,2026-03-27T16:55:13Z,2026-03-28,True,Long Context
-1193866413,juzi1556/biyesheji920,ssm固定资产管理系统+jsp,https://github.com/juzi1556/biyesheji920,0,0,,,2026-03-27T16:59:31Z,2026-03-28,True,Long Context
-1193850659,juzi1556/biyesheji802,ssm网上服装销售系统+jsp,https://github.com/juzi1556/biyesheji802,0,0,,,2026-03-27T16:39:45Z,2026-03-28,True,Long Context
-1194203587,juzi1556/biyesheji1054,ssm图书管理借阅系统+jsp,https://github.com/juzi1556/biyesheji1054,0,0,JavaScript,,2026-03-28T03:28:47Z,2026-03-28,True,Long Context
-1194203972,juzi1556/biyesheji1057,ssm社区生鲜电商平台+vue,https://github.com/juzi1556/biyesheji1057,0,0,JavaScript,,2026-03-28T03:29:40Z,2026-03-28,True,Long Context
-1193860148,juzi1556/biyesheji872,ssm在线购书商城系统+vue,https://github.com/juzi1556/biyesheji872,0,0,,,2026-03-27T16:51:33Z,2026-03-28,True,Long Context
-1193858165,juzi1556/biyesheji857,ssm园区停车管理系统+jsp,https://github.com/juzi1556/biyesheji857,0,0,,,2026-03-27T16:48:59Z,2026-03-28,True,Long Context
-1193859573,juzi1556/biyesheji868,ssm乐购游戏商城系统+vue,https://github.com/juzi1556/biyesheji868,0,0,,,2026-03-27T16:50:47Z,2026-03-28,True,Long Context
-1194203845,juzi1556/biyesheji1056,ssm劳务外包管理系统+vue,https://github.com/juzi1556/biyesheji1056,0,0,JavaScript,,2026-03-28T03:29:22Z,2026-03-28,True,Long Context
-1193862496,juzi1556/biyesheji890,基于SSM框架的微博系统+vue,https://github.com/juzi1556/biyesheji890,0,0,,,2026-03-27T16:54:36Z,2026-03-28,True,Long Context
-1193855612,juzi1556/biyesheji839,ssm鲸落文化线上体验馆+vue,https://github.com/juzi1556/biyesheji839,0,0,,,2026-03-27T16:45:53Z,2026-03-28,True,Long Context
-1194204311,juzi1556/biyesheji1059,ssm毕业生交流学习平台+vue,https://github.com/juzi1556/biyesheji1059,0,0,JavaScript,,2026-03-28T03:30:28Z,2026-03-28,True,Long Context
-1193343959,sdsded124/biyesheji2290,基于SSM的淘宝屋购物商城,https://github.com/sdsded124/biyesheji2290,0,0,JavaScript,,2026-03-27T05:51:33Z,2026-03-28,True,Long Context
-1194209251,juzi1556/biyesheji1102,ssm校园停车场管理系统+jsp,https://github.com/juzi1556/biyesheji1102,0,0,JavaScript,,2026-03-28T03:41:18Z,2026-03-28,True,Long Context
-1194196595,juzi1556/biyesheji1002,ssm作业提交与查收系统+jsp,https://github.com/juzi1556/biyesheji1002,0,0,JavaScript,,2026-03-28T03:12:58Z,2026-03-28,True,Long Context
-1194200610,juzi1556/biyesheji1033,ssm本科生导师指导平台+vue,https://github.com/juzi1556/biyesheji1033,0,0,JavaScript,,2026-03-28T03:22:07Z,2026-03-28,True,Long Context
-1193658727,biyeshejifudao/30261,学习资料库小程序设计ssm,https://github.com/biyeshejifudao/30261,0,0,,,2026-03-27T13:05:09Z,2026-03-28,True,Long Context
-1193857302,juzi1556/biyesheji850,ssm实验室开放管理系统+jsp,https://github.com/juzi1556/biyesheji850,0,0,,,2026-03-27T16:47:55Z,2026-03-28,True,Long Context
-1194211949,juzi1556/biyesheji1122,ssm“花鸣”B2C电子商务平台+vue,https://github.com/juzi1556/biyesheji1122,0,0,JavaScript,,2026-03-28T03:47:22Z,2026-03-28,True,Long Context
-1193654056,biyeshejifudao/30219,微信小程序评分小程序ssm,https://github.com/biyeshejifudao/30219,0,0,,,2026-03-27T13:00:42Z,2026-03-28,True,Long Context
-1194213561,juzi1556/biyesheji1135,ssm基于web的网盘管理系统+vue,https://github.com/juzi1556/biyesheji1135,0,0,JavaScript,,2026-03-28T03:51:03Z,2026-03-28,True,Long Context
-1194203092,juzi1556/biyesheji1049,ssm基于web的楼房销售系统+jsp,https://github.com/juzi1556/biyesheji1049,0,0,JavaScript,,2026-03-28T03:27:31Z,2026-03-28,True,Long Context
-1194201594,juzi1556/biyesheji1039,ssm电脑公司财务管理系统+vue,https://github.com/juzi1556/biyesheji1039,0,0,JavaScript,,2026-03-28T03:24:16Z,2026-03-28,True,Long Context
-1194203480,juzi1556/biyesheji1053,ssm建筑装修图纸管理平台+jsp,https://github.com/juzi1556/biyesheji1053,0,0,JavaScript,,2026-03-28T03:28:31Z,2026-03-28,True,Long Context
-1194199772,juzi1556/biyesheji1027,ssm办公自动化管理系统java+vue,https://github.com/juzi1556/biyesheji1027,0,0,JavaScript,,2026-03-28T03:20:19Z,2026-03-28,True,Long Context
-1193853590,juzi1556/biyesheji823,ssm端游账号销售管理系统+jsp,https://github.com/juzi1556/biyesheji823,0,0,,,2026-03-27T16:43:21Z,2026-03-28,True,Long Context
-1194210244,juzi1556/biyesheji1110,ssm学生疫情信息管理系统+jsp,https://github.com/juzi1556/biyesheji1110,0,0,JavaScript,,2026-03-28T03:43:27Z,2026-03-28,True,Long Context
-1193326719,sdsded124/biyesheji2199,基于SSM架构的网上书城系统,https://github.com/sdsded124/biyesheji2199,0,0,JavaScript,,2026-03-27T05:22:29Z,2026-03-28,True,Long Context
-1193656588,biyeshejifudao/30245,食堂校园预约就餐小程序ssm,https://github.com/biyeshejifudao/30245,0,0,,,2026-03-27T13:03:29Z,2026-03-28,True,Long Context
-1194215047,juzi1556/biyesheji1145,ssm基于html5的济南旅游网站+vue,https://github.com/juzi1556/biyesheji1145,0,0,JavaScript,,2026-03-28T03:54:28Z,2026-03-28,True,Long Context
-1193864296,juzi1556/biyesheji903,ssm旅游网站的设计与实现+jsp,https://github.com/juzi1556/biyesheji903,0,0,,,2026-03-27T16:56:53Z,2026-03-28,True,Long Context
-1194198653,juzi1556/biyesheji1018,ssm基于vue的搬家预约系统+vue,https://github.com/juzi1556/biyesheji1018,0,0,JavaScript,,2026-03-28T03:17:43Z,2026-03-28,True,Long Context
-1194212491,juzi1556/biyesheji1127,ssm荆州理工职业学院网站+vue,https://github.com/juzi1556/biyesheji1127,0,0,JavaScript,,2026-03-28T03:48:40Z,2026-03-28,True,Long Context
-1193655781,biyeshejifudao/30237,小程序疫苗预约网站系统ssm,https://github.com/biyeshejifudao/30237,0,0,,,2026-03-27T13:02:38Z,2026-03-28,True,Long Context
-1194204835,juzi1556/biyesheji1063,ssm基于jsp的网络书店系统+jsp,https://github.com/juzi1556/biyesheji1063,0,0,JavaScript,,2026-03-28T03:31:33Z,2026-03-28,True,Long Context
-1194207335,juzi1556/biyesheji1086,ssm考研图书电子商务平台+vue,https://github.com/juzi1556/biyesheji1086,0,0,JavaScript,,2026-03-28T03:37:05Z,2026-03-28,True,Long Context
-1193851214,juzi1556/biyesheji806,ssm网上医院预约挂号系统+jsp,https://github.com/juzi1556/biyesheji806,0,0,,,2026-03-27T16:40:27Z,2026-03-28,True,Long Context
-1194207113,juzi1556/biyesheji1084,ssm超市库存商品管理系统+jsp,https://github.com/juzi1556/biyesheji1084,0,0,JavaScript,,2026-03-28T03:36:37Z,2026-03-28,True,Long Context
-1193858914,juzi1556/biyesheji862,ssm基于jsp的网上手机商城+jsp,https://github.com/juzi1556/biyesheji862,0,0,,,2026-03-27T16:49:54Z,2026-03-28,True,Long Context
-1194212384,juzi1556/biyesheji1126,ssm焦作旅游协会管理系统+jsp,https://github.com/juzi1556/biyesheji1126,0,0,JavaScript,,2026-03-28T03:48:23Z,2026-03-28,True,Long Context
-1193865241,juzi1556/biyesheji910,ssm基于Vue框架的订餐系统+vue,https://github.com/juzi1556/biyesheji910,0,0,,,2026-03-27T16:58:00Z,2026-03-28,True,Long Context
-1194205818,juzi1556/biyesheji1072,ssm个人网站的设计与实现+vue,https://github.com/juzi1556/biyesheji1072,0,0,JavaScript,,2026-03-28T03:33:45Z,2026-03-28,True,Long Context
-1194206435,juzi1556/biyesheji1078,ssm房屋租售信息管理系统+jsp,https://github.com/juzi1556/biyesheji1078,0,0,JavaScript,,2026-03-28T03:35:10Z,2026-03-28,True,Long Context
-1193442415,sdsded124/biyesheji2462,基于SSM的网上鲜花销售系统,https://github.com/sdsded124/biyesheji2462,0,0,JavaScript,,2026-03-27T08:22:04Z,2026-03-28,True,Long Context
-1194209403,juzi1556/biyesheji1103,ssm校园服务平台管理系统+jsp,https://github.com/juzi1556/biyesheji1103,0,0,JavaScript,,2026-03-28T03:41:38Z,2026-03-28,True,Long Context
-1193867404,juzi1556/biyesheji928,ssm基于web的药品管理系统+vue,https://github.com/juzi1556/biyesheji928,0,0,,,2026-03-27T17:00:48Z,2026-03-28,True,Long Context
-1193857818,juzi1556/biyesheji854,ssm珠宝首饰交易平台开发+jsp,https://github.com/juzi1556/biyesheji854,0,0,,,2026-03-27T16:48:32Z,2026-03-28,True,Long Context
-1193862054,juzi1556/biyesheji887,ssm工贸学生信息管理系统+jsp,https://github.com/juzi1556/biyesheji887,0,0,,,2026-03-27T16:54:01Z,2026-03-28,True,Long Context
-1194198053,juzi1556/biyesheji1013,ssm餐饮掌上设备点餐系统+vue,https://github.com/juzi1556/biyesheji1013,0,0,JavaScript,,2026-03-28T03:16:11Z,2026-03-28,True,Long Context
-1194197709,juzi1556/biyesheji1010,ssm毕业设计项目管理系统+jsp,https://github.com/juzi1556/biyesheji1010,0,0,JavaScript,,2026-03-28T03:15:28Z,2026-03-28,True,Long Context
-1194208012,juzi1556/biyesheji1092,ssm超市会员（积分)管理系统+jsp,https://github.com/juzi1556/biyesheji1092,0,0,JavaScript,,2026-03-28T03:38:29Z,2026-03-28,True,Long Context
-1194199020,juzi1556/biyesheji1021,ssm流浪动物领养系统网站+jsp,https://github.com/juzi1556/biyesheji1021,0,0,JavaScript,,2026-03-28T03:18:35Z,2026-03-28,True,Long Context
-1194198542,juzi1556/biyesheji1017,基于SSM框架的个人通讯录+jsp,https://github.com/juzi1556/biyesheji1017,0,0,JavaScript,,2026-03-28T03:17:26Z,2026-03-28,True,Long Context
-1193862158,juzi1556/biyesheji888,ssm连锁经营商业管理系统+jsp,https://github.com/juzi1556/biyesheji888,0,0,,,2026-03-27T16:54:09Z,2026-03-28,True,Long Context
-1193866633,juzi1556/biyesheji922,ssm基于Java的学习交流论坛+vue,https://github.com/juzi1556/biyesheji922,0,0,,,2026-03-27T16:59:49Z,2026-03-28,True,Long Context
-1194200804,juzi1556/biyesheji1034,基于SSM框架的电脑测评系统+vue,https://github.com/juzi1556/biyesheji1034,0,0,JavaScript,,2026-03-28T03:22:32Z,2026-03-28,True,Long Context
-1194211303,juzi1556/biyesheji1117,ssm智能仓储系统研究与设计+jsp,https://github.com/juzi1556/biyesheji1117,0,0,JavaScript,,2026-03-28T03:45:52Z,2026-03-28,True,Long Context
-1193853309,juzi1556/biyesheji821,ssm中小型企业财务管理系统+jsp,https://github.com/juzi1556/biyesheji821,0,0,,,2026-03-27T16:43:00Z,2026-03-28,True,Long Context
-1193855515,juzi1556/biyesheji838,ssm的大型商场会员管理系统+jsp,https://github.com/juzi1556/biyesheji838,0,0,,,2026-03-27T16:45:44Z,2026-03-28,True,Long Context
-1194202524,juzi1556/biyesheji1044,ssm生鲜配送系统设计及实现+jsp,https://github.com/juzi1556/biyesheji1044,0,0,JavaScript,,2026-03-28T03:26:15Z,2026-03-28,True,Long Context
-1193863102,juzi1556/biyesheji895,ssm视频点播系统设计与实现+vue,https://github.com/juzi1556/biyesheji895,0,0,,,2026-03-27T16:55:24Z,2026-03-28,True,Long Context
-1193860386,juzi1556/biyesheji874,ssm开放式教学评价管理系统+vue,https://github.com/juzi1556/biyesheji874,0,0,,,2026-03-27T16:51:52Z,2026-03-28,True,Long Context
-1193854583,juzi1556/biyesheji831,ssm铁岭河医院医患管理系统+vue,https://github.com/juzi1556/biyesheji831,0,0,,,2026-03-27T16:44:37Z,2026-03-28,True,Long Context
-1193849718,juzi1556/biyesheji796,ssm绿色农产品推广应用网站+vue,https://github.com/juzi1556/biyesheji796,0,0,,,2026-03-27T16:38:31Z,2026-03-28,True,Long Context
-1193854467,juzi1556/biyesheji830,ssm校园快递一站式服务系统+jsp,https://github.com/juzi1556/biyesheji830,0,0,,,2026-03-27T16:44:28Z,2026-03-28,True,Long Context
-1194213379,juzi1556/biyesheji1134,ssm航帆学院网站设计与实现+vue,https://github.com/juzi1556/biyesheji1134,0,0,JavaScript,,2026-03-28T03:50:37Z,2026-03-28,True,Long Context
-1194207787,juzi1556/biyesheji1090,基于SSM框架的健康管理系统+vue,https://github.com/juzi1556/biyesheji1090,0,0,JavaScript,,2026-03-28T03:37:59Z,2026-03-28,True,Long Context
-1194210864,juzi1556/biyesheji1114,ssm设备配件管理和设备检修+vue,https://github.com/juzi1556/biyesheji1114,0,0,JavaScript,,2026-03-28T03:44:52Z,2026-03-28,True,Long Context
-1194208859,juzi1556/biyesheji1099,基于SSM的药店药品销售系统+vue,https://github.com/juzi1556/biyesheji1099,0,0,JavaScript,,2026-03-28T03:40:23Z,2026-03-28,True,Long Context
-1194202029,juzi1556/biyesheji1041,SSM的婚恋网站的设计与实现+vue,https://github.com/juzi1556/biyesheji1041,0,0,JavaScript,,2026-03-28T03:25:07Z,2026-03-28,True,Long Context
-1193852336,juzi1556/biyesheji814,SSM的高校共享单车管理系统+vue,https://github.com/juzi1556/biyesheji814,0,0,,,2026-03-27T16:41:46Z,2026-03-28,True,Long Context
-1193857682,juzi1556/biyesheji853,ssm医学生在线学习交流平台+vue,https://github.com/juzi1556/biyesheji853,0,0,,,2026-03-27T16:48:22Z,2026-03-28,True,Long Context
-1193864420,juzi1556/biyesheji904,ssm大学生就业信息管理系统+jsp,https://github.com/juzi1556/biyesheji904,0,0,,,2026-03-27T16:57:01Z,2026-03-28,True,Long Context
-1194211799,juzi1556/biyesheji1121,ssm星火许电影小说网站设计+jsp,https://github.com/juzi1556/biyesheji1121,0,0,JavaScript,,2026-03-28T03:47:02Z,2026-03-28,True,Long Context
-1193863317,juzi1556/biyesheji897,SSM的校园二手物品交易平台+vue,https://github.com/juzi1556/biyesheji897,0,0,,,2026-03-27T16:55:41Z,2026-03-28,True,Long Context
-1193866768,juzi1556/biyesheji923,基于ssm的疫情物质管理系统+jsp,https://github.com/juzi1556/biyesheji923,0,0,,,2026-03-27T16:59:59Z,2026-03-28,True,Long Context
-1193852818,juzi1556/biyesheji818,ssm农产品仓库管理系统系统+jsp,https://github.com/juzi1556/biyesheji818,0,0,,,2026-03-27T16:42:23Z,2026-03-28,True,Long Context
-1193864703,juzi1556/biyesheji906,ssm前后端分离鲜花销售系统+vue,https://github.com/juzi1556/biyesheji906,0,0,,,2026-03-27T16:57:19Z,2026-03-28,True,Long Context
-1194203719,juzi1556/biyesheji1055,基于SSM+Vue的随心淘网管理系统,https://github.com/juzi1556/biyesheji1055,0,0,JavaScript,,2026-03-28T03:29:04Z,2026-03-28,True,Long Context
-1194209765,juzi1556/biyesheji1106,ssm实验室仪器设备管理系统+jsp,https://github.com/juzi1556/biyesheji1106,0,0,JavaScript,,2026-03-28T03:42:24Z,2026-03-28,True,Long Context
-1193865439,juzi1556/biyesheji912,ssm框架的大学生就业信息平台+jsp,https://github.com/juzi1556/biyesheji912,0,0,,,2026-03-27T16:58:17Z,2026-03-28,True,Long Context
-1193851329,juzi1556/biyesheji807,ssm游戏攻略网站的设计与实现+vue,https://github.com/juzi1556/biyesheji807,0,0,,,2026-03-27T16:40:35Z,2026-03-28,True,Long Context
-1194199259,juzi1556/biyesheji1023,ssm社区智慧养老监护管理平台+vue,https://github.com/juzi1556/biyesheji1023,0,0,JavaScript,,2026-03-28T03:19:10Z,2026-03-28,True,Long Context
-1194205530,juzi1556/biyesheji1069,ssm的游戏销售系统的设计与实现,https://github.com/juzi1556/biyesheji1069,0,0,JavaScript,,2026-03-28T03:33:05Z,2026-03-28,True,Long Context
-1193861240,juzi1556/biyesheji880,基于SSM的乡镇篮球队管理系统+jsp,https://github.com/juzi1556/biyesheji880,0,0,,,2026-03-27T16:52:57Z,2026-03-28,True,Long Context
-1194209967,juzi1556/biyesheji1108,ssm智慧养老平台的设计与实现+jsp,https://github.com/juzi1556/biyesheji1108,0,0,JavaScript,,2026-03-28T03:42:52Z,2026-03-28,True,Long Context
-1194201856,juzi1556/biyesheji1040,ssm二手车交易网站设计与实现+vue,https://github.com/juzi1556/biyesheji1040,0,0,JavaScript,,2026-03-28T03:24:48Z,2026-03-28,True,Long Context
-1194207658,juzi1556/biyesheji1089,基于SSM框架的高校试题管理系统,https://github.com/juzi1556/biyesheji1089,0,0,JavaScript,,2026-03-28T03:37:44Z,2026-03-28,True,Long Context
-1193655700,biyeshejifudao/30236,小程序疫苗预约网站系统ssm（后台）,https://github.com/biyeshejifudao/30236,0,0,,,2026-03-27T13:02:32Z,2026-03-28,True,Long Context
-1194209621,juzi1556/biyesheji1105,ssm校园家教兼职信息交流平台+jsp,https://github.com/juzi1556/biyesheji1105,0,0,JavaScript,,2026-03-28T03:42:09Z,2026-03-28,True,Long Context
-1193609795,sdsded124/biyesheji2741,基于ssm的线上花店的设计与实现,https://github.com/sdsded124/biyesheji2741,0,0,JavaScript,,2026-03-27T12:04:07Z,2026-03-28,True,Long Context
-1194214252,juzi1556/biyesheji1139,ssm工单管理系统的设计与实现+jsp,https://github.com/juzi1556/biyesheji1139,0,0,JavaScript,,2026-03-28T03:52:36Z,2026-03-28,True,Long Context
-1194214765,juzi1556/biyesheji1143,基于ssm框架网络财务设计与实现,https://github.com/juzi1556/biyesheji1143,0,0,JavaScript,,2026-03-28T03:53:47Z,2026-03-28,True,Long Context
-1194212156,juzi1556/biyesheji1124,ssm高校实验室资源综合管理系统+jsp,https://github.com/juzi1556/biyesheji1124,0,0,JavaScript,,2026-03-28T03:47:50Z,2026-03-28,True,Long Context
-1193655591,biyeshejifudao/30235,基于微信小程序点餐系统的设计ssm,https://github.com/biyeshejifudao/30235,0,0,,,2026-03-27T13:02:26Z,2026-03-28,True,Long Context
-1193867007,juzi1556/biyesheji925,ssm旅行社管理系统的设计与实现+jsp,https://github.com/juzi1556/biyesheji925,0,0,,,2026-03-27T17:00:18Z,2026-03-28,True,Long Context
-1193659208,biyeshejifudao/30264,基于微信小程序的插画共享平台ssm,https://github.com/biyeshejifudao/30264,0,0,,,2026-03-27T13:05:28Z,2026-03-28,True,Long Context
-1193867275,juzi1556/biyesheji927,ssm开心农家乐系统的设计与实现+jsp,https://github.com/juzi1556/biyesheji927,0,0,,,2026-03-27T17:00:37Z,2026-03-28,True,Long Context
-1193851439,juzi1556/biyesheji808,ssm班主任助理系统的设计与实现+jsp,https://github.com/juzi1556/biyesheji808,0,0,,,2026-03-27T16:40:43Z,2026-03-28,True,Long Context
-1193659325,biyeshejifudao/30265,基于微信小程序的小说阅读系统ssm,https://github.com/biyeshejifudao/30265,0,0,,,2026-03-27T13:05:35Z,2026-03-28,True,Long Context
-1193656846,biyeshejifudao/30247,微信小程序的高校党费收缴系统ssm,https://github.com/biyeshejifudao/30247,0,0,,,2026-03-27T13:03:41Z,2026-03-28,True,Long Context
-1193656385,biyeshejifudao/30243,基于微信小程序的垃圾分类系统ssm,https://github.com/biyeshejifudao/30243,0,0,,,2026-03-27T13:03:16Z,2026-03-28,True,Long Context
-1193654437,biyeshejifudao/30223,基于微信小程序的球馆预约系统ssm,https://github.com/biyeshejifudao/30223,0,0,,,2026-03-27T13:01:08Z,2026-03-28,True,Long Context
-1193864567,juzi1556/biyesheji905,ssm家庭财务管理系统设计与实现+jsp,https://github.com/juzi1556/biyesheji905,0,0,,,2026-03-27T16:57:11Z,2026-03-28,True,Long Context
-1193849833,juzi1556/biyesheji797,ssm在线云音乐系统的设计与实现+jsp,https://github.com/juzi1556/biyesheji797,0,0,,,2026-03-27T16:38:42Z,2026-03-28,True,Long Context
-1193850767,juzi1556/biyesheji803,ssm电子竞技管理平台设计与实现+jsp,https://github.com/juzi1556/biyesheji803,0,0,,,2026-03-27T16:39:55Z,2026-03-28,True,Long Context
-1194214652,juzi1556/biyesheji1142,ssm进销存管理系统的设计与实现+jsp,https://github.com/juzi1556/biyesheji1142,0,0,JavaScript,,2026-03-28T03:53:31Z,2026-03-28,True,Long Context
-1194214899,juzi1556/biyesheji1144,ssm思途旅游管理系统分析与设计+jsp,https://github.com/juzi1556/biyesheji1144,0,0,JavaScript,,2026-03-28T03:54:06Z,2026-03-28,True,Long Context
-1193656174,biyeshejifudao/30241,基于微信小程序的外卖点餐系统ssm,https://github.com/biyeshejifudao/30241,0,0,,,2026-03-27T13:03:03Z,2026-03-28,True,Long Context
-1193228148,sdsded124/biyesheji1746,健身达人微信小程序的设计与实现ssm,https://github.com/sdsded124/biyesheji1746,0,0,JavaScript,,2026-03-27T02:12:58Z,2026-03-28,True,Long Context
-1193659023,biyeshejifudao/30263,微信小程序跑腿平台的设计与实现ssm,https://github.com/biyeshejifudao/30263,0,0,,,2026-03-27T13:05:21Z,2026-03-28,True,Long Context
-1193654548,biyeshejifudao/30224,基于java的餐厅点餐系统微信小程序ssm,https://github.com/biyeshejifudao/30224,0,0,,,2026-03-27T13:01:14Z,2026-03-28,True,Long Context
-1193196162,sdsded124/biyesheji1577,基于小程序的购物系统设计与实现+ssm,https://github.com/sdsded124/biyesheji1577,0,0,JavaScript,,2026-03-27T01:10:02Z,2026-03-28,True,Long Context
-1193233641,sdsded124/biyesheji1778,便捷饭店点餐小程序的设计与实现ssm,https://github.com/sdsded124/biyesheji1778,0,0,JavaScript,,2026-03-27T02:23:29Z,2026-03-28,True,Long Context
-1193215575,sdsded124/biyesheji1671,网络小说微信小程序的设计与实现+ssm,https://github.com/sdsded124/biyesheji1671,0,0,JavaScript,,2026-03-27T01:48:47Z,2026-03-28,True,Long Context
-1193609575,sdsded124/biyesheji2740,基于SSM的农家乐预约系统设计与实现,https://github.com/sdsded124/biyesheji2740,0,0,JavaScript,,2026-03-27T12:03:48Z,2026-03-28,True,Long Context
-1193213198,sdsded124/biyesheji1657,基于移动平台的远程在线诊疗系统+ssm,https://github.com/sdsded124/biyesheji1657,0,0,JavaScript,,2026-03-27T01:44:00Z,2026-03-28,True,Long Context
-1193211806,sdsded124/biyesheji1648,会议发布与预约系统的设计与开发+ssm,https://github.com/sdsded124/biyesheji1648,0,0,JavaScript,,2026-03-27T01:41:10Z,2026-03-28,True,Long Context
-1193180541,sdsded124/biyesheji1502,基于ssm+vue的中国版Blackboard学习系统实现+vue,https://github.com/sdsded124/biyesheji1502,0,0,JavaScript,,2026-03-27T00:37:18Z,2026-03-28,True,Long Context
-1193231368,sdsded124/biyesheji1764,中国剪纸微信小程序的设计与实现ssm,https://github.com/sdsded124/biyesheji1764,0,0,JavaScript,,2026-03-27T02:19:09Z,2026-03-28,True,Long Context
-1193609987,sdsded124/biyesheji2742,基于SSM线上视频学习系统设计与实现,https://github.com/sdsded124/biyesheji2742,0,0,JavaScript,,2026-03-27T12:04:23Z,2026-03-28,True,Long Context
-1193234424,sdsded124/biyesheji1784,基于微信小程序的二手物品交易平台ssm,https://github.com/sdsded124/biyesheji1784,0,0,JavaScript,,2026-03-27T02:25:04Z,2026-03-28,True,Long Context
-1193185826,sdsded124/biyesheji1530,基于SSM的宠物服务平台的设计与实现+vue,https://github.com/sdsded124/biyesheji1530,0,0,JavaScript,,2026-03-27T00:48:45Z,2026-03-28,True,Long Context
-1193656076,biyeshejifudao/30240,基于微信小程序的校园综合服务平台ssm,https://github.com/biyeshejifudao/30240,0,0,,,2026-03-27T13:02:57Z,2026-03-28,True,Long Context
-1193229518,sdsded124/biyesheji1754,澡堂预订的微信小程序的设计和利用ssm,https://github.com/sdsded124/biyesheji1754,0,0,JavaScript,,2026-03-27T02:15:40Z,2026-03-28,True,Long Context
-1193182230,sdsded124/biyesheji1512,基于SSM框架的P2P借贷网站设计与实现+vue,https://github.com/sdsded124/biyesheji1512,0,0,JavaScript,,2026-03-27T00:40:48Z,2026-03-28,True,Long Context
-1193204550,sdsded124/biyesheji1613,基于微信小程序的4S店客户管理系统+ssm,https://github.com/sdsded124/biyesheji1613,0,0,JavaScript,,2026-03-27T01:26:41Z,2026-03-28,True,Long Context
-1193228441,sdsded124/biyesheji1748,校园反诈骗微信小程序的设计与开发ssm,https://github.com/sdsded124/biyesheji1748,0,0,JavaScript,,2026-03-27T02:13:32Z,2026-03-28,True,Long Context
-1193220230,sdsded124/biyesheji1701,个人健康数据管理系统的设计与实现+ssm,https://github.com/sdsded124/biyesheji1701,0,0,JavaScript,,2026-03-27T01:57:45Z,2026-03-28,True,Long Context
-1193232406,sdsded124/biyesheji1771,基于微信平台的购物商城小程序开发ssm,https://github.com/sdsded124/biyesheji1771,0,0,JavaScript,,2026-03-27T02:21:17Z,2026-03-28,True,Long Context
-1193228769,sdsded124/biyesheji1750,基于微信小程序的教学质量评价系统ssm,https://github.com/sdsded124/biyesheji1750,0,0,JavaScript,,2026-03-27T02:14:07Z,2026-03-28,True,Long Context
-1193655864,biyeshejifudao/30238,基于微信小程序的校园二手交易平台ssm,https://github.com/biyeshejifudao/30238,0,0,,,2026-03-27T13:02:45Z,2026-03-28,True,Long Context
-1193199358,sdsded124/biyesheji1591,基于Vue.js的校园防疫微信小程序开发+ssm,https://github.com/sdsded124/biyesheji1591,0,0,JavaScript,,2026-03-27T01:16:46Z,2026-03-28,True,Long Context
-1193442905,sdsded124/biyesheji2463,基于SSM的养老院管理系统的设计与实现,https://github.com/sdsded124/biyesheji2463,0,0,JavaScript,,2026-03-27T08:22:44Z,2026-03-28,True,Long Context
-1193225128,sdsded124/biyesheji1730,阳光电脑公司的维修服务微信小程序+ssm,https://github.com/sdsded124/biyesheji1730,0,0,JavaScript,,2026-03-27T02:07:23Z,2026-03-28,True,Long Context
-1193655013,biyeshejifudao/30229,学生资助在线管理软件开发微信小程序ssm,https://github.com/biyeshejifudao/30229,0,0,,,2026-03-27T13:01:48Z,2026-03-28,True,Long Context
-1193230558,sdsded124/biyesheji1759,基于小程序宿舍报修系统的设计与实现ssm,https://github.com/sdsded124/biyesheji1759,0,0,JavaScript,,2026-03-27T02:17:36Z,2026-03-28,True,Long Context
-1193439749,sdsded124/biyesheji2455,基于SSM框架的老年群体安全用药管理系统,https://github.com/sdsded124/biyesheji2455,0,0,JavaScript,,2026-03-27T08:18:12Z,2026-03-28,True,Long Context
-1193231596,sdsded124/biyesheji1766,在线厨艺平台的设计与实现微信小程序ssm,https://github.com/sdsded124/biyesheji1766,0,0,JavaScript,,2026-03-27T02:19:40Z,2026-03-28,True,Long Context
-1193228606,sdsded124/biyesheji1749,基于微信小程序的电影院订票选座系统ssm,https://github.com/sdsded124/biyesheji1749,0,0,JavaScript,,2026-03-27T02:13:49Z,2026-03-28,True,Long Context
-1193438675,sdsded124/biyesheji2453,基于SSM的流浪动物救助系统的设计与实现,https://github.com/sdsded124/biyesheji2453,0,0,JavaScript,,2026-03-27T08:16:46Z,2026-03-28,True,Long Context
-1193657255,biyeshejifudao/30250,基于微信小程序的跳蚤市场设计与实现ssm,https://github.com/biyeshejifudao/30250,0,0,,,2026-03-27T13:04:01Z,2026-03-28,True,Long Context
-1193231728,sdsded124/biyesheji1767,基于微信小程序的小区管理系统的设计ssm,https://github.com/sdsded124/biyesheji1767,0,0,JavaScript,,2026-03-27T02:19:56Z,2026-03-28,True,Long Context
-1193186484,sdsded124/biyesheji1532,基于SSM的体育用品交易网站的设计与实现+vue,https://github.com/sdsded124/biyesheji1532,0,0,JavaScript,,2026-03-27T00:50:03Z,2026-03-28,True,Long Context
-1193202175,sdsded124/biyesheji1603,校园二手平台的设计与实现+ssm(没有演示视频),https://github.com/sdsded124/biyesheji1603,0,0,JavaScript,,2026-03-27T01:22:19Z,2026-03-28,True,Long Context
-1193206761,sdsded124/biyesheji1623,校园二手交易平台的小程序+ssm(没有演示视频),https://github.com/sdsded124/biyesheji1623,0,0,JavaScript,,2026-03-27T01:30:40Z,2026-03-28,True,Long Context
-1193657951,biyeshejifudao/30255,基于微信小程序的手机商城的设计与实现ssm,https://github.com/biyeshejifudao/30255,0,0,,,2026-03-27T13:04:31Z,2026-03-28,True,Long Context
-1193232001,sdsded124/biyesheji1769,基于微信小程序的社区垃圾回收管理系统ssm,https://github.com/sdsded124/biyesheji1769,0,0,JavaScript,,2026-03-27T02:20:32Z,2026-03-28,True,Long Context
-1193196784,sdsded124/biyesheji1580,校园水电费管理微信小程序的设计与实现+ssm,https://github.com/sdsded124/biyesheji1580,0,0,JavaScript,,2026-03-27T01:11:21Z,2026-03-28,True,Long Context
-1193197766,sdsded124/biyesheji1584,基于微信平台的旅游出行必备商城小程序+ssm,https://github.com/sdsded124/biyesheji1584,0,0,JavaScript,,2026-03-27T01:13:20Z,2026-03-28,True,Long Context
-1193526495,sdsded124/biyesheji2561,基于SSM的宠物店线上运营系统的设计与实现,https://github.com/sdsded124/biyesheji2561,0,0,JavaScript,,2026-03-27T10:16:55Z,2026-03-28,True,Long Context
-1193181489,sdsded124/biyesheji1507,基于SSM框架的漫画阅读系统的设计与开发+vue,https://github.com/sdsded124/biyesheji1507,0,0,JavaScript,,2026-03-27T00:39:15Z,2026-03-28,True,Long Context
-1193225686,sdsded124/biyesheji1733,基于H5的智慧消防微信小程序设计与开发+ssm,https://github.com/sdsded124/biyesheji1733,0,0,JavaScript,,2026-03-27T02:08:25Z,2026-03-28,True,Long Context
-1193442113,sdsded124/biyesheji2461,基于SSM+VUE的智慧出租管理系统的设计与实现,https://github.com/sdsded124/biyesheji2461,0,0,JavaScript,,2026-03-27T08:21:37Z,2026-03-28,True,Long Context
-1193655189,biyeshejifudao/30231,速达物流信息查询微信小程序设计与实现ssm,https://github.com/biyeshejifudao/30231,0,0,,,2026-03-27T13:02:01Z,2026-03-28,True,Long Context
-1193201940,sdsded124/biyesheji1602,基于微信的原创音乐小程序的设计与实现+ssm,https://github.com/sdsded124/biyesheji1602,0,0,JavaScript,,2026-03-27T01:21:53Z,2026-03-28,True,Long Context
-1193212346,sdsded124/biyesheji1652,亿家旺生鲜云订单零售系统的设计与实现+ssm,https://github.com/sdsded124/biyesheji1652,0,0,JavaScript,,2026-03-27T01:42:21Z,2026-03-28,True,Long Context
-1193181311,sdsded124/biyesheji1506,基于SSM的快递信息管理系统的设计与实现+vue,https://github.com/sdsded124/biyesheji1506,0,0,JavaScript,,2026-03-27T00:38:54Z,2026-03-28,True,Long Context
-1193183657,sdsded124/biyesheji1519,基于SSM的图书借阅管理系统的设计与开发+vue,https://github.com/sdsded124/biyesheji1519,0,0,JavaScript,,2026-03-27T00:44:04Z,2026-03-28,True,Long Context
-1193201280,sdsded124/biyesheji1599,基于微信小程序的童装商城的设计与实现+ssm,https://github.com/sdsded124/biyesheji1599,0,0,JavaScript,,2026-03-27T01:20:38Z,2026-03-28,True,Long Context
-1193654922,biyeshejifudao/30228,基于微信小程序的走失人员的报备平台设计ssm,https://github.com/biyeshejifudao/30228,0,0,,,2026-03-27T13:01:41Z,2026-03-28,True,Long Context
-1193234559,sdsded124/biyesheji1785,基于微信小程序投票评选系统的设计与实现ssm,https://github.com/sdsded124/biyesheji1785,0,0,JavaScript,,2026-03-27T02:25:19Z,2026-03-28,True,Long Context
-1193656276,biyeshejifudao/30242,基于微信小程序的外卖点餐系统设计与实现ssm,https://github.com/biyeshejifudao/30242,0,0,,,2026-03-27T13:03:09Z,2026-03-28,True,Long Context
-1193654241,biyeshejifudao/30221,新冠肺炎服务预约微信小程序的设计与实现ssm,https://github.com/biyeshejifudao/30221,0,0,,,2026-03-27T13:00:54Z,2026-03-28,True,Long Context
-1193655985,biyeshejifudao/30239,基于微信小程序高校订餐系统的设计与开发ssm,https://github.com/biyeshejifudao/30239,0,0,,,2026-03-27T13:02:51Z,2026-03-28,True,Long Context
-1193195762,sdsded124/biyesheji1575,基于SSM框架的民宿预订管理系统设计与实现+vue,https://github.com/sdsded124/biyesheji1575,0,0,JavaScript,,2026-03-27T01:09:09Z,2026-03-28,True,Long Context
-1193199129,sdsded124/biyesheji1590,健身管理系统及会员微信小程序的设计与实现+ssm,https://github.com/sdsded124/biyesheji1590,0,0,JavaScript,,2026-03-27T01:16:16Z,2026-03-28,True,Long Context
-1193233181,sdsded124/biyesheji1775,基于微信小程序的快递管理平台的设计与实现ssm,https://github.com/sdsded124/biyesheji1775,0,0,JavaScript,,2026-03-27T02:22:39Z,2026-03-28,True,Long Context
-1193199542,sdsded124/biyesheji1592,基于微信的设备故障报修管理系统设计与实现+ssm,https://github.com/sdsded124/biyesheji1592,0,0,JavaScript,,2026-03-27T01:17:12Z,2026-03-28,True,Long Context
-1193199809,sdsded124/biyesheji1593,基于微信小程序的学生公寓电费信息管理系统+ssm,https://github.com/sdsded124/biyesheji1593,0,0,JavaScript,,2026-03-27T01:17:47Z,2026-03-28,True,Long Context
-1193185264,sdsded124/biyesheji1527,基于SSM的的农产品线上销售网站的设计与实现+vue,https://github.com/sdsded124/biyesheji1527,0,0,JavaScript,,2026-03-27T00:47:30Z,2026-03-28,True,Long Context
-1193441215,sdsded124/biyesheji2458,基于 SSM 框架的医院人力资源管理系统的设计与实,https://github.com/sdsded124/biyesheji2458,0,0,JavaScript,,2026-03-27T08:20:19Z,2026-03-28,True,Long Context
-1193659621,biyeshejifudao/30267,基于微信平台的报刊订阅小程序的设计与实现ssm,https://github.com/biyeshejifudao/30267,0,0,,,2026-03-27T13:05:49Z,2026-03-28,True,Long Context
-1193654716,biyeshejifudao/30226,基于微信小程序的新生报到系统的设计与实现ssm,https://github.com/biyeshejifudao/30226,0,0,,,2026-03-27T13:01:28Z,2026-03-28,True,Long Context
-1193198689,sdsded124/biyesheji1588,基于微信小程序的科创微应用平台设计与实现+ssm,https://github.com/sdsded124/biyesheji1588,0,0,JavaScript,,2026-03-27T01:15:19Z,2026-03-28,True,Long Context
-1193194764,sdsded124/biyesheji1571,基于ssm的心理预约咨询管理系统的设计与实现+vue,https://github.com/sdsded124/biyesheji1571,0,0,JavaScript,,2026-03-27T01:07:08Z,2026-03-28,True,Long Context
-1193188454,sdsded124/biyesheji1541,基于ssm技术的金融支付终端管理系统设计与实现+jsp,https://github.com/sdsded124/biyesheji1541,0,0,JavaScript,,2026-03-27T00:53:57Z,2026-03-28,True,Long Context
-1193223204,sdsded124/biyesheji1719,校园资讯平台微信小程序+ssm（微信端有问题，暂时不卖）,https://github.com/sdsded124/biyesheji1719,0,0,JavaScript,,2026-03-27T02:03:42Z,2026-03-28,True,Long Context
-1193331682,sdsded124/biyesheji2227,ssm具有推荐功能的二手交易平台小程序设计与实现,https://github.com/sdsded124/biyesheji2227,0,0,JavaScript,,2026-03-27T05:31:08Z,2026-03-28,True,Long Context
-1193232780,sdsded124/biyesheji1773,基于JAVA的微信食堂线上订餐小程序的设计与实现ssm,https://github.com/sdsded124/biyesheji1773,0,0,JavaScript,,2026-03-27T02:21:57Z,2026-03-28,True,Long Context
-1193196994,sdsded124/biyesheji1581,基于小程序的老孙电子点菜系统开发设计与实现+ssm,https://github.com/sdsded124/biyesheji1581,0,0,JavaScript,,2026-03-27T01:11:47Z,2026-03-28,True,Long Context
-1193227825,sdsded124/biyesheji1744,“返家乡”高校暑期社会实践微信小程序设计与开发ssm,https://github.com/sdsded124/biyesheji1744,0,0,JavaScript,,2026-03-27T02:12:18Z,2026-03-28,True,Long Context
-1193658450,biyeshejifudao/30259,基于微信小程序的医院综合服务平台的设计与实现ssm,https://github.com/biyeshejifudao/30259,0,0,,,2026-03-27T13:04:57Z,2026-03-28,True,Long Context
-1193659485,biyeshejifudao/30266,基于微信小程序的在线点餐（堂食）平台的设计与实现ssm,https://github.com/biyeshejifudao/30266,0,0,,,2026-03-27T13:05:42Z,2026-03-28,True,Long Context
-1193657567,biyeshejifudao/30252,基于微信小程序的网约巴士订票平台的设计与实现ssm,https://github.com/biyeshejifudao/30252,0,0,,,2026-03-27T13:04:13Z,2026-03-28,True,Long Context
-1193177528,3886370410/WHRRZYgKhh,【Java计算机毕业设计分享】基于SSM的SSM公司项目管理系统设计与实现，MySQL Java开发 毕业设计 实战项目【附源码、文档报告、代码讲解】,https://github.com/3886370410/WHRRZYgKhh,1,0,,,2026-03-27T00:30:57Z,2026-03-28,True,Long Context
-1193439147,sdsded124/biyesheji2454,基于SSM框架的课程实验教学项目管理系统的设计与实现,https://github.com/sdsded124/biyesheji2454,0,0,JavaScript,,2026-03-27T08:17:23Z,2026-03-28,True,Long Context
-1193658205,biyeshejifudao/30257,基于大学生社团活动管理的微信小程序的设计与实现ssm,https://github.com/biyeshejifudao/30257,0,0,,,2026-03-27T13:04:43Z,2026-03-28,True,Long Context
-1193226823,sdsded124/biyesheji1739,基于微信小程序的校园二手交易平台系统设计与开发ssm,https://github.com/sdsded124/biyesheji1739,0,0,JavaScript,,2026-03-27T02:10:24Z,2026-03-28,True,Long Context
-1193233875,sdsded124/biyesheji1780,基于微信的疫情期间学生请假与销假系统的设计与实现ssm,https://github.com/sdsded124/biyesheji1780,0,0,JavaScript,,2026-03-27T02:24:00Z,2026-03-28,True,Long Context
-1193331310,sdsded124/biyesheji2225,ssm基于微信小程序的大学校园失物招领系统的设计与实现,https://github.com/sdsded124/biyesheji2225,0,0,JavaScript,,2026-03-27T05:30:30Z,2026-03-28,True,Long Context
-1194173079,idontcarethishahaha/wwj-club,SSM+Vue+ElementPlus 开发的学习俱乐部管理系统，包含 RMS/UMS/CMS 三大核心模块,https://github.com/idontcarethishahaha/wwj-club,0,0,Java,,2026-03-28T02:19:26Z,2026-03-28,True,Long Context
-1193210714,sdsded124/biyesheji1641,大学生闲置物品交易平台的分析与设计+ssm（微信端有问题，暂时不卖）,https://github.com/sdsded124/biyesheji1641,0,0,JavaScript,,2026-03-27T01:38:54Z,2026-03-28,True,Long Context
-1193479487,gy-vs/StudentSystem,基于 SSM 框架（Spring + Spring MVC + MyBatis）的学生管理系统，提供学生、课程、成绩、教师信息的全生命周期管理能力。,https://github.com/gy-vs/StudentSystem,0,0,Java,,2026-03-27T09:15:01Z,2026-03-28,True,Long Context
-1193949835,laowang111102/obzwynLVaX,【Java计算机毕业设计分享】基于SSM的论文管理系统，MySQL Java开发 毕业设计 实战项目【附源码、文档报告、代码讲解】,https://github.com/laowang111102/obzwynLVaX,0,0,,,2026-03-27T18:52:02Z,2026-03-28,True,Long Context
-1194062604,kevinyang11101/BmGsEWdBzn,【Java计算机毕业设计分享】基于SSM的民宿短租系统，MySQL Java开发 毕业设计 实战项目【附源码、文档报告、代码讲解】,https://github.com/kevinyang11101/BmGsEWdBzn,0,0,,,2026-03-27T22:00:25Z,2026-03-28,True,Long Context
-1193363259,3886370410/JNwWZNlnDg,【Java计算机毕业设计分享】基于SSM的在线教育平台，MySQL Java开发 毕业设计 实战项目【附源码、文档报告、代码讲解】,https://github.com/3886370410/JNwWZNlnDg,1,0,,,2026-03-27T06:22:49Z,2026-03-28,True,Long Context
-1193869044,kevinyang11101/PirspGgzpF,【Java计算机毕业设计分享】基于SSM的仓库管理系统，MySQL Java开发 毕业设计 实战项目【附源码、文档报告、代码讲解】,https://github.com/kevinyang11101/PirspGgzpF,0,0,,,2026-03-27T17:02:42Z,2026-03-28,True,Long Context
-1193415997,kevinyang11102/ZhWkbKRLYs,【Java计算机毕业设计分享】基于SSM教材管理平台，MySQL Java开发 毕业设计 实战项目【附源码、文档报告、代码讲解】,https://github.com/kevinyang11102/ZhWkbKRLYs,0,0,,,2026-03-27T07:42:38Z,2026-03-28,True,Long Context
-1194071769,kevinyang11101/JwvescLeWJ,【Java计算机毕业设计分享】基于SSM微信点餐小程序，MySQL Java开发 毕业设计 实战项目【附源码、文档报告、代码讲解】,https://github.com/kevinyang11101/JwvescLeWJ,0,0,,,2026-03-27T22:19:01Z,2026-03-28,True,Long Context
-1193178964,3886370410/EBBPIWLRUS,【Java计算机毕业设计分享】基于SSM的会议管理系统，MySQL Java开发 毕业设计 实战项目【附源码、文档报告、代码讲解】,https://github.com/3886370410/EBBPIWLRUS,1,0,,,2026-03-27T00:34:00Z,2026-03-28,True,Long Context
-1193362574,3886370410/VbkNvsCKzA,【Java计算机毕业设计分享】基于SSM的超市管理系统，MySQL Java开发 毕业设计 实战项目【附源码、文档报告、代码讲解】,https://github.com/3886370410/VbkNvsCKzA,1,0,,,2026-03-27T06:21:49Z,2026-03-28,True,Long Context
-1193398437,kevinyang11101/FYIHrlQUzU,【Java计算机毕业设计分享】基于SSM的二手交易平台，MySQL Java开发 毕业设计 实战项目【附源码、文档报告、代码讲解】,https://github.com/kevinyang11101/FYIHrlQUzU,0,0,,,2026-03-27T07:16:11Z,2026-03-28,True,Long Context
-1193918244,kevinyang11103/NAxJhulNhX,【Java计算机毕业设计分享】基于SSM垃圾分类小程序，MySQL Java开发 毕业设计 实战项目【附源码、文档报告、代码讲解】,https://github.com/kevinyang11103/NAxJhulNhX,0,0,,,2026-03-27T18:06:27Z,2026-03-28,True,Long Context
-1193940132,laowang111102/IpJPISWTLT,【Java计算机毕业设计分享】基于SSM的外卖小程序，MySQL Java开发 毕业设计 实战项目【附源码、文档报告、代码讲解】,https://github.com/laowang111102/IpJPISWTLT,0,0,,,2026-03-27T18:37:54Z,2026-03-28,True,Long Context
-1193789247,kevinyang11102/ENODYbiyRi,【Java计算机毕业设计分享】基于SSM的财务管理系统，MySQL Java开发 毕业设计 实战项目【附源码、文档报告、代码讲解】,https://github.com/kevinyang11102/ENODYbiyRi,0,0,,,2026-03-27T15:27:23Z,2026-03-28,True,Long Context
-1193987340,3886370410/xOSsOcvtkx,【Java计算机毕业设计分享】基于SSM的电影售票平台，MySQL Java开发 毕业设计 实战项目【附源码、文档报告、代码讲解】,https://github.com/3886370410/xOSsOcvtkx,1,0,,,2026-03-27T19:48:34Z,2026-03-28,True,Long Context
-1193452835,laowang111102/luppGTjHVr,【Java计算机毕业设计分享】基于SSM的招聘管理系统，MySQL Java开发 毕业设计 实战项目【附源码、文档报告、代码讲解】,https://github.com/laowang111102/luppGTjHVr,0,0,,,2026-03-27T08:37:28Z,2026-03-28,True,Long Context
-1193210570,5771323ykw/OqfGwxDaOM,【Java计算机毕业设计分享】基于SSM的客栈管理系统，MySQL Java开发 毕业设计 实战项目【附源码、文档报告、代码讲解】,https://github.com/5771323ykw/OqfGwxDaOM,1,0,,,2026-03-27T01:38:37Z,2026-03-28,True,Long Context
-1194079561,kevinyang11102/HtHgUehtxT,【Java计算机毕业设计分享】基于SSM家政服务小程序，MySQL Java开发 毕业设计 实战项目【附源码、文档报告、代码讲解】,https://github.com/kevinyang11102/HtHgUehtxT,0,0,,,2026-03-27T22:35:31Z,2026-03-28,True,Long Context
-1193460355,laowang111102/FOsOOkQBXr,【Java计算机毕业设计分享】基于SSM的社区管理系统，MySQL Java开发 毕业设计 实战项目【附源码、文档报告、代码讲解】,https://github.com/laowang111102/FOsOOkQBXr,0,0,,,2026-03-27T08:48:08Z,2026-03-28,True,Long Context
-1193423890,kevinyang11103/gYNyqGTOmu,【Java计算机毕业设计分享】基于SSM的博客管理系统，MySQL Java开发 毕业设计 实战项目【附源码、文档报告、代码讲解】,https://github.com/kevinyang11103/gYNyqGTOmu,0,0,,,2026-03-27T07:54:32Z,2026-03-28,True,Long Context
-1193437307,laowang111101/GgqXYoRLNm,【Java计算机毕业设计分享】基于SSM的文档管理系统，MySQL Java开发 毕业设计 实战项目【附源码、文档报告、代码讲解】,https://github.com/laowang111101/GgqXYoRLNm,0,0,,,2026-03-27T08:14:49Z,2026-03-28,True,Long Context
-1193881342,kevinyang11101/DiWpSeasIF,【Java计算机毕业设计分享】基于SSM的旅游管理系统，MySQL Java开发 毕业设计 实战项目【附源码、文档报告、代码讲解】,https://github.com/kevinyang11101/DiWpSeasIF,0,0,,,2026-03-27T17:17:47Z,2026-03-28,True,Long Context
-1193985632,kevinyang11102/LOYBhznEJP,【Java计算机毕业设计分享】基于SSM的影院选座系统，MySQL Java开发 毕业设计 实战项目【附源码、文档报告、代码讲解】,https://github.com/kevinyang11102/LOYBhznEJP,0,0,,,2026-03-27T19:45:54Z,2026-03-28,True,Long Context
-1193457806,laowang111102/WfBVXHSCmB,【Java计算机毕业设计分享】基于SSM的选课管理系统，MySQL Java开发 毕业设计 实战项目【附源码、文档报告、代码讲解】,https://github.com/laowang111102/WfBVXHSCmB,0,0,,,2026-03-27T08:44:33Z,2026-03-28,True,Long Context
-1193773020,kevinyang11101/EOsgOukWVm,【Java计算机毕业设计分享】基于SSM的医院交互管理系统，MySQL Java开发 毕业设计 实战项目【附源码、文档报告、代码讲解】,https://github.com/kevinyang11101/EOsgOukWVm,0,0,,,2026-03-27T15:08:46Z,2026-03-28,True,Long Context
-1193950611,laowang111102/CnKUtufUzK,【Java计算机毕业设计分享】基于SSM的家庭记账管理系统，MySQL Java开发 毕业设计 实战项目【附源码、文档报告、代码讲解】,https://github.com/laowang111102/CnKUtufUzK,0,0,,,2026-03-27T18:53:13Z,2026-03-28,True,Long Context
-1194089397,kevinyang11103/hNvszYOknU,【Java计算机毕业设计分享】基于SSM的驾考小程序开发，MySQL Java开发 毕业设计 实战项目【附源码、文档报告、代码讲解】,https://github.com/kevinyang11103/hNvszYOknU,0,0,,,2026-03-27T22:56:45Z,2026-03-28,True,Long Context
-1193374839,3886370410/EiycjWcQCh,【Java计算机毕业设计分享】基于SSM商铺租赁管理系统，MySQL Java开发 毕业设计 实战项目【附源码、文档报告、代码讲解】,https://github.com/3886370410/EiycjWcQCh,1,0,,,2026-03-27T06:40:25Z,2026-03-28,True,Long Context
-1193178048,3886370410/XuojWkkzml,【Java计算机毕业设计分享】基于SSM的网上药品售卖系统，MySQL Java开发 毕业设计 实战项目【附源码、文档报告、代码讲解】,https://github.com/3886370410/XuojWkkzml,1,0,,,2026-03-27T00:31:59Z,2026-03-28,True,Long Context
-1193429199,kevinyang11103/LVDnChHFXd,【Java计算机毕业设计分享】基于SSM的车辆出租管理系统，MySQL Java开发 毕业设计 实战项目【附源码、文档报告、代码讲解】,https://github.com/kevinyang11103/LVDnChHFXd,0,0,,,2026-03-27T08:02:48Z,2026-03-28,True,Long Context
-1194085618,kevinyang11103/WFqrTSEeOy,【Java计算机毕业设计分享】基于SSM宿舍报修管理系统，MySQL Java开发 毕业设计 实战项目【附源码、文档报告、代码讲解】,https://github.com/kevinyang11103/WFqrTSEeOy,0,0,,,2026-03-27T22:48:32Z,2026-03-28,True,Long Context
-1194092374,kevinyang11103/LTjhanmQny,【Java计算机毕业设计分享】基于SSM的模拟考试小程序，MySQL Java开发 毕业设计 实战项目【附源码、文档报告、代码讲解】,https://github.com/kevinyang11103/LTjhanmQny,0,0,,,2026-03-27T23:03:39Z,2026-03-28,True,Long Context
-1193888424,kevinyang11102/ZsRfbSzvvx,【Java计算机毕业设计分享】基于SSM的网上商城管理系统，MySQL Java开发 毕业设计 实战项目【附源码、文档报告、代码讲解】,https://github.com/kevinyang11102/ZsRfbSzvvx,0,0,,,2026-03-27T17:27:08Z,2026-03-28,True,Long Context
-1193951349,laowang111102/TaEMjRKMCT,【Java计算机毕业设计分享】基于SSM的家庭大厨小程序，MySQL Java开发 毕业设计 实战项目【附源码、文档报告、代码讲解】,https://github.com/laowang111102/TaEMjRKMCT,0,0,,,2026-03-27T18:54:23Z,2026-03-28,True,Long Context
-1193448666,laowang111101/lbtuhveRWH,【Java计算机毕业设计分享】基于SSM的“花鸣”B2C电商平台，MySQL Java开发 毕业设计 实战项目【附源码、文档报告、代码讲解】,https://github.com/laowang111101/lbtuhveRWH,0,0,,,2026-03-27T08:31:27Z,2026-03-28,True,Long Context
-1194086646,kevinyang11103/TLjkgvMkKj,【Java计算机毕业设计分享】基于SSM的婚庆摄影小程序，MySQL Java开发 毕业设计 实战项目【附源码、文档报告、代码讲解】,https://github.com/kevinyang11103/TLjkgvMkKj,0,0,,,2026-03-27T22:50:56Z,2026-03-28,True,Long Context
-1193387955,kevinyang11101/tJniBVEzyr,【Java计算机毕业设计分享】基于SSM的物流信息管理系统，MySQL Java开发 毕业设计 实战项目【附源码、文档报告、代码讲解】,https://github.com/kevinyang11101/tJniBVEzyr,0,0,,,2026-03-27T07:00:22Z,2026-03-28,True,Long Context
-1193392804,kevinyang11101/OMaBqNJtGu,【Java计算机毕业设计分享】基于SSM的猎头公司管理系统，MySQL Java开发 毕业设计 实战项目【附源码、文档报告、代码讲解】,https://github.com/kevinyang11101/OMaBqNJtGu,0,0,,,2026-03-27T07:07:43Z,2026-03-28,True,Long Context
-1194077443,kevinyang11102/ikdyvLMHft,【Java计算机毕业设计分享】基于SSM微信实习记录小程序，MySQL Java开发 毕业设计 实战项目【附源码、文档报告、代码讲解】,https://github.com/kevinyang11102/ikdyvLMHft,0,0,,,2026-03-27T22:30:47Z,2026-03-28,True,Long Context
-1193916505,kevinyang11103/WteyomZlFB,【Java计算机毕业设计分享】基于SSM的二手物品交易平台，MySQL Java开发 毕业设计 实战项目【附源码、文档报告、代码讲解】,https://github.com/kevinyang11103/WteyomZlFB,0,0,,,2026-03-27T18:04:09Z,2026-03-28,True,Long Context
-1193357527,5771323yang/FSTBOAVLrY,【Java计算机毕业设计分享】基于SSM的装修图纸管理系统，MySQL Java开发 毕业设计 实战项目【附源码、文档报告、代码讲解】,https://github.com/5771323yang/FSTBOAVLrY,1,0,,,2026-03-27T06:13:35Z,2026-03-28,True,Long Context
-1193980951,kevinyang11102/JszpTIIIrb,【Java计算机毕业设计分享】基于SSM的畅阅读微信小程序，MySQL Java开发 毕业设计 实战项目【附源码、文档报告、代码讲解】,https://github.com/kevinyang11102/JszpTIIIrb,0,0,,,2026-03-27T19:38:52Z,2026-03-28,True,Long Context
-1194100133,laowang111101/YjxaCHhNNj,【Java计算机毕业设计分享】基于SSM的远程在线诊疗平台，MySQL Java开发 毕业设计 实战项目【附源码、文档报告、代码讲解】,https://github.com/laowang111101/YjxaCHhNNj,0,0,,,2026-03-27T23:21:16Z,2026-03-28,True,Long Context
-1193769477,kevinyang11101/MqtHAtkBWk,【Java计算机毕业设计分享】基于SSM的670课程管理系统，MySQL Java开发 毕业设计 实战项目【附源码、文档报告、代码讲解】,https://github.com/kevinyang11101/MqtHAtkBWk,0,0,,,2026-03-27T15:05:15Z,2026-03-28,True,Long Context
-1194104864,laowang111101/DsQLNuJhxw,【Java计算机毕业设计分享】基于SSM的高校寻物小程序，MySQL Java开发 毕业设计 实战项目【附源码、文档报告、代码讲解】,https://github.com/laowang111101/DsQLNuJhxw,0,0,,,2026-03-27T23:32:52Z,2026-03-28,True,Long Context
-1194024914,laowang111102/atlvudDzgL,【Java计算机毕业设计分享】基于SSM的场地预约管理系统，MySQL Java开发 毕业设计 实战项目【附源码、文档报告、代码讲解】,https://github.com/laowang111102/atlvudDzgL,0,0,,,2026-03-27T20:48:49Z,2026-03-28,True,Long Context
-1193462702,laowang111102/lPWssBqtJO,【Java计算机毕业设计分享】基于SSM的壁纸网站管理系统，MySQL Java开发 毕业设计 实战项目【附源码、文档报告、代码讲解】,https://github.com/laowang111102/lPWssBqtJO,0,0,,,2026-03-27T08:51:36Z,2026-03-28,True,Long Context
-1193451053,laowang111101/OCPYiEXlIz,【Java计算机毕业设计分享】基于SSM的Web新闻流媒体平台，MySQL Java开发 毕业设计 实战项目【附源码、文档报告、代码讲解】,https://github.com/laowang111101/OCPYiEXlIz,0,0,,,2026-03-27T08:34:57Z,2026-03-28,True,Long Context
-1193209083,5771323ykw/BimUkcBsIF,【Java计算机毕业设计分享】基于SSM的小型超市管理系统，MySQL Java开发 毕业设计 实战项目【附源码、文档报告、代码讲解】,https://github.com/5771323ykw/BimUkcBsIF,1,0,,,2026-03-27T01:35:31Z,2026-03-28,True,Long Context
-1193941836,laowang111102/sqPcBJflUq,【Java计算机毕业设计分享】基于SSM的停车场管理系统，MySQL Java开发 毕业设计 实战项目【附源码、文档报告、代码讲解】,https://github.com/laowang111102/sqPcBJflUq,0,0,,,2026-03-27T18:40:21Z,2026-03-28,True,Long Context
-1194015254,laowang111101/zZhRjjuXAT,【Java计算机毕业设计分享】基于SSM的走失人员报备平台，MySQL Java开发 毕业设计 实战项目【附源码、文档报告、代码讲解】,https://github.com/laowang111101/zZhRjjuXAT,0,0,,,2026-03-27T20:32:27Z,2026-03-28,True,Long Context
-1194070066,kevinyang11101/BzWixVMuVx,【Java计算机毕业设计分享】基于SSM微信点餐小程序设计，MySQL Java开发 毕业设计 实战项目【附源码、文档报告、代码讲解】,https://github.com/kevinyang11101/BzWixVMuVx,0,0,,,2026-03-27T22:15:29Z,2026-03-28,True,Long Context
-1194072976,kevinyang11101/PYqWChJfOu,【Java计算机毕业设计分享】基于SSM的微信社团小程序，MySQL Java开发 毕业设计 实战项目【附源码、文档报告、代码讲解】,https://github.com/kevinyang11101/PYqWChJfOu,0,0,,,2026-03-27T22:21:28Z,2026-03-28,True,Long Context
-1194082321,kevinyang11102/IJlNgBJgrQ,【Java计算机毕业设计分享】基于SSM的宿舍管理系统平台，MySQL Java开发 毕业设计 实战项目【附源码、文档报告、代码讲解】,https://github.com/kevinyang11102/IJlNgBJgrQ,0,0,,,2026-03-27T22:41:21Z,2026-03-28,True,Long Context
-1193796210,kevinyang11102/qwrnbweWWt,【Java计算机毕业设计分享】基于SSM的游戏资源管理系统，MySQL Java开发 毕业设计 实战项目【附源码、文档报告、代码讲解】,https://github.com/kevinyang11102/qwrnbweWWt,0,0,,,2026-03-27T15:34:21Z,2026-03-28,True,Long Context
-1194137871,3886370410/marNpGfPpm,【Java计算机毕业设计分享】基于SSM学生管理系统设计，MySQL Java开发 毕业设计 实战项目【附源码、文档报告、代码讲解】,https://github.com/3886370410/marNpGfPpm,1,0,,,2026-03-28T00:56:28Z,2026-03-28,True,Long Context
-1193192698,kevinyang5771323/PjZSREoQIj,【Java计算机毕业设计分享】基于SSM的电子相册管理系统，MySQL Java开发 毕业设计 实战项目【附源码、文档报告、代码讲解】,https://github.com/kevinyang5771323/PjZSREoQIj,1,0,,,2026-03-27T01:02:51Z,2026-03-28,True,Long Context
-1193988764,kevinyang11103/QfVWSBdeNT,【Java计算机毕业设计分享】基于SSM的校友林微信小程序，MySQL Java开发 毕业设计 实战项目【附源码、文档报告、代码讲解】,https://github.com/kevinyang11103/QfVWSBdeNT,0,0,,,2026-03-27T19:50:36Z,2026-03-28,True,Long Context
-1193420053,kevinyang11103/sdKIUEJpeD,【Java计算机毕业设计分享】基于SSM的网上手机销售平台，MySQL Java开发 毕业设计 实战项目【附源码、文档报告、代码讲解】,https://github.com/kevinyang11103/sdKIUEJpeD,0,0,,,2026-03-27T07:48:37Z,2026-03-28,True,Long Context
-1193418404,kevinyang11102/LnTVuMYByt,【Java计算机毕业设计分享】基于SSM的理财通管理系统，MySQL Java开发 毕业设计 实战项目【附源码、文档报告、代码讲解】,https://github.com/kevinyang11102/LnTVuMYByt,0,0,,,2026-03-27T07:46:11Z,2026-03-28,True,Long Context
-1193190211,3886370410/zyjxjJDvPQ,【Java计算机毕业设计分享】基于SSM的餐厅点菜管理系统，MySQL Java开发 毕业设计 实战项目【附源码、文档报告、代码讲解】,https://github.com/3886370410/zyjxjJDvPQ,1,0,,,2026-03-27T00:57:39Z,2026-03-28,True,Long Context
-1193206076,5771323ykw/OhoCtThKlm,【Java计算机毕业设计分享】基于SSM的高校社团管理系统，MySQL Java开发 毕业设计 实战项目【附源码、文档报告、代码讲解】,https://github.com/5771323ykw/OhoCtThKlm,1,0,,,2026-03-27T01:29:28Z,2026-03-28,True,Long Context
-1193779750,kevinyang11101/ciLJuNdouZ,【Java计算机毕业设计分享】基于SSM的生鲜商城管理系统，MySQL Java开发 毕业设计 实战项目【附源码、文档报告、代码讲解】,https://github.com/kevinyang11101/ciLJuNdouZ,0,0,,,2026-03-27T15:16:50Z,2026-03-28,True,Long Context
-1193766844,kevinyang11101/EgTDgVVJqh,【Java计算机毕业设计分享】基于SSM的学生考勤管理系统，MySQL Java开发 毕业设计 实战项目【附源码、文档报告、代码讲解】,https://github.com/kevinyang11101/EgTDgVVJqh,0,0,,,2026-03-27T15:02:49Z,2026-03-28,True,Long Context
-1193903345,kevinyang11103/WxHrXnMGLJ,【Java计算机毕业设计分享】基于SSM的疫苗预约小程序，MySQL Java开发 毕业设计 实战项目【附源码、文档报告、代码讲解】,https://github.com/kevinyang11103/WxHrXnMGLJ,0,0,,,2026-03-27T17:46:51Z,2026-03-28,True,Long Context
-1194026946,laowang111102/tbFGVzUoBK,【Java计算机毕业设计分享】基于SSM的童装购买小程序，MySQL Java开发 毕业设计 实战项目【附源码、文档报告、代码讲解】,https://github.com/laowang111102/tbFGVzUoBK,0,0,,,2026-03-27T20:52:12Z,2026-03-28,True,Long Context
-1194081167,kevinyang11102/dlAOPfWaNf,【Java计算机毕业设计分享】基于SSM的微信宠物小程序，MySQL Java开发 毕业设计 实战项目【附源码、文档报告、代码讲解】,https://github.com/kevinyang11102/dlAOPfWaNf,0,0,,,2026-03-27T22:39:01Z,2026-03-28,True,Long Context
-1193400159,kevinyang11101/NFKHFsapNS,【Java计算机毕业设计分享】基于SSM的航空票务推荐系统，MySQL Java开发 毕业设计 实战项目【附源码、文档报告、代码讲解】,https://github.com/kevinyang11101/NFKHFsapNS,0,0,,,2026-03-27T07:18:40Z,2026-03-28,True,Long Context
-1193389439,kevinyang11101/PJokGXtgxT,【Java计算机毕业设计分享】基于SSM的新生报道管理系统，MySQL Java开发 毕业设计 实战项目【附源码、文档报告、代码讲解】,https://github.com/kevinyang11101/PJokGXtgxT,0,0,,,2026-03-27T07:02:45Z,2026-03-28,True,Long Context
-1193443134,laowang111101/iMGQmNYCSb,【Java计算机毕业设计分享】基于SSM的食品安全追溯系统，MySQL Java开发 毕业设计 实战项目【附源码、文档报告、代码讲解】,https://github.com/laowang111101/iMGQmNYCSb,0,0,,,2026-03-27T08:23:03Z,2026-03-28,True,Long Context
-1193175066,3886370410/yvHFldDBgA,【Java计算机毕业设计分享】基于SSM的校园活动管理平台，MySQL Java开发 毕业设计 实战项目【附源码、文档报告、代码讲解】,https://github.com/3886370410/yvHFldDBgA,1,0,,,2026-03-27T00:25:52Z,2026-03-28,True,Long Context
-1193208597,5771323ykw/DCCNjOfhZs,【Java计算机毕业设计分享】基于SSM毕业论文管理平台，MySQL Java开发 毕业设计 实战项目【附源码、文档报告、代码讲解】,https://github.com/5771323ykw/DCCNjOfhZs,1,0,,,2026-03-27T01:34:31Z,2026-03-28,True,Long Context
-1194010420,laowang111101/ZVALBUUCqH,【Java计算机毕业设计分享】基于SSM的207课堂考勤小程序，MySQL Java开发 毕业设计 实战项目【附源码、文档报告、代码讲解】,https://github.com/laowang111101/ZVALBUUCqH,0,0,,,2026-03-27T20:24:28Z,2026-03-28,True,Long Context
-1193439806,laowang111101/mPdHmniOjh,【Java计算机毕业设计分享】基于SSM的游泳会员管理系统，MySQL Java开发 毕业设计 实战项目【附源码、文档报告、代码讲解】,https://github.com/laowang111101/mPdHmniOjh,0,0,,,2026-03-27T08:18:17Z,2026-03-28,True,Long Context
-1193992459,kevinyang11103/WzZwSCKhrO,【Java计算机毕业设计分享】基于SSM的实验室管理小程序，MySQL Java开发 毕业设计 实战项目【附源码、文档报告、代码讲解】,https://github.com/kevinyang11103/WzZwSCKhrO,0,0,,,2026-03-27T19:56:24Z,2026-03-28,True,Long Context
-1193191172,3886370410/kqDDiJarVw,【Java计算机毕业设计分享】基于SSM的校园驿站管理系统，MySQL Java开发 毕业设计 实战项目【附源码、文档报告、代码讲解】,https://github.com/3886370410/kqDDiJarVw,1,0,,,2026-03-27T00:59:41Z,2026-03-28,True,Long Context
-1193186179,3886370410/IlLGlviotA,【Java计算机毕业设计分享】基于SSM的学生作业管理系统，MySQL Java开发 毕业设计 实战项目【附源码、文档报告、代码讲解】,https://github.com/3886370410/IlLGlviotA,1,0,,,2026-03-27T00:49:30Z,2026-03-28,True,Long Context
-1193403400,kevinyang11101/dWKoqainMA,【Java计算机毕业设计分享】基于SSM的餐馆点餐系统设计，MySQL Java开发 毕业设计 实战项目【附源码、文档报告、代码讲解】,https://github.com/kevinyang11101/dWKoqainMA,0,0,,,2026-03-27T07:23:23Z,2026-03-28,True,Long Context
-1193784440,kevinyang11101/ndJLJWuCOL,【Java计算机毕业设计分享】基于SSM的校内互助交易平台，MySQL Java开发 毕业设计 实战项目【附源码、文档报告、代码讲解】,https://github.com/kevinyang11101/ndJLJWuCOL,0,0,,,2026-03-27T15:21:29Z,2026-03-28,True,Long Context
-1194001883,laowang111101/NIZPQUDXrT,【Java计算机毕业设计分享】基于SSM的教学质量评价系统，MySQL Java开发 毕业设计 实战项目【附源码、文档报告、代码讲解】,https://github.com/laowang111101/NIZPQUDXrT,0,0,,,2026-03-27T20:10:26Z,2026-03-28,True,Long Context
-1194090840,kevinyang11103/HEmJFTpFBc,【Java计算机毕业设计分享】基于SSM外籍人员管理平台，MySQL Java开发 毕业设计 实战项目【附源码、文档报告、代码讲解】,https://github.com/kevinyang11103/HEmJFTpFBc,0,0,,,2026-03-27T23:00:12Z,2026-03-28,True,Long Context
-1193354910,5771323yang/cEaHSBFqYU,【Java计算机毕业设计分享】基于SSM的校园二手交易平台，MySQL Java开发 毕业设计 实战项目【附源码、文档报告、代码讲解】,https://github.com/5771323yang/cEaHSBFqYU,1,0,,,2026-03-27T06:09:38Z,2026-03-28,True,Long Context
-1193830621,laowang111101/vifgBYSTTC,【Java计算机毕业设计分享】基于SSM婚纱拍摄网管理系统，MySQL Java开发 毕业设计 实战项目【附源码、文档报告、代码讲解】,https://github.com/laowang111101/vifgBYSTTC,0,0,,,2026-03-27T16:14:02Z,2026-03-28,True,Long Context
-1193967573,kevinyang11101/okhLQrKBan,【Java计算机毕业设计分享】基于SSM的小区管理系统设计，MySQL Java开发 毕业设计 实战项目【附源码、文档报告、代码讲解】,https://github.com/kevinyang11101/okhLQrKBan,0,0,,,2026-03-27T19:18:48Z,2026-03-28,True,Long Context
-1193955277,5771323yang/rzzShYRwzp,【Java计算机毕业设计分享】基于SSM的校园核酸筛查系统，MySQL Java开发 毕业设计 实战项目【附源码、文档报告、代码讲解】,https://github.com/5771323yang/rzzShYRwzp,1,0,,,2026-03-27T19:00:24Z,2026-03-28,True,Long Context
-1193433328,kevinyang11103/HGnHUEZtzj,【Java计算机毕业设计分享】基于SSM的Web电影购票系统，MySQL Java开发 毕业设计 实战项目【附源码、文档报告、代码讲解】,https://github.com/kevinyang11103/HGnHUEZtzj,0,0,,,2026-03-27T08:08:49Z,2026-03-28,True,Long Context
-1193397640,kevinyang11101/QjRojGbXQl,【Java计算机毕业设计分享】基于SSM的仓库管理系统（含Vue），MySQL Java开发 毕业设计 实战项目【附源码、文档报告、代码讲解】,https://github.com/kevinyang11101/QjRojGbXQl,0,0,,,2026-03-27T07:14:58Z,2026-03-28,True,Long Context
-1193461938,laowang111102/gWYPMUlbic,【Java计算机毕业设计分享】基于SSM奖助学金管理系统（Vue），MySQL Java开发 毕业设计 实战项目【附源码、文档报告、代码讲解】,https://github.com/laowang111102/gWYPMUlbic,0,0,,,2026-03-27T08:50:25Z,2026-03-28,True,Long Context
-1193443967,laowang111101/CRMSpdlADT,【Java计算机毕业设计分享】基于SSM的物资物流管理系统，MySQL Java开发 毕业设计 实战项目【附源码、文档报告、代码讲解】,https://github.com/laowang111101/CRMSpdlADT,0,0,,,2026-03-27T08:24:19Z,2026-03-28,True,Long Context
-1193973897,kevinyang11102/hqvMrePlhd,【Java计算机毕业设计分享】基于SSM的停车共享小程序，MySQL Java开发 毕业设计 实战项目【附源码、文档报告、代码讲解】,https://github.com/kevinyang11102/hqvMrePlhd,0,0,,,2026-03-27T19:28:18Z,2026-03-28,True,Long Context
-1193800931,kevinyang11102/JdEnahIqSs,【Java计算机毕业设计分享】基于SSM的酒店预订管理系统，MySQL Java开发 毕业设计 实战项目【附源码、文档报告、代码讲解】,https://github.com/kevinyang11102/JdEnahIqSs,0,0,,,2026-03-27T15:40:08Z,2026-03-28,True,Long Context
-1194087202,kevinyang11103/MYtyUbiMfg,【Java计算机毕业设计分享】基于SSM的微信答题小程序，MySQL Java开发 毕业设计 实战项目【附源码、文档报告、代码讲解】,https://github.com/kevinyang11103/MYtyUbiMfg,0,0,,,2026-03-27T22:52:06Z,2026-03-28,True,Long Context
-1194065426,kevinyang11101/nhoHZuwQPz,【Java计算机毕业设计分享】基于SSM的医院挂号预约平台，MySQL Java开发 毕业设计 实战项目【附源码、文档报告、代码讲解】,https://github.com/kevinyang11101/nhoHZuwQPz,0,0,,,2026-03-27T22:06:14Z,2026-03-28,True,Long Context
-1193440595,laowang111101/CXMeyBWznf,【Java计算机毕业设计分享】基于SSM的个人财务管理系统，MySQL Java开发 毕业设计 实战项目【附源码、文档报告、代码讲解】,https://github.com/laowang111101/CXMeyBWznf,0,0,,,2026-03-27T08:19:25Z,2026-03-28,True,Long Context
-1193444788,laowang111101/XEMAyHSbFw,【Java计算机毕业设计分享】基于SSM的网上花店管理系统，MySQL Java开发 毕业设计 实战项目【附源码、文档报告、代码讲解】,https://github.com/laowang111101/XEMAyHSbFw,0,0,,,2026-03-27T08:25:33Z,2026-03-28,True,Long Context
-1193483969,liting-liting/Immune-State-Space-Modeling,,https://github.com/liting-liting/Immune-State-Space-Modeling,0,0,,,2026-03-27T09:21:08Z,2026-03-28,True,Long Context
-1193233116,oneilsh/topic-state-space-modeling,,https://github.com/oneilsh/topic-state-space-modeling,0,0,,,2026-03-27T02:22:32Z,2026-03-28,True,Long Context
-1193836233,yash27-lab/batch_forge,"A high-performance, bare-metal inference engine for JAX and Equinox models written in Rust. Features zero-copy Safetensors   loading and hand-optimized Metal/Vulkan compute kernels for Transformers, Vision Language Models, and State-Space Models",https://github.com/yash27-lab/batch_forge,0,0,Rust,,2026-03-27T16:21:09Z,2026-03-28,True,Long Context
+1193510444,lihao1951/FlagOS-LongContext-ICL-Annotation,Flagos的比赛,https://github.com/lihao1951/FlagOS-LongContext-ICL-Annotation,0,0,,,2026-03-27T09:55:57Z,2026-03-28,False,Long Context
+1193434556,akkii2006/long-context-reasoning-dataset,,https://github.com/akkii2006/long-context-reasoning-dataset,0,0,Python,,2026-03-27T08:10:38Z,2026-03-28,False,Long Context
+1193471277,mbilgesu/gemini-long-context-eval,LLM long-context reasoning evaluation dataset and benchmark,https://github.com/mbilgesu/gemini-long-context-eval,0,0,,,2026-03-27T09:03:18Z,2026-03-28,False,Long Context
+1193598422,Abhi-1122/Long-Context-Eval-dataset,,https://github.com/Abhi-1122/Long-Context-Eval-dataset,0,0,Python,,2026-03-27T11:51:48Z,2026-03-28,False,Long Context
+1193748344,sanjaybasu/inhibitory-attention-ehr,Inhibitory Attention for Clinical Long-Context EHR Reasoning (NeurIPS 2026),https://github.com/sanjaybasu/inhibitory-attention-ehr,0,0,Python,,2026-03-27T14:41:26Z,2026-03-28,False,Long Context
+1193582256,yzamari/mlx-turboquant,TurboQuant KV cache compression for MLX-LM — run longer contexts on Apple Silicon with 5x less memory,https://github.com/yzamari/mlx-turboquant,0,0,Python,,2026-03-27T11:29:36Z,2026-03-28,False,Long Context
+1193579940,lucaspirola/engram,ENGRAM = ENGRAM Nested Graph for Recursive Agent Memory — middleware that enables small local LLMs to sustain long contexts and agentic flows,https://github.com/lucaspirola/engram,0,0,Python,,2026-03-27T11:26:28Z,2026-03-28,False,Long Context
+1193923481,ramp906592/bert-long-sequence,,https://github.com/ramp906592/bert-long-sequence,0,0,Jupyter Notebook,,2026-03-27T18:13:50Z,2026-03-28,False,Long Context
+1193946185,lapac009-ctrl/index.html,mamba rp,https://github.com/lapac009-ctrl/index.html,0,0,HTML,,2026-03-27T18:46:31Z,2026-03-28,False,Long Context
+1193606765,l-dy0503/GA-Mamba,,https://github.com/l-dy0503/GA-Mamba,0,0,,,2026-03-27T12:00:38Z,2026-03-28,False,Long Context
+1193402717,Greenmamba29/mamba-health,,https://github.com/Greenmamba29/mamba-health,0,0,TypeScript,,2026-03-27T07:22:22Z,2026-03-28,False,Long Context
+1194004520,lapac009-ctrl/mamba-roleplay,mamabarp,https://github.com/lapac009-ctrl/mamba-roleplay,0,0,HTML,,2026-03-27T20:14:40Z,2026-03-28,False,Long Context
+1193428674,Jason-Chen615/Fuzz-Mamba,,https://github.com/Jason-Chen615/Fuzz-Mamba,0,0,Python,,2026-03-27T08:01:57Z,2026-03-28,False,Long Context
+1193728872,jaquimbayoc7/mamba-student-profiles,Análisis de perfiles motivacionales de estudiantes del Semillero MAMBA — CORHUILA. Modelo híbrido clustering + clasificación para despliegue con FastAPI.,https://github.com/jaquimbayoc7/mamba-student-profiles,0,0,Jupyter Notebook,,2026-03-27T14:19:08Z,2026-03-28,False,Long Context
+1193299474,kairopeixoto109-code/trabajo-de-esnpanhol-mamba,,https://github.com/kairopeixoto109-code/trabajo-de-esnpanhol-mamba,0,0,HTML,,2026-03-27T04:31:25Z,2026-03-28,False,Long Context
+1193481781,heeh02/hybridVLA,a vla design with attention and mamba block,https://github.com/heeh02/hybridVLA,0,0,,,2026-03-27T09:18:10Z,2026-03-28,False,Long Context
+1194120559,msy069/MDH-CMambaNet,"a morphology-aware deformable hybrid CNN-Mamba network, MDH-CMambaNet, for nuclei instance segmentation and classification.",https://github.com/msy069/MDH-CMambaNet,0,0,,,2026-03-28T00:13:00Z,2026-03-28,False,Long Context
+1193620601,tompkbiggs-star/SSMTBWeddingBingo,wesite for guests to upload wedding photos based on bingo sheet.,https://github.com/tompkbiggs-star/SSMTBWeddingBingo,0,0,HTML,,2026-03-27T12:18:45Z,2026-03-28,False,Long Context
+1193886503,micheleDibi/ssmllive,,https://github.com/micheleDibi/ssmllive,0,0,TypeScript,,2026-03-27T17:24:38Z,2026-03-28,False,Long Context
+1193483697,nbcgggh0-alt/BotSSMCEXI,,https://github.com/nbcgggh0-alt/BotSSMCEXI,0,0,Python,,2026-03-27T09:20:48Z,2026-03-28,False,Long Context
+1194012251,m-qiang/HeartSSM,"Learning a dynamic four-chamber shape model of the human heart for 95,695 UK Biobank participants",https://github.com/m-qiang/HeartSSM,0,0,,,2026-03-27T20:27:24Z,2026-03-28,False,Long Context
+1193474160,qwerbv/ssm_learning,,https://github.com/qwerbv/ssm_learning,0,0,Java,,2026-03-27T09:07:28Z,2026-03-28,False,Long Context
+1193337519,wgx112358/myltx_ssm,,https://github.com/wgx112358/myltx_ssm,0,0,Python,,2026-03-27T05:40:51Z,2026-03-28,False,Long Context
+1194063887,kvemuru/ssm_asr,Exploring state space model based automated speech recognition ,https://github.com/kvemuru/ssm_asr,0,0,Python,,2026-03-27T22:03:13Z,2026-03-28,False,Long Context
+1194201368,juzi1556/biyesheji1038,ssm基于SSM的旅游管理系统+jsp,https://github.com/juzi1556/biyesheji1038,0,0,JavaScript,,2026-03-28T03:23:47Z,2026-03-28,False,Long Context
+1194208243,juzi1556/biyesheji1094,ssm基于SSM的宠物领养系统+jsp,https://github.com/juzi1556/biyesheji1094,0,0,JavaScript,,2026-03-28T03:39:02Z,2026-03-28,False,Long Context
+1193398163,charles-future/amazon-ssm-agent,,https://github.com/charles-future/amazon-ssm-agent,0,0,Go,,2026-03-27T07:15:47Z,2026-03-28,False,Long Context
+1193478873,batinkurt1/SSMs_for_Filtering,,https://github.com/batinkurt1/SSMs_for_Filtering,0,0,,,2026-03-27T09:14:07Z,2026-03-28,False,Long Context
+1194220539,StarlightSSM/PortFolio_SSM,2026년 버전 포트폴리오,https://github.com/StarlightSSM/PortFolio_SSM,0,0,HTML,,2026-03-28T04:07:21Z,2026-03-28,False,Long Context
+1193585184,ViniciusAlfredo-DBA/HandsOn,HandsOn aula SSMS e GitHub,https://github.com/ViniciusAlfredo-DBA/HandsOn,0,0,,,2026-03-27T11:33:30Z,2026-03-28,False,Long Context
+1193482147,pavan-kumar-ceemala/aws-ssm-tunnel-project,,https://github.com/pavan-kumar-ceemala/aws-ssm-tunnel-project,0,0,PowerShell,,2026-03-27T09:18:39Z,2026-03-28,False,Long Context
+1193865926,juzi1556/biyesheji916,ssm神马物流+vue,https://github.com/juzi1556/biyesheji916,0,0,,,2026-03-27T16:58:49Z,2026-03-28,False,Long Context
+1194204716,juzi1556/biyesheji1062,ssm物业管理+jsp,https://github.com/juzi1556/biyesheji1062,0,0,JavaScript,,2026-03-28T03:31:20Z,2026-03-28,False,Long Context
+1193851020,juzi1556/biyesheji805,ssm助学贷款+jsp,https://github.com/juzi1556/biyesheji805,0,0,,,2026-03-27T16:40:13Z,2026-03-28,False,Long Context
+1194198279,juzi1556/biyesheji1015,ssm同学录网站+vue,https://github.com/juzi1556/biyesheji1015,0,0,JavaScript,,2026-03-28T03:16:47Z,2026-03-28,False,Long Context
+1193856014,juzi1556/biyesheji841,ssm会议管理系统,https://github.com/juzi1556/biyesheji841,0,0,,,2026-03-27T16:46:23Z,2026-03-28,False,Long Context
+1194198431,juzi1556/biyesheji1016,ssm物资进销存jsp,https://github.com/juzi1556/biyesheji1016,0,0,JavaScript,,2026-03-28T03:17:09Z,2026-03-28,False,Long Context
+1194212746,juzi1556/biyesheji1129,ssm校医务系统+vue,https://github.com/juzi1556/biyesheji1129,0,0,JavaScript,,2026-03-28T03:49:13Z,2026-03-28,False,Long Context
+1194202876,juzi1556/biyesheji1047,ssm广告管理系统+vue,https://github.com/juzi1556/biyesheji1047,0,0,JavaScript,,2026-03-28T03:27:03Z,2026-03-28,False,Long Context
+1193656978,biyeshejifudao/30248,食堂订餐小程序ssm,https://github.com/biyeshejifudao/30248,0,0,,,2026-03-27T13:03:47Z,2026-03-28,False,Long Context
+1193858057,juzi1556/biyesheji856,ssm宠物领养系统+vue,https://github.com/juzi1556/biyesheji856,0,0,,,2026-03-27T16:48:50Z,2026-03-28,False,Long Context
+1194203291,juzi1556/biyesheji1051,ssm汽车租赁系统+jsp,https://github.com/juzi1556/biyesheji1051,0,0,JavaScript,,2026-03-28T03:28:01Z,2026-03-28,False,Long Context
+1194206095,juzi1556/biyesheji1075,ssm课程管理系统+vue,https://github.com/juzi1556/biyesheji1075,0,0,JavaScript,,2026-03-28T03:34:27Z,2026-03-28,False,Long Context
+1193655092,biyeshejifudao/30230,疫苗预约小程序ssm,https://github.com/biyeshejifudao/30230,0,0,,,2026-03-27T13:01:54Z,2026-03-28,False,Long Context
+1193855862,juzi1556/biyesheji840,ssm校园教务系统+vue,https://github.com/juzi1556/biyesheji840,0,0,,,2026-03-27T16:46:13Z,2026-03-28,False,Long Context
+1194209512,juzi1556/biyesheji1104,ssm摊位管理系统+jsp,https://github.com/juzi1556/biyesheji1104,0,0,JavaScript,,2026-03-28T03:41:54Z,2026-03-28,False,Long Context
+1193852578,juzi1556/biyesheji816,ssm会员管理系统+jsp,https://github.com/juzi1556/biyesheji816,0,0,,,2026-03-27T16:42:05Z,2026-03-28,False,Long Context
+1193859008,juzi1556/biyesheji863,ssm民宿管理系统+jsp,https://github.com/juzi1556/biyesheji863,0,0,,,2026-03-27T16:50:02Z,2026-03-28,False,Long Context
+1194202173,juzi1556/biyesheji1042,ssm在线交友系统+vue,https://github.com/juzi1556/biyesheji1042,0,0,JavaScript,,2026-03-28T03:25:29Z,2026-03-28,False,Long Context
+1194202410,juzi1556/biyesheji1043,ssm网上商城系统+vue,https://github.com/juzi1556/biyesheji1043,0,0,JavaScript,,2026-03-28T03:25:59Z,2026-03-28,False,Long Context
+1194206229,juzi1556/biyesheji1076,ssm电子病历系统+jsp,https://github.com/juzi1556/biyesheji1076,0,0,JavaScript,,2026-03-28T03:34:43Z,2026-03-28,False,Long Context
+1193657118,biyeshejifudao/30249,微信社团小程序ssm,https://github.com/biyeshejifudao/30249,0,0,,,2026-03-27T13:03:54Z,2026-03-28,False,Long Context
+1193856926,juzi1556/biyesheji848,ssm学生宿舍管理+jsp,https://github.com/juzi1556/biyesheji848,0,0,,,2026-03-27T16:47:29Z,2026-03-28,False,Long Context
+1194213947,juzi1556/biyesheji1137,ssm社区生鲜商城+jsp,https://github.com/juzi1556/biyesheji1137,0,0,JavaScript,,2026-03-28T03:51:56Z,2026-03-28,False,Long Context
+1193858670,juzi1556/biyesheji860,ssm电动车租赁网站+jsp,https://github.com/juzi1556/biyesheji860,0,0,,,2026-03-27T16:49:35Z,2026-03-28,False,Long Context
+1193859355,juzi1556/biyesheji866,ssm框架的购物网站+vue,https://github.com/juzi1556/biyesheji866,0,0,,,2026-03-27T16:50:29Z,2026-03-28,False,Long Context
+1194205988,juzi1556/biyesheji1074,基于ssm的软考系统+vue,https://github.com/juzi1556/biyesheji1074,0,0,JavaScript,,2026-03-28T03:34:12Z,2026-03-28,False,Long Context
+1194214545,juzi1556/biyesheji1141,ssm校园活动资讯网+vue,https://github.com/juzi1556/biyesheji1141,0,0,JavaScript,,2026-03-28T03:53:16Z,2026-03-28,False,Long Context
+1194200030,juzi1556/biyesheji1029,ssm大学学生成长系+vue,https://github.com/juzi1556/biyesheji1029,0,0,JavaScript,,2026-03-28T03:20:54Z,2026-03-28,False,Long Context
+1193343059,sdsded124/biyesheji2286,基于SSM的酒店管理系统,https://github.com/sdsded124/biyesheji2286,0,0,JavaScript,,2026-03-27T05:50:07Z,2026-03-28,False,Long Context
+1194209091,juzi1556/biyesheji1101,ssm校园二手交易市场+vue,https://github.com/juzi1556/biyesheji1101,0,0,JavaScript,,2026-03-28T03:40:56Z,2026-03-28,False,Long Context
+1193850528,juzi1556/biyesheji801,ssm人事管理信息系统+jsp,https://github.com/juzi1556/biyesheji801,0,0,,,2026-03-27T16:39:36Z,2026-03-28,False,Long Context
+1194198147,juzi1556/biyesheji1014,ssm校园二手交易平台+vue,https://github.com/juzi1556/biyesheji1014,0,0,JavaScript,,2026-03-28T03:16:27Z,2026-03-28,False,Long Context
+1193866209,juzi1556/biyesheji919,ssm校园资讯推荐系统+jsp,https://github.com/juzi1556/biyesheji919,0,0,,,2026-03-27T16:59:15Z,2026-03-28,False,Long Context
+1193656482,biyeshejifudao/30244,教育培训微信小程序ssm,https://github.com/biyeshejifudao/30244,0,0,,,2026-03-27T13:03:23Z,2026-03-28,False,Long Context
+1193853460,juzi1556/biyesheji822,ssm海鲜自助餐厅系统+vue,https://github.com/juzi1556/biyesheji822,0,0,,,2026-03-27T16:43:11Z,2026-03-28,False,Long Context
+1193854123,juzi1556/biyesheji828,ssm应急资源管理系统+jsp,https://github.com/juzi1556/biyesheji828,0,0,,,2026-03-27T16:44:02Z,2026-03-28,False,Long Context
+1194208482,juzi1556/biyesheji1096,ssm新生报道管理系统+jsp,https://github.com/juzi1556/biyesheji1096,0,0,JavaScript,,2026-03-28T03:39:34Z,2026-03-28,False,Long Context
+1193856417,juzi1556/biyesheji844,ssm校园活动管理平台+vue,https://github.com/juzi1556/biyesheji844,0,0,,,2026-03-27T16:46:51Z,2026-03-28,False,Long Context
+1193864134,juzi1556/biyesheji902,ssm学生成绩管理系统+vue,https://github.com/juzi1556/biyesheji902,0,0,,,2026-03-27T16:56:44Z,2026-03-28,False,Long Context
+1194209867,juzi1556/biyesheji1107,ssm员工信息管理系统+jsp,https://github.com/juzi1556/biyesheji1107,0,0,JavaScript,,2026-03-28T03:42:38Z,2026-03-28,False,Long Context
+1194198790,juzi1556/biyesheji1019,ssm宠物店管理平台开发,https://github.com/juzi1556/biyesheji1019,0,0,JavaScript,,2026-03-28T03:18:00Z,2026-03-28,False,Long Context
+1194214411,juzi1556/biyesheji1140,ssm校内互助交易平台+vue,https://github.com/juzi1556/biyesheji1140,0,0,JavaScript,,2026-03-28T03:52:59Z,2026-03-28,False,Long Context
+1194200478,juzi1556/biyesheji1032,ssm酒店客房管理系统+jsp,https://github.com/juzi1556/biyesheji1032,0,0,JavaScript,,2026-03-28T03:21:51Z,2026-03-28,False,Long Context
+1193852067,juzi1556/biyesheji812,ssm共享客栈管理系统+jsp,https://github.com/juzi1556/biyesheji812,0,0,,,2026-03-27T16:41:28Z,2026-03-28,False,Long Context
+1193863889,juzi1556/biyesheji900,ssm旅游攻略网站设计+jsp,https://github.com/juzi1556/biyesheji900,0,0,,,2026-03-27T16:56:27Z,2026-03-28,False,Long Context
+1193854241,juzi1556/biyesheji829,ssm学生信息管理系统+jsp,https://github.com/juzi1556/biyesheji829,0,0,,,2026-03-27T16:44:10Z,2026-03-28,False,Long Context
+1194206726,juzi1556/biyesheji1081,ssm学生就业管理系统+jsp,https://github.com/juzi1556/biyesheji1081,0,0,JavaScript,,2026-03-28T03:35:52Z,2026-03-28,False,Long Context
+1194212629,juzi1556/biyesheji1128,ssm奖助学金管理系统+vue,https://github.com/juzi1556/biyesheji1128,0,0,JavaScript,,2026-03-28T03:48:57Z,2026-03-28,False,Long Context
+1194199919,juzi1556/biyesheji1028,ssm宠物医院管理系统+vue,https://github.com/juzi1556/biyesheji1028,0,0,JavaScript,,2026-03-28T03:20:37Z,2026-03-28,False,Long Context
+1194205194,juzi1556/biyesheji1066,ssm培训机构运营系统+vue,https://github.com/juzi1556/biyesheji1066,0,0,JavaScript,,2026-03-28T03:32:18Z,2026-03-28,False,Long Context
+1194215156,juzi1556/biyesheji1146,ssm课程资源管理系统+jsp,https://github.com/juzi1556/biyesheji1146,0,0,JavaScript,,2026-03-28T03:54:44Z,2026-03-28,False,Long Context
+1193859682,juzi1556/biyesheji869,ssm临沂旅游咨询系统+vue,https://github.com/juzi1556/biyesheji869,0,0,,,2026-03-27T16:50:55Z,2026-03-28,False,Long Context
+1193857437,juzi1556/biyesheji851,ssm人力资源管理系统+vue,https://github.com/juzi1556/biyesheji851,0,0,,,2026-03-27T16:48:04Z,2026-03-28,False,Long Context
+1193862982,juzi1556/biyesheji894,ssm餐厅点菜管理系统+vue,https://github.com/juzi1556/biyesheji894,0,0,,,2026-03-27T16:55:13Z,2026-03-28,False,Long Context
+1193866413,juzi1556/biyesheji920,ssm固定资产管理系统+jsp,https://github.com/juzi1556/biyesheji920,0,0,,,2026-03-27T16:59:31Z,2026-03-28,False,Long Context
+1193850659,juzi1556/biyesheji802,ssm网上服装销售系统+jsp,https://github.com/juzi1556/biyesheji802,0,0,,,2026-03-27T16:39:45Z,2026-03-28,False,Long Context
+1194203587,juzi1556/biyesheji1054,ssm图书管理借阅系统+jsp,https://github.com/juzi1556/biyesheji1054,0,0,JavaScript,,2026-03-28T03:28:47Z,2026-03-28,False,Long Context
+1194203972,juzi1556/biyesheji1057,ssm社区生鲜电商平台+vue,https://github.com/juzi1556/biyesheji1057,0,0,JavaScript,,2026-03-28T03:29:40Z,2026-03-28,False,Long Context
+1193860148,juzi1556/biyesheji872,ssm在线购书商城系统+vue,https://github.com/juzi1556/biyesheji872,0,0,,,2026-03-27T16:51:33Z,2026-03-28,False,Long Context
+1193858165,juzi1556/biyesheji857,ssm园区停车管理系统+jsp,https://github.com/juzi1556/biyesheji857,0,0,,,2026-03-27T16:48:59Z,2026-03-28,False,Long Context
+1193859573,juzi1556/biyesheji868,ssm乐购游戏商城系统+vue,https://github.com/juzi1556/biyesheji868,0,0,,,2026-03-27T16:50:47Z,2026-03-28,False,Long Context
+1194203845,juzi1556/biyesheji1056,ssm劳务外包管理系统+vue,https://github.com/juzi1556/biyesheji1056,0,0,JavaScript,,2026-03-28T03:29:22Z,2026-03-28,False,Long Context
+1193862496,juzi1556/biyesheji890,基于SSM框架的微博系统+vue,https://github.com/juzi1556/biyesheji890,0,0,,,2026-03-27T16:54:36Z,2026-03-28,False,Long Context
+1193855612,juzi1556/biyesheji839,ssm鲸落文化线上体验馆+vue,https://github.com/juzi1556/biyesheji839,0,0,,,2026-03-27T16:45:53Z,2026-03-28,False,Long Context
+1194204311,juzi1556/biyesheji1059,ssm毕业生交流学习平台+vue,https://github.com/juzi1556/biyesheji1059,0,0,JavaScript,,2026-03-28T03:30:28Z,2026-03-28,False,Long Context
+1193343959,sdsded124/biyesheji2290,基于SSM的淘宝屋购物商城,https://github.com/sdsded124/biyesheji2290,0,0,JavaScript,,2026-03-27T05:51:33Z,2026-03-28,False,Long Context
+1194209251,juzi1556/biyesheji1102,ssm校园停车场管理系统+jsp,https://github.com/juzi1556/biyesheji1102,0,0,JavaScript,,2026-03-28T03:41:18Z,2026-03-28,False,Long Context
+1194196595,juzi1556/biyesheji1002,ssm作业提交与查收系统+jsp,https://github.com/juzi1556/biyesheji1002,0,0,JavaScript,,2026-03-28T03:12:58Z,2026-03-28,False,Long Context
+1194200610,juzi1556/biyesheji1033,ssm本科生导师指导平台+vue,https://github.com/juzi1556/biyesheji1033,0,0,JavaScript,,2026-03-28T03:22:07Z,2026-03-28,False,Long Context
+1193658727,biyeshejifudao/30261,学习资料库小程序设计ssm,https://github.com/biyeshejifudao/30261,0,0,,,2026-03-27T13:05:09Z,2026-03-28,False,Long Context
+1193857302,juzi1556/biyesheji850,ssm实验室开放管理系统+jsp,https://github.com/juzi1556/biyesheji850,0,0,,,2026-03-27T16:47:55Z,2026-03-28,False,Long Context
+1194211949,juzi1556/biyesheji1122,ssm“花鸣”B2C电子商务平台+vue,https://github.com/juzi1556/biyesheji1122,0,0,JavaScript,,2026-03-28T03:47:22Z,2026-03-28,False,Long Context
+1193654056,biyeshejifudao/30219,微信小程序评分小程序ssm,https://github.com/biyeshejifudao/30219,0,0,,,2026-03-27T13:00:42Z,2026-03-28,False,Long Context
+1194213561,juzi1556/biyesheji1135,ssm基于web的网盘管理系统+vue,https://github.com/juzi1556/biyesheji1135,0,0,JavaScript,,2026-03-28T03:51:03Z,2026-03-28,False,Long Context
+1194203092,juzi1556/biyesheji1049,ssm基于web的楼房销售系统+jsp,https://github.com/juzi1556/biyesheji1049,0,0,JavaScript,,2026-03-28T03:27:31Z,2026-03-28,False,Long Context
+1194201594,juzi1556/biyesheji1039,ssm电脑公司财务管理系统+vue,https://github.com/juzi1556/biyesheji1039,0,0,JavaScript,,2026-03-28T03:24:16Z,2026-03-28,False,Long Context
+1194203480,juzi1556/biyesheji1053,ssm建筑装修图纸管理平台+jsp,https://github.com/juzi1556/biyesheji1053,0,0,JavaScript,,2026-03-28T03:28:31Z,2026-03-28,False,Long Context
+1194199772,juzi1556/biyesheji1027,ssm办公自动化管理系统java+vue,https://github.com/juzi1556/biyesheji1027,0,0,JavaScript,,2026-03-28T03:20:19Z,2026-03-28,False,Long Context
+1193853590,juzi1556/biyesheji823,ssm端游账号销售管理系统+jsp,https://github.com/juzi1556/biyesheji823,0,0,,,2026-03-27T16:43:21Z,2026-03-28,False,Long Context
+1194210244,juzi1556/biyesheji1110,ssm学生疫情信息管理系统+jsp,https://github.com/juzi1556/biyesheji1110,0,0,JavaScript,,2026-03-28T03:43:27Z,2026-03-28,False,Long Context
+1193326719,sdsded124/biyesheji2199,基于SSM架构的网上书城系统,https://github.com/sdsded124/biyesheji2199,0,0,JavaScript,,2026-03-27T05:22:29Z,2026-03-28,False,Long Context
+1193656588,biyeshejifudao/30245,食堂校园预约就餐小程序ssm,https://github.com/biyeshejifudao/30245,0,0,,,2026-03-27T13:03:29Z,2026-03-28,False,Long Context
+1194215047,juzi1556/biyesheji1145,ssm基于html5的济南旅游网站+vue,https://github.com/juzi1556/biyesheji1145,0,0,JavaScript,,2026-03-28T03:54:28Z,2026-03-28,False,Long Context
+1193864296,juzi1556/biyesheji903,ssm旅游网站的设计与实现+jsp,https://github.com/juzi1556/biyesheji903,0,0,,,2026-03-27T16:56:53Z,2026-03-28,False,Long Context
+1194198653,juzi1556/biyesheji1018,ssm基于vue的搬家预约系统+vue,https://github.com/juzi1556/biyesheji1018,0,0,JavaScript,,2026-03-28T03:17:43Z,2026-03-28,False,Long Context
+1194212491,juzi1556/biyesheji1127,ssm荆州理工职业学院网站+vue,https://github.com/juzi1556/biyesheji1127,0,0,JavaScript,,2026-03-28T03:48:40Z,2026-03-28,False,Long Context
+1193655781,biyeshejifudao/30237,小程序疫苗预约网站系统ssm,https://github.com/biyeshejifudao/30237,0,0,,,2026-03-27T13:02:38Z,2026-03-28,False,Long Context
+1194204835,juzi1556/biyesheji1063,ssm基于jsp的网络书店系统+jsp,https://github.com/juzi1556/biyesheji1063,0,0,JavaScript,,2026-03-28T03:31:33Z,2026-03-28,False,Long Context
+1194207335,juzi1556/biyesheji1086,ssm考研图书电子商务平台+vue,https://github.com/juzi1556/biyesheji1086,0,0,JavaScript,,2026-03-28T03:37:05Z,2026-03-28,False,Long Context
+1193851214,juzi1556/biyesheji806,ssm网上医院预约挂号系统+jsp,https://github.com/juzi1556/biyesheji806,0,0,,,2026-03-27T16:40:27Z,2026-03-28,False,Long Context
+1194207113,juzi1556/biyesheji1084,ssm超市库存商品管理系统+jsp,https://github.com/juzi1556/biyesheji1084,0,0,JavaScript,,2026-03-28T03:36:37Z,2026-03-28,False,Long Context
+1193858914,juzi1556/biyesheji862,ssm基于jsp的网上手机商城+jsp,https://github.com/juzi1556/biyesheji862,0,0,,,2026-03-27T16:49:54Z,2026-03-28,False,Long Context
+1194212384,juzi1556/biyesheji1126,ssm焦作旅游协会管理系统+jsp,https://github.com/juzi1556/biyesheji1126,0,0,JavaScript,,2026-03-28T03:48:23Z,2026-03-28,False,Long Context
+1193865241,juzi1556/biyesheji910,ssm基于Vue框架的订餐系统+vue,https://github.com/juzi1556/biyesheji910,0,0,,,2026-03-27T16:58:00Z,2026-03-28,False,Long Context
+1194205818,juzi1556/biyesheji1072,ssm个人网站的设计与实现+vue,https://github.com/juzi1556/biyesheji1072,0,0,JavaScript,,2026-03-28T03:33:45Z,2026-03-28,False,Long Context
+1194206435,juzi1556/biyesheji1078,ssm房屋租售信息管理系统+jsp,https://github.com/juzi1556/biyesheji1078,0,0,JavaScript,,2026-03-28T03:35:10Z,2026-03-28,False,Long Context
+1193442415,sdsded124/biyesheji2462,基于SSM的网上鲜花销售系统,https://github.com/sdsded124/biyesheji2462,0,0,JavaScript,,2026-03-27T08:22:04Z,2026-03-28,False,Long Context
+1194209403,juzi1556/biyesheji1103,ssm校园服务平台管理系统+jsp,https://github.com/juzi1556/biyesheji1103,0,0,JavaScript,,2026-03-28T03:41:38Z,2026-03-28,False,Long Context
+1193867404,juzi1556/biyesheji928,ssm基于web的药品管理系统+vue,https://github.com/juzi1556/biyesheji928,0,0,,,2026-03-27T17:00:48Z,2026-03-28,False,Long Context
+1193857818,juzi1556/biyesheji854,ssm珠宝首饰交易平台开发+jsp,https://github.com/juzi1556/biyesheji854,0,0,,,2026-03-27T16:48:32Z,2026-03-28,False,Long Context
+1193862054,juzi1556/biyesheji887,ssm工贸学生信息管理系统+jsp,https://github.com/juzi1556/biyesheji887,0,0,,,2026-03-27T16:54:01Z,2026-03-28,False,Long Context
+1194198053,juzi1556/biyesheji1013,ssm餐饮掌上设备点餐系统+vue,https://github.com/juzi1556/biyesheji1013,0,0,JavaScript,,2026-03-28T03:16:11Z,2026-03-28,False,Long Context
+1194197709,juzi1556/biyesheji1010,ssm毕业设计项目管理系统+jsp,https://github.com/juzi1556/biyesheji1010,0,0,JavaScript,,2026-03-28T03:15:28Z,2026-03-28,False,Long Context
+1194208012,juzi1556/biyesheji1092,ssm超市会员（积分)管理系统+jsp,https://github.com/juzi1556/biyesheji1092,0,0,JavaScript,,2026-03-28T03:38:29Z,2026-03-28,False,Long Context
+1194199020,juzi1556/biyesheji1021,ssm流浪动物领养系统网站+jsp,https://github.com/juzi1556/biyesheji1021,0,0,JavaScript,,2026-03-28T03:18:35Z,2026-03-28,False,Long Context
+1194198542,juzi1556/biyesheji1017,基于SSM框架的个人通讯录+jsp,https://github.com/juzi1556/biyesheji1017,0,0,JavaScript,,2026-03-28T03:17:26Z,2026-03-28,False,Long Context
+1193862158,juzi1556/biyesheji888,ssm连锁经营商业管理系统+jsp,https://github.com/juzi1556/biyesheji888,0,0,,,2026-03-27T16:54:09Z,2026-03-28,False,Long Context
+1193866633,juzi1556/biyesheji922,ssm基于Java的学习交流论坛+vue,https://github.com/juzi1556/biyesheji922,0,0,,,2026-03-27T16:59:49Z,2026-03-28,False,Long Context
+1194200804,juzi1556/biyesheji1034,基于SSM框架的电脑测评系统+vue,https://github.com/juzi1556/biyesheji1034,0,0,JavaScript,,2026-03-28T03:22:32Z,2026-03-28,False,Long Context
+1194211303,juzi1556/biyesheji1117,ssm智能仓储系统研究与设计+jsp,https://github.com/juzi1556/biyesheji1117,0,0,JavaScript,,2026-03-28T03:45:52Z,2026-03-28,False,Long Context
+1193853309,juzi1556/biyesheji821,ssm中小型企业财务管理系统+jsp,https://github.com/juzi1556/biyesheji821,0,0,,,2026-03-27T16:43:00Z,2026-03-28,False,Long Context
+1193855515,juzi1556/biyesheji838,ssm的大型商场会员管理系统+jsp,https://github.com/juzi1556/biyesheji838,0,0,,,2026-03-27T16:45:44Z,2026-03-28,False,Long Context
+1194202524,juzi1556/biyesheji1044,ssm生鲜配送系统设计及实现+jsp,https://github.com/juzi1556/biyesheji1044,0,0,JavaScript,,2026-03-28T03:26:15Z,2026-03-28,False,Long Context
+1193863102,juzi1556/biyesheji895,ssm视频点播系统设计与实现+vue,https://github.com/juzi1556/biyesheji895,0,0,,,2026-03-27T16:55:24Z,2026-03-28,False,Long Context
+1193860386,juzi1556/biyesheji874,ssm开放式教学评价管理系统+vue,https://github.com/juzi1556/biyesheji874,0,0,,,2026-03-27T16:51:52Z,2026-03-28,False,Long Context
+1193854583,juzi1556/biyesheji831,ssm铁岭河医院医患管理系统+vue,https://github.com/juzi1556/biyesheji831,0,0,,,2026-03-27T16:44:37Z,2026-03-28,False,Long Context
+1193849718,juzi1556/biyesheji796,ssm绿色农产品推广应用网站+vue,https://github.com/juzi1556/biyesheji796,0,0,,,2026-03-27T16:38:31Z,2026-03-28,False,Long Context
+1193854467,juzi1556/biyesheji830,ssm校园快递一站式服务系统+jsp,https://github.com/juzi1556/biyesheji830,0,0,,,2026-03-27T16:44:28Z,2026-03-28,False,Long Context
+1194213379,juzi1556/biyesheji1134,ssm航帆学院网站设计与实现+vue,https://github.com/juzi1556/biyesheji1134,0,0,JavaScript,,2026-03-28T03:50:37Z,2026-03-28,False,Long Context
+1194207787,juzi1556/biyesheji1090,基于SSM框架的健康管理系统+vue,https://github.com/juzi1556/biyesheji1090,0,0,JavaScript,,2026-03-28T03:37:59Z,2026-03-28,False,Long Context
+1194210864,juzi1556/biyesheji1114,ssm设备配件管理和设备检修+vue,https://github.com/juzi1556/biyesheji1114,0,0,JavaScript,,2026-03-28T03:44:52Z,2026-03-28,False,Long Context
+1194208859,juzi1556/biyesheji1099,基于SSM的药店药品销售系统+vue,https://github.com/juzi1556/biyesheji1099,0,0,JavaScript,,2026-03-28T03:40:23Z,2026-03-28,False,Long Context
+1194202029,juzi1556/biyesheji1041,SSM的婚恋网站的设计与实现+vue,https://github.com/juzi1556/biyesheji1041,0,0,JavaScript,,2026-03-28T03:25:07Z,2026-03-28,False,Long Context
+1193852336,juzi1556/biyesheji814,SSM的高校共享单车管理系统+vue,https://github.com/juzi1556/biyesheji814,0,0,,,2026-03-27T16:41:46Z,2026-03-28,False,Long Context
+1193857682,juzi1556/biyesheji853,ssm医学生在线学习交流平台+vue,https://github.com/juzi1556/biyesheji853,0,0,,,2026-03-27T16:48:22Z,2026-03-28,False,Long Context
+1193864420,juzi1556/biyesheji904,ssm大学生就业信息管理系统+jsp,https://github.com/juzi1556/biyesheji904,0,0,,,2026-03-27T16:57:01Z,2026-03-28,False,Long Context
+1194211799,juzi1556/biyesheji1121,ssm星火许电影小说网站设计+jsp,https://github.com/juzi1556/biyesheji1121,0,0,JavaScript,,2026-03-28T03:47:02Z,2026-03-28,False,Long Context
+1193863317,juzi1556/biyesheji897,SSM的校园二手物品交易平台+vue,https://github.com/juzi1556/biyesheji897,0,0,,,2026-03-27T16:55:41Z,2026-03-28,False,Long Context
+1193866768,juzi1556/biyesheji923,基于ssm的疫情物质管理系统+jsp,https://github.com/juzi1556/biyesheji923,0,0,,,2026-03-27T16:59:59Z,2026-03-28,False,Long Context
+1193852818,juzi1556/biyesheji818,ssm农产品仓库管理系统系统+jsp,https://github.com/juzi1556/biyesheji818,0,0,,,2026-03-27T16:42:23Z,2026-03-28,False,Long Context
+1193864703,juzi1556/biyesheji906,ssm前后端分离鲜花销售系统+vue,https://github.com/juzi1556/biyesheji906,0,0,,,2026-03-27T16:57:19Z,2026-03-28,False,Long Context
+1194203719,juzi1556/biyesheji1055,基于SSM+Vue的随心淘网管理系统,https://github.com/juzi1556/biyesheji1055,0,0,JavaScript,,2026-03-28T03:29:04Z,2026-03-28,False,Long Context
+1194209765,juzi1556/biyesheji1106,ssm实验室仪器设备管理系统+jsp,https://github.com/juzi1556/biyesheji1106,0,0,JavaScript,,2026-03-28T03:42:24Z,2026-03-28,False,Long Context
+1193865439,juzi1556/biyesheji912,ssm框架的大学生就业信息平台+jsp,https://github.com/juzi1556/biyesheji912,0,0,,,2026-03-27T16:58:17Z,2026-03-28,False,Long Context
+1193851329,juzi1556/biyesheji807,ssm游戏攻略网站的设计与实现+vue,https://github.com/juzi1556/biyesheji807,0,0,,,2026-03-27T16:40:35Z,2026-03-28,False,Long Context
+1194199259,juzi1556/biyesheji1023,ssm社区智慧养老监护管理平台+vue,https://github.com/juzi1556/biyesheji1023,0,0,JavaScript,,2026-03-28T03:19:10Z,2026-03-28,False,Long Context
+1194205530,juzi1556/biyesheji1069,ssm的游戏销售系统的设计与实现,https://github.com/juzi1556/biyesheji1069,0,0,JavaScript,,2026-03-28T03:33:05Z,2026-03-28,False,Long Context
+1193861240,juzi1556/biyesheji880,基于SSM的乡镇篮球队管理系统+jsp,https://github.com/juzi1556/biyesheji880,0,0,,,2026-03-27T16:52:57Z,2026-03-28,False,Long Context
+1194209967,juzi1556/biyesheji1108,ssm智慧养老平台的设计与实现+jsp,https://github.com/juzi1556/biyesheji1108,0,0,JavaScript,,2026-03-28T03:42:52Z,2026-03-28,False,Long Context
+1194201856,juzi1556/biyesheji1040,ssm二手车交易网站设计与实现+vue,https://github.com/juzi1556/biyesheji1040,0,0,JavaScript,,2026-03-28T03:24:48Z,2026-03-28,False,Long Context
+1194207658,juzi1556/biyesheji1089,基于SSM框架的高校试题管理系统,https://github.com/juzi1556/biyesheji1089,0,0,JavaScript,,2026-03-28T03:37:44Z,2026-03-28,False,Long Context
+1193655700,biyeshejifudao/30236,小程序疫苗预约网站系统ssm（后台）,https://github.com/biyeshejifudao/30236,0,0,,,2026-03-27T13:02:32Z,2026-03-28,False,Long Context
+1194209621,juzi1556/biyesheji1105,ssm校园家教兼职信息交流平台+jsp,https://github.com/juzi1556/biyesheji1105,0,0,JavaScript,,2026-03-28T03:42:09Z,2026-03-28,False,Long Context
+1193609795,sdsded124/biyesheji2741,基于ssm的线上花店的设计与实现,https://github.com/sdsded124/biyesheji2741,0,0,JavaScript,,2026-03-27T12:04:07Z,2026-03-28,False,Long Context
+1194214252,juzi1556/biyesheji1139,ssm工单管理系统的设计与实现+jsp,https://github.com/juzi1556/biyesheji1139,0,0,JavaScript,,2026-03-28T03:52:36Z,2026-03-28,False,Long Context
+1194214765,juzi1556/biyesheji1143,基于ssm框架网络财务设计与实现,https://github.com/juzi1556/biyesheji1143,0,0,JavaScript,,2026-03-28T03:53:47Z,2026-03-28,False,Long Context
+1194212156,juzi1556/biyesheji1124,ssm高校实验室资源综合管理系统+jsp,https://github.com/juzi1556/biyesheji1124,0,0,JavaScript,,2026-03-28T03:47:50Z,2026-03-28,False,Long Context
+1193655591,biyeshejifudao/30235,基于微信小程序点餐系统的设计ssm,https://github.com/biyeshejifudao/30235,0,0,,,2026-03-27T13:02:26Z,2026-03-28,False,Long Context
+1193867007,juzi1556/biyesheji925,ssm旅行社管理系统的设计与实现+jsp,https://github.com/juzi1556/biyesheji925,0,0,,,2026-03-27T17:00:18Z,2026-03-28,False,Long Context
+1193659208,biyeshejifudao/30264,基于微信小程序的插画共享平台ssm,https://github.com/biyeshejifudao/30264,0,0,,,2026-03-27T13:05:28Z,2026-03-28,False,Long Context
+1193867275,juzi1556/biyesheji927,ssm开心农家乐系统的设计与实现+jsp,https://github.com/juzi1556/biyesheji927,0,0,,,2026-03-27T17:00:37Z,2026-03-28,False,Long Context
+1193851439,juzi1556/biyesheji808,ssm班主任助理系统的设计与实现+jsp,https://github.com/juzi1556/biyesheji808,0,0,,,2026-03-27T16:40:43Z,2026-03-28,False,Long Context
+1193659325,biyeshejifudao/30265,基于微信小程序的小说阅读系统ssm,https://github.com/biyeshejifudao/30265,0,0,,,2026-03-27T13:05:35Z,2026-03-28,False,Long Context
+1193656846,biyeshejifudao/30247,微信小程序的高校党费收缴系统ssm,https://github.com/biyeshejifudao/30247,0,0,,,2026-03-27T13:03:41Z,2026-03-28,False,Long Context
+1193656385,biyeshejifudao/30243,基于微信小程序的垃圾分类系统ssm,https://github.com/biyeshejifudao/30243,0,0,,,2026-03-27T13:03:16Z,2026-03-28,False,Long Context
+1193654437,biyeshejifudao/30223,基于微信小程序的球馆预约系统ssm,https://github.com/biyeshejifudao/30223,0,0,,,2026-03-27T13:01:08Z,2026-03-28,False,Long Context
+1193864567,juzi1556/biyesheji905,ssm家庭财务管理系统设计与实现+jsp,https://github.com/juzi1556/biyesheji905,0,0,,,2026-03-27T16:57:11Z,2026-03-28,False,Long Context
+1193849833,juzi1556/biyesheji797,ssm在线云音乐系统的设计与实现+jsp,https://github.com/juzi1556/biyesheji797,0,0,,,2026-03-27T16:38:42Z,2026-03-28,False,Long Context
+1193850767,juzi1556/biyesheji803,ssm电子竞技管理平台设计与实现+jsp,https://github.com/juzi1556/biyesheji803,0,0,,,2026-03-27T16:39:55Z,2026-03-28,False,Long Context
+1194214652,juzi1556/biyesheji1142,ssm进销存管理系统的设计与实现+jsp,https://github.com/juzi1556/biyesheji1142,0,0,JavaScript,,2026-03-28T03:53:31Z,2026-03-28,False,Long Context
+1194214899,juzi1556/biyesheji1144,ssm思途旅游管理系统分析与设计+jsp,https://github.com/juzi1556/biyesheji1144,0,0,JavaScript,,2026-03-28T03:54:06Z,2026-03-28,False,Long Context
+1193656174,biyeshejifudao/30241,基于微信小程序的外卖点餐系统ssm,https://github.com/biyeshejifudao/30241,0,0,,,2026-03-27T13:03:03Z,2026-03-28,False,Long Context
+1193228148,sdsded124/biyesheji1746,健身达人微信小程序的设计与实现ssm,https://github.com/sdsded124/biyesheji1746,0,0,JavaScript,,2026-03-27T02:12:58Z,2026-03-28,False,Long Context
+1193659023,biyeshejifudao/30263,微信小程序跑腿平台的设计与实现ssm,https://github.com/biyeshejifudao/30263,0,0,,,2026-03-27T13:05:21Z,2026-03-28,False,Long Context
+1193654548,biyeshejifudao/30224,基于java的餐厅点餐系统微信小程序ssm,https://github.com/biyeshejifudao/30224,0,0,,,2026-03-27T13:01:14Z,2026-03-28,False,Long Context
+1193196162,sdsded124/biyesheji1577,基于小程序的购物系统设计与实现+ssm,https://github.com/sdsded124/biyesheji1577,0,0,JavaScript,,2026-03-27T01:10:02Z,2026-03-28,False,Long Context
+1193233641,sdsded124/biyesheji1778,便捷饭店点餐小程序的设计与实现ssm,https://github.com/sdsded124/biyesheji1778,0,0,JavaScript,,2026-03-27T02:23:29Z,2026-03-28,False,Long Context
+1193215575,sdsded124/biyesheji1671,网络小说微信小程序的设计与实现+ssm,https://github.com/sdsded124/biyesheji1671,0,0,JavaScript,,2026-03-27T01:48:47Z,2026-03-28,False,Long Context
+1193609575,sdsded124/biyesheji2740,基于SSM的农家乐预约系统设计与实现,https://github.com/sdsded124/biyesheji2740,0,0,JavaScript,,2026-03-27T12:03:48Z,2026-03-28,False,Long Context
+1193213198,sdsded124/biyesheji1657,基于移动平台的远程在线诊疗系统+ssm,https://github.com/sdsded124/biyesheji1657,0,0,JavaScript,,2026-03-27T01:44:00Z,2026-03-28,False,Long Context
+1193211806,sdsded124/biyesheji1648,会议发布与预约系统的设计与开发+ssm,https://github.com/sdsded124/biyesheji1648,0,0,JavaScript,,2026-03-27T01:41:10Z,2026-03-28,False,Long Context
+1193180541,sdsded124/biyesheji1502,基于ssm+vue的中国版Blackboard学习系统实现+vue,https://github.com/sdsded124/biyesheji1502,0,0,JavaScript,,2026-03-27T00:37:18Z,2026-03-28,False,Long Context
+1193231368,sdsded124/biyesheji1764,中国剪纸微信小程序的设计与实现ssm,https://github.com/sdsded124/biyesheji1764,0,0,JavaScript,,2026-03-27T02:19:09Z,2026-03-28,False,Long Context
+1193609987,sdsded124/biyesheji2742,基于SSM线上视频学习系统设计与实现,https://github.com/sdsded124/biyesheji2742,0,0,JavaScript,,2026-03-27T12:04:23Z,2026-03-28,False,Long Context
+1193234424,sdsded124/biyesheji1784,基于微信小程序的二手物品交易平台ssm,https://github.com/sdsded124/biyesheji1784,0,0,JavaScript,,2026-03-27T02:25:04Z,2026-03-28,False,Long Context
+1193185826,sdsded124/biyesheji1530,基于SSM的宠物服务平台的设计与实现+vue,https://github.com/sdsded124/biyesheji1530,0,0,JavaScript,,2026-03-27T00:48:45Z,2026-03-28,False,Long Context
+1193656076,biyeshejifudao/30240,基于微信小程序的校园综合服务平台ssm,https://github.com/biyeshejifudao/30240,0,0,,,2026-03-27T13:02:57Z,2026-03-28,False,Long Context
+1193229518,sdsded124/biyesheji1754,澡堂预订的微信小程序的设计和利用ssm,https://github.com/sdsded124/biyesheji1754,0,0,JavaScript,,2026-03-27T02:15:40Z,2026-03-28,False,Long Context
+1193182230,sdsded124/biyesheji1512,基于SSM框架的P2P借贷网站设计与实现+vue,https://github.com/sdsded124/biyesheji1512,0,0,JavaScript,,2026-03-27T00:40:48Z,2026-03-28,False,Long Context
+1193204550,sdsded124/biyesheji1613,基于微信小程序的4S店客户管理系统+ssm,https://github.com/sdsded124/biyesheji1613,0,0,JavaScript,,2026-03-27T01:26:41Z,2026-03-28,False,Long Context
+1193228441,sdsded124/biyesheji1748,校园反诈骗微信小程序的设计与开发ssm,https://github.com/sdsded124/biyesheji1748,0,0,JavaScript,,2026-03-27T02:13:32Z,2026-03-28,False,Long Context
+1193220230,sdsded124/biyesheji1701,个人健康数据管理系统的设计与实现+ssm,https://github.com/sdsded124/biyesheji1701,0,0,JavaScript,,2026-03-27T01:57:45Z,2026-03-28,False,Long Context
+1193232406,sdsded124/biyesheji1771,基于微信平台的购物商城小程序开发ssm,https://github.com/sdsded124/biyesheji1771,0,0,JavaScript,,2026-03-27T02:21:17Z,2026-03-28,False,Long Context
+1193228769,sdsded124/biyesheji1750,基于微信小程序的教学质量评价系统ssm,https://github.com/sdsded124/biyesheji1750,0,0,JavaScript,,2026-03-27T02:14:07Z,2026-03-28,False,Long Context
+1193655864,biyeshejifudao/30238,基于微信小程序的校园二手交易平台ssm,https://github.com/biyeshejifudao/30238,0,0,,,2026-03-27T13:02:45Z,2026-03-28,False,Long Context
+1193199358,sdsded124/biyesheji1591,基于Vue.js的校园防疫微信小程序开发+ssm,https://github.com/sdsded124/biyesheji1591,0,0,JavaScript,,2026-03-27T01:16:46Z,2026-03-28,False,Long Context
+1193442905,sdsded124/biyesheji2463,基于SSM的养老院管理系统的设计与实现,https://github.com/sdsded124/biyesheji2463,0,0,JavaScript,,2026-03-27T08:22:44Z,2026-03-28,False,Long Context
+1193225128,sdsded124/biyesheji1730,阳光电脑公司的维修服务微信小程序+ssm,https://github.com/sdsded124/biyesheji1730,0,0,JavaScript,,2026-03-27T02:07:23Z,2026-03-28,False,Long Context
+1193655013,biyeshejifudao/30229,学生资助在线管理软件开发微信小程序ssm,https://github.com/biyeshejifudao/30229,0,0,,,2026-03-27T13:01:48Z,2026-03-28,False,Long Context
+1193230558,sdsded124/biyesheji1759,基于小程序宿舍报修系统的设计与实现ssm,https://github.com/sdsded124/biyesheji1759,0,0,JavaScript,,2026-03-27T02:17:36Z,2026-03-28,False,Long Context
+1193439749,sdsded124/biyesheji2455,基于SSM框架的老年群体安全用药管理系统,https://github.com/sdsded124/biyesheji2455,0,0,JavaScript,,2026-03-27T08:18:12Z,2026-03-28,False,Long Context
+1193231596,sdsded124/biyesheji1766,在线厨艺平台的设计与实现微信小程序ssm,https://github.com/sdsded124/biyesheji1766,0,0,JavaScript,,2026-03-27T02:19:40Z,2026-03-28,False,Long Context
+1193228606,sdsded124/biyesheji1749,基于微信小程序的电影院订票选座系统ssm,https://github.com/sdsded124/biyesheji1749,0,0,JavaScript,,2026-03-27T02:13:49Z,2026-03-28,False,Long Context
+1193438675,sdsded124/biyesheji2453,基于SSM的流浪动物救助系统的设计与实现,https://github.com/sdsded124/biyesheji2453,0,0,JavaScript,,2026-03-27T08:16:46Z,2026-03-28,False,Long Context
+1193657255,biyeshejifudao/30250,基于微信小程序的跳蚤市场设计与实现ssm,https://github.com/biyeshejifudao/30250,0,0,,,2026-03-27T13:04:01Z,2026-03-28,False,Long Context
+1193231728,sdsded124/biyesheji1767,基于微信小程序的小区管理系统的设计ssm,https://github.com/sdsded124/biyesheji1767,0,0,JavaScript,,2026-03-27T02:19:56Z,2026-03-28,False,Long Context
+1193186484,sdsded124/biyesheji1532,基于SSM的体育用品交易网站的设计与实现+vue,https://github.com/sdsded124/biyesheji1532,0,0,JavaScript,,2026-03-27T00:50:03Z,2026-03-28,False,Long Context
+1193202175,sdsded124/biyesheji1603,校园二手平台的设计与实现+ssm(没有演示视频),https://github.com/sdsded124/biyesheji1603,0,0,JavaScript,,2026-03-27T01:22:19Z,2026-03-28,False,Long Context
+1193206761,sdsded124/biyesheji1623,校园二手交易平台的小程序+ssm(没有演示视频),https://github.com/sdsded124/biyesheji1623,0,0,JavaScript,,2026-03-27T01:30:40Z,2026-03-28,False,Long Context
+1193657951,biyeshejifudao/30255,基于微信小程序的手机商城的设计与实现ssm,https://github.com/biyeshejifudao/30255,0,0,,,2026-03-27T13:04:31Z,2026-03-28,False,Long Context
+1193232001,sdsded124/biyesheji1769,基于微信小程序的社区垃圾回收管理系统ssm,https://github.com/sdsded124/biyesheji1769,0,0,JavaScript,,2026-03-27T02:20:32Z,2026-03-28,False,Long Context
+1193196784,sdsded124/biyesheji1580,校园水电费管理微信小程序的设计与实现+ssm,https://github.com/sdsded124/biyesheji1580,0,0,JavaScript,,2026-03-27T01:11:21Z,2026-03-28,False,Long Context
+1193197766,sdsded124/biyesheji1584,基于微信平台的旅游出行必备商城小程序+ssm,https://github.com/sdsded124/biyesheji1584,0,0,JavaScript,,2026-03-27T01:13:20Z,2026-03-28,False,Long Context
+1193526495,sdsded124/biyesheji2561,基于SSM的宠物店线上运营系统的设计与实现,https://github.com/sdsded124/biyesheji2561,0,0,JavaScript,,2026-03-27T10:16:55Z,2026-03-28,False,Long Context
+1193181489,sdsded124/biyesheji1507,基于SSM框架的漫画阅读系统的设计与开发+vue,https://github.com/sdsded124/biyesheji1507,0,0,JavaScript,,2026-03-27T00:39:15Z,2026-03-28,False,Long Context
+1193225686,sdsded124/biyesheji1733,基于H5的智慧消防微信小程序设计与开发+ssm,https://github.com/sdsded124/biyesheji1733,0,0,JavaScript,,2026-03-27T02:08:25Z,2026-03-28,False,Long Context
+1193442113,sdsded124/biyesheji2461,基于SSM+VUE的智慧出租管理系统的设计与实现,https://github.com/sdsded124/biyesheji2461,0,0,JavaScript,,2026-03-27T08:21:37Z,2026-03-28,False,Long Context
+1193655189,biyeshejifudao/30231,速达物流信息查询微信小程序设计与实现ssm,https://github.com/biyeshejifudao/30231,0,0,,,2026-03-27T13:02:01Z,2026-03-28,False,Long Context
+1193201940,sdsded124/biyesheji1602,基于微信的原创音乐小程序的设计与实现+ssm,https://github.com/sdsded124/biyesheji1602,0,0,JavaScript,,2026-03-27T01:21:53Z,2026-03-28,False,Long Context
+1193212346,sdsded124/biyesheji1652,亿家旺生鲜云订单零售系统的设计与实现+ssm,https://github.com/sdsded124/biyesheji1652,0,0,JavaScript,,2026-03-27T01:42:21Z,2026-03-28,False,Long Context
+1193181311,sdsded124/biyesheji1506,基于SSM的快递信息管理系统的设计与实现+vue,https://github.com/sdsded124/biyesheji1506,0,0,JavaScript,,2026-03-27T00:38:54Z,2026-03-28,False,Long Context
+1193183657,sdsded124/biyesheji1519,基于SSM的图书借阅管理系统的设计与开发+vue,https://github.com/sdsded124/biyesheji1519,0,0,JavaScript,,2026-03-27T00:44:04Z,2026-03-28,False,Long Context
+1193201280,sdsded124/biyesheji1599,基于微信小程序的童装商城的设计与实现+ssm,https://github.com/sdsded124/biyesheji1599,0,0,JavaScript,,2026-03-27T01:20:38Z,2026-03-28,False,Long Context
+1193654922,biyeshejifudao/30228,基于微信小程序的走失人员的报备平台设计ssm,https://github.com/biyeshejifudao/30228,0,0,,,2026-03-27T13:01:41Z,2026-03-28,False,Long Context
+1193234559,sdsded124/biyesheji1785,基于微信小程序投票评选系统的设计与实现ssm,https://github.com/sdsded124/biyesheji1785,0,0,JavaScript,,2026-03-27T02:25:19Z,2026-03-28,False,Long Context
+1193656276,biyeshejifudao/30242,基于微信小程序的外卖点餐系统设计与实现ssm,https://github.com/biyeshejifudao/30242,0,0,,,2026-03-27T13:03:09Z,2026-03-28,False,Long Context
+1193654241,biyeshejifudao/30221,新冠肺炎服务预约微信小程序的设计与实现ssm,https://github.com/biyeshejifudao/30221,0,0,,,2026-03-27T13:00:54Z,2026-03-28,False,Long Context
+1193655985,biyeshejifudao/30239,基于微信小程序高校订餐系统的设计与开发ssm,https://github.com/biyeshejifudao/30239,0,0,,,2026-03-27T13:02:51Z,2026-03-28,False,Long Context
+1193195762,sdsded124/biyesheji1575,基于SSM框架的民宿预订管理系统设计与实现+vue,https://github.com/sdsded124/biyesheji1575,0,0,JavaScript,,2026-03-27T01:09:09Z,2026-03-28,False,Long Context
+1193199129,sdsded124/biyesheji1590,健身管理系统及会员微信小程序的设计与实现+ssm,https://github.com/sdsded124/biyesheji1590,0,0,JavaScript,,2026-03-27T01:16:16Z,2026-03-28,False,Long Context
+1193233181,sdsded124/biyesheji1775,基于微信小程序的快递管理平台的设计与实现ssm,https://github.com/sdsded124/biyesheji1775,0,0,JavaScript,,2026-03-27T02:22:39Z,2026-03-28,False,Long Context
+1193199542,sdsded124/biyesheji1592,基于微信的设备故障报修管理系统设计与实现+ssm,https://github.com/sdsded124/biyesheji1592,0,0,JavaScript,,2026-03-27T01:17:12Z,2026-03-28,False,Long Context
+1193199809,sdsded124/biyesheji1593,基于微信小程序的学生公寓电费信息管理系统+ssm,https://github.com/sdsded124/biyesheji1593,0,0,JavaScript,,2026-03-27T01:17:47Z,2026-03-28,False,Long Context
+1193185264,sdsded124/biyesheji1527,基于SSM的的农产品线上销售网站的设计与实现+vue,https://github.com/sdsded124/biyesheji1527,0,0,JavaScript,,2026-03-27T00:47:30Z,2026-03-28,False,Long Context
+1193441215,sdsded124/biyesheji2458,基于 SSM 框架的医院人力资源管理系统的设计与实,https://github.com/sdsded124/biyesheji2458,0,0,JavaScript,,2026-03-27T08:20:19Z,2026-03-28,False,Long Context
+1193659621,biyeshejifudao/30267,基于微信平台的报刊订阅小程序的设计与实现ssm,https://github.com/biyeshejifudao/30267,0,0,,,2026-03-27T13:05:49Z,2026-03-28,False,Long Context
+1193654716,biyeshejifudao/30226,基于微信小程序的新生报到系统的设计与实现ssm,https://github.com/biyeshejifudao/30226,0,0,,,2026-03-27T13:01:28Z,2026-03-28,False,Long Context
+1193198689,sdsded124/biyesheji1588,基于微信小程序的科创微应用平台设计与实现+ssm,https://github.com/sdsded124/biyesheji1588,0,0,JavaScript,,2026-03-27T01:15:19Z,2026-03-28,False,Long Context
+1193194764,sdsded124/biyesheji1571,基于ssm的心理预约咨询管理系统的设计与实现+vue,https://github.com/sdsded124/biyesheji1571,0,0,JavaScript,,2026-03-27T01:07:08Z,2026-03-28,False,Long Context
+1193188454,sdsded124/biyesheji1541,基于ssm技术的金融支付终端管理系统设计与实现+jsp,https://github.com/sdsded124/biyesheji1541,0,0,JavaScript,,2026-03-27T00:53:57Z,2026-03-28,False,Long Context
+1193223204,sdsded124/biyesheji1719,校园资讯平台微信小程序+ssm（微信端有问题，暂时不卖）,https://github.com/sdsded124/biyesheji1719,0,0,JavaScript,,2026-03-27T02:03:42Z,2026-03-28,False,Long Context
+1193331682,sdsded124/biyesheji2227,ssm具有推荐功能的二手交易平台小程序设计与实现,https://github.com/sdsded124/biyesheji2227,0,0,JavaScript,,2026-03-27T05:31:08Z,2026-03-28,False,Long Context
+1193232780,sdsded124/biyesheji1773,基于JAVA的微信食堂线上订餐小程序的设计与实现ssm,https://github.com/sdsded124/biyesheji1773,0,0,JavaScript,,2026-03-27T02:21:57Z,2026-03-28,False,Long Context
+1193196994,sdsded124/biyesheji1581,基于小程序的老孙电子点菜系统开发设计与实现+ssm,https://github.com/sdsded124/biyesheji1581,0,0,JavaScript,,2026-03-27T01:11:47Z,2026-03-28,False,Long Context
+1193227825,sdsded124/biyesheji1744,“返家乡”高校暑期社会实践微信小程序设计与开发ssm,https://github.com/sdsded124/biyesheji1744,0,0,JavaScript,,2026-03-27T02:12:18Z,2026-03-28,False,Long Context
+1193658450,biyeshejifudao/30259,基于微信小程序的医院综合服务平台的设计与实现ssm,https://github.com/biyeshejifudao/30259,0,0,,,2026-03-27T13:04:57Z,2026-03-28,False,Long Context
+1193659485,biyeshejifudao/30266,基于微信小程序的在线点餐（堂食）平台的设计与实现ssm,https://github.com/biyeshejifudao/30266,0,0,,,2026-03-27T13:05:42Z,2026-03-28,False,Long Context
+1193657567,biyeshejifudao/30252,基于微信小程序的网约巴士订票平台的设计与实现ssm,https://github.com/biyeshejifudao/30252,0,0,,,2026-03-27T13:04:13Z,2026-03-28,False,Long Context
+1193177528,3886370410/WHRRZYgKhh,【Java计算机毕业设计分享】基于SSM的SSM公司项目管理系统设计与实现，MySQL Java开发 毕业设计 实战项目【附源码、文档报告、代码讲解】,https://github.com/3886370410/WHRRZYgKhh,1,0,,,2026-03-27T00:30:57Z,2026-03-28,False,Long Context
+1193439147,sdsded124/biyesheji2454,基于SSM框架的课程实验教学项目管理系统的设计与实现,https://github.com/sdsded124/biyesheji2454,0,0,JavaScript,,2026-03-27T08:17:23Z,2026-03-28,False,Long Context
+1193658205,biyeshejifudao/30257,基于大学生社团活动管理的微信小程序的设计与实现ssm,https://github.com/biyeshejifudao/30257,0,0,,,2026-03-27T13:04:43Z,2026-03-28,False,Long Context
+1193226823,sdsded124/biyesheji1739,基于微信小程序的校园二手交易平台系统设计与开发ssm,https://github.com/sdsded124/biyesheji1739,0,0,JavaScript,,2026-03-27T02:10:24Z,2026-03-28,False,Long Context
+1193233875,sdsded124/biyesheji1780,基于微信的疫情期间学生请假与销假系统的设计与实现ssm,https://github.com/sdsded124/biyesheji1780,0,0,JavaScript,,2026-03-27T02:24:00Z,2026-03-28,False,Long Context
+1193331310,sdsded124/biyesheji2225,ssm基于微信小程序的大学校园失物招领系统的设计与实现,https://github.com/sdsded124/biyesheji2225,0,0,JavaScript,,2026-03-27T05:30:30Z,2026-03-28,False,Long Context
+1194173079,idontcarethishahaha/wwj-club,SSM+Vue+ElementPlus 开发的学习俱乐部管理系统，包含 RMS/UMS/CMS 三大核心模块,https://github.com/idontcarethishahaha/wwj-club,0,0,Java,,2026-03-28T02:19:26Z,2026-03-28,False,Long Context
+1193210714,sdsded124/biyesheji1641,大学生闲置物品交易平台的分析与设计+ssm（微信端有问题，暂时不卖）,https://github.com/sdsded124/biyesheji1641,0,0,JavaScript,,2026-03-27T01:38:54Z,2026-03-28,False,Long Context
+1193479487,gy-vs/StudentSystem,基于 SSM 框架（Spring + Spring MVC + MyBatis）的学生管理系统，提供学生、课程、成绩、教师信息的全生命周期管理能力。,https://github.com/gy-vs/StudentSystem,0,0,Java,,2026-03-27T09:15:01Z,2026-03-28,False,Long Context
+1193949835,laowang111102/obzwynLVaX,【Java计算机毕业设计分享】基于SSM的论文管理系统，MySQL Java开发 毕业设计 实战项目【附源码、文档报告、代码讲解】,https://github.com/laowang111102/obzwynLVaX,0,0,,,2026-03-27T18:52:02Z,2026-03-28,False,Long Context
+1194062604,kevinyang11101/BmGsEWdBzn,【Java计算机毕业设计分享】基于SSM的民宿短租系统，MySQL Java开发 毕业设计 实战项目【附源码、文档报告、代码讲解】,https://github.com/kevinyang11101/BmGsEWdBzn,0,0,,,2026-03-27T22:00:25Z,2026-03-28,False,Long Context
+1193363259,3886370410/JNwWZNlnDg,【Java计算机毕业设计分享】基于SSM的在线教育平台，MySQL Java开发 毕业设计 实战项目【附源码、文档报告、代码讲解】,https://github.com/3886370410/JNwWZNlnDg,1,0,,,2026-03-27T06:22:49Z,2026-03-28,False,Long Context
+1193869044,kevinyang11101/PirspGgzpF,【Java计算机毕业设计分享】基于SSM的仓库管理系统，MySQL Java开发 毕业设计 实战项目【附源码、文档报告、代码讲解】,https://github.com/kevinyang11101/PirspGgzpF,0,0,,,2026-03-27T17:02:42Z,2026-03-28,False,Long Context
+1193415997,kevinyang11102/ZhWkbKRLYs,【Java计算机毕业设计分享】基于SSM教材管理平台，MySQL Java开发 毕业设计 实战项目【附源码、文档报告、代码讲解】,https://github.com/kevinyang11102/ZhWkbKRLYs,0,0,,,2026-03-27T07:42:38Z,2026-03-28,False,Long Context
+1194071769,kevinyang11101/JwvescLeWJ,【Java计算机毕业设计分享】基于SSM微信点餐小程序，MySQL Java开发 毕业设计 实战项目【附源码、文档报告、代码讲解】,https://github.com/kevinyang11101/JwvescLeWJ,0,0,,,2026-03-27T22:19:01Z,2026-03-28,False,Long Context
+1193178964,3886370410/EBBPIWLRUS,【Java计算机毕业设计分享】基于SSM的会议管理系统，MySQL Java开发 毕业设计 实战项目【附源码、文档报告、代码讲解】,https://github.com/3886370410/EBBPIWLRUS,1,0,,,2026-03-27T00:34:00Z,2026-03-28,False,Long Context
+1193362574,3886370410/VbkNvsCKzA,【Java计算机毕业设计分享】基于SSM的超市管理系统，MySQL Java开发 毕业设计 实战项目【附源码、文档报告、代码讲解】,https://github.com/3886370410/VbkNvsCKzA,1,0,,,2026-03-27T06:21:49Z,2026-03-28,False,Long Context
+1193398437,kevinyang11101/FYIHrlQUzU,【Java计算机毕业设计分享】基于SSM的二手交易平台，MySQL Java开发 毕业设计 实战项目【附源码、文档报告、代码讲解】,https://github.com/kevinyang11101/FYIHrlQUzU,0,0,,,2026-03-27T07:16:11Z,2026-03-28,False,Long Context
+1193918244,kevinyang11103/NAxJhulNhX,【Java计算机毕业设计分享】基于SSM垃圾分类小程序，MySQL Java开发 毕业设计 实战项目【附源码、文档报告、代码讲解】,https://github.com/kevinyang11103/NAxJhulNhX,0,0,,,2026-03-27T18:06:27Z,2026-03-28,False,Long Context
+1193940132,laowang111102/IpJPISWTLT,【Java计算机毕业设计分享】基于SSM的外卖小程序，MySQL Java开发 毕业设计 实战项目【附源码、文档报告、代码讲解】,https://github.com/laowang111102/IpJPISWTLT,0,0,,,2026-03-27T18:37:54Z,2026-03-28,False,Long Context
+1193789247,kevinyang11102/ENODYbiyRi,【Java计算机毕业设计分享】基于SSM的财务管理系统，MySQL Java开发 毕业设计 实战项目【附源码、文档报告、代码讲解】,https://github.com/kevinyang11102/ENODYbiyRi,0,0,,,2026-03-27T15:27:23Z,2026-03-28,False,Long Context
+1193987340,3886370410/xOSsOcvtkx,【Java计算机毕业设计分享】基于SSM的电影售票平台，MySQL Java开发 毕业设计 实战项目【附源码、文档报告、代码讲解】,https://github.com/3886370410/xOSsOcvtkx,1,0,,,2026-03-27T19:48:34Z,2026-03-28,False,Long Context
+1193452835,laowang111102/luppGTjHVr,【Java计算机毕业设计分享】基于SSM的招聘管理系统，MySQL Java开发 毕业设计 实战项目【附源码、文档报告、代码讲解】,https://github.com/laowang111102/luppGTjHVr,0,0,,,2026-03-27T08:37:28Z,2026-03-28,False,Long Context
+1193210570,5771323ykw/OqfGwxDaOM,【Java计算机毕业设计分享】基于SSM的客栈管理系统，MySQL Java开发 毕业设计 实战项目【附源码、文档报告、代码讲解】,https://github.com/5771323ykw/OqfGwxDaOM,1,0,,,2026-03-27T01:38:37Z,2026-03-28,False,Long Context
+1194079561,kevinyang11102/HtHgUehtxT,【Java计算机毕业设计分享】基于SSM家政服务小程序，MySQL Java开发 毕业设计 实战项目【附源码、文档报告、代码讲解】,https://github.com/kevinyang11102/HtHgUehtxT,0,0,,,2026-03-27T22:35:31Z,2026-03-28,False,Long Context
+1193460355,laowang111102/FOsOOkQBXr,【Java计算机毕业设计分享】基于SSM的社区管理系统，MySQL Java开发 毕业设计 实战项目【附源码、文档报告、代码讲解】,https://github.com/laowang111102/FOsOOkQBXr,0,0,,,2026-03-27T08:48:08Z,2026-03-28,False,Long Context
+1193423890,kevinyang11103/gYNyqGTOmu,【Java计算机毕业设计分享】基于SSM的博客管理系统，MySQL Java开发 毕业设计 实战项目【附源码、文档报告、代码讲解】,https://github.com/kevinyang11103/gYNyqGTOmu,0,0,,,2026-03-27T07:54:32Z,2026-03-28,False,Long Context
+1193437307,laowang111101/GgqXYoRLNm,【Java计算机毕业设计分享】基于SSM的文档管理系统，MySQL Java开发 毕业设计 实战项目【附源码、文档报告、代码讲解】,https://github.com/laowang111101/GgqXYoRLNm,0,0,,,2026-03-27T08:14:49Z,2026-03-28,False,Long Context
+1193881342,kevinyang11101/DiWpSeasIF,【Java计算机毕业设计分享】基于SSM的旅游管理系统，MySQL Java开发 毕业设计 实战项目【附源码、文档报告、代码讲解】,https://github.com/kevinyang11101/DiWpSeasIF,0,0,,,2026-03-27T17:17:47Z,2026-03-28,False,Long Context
+1193985632,kevinyang11102/LOYBhznEJP,【Java计算机毕业设计分享】基于SSM的影院选座系统，MySQL Java开发 毕业设计 实战项目【附源码、文档报告、代码讲解】,https://github.com/kevinyang11102/LOYBhznEJP,0,0,,,2026-03-27T19:45:54Z,2026-03-28,False,Long Context
+1193457806,laowang111102/WfBVXHSCmB,【Java计算机毕业设计分享】基于SSM的选课管理系统，MySQL Java开发 毕业设计 实战项目【附源码、文档报告、代码讲解】,https://github.com/laowang111102/WfBVXHSCmB,0,0,,,2026-03-27T08:44:33Z,2026-03-28,False,Long Context
+1193773020,kevinyang11101/EOsgOukWVm,【Java计算机毕业设计分享】基于SSM的医院交互管理系统，MySQL Java开发 毕业设计 实战项目【附源码、文档报告、代码讲解】,https://github.com/kevinyang11101/EOsgOukWVm,0,0,,,2026-03-27T15:08:46Z,2026-03-28,False,Long Context
+1193950611,laowang111102/CnKUtufUzK,【Java计算机毕业设计分享】基于SSM的家庭记账管理系统，MySQL Java开发 毕业设计 实战项目【附源码、文档报告、代码讲解】,https://github.com/laowang111102/CnKUtufUzK,0,0,,,2026-03-27T18:53:13Z,2026-03-28,False,Long Context
+1194089397,kevinyang11103/hNvszYOknU,【Java计算机毕业设计分享】基于SSM的驾考小程序开发，MySQL Java开发 毕业设计 实战项目【附源码、文档报告、代码讲解】,https://github.com/kevinyang11103/hNvszYOknU,0,0,,,2026-03-27T22:56:45Z,2026-03-28,False,Long Context
+1193374839,3886370410/EiycjWcQCh,【Java计算机毕业设计分享】基于SSM商铺租赁管理系统，MySQL Java开发 毕业设计 实战项目【附源码、文档报告、代码讲解】,https://github.com/3886370410/EiycjWcQCh,1,0,,,2026-03-27T06:40:25Z,2026-03-28,False,Long Context
+1193178048,3886370410/XuojWkkzml,【Java计算机毕业设计分享】基于SSM的网上药品售卖系统，MySQL Java开发 毕业设计 实战项目【附源码、文档报告、代码讲解】,https://github.com/3886370410/XuojWkkzml,1,0,,,2026-03-27T00:31:59Z,2026-03-28,False,Long Context
+1193429199,kevinyang11103/LVDnChHFXd,【Java计算机毕业设计分享】基于SSM的车辆出租管理系统，MySQL Java开发 毕业设计 实战项目【附源码、文档报告、代码讲解】,https://github.com/kevinyang11103/LVDnChHFXd,0,0,,,2026-03-27T08:02:48Z,2026-03-28,False,Long Context
+1194085618,kevinyang11103/WFqrTSEeOy,【Java计算机毕业设计分享】基于SSM宿舍报修管理系统，MySQL Java开发 毕业设计 实战项目【附源码、文档报告、代码讲解】,https://github.com/kevinyang11103/WFqrTSEeOy,0,0,,,2026-03-27T22:48:32Z,2026-03-28,False,Long Context
+1194092374,kevinyang11103/LTjhanmQny,【Java计算机毕业设计分享】基于SSM的模拟考试小程序，MySQL Java开发 毕业设计 实战项目【附源码、文档报告、代码讲解】,https://github.com/kevinyang11103/LTjhanmQny,0,0,,,2026-03-27T23:03:39Z,2026-03-28,False,Long Context
+1193888424,kevinyang11102/ZsRfbSzvvx,【Java计算机毕业设计分享】基于SSM的网上商城管理系统，MySQL Java开发 毕业设计 实战项目【附源码、文档报告、代码讲解】,https://github.com/kevinyang11102/ZsRfbSzvvx,0,0,,,2026-03-27T17:27:08Z,2026-03-28,False,Long Context
+1193951349,laowang111102/TaEMjRKMCT,【Java计算机毕业设计分享】基于SSM的家庭大厨小程序，MySQL Java开发 毕业设计 实战项目【附源码、文档报告、代码讲解】,https://github.com/laowang111102/TaEMjRKMCT,0,0,,,2026-03-27T18:54:23Z,2026-03-28,False,Long Context
+1193448666,laowang111101/lbtuhveRWH,【Java计算机毕业设计分享】基于SSM的“花鸣”B2C电商平台，MySQL Java开发 毕业设计 实战项目【附源码、文档报告、代码讲解】,https://github.com/laowang111101/lbtuhveRWH,0,0,,,2026-03-27T08:31:27Z,2026-03-28,False,Long Context
+1194086646,kevinyang11103/TLjkgvMkKj,【Java计算机毕业设计分享】基于SSM的婚庆摄影小程序，MySQL Java开发 毕业设计 实战项目【附源码、文档报告、代码讲解】,https://github.com/kevinyang11103/TLjkgvMkKj,0,0,,,2026-03-27T22:50:56Z,2026-03-28,False,Long Context
+1193387955,kevinyang11101/tJniBVEzyr,【Java计算机毕业设计分享】基于SSM的物流信息管理系统，MySQL Java开发 毕业设计 实战项目【附源码、文档报告、代码讲解】,https://github.com/kevinyang11101/tJniBVEzyr,0,0,,,2026-03-27T07:00:22Z,2026-03-28,False,Long Context
+1193392804,kevinyang11101/OMaBqNJtGu,【Java计算机毕业设计分享】基于SSM的猎头公司管理系统，MySQL Java开发 毕业设计 实战项目【附源码、文档报告、代码讲解】,https://github.com/kevinyang11101/OMaBqNJtGu,0,0,,,2026-03-27T07:07:43Z,2026-03-28,False,Long Context
+1194077443,kevinyang11102/ikdyvLMHft,【Java计算机毕业设计分享】基于SSM微信实习记录小程序，MySQL Java开发 毕业设计 实战项目【附源码、文档报告、代码讲解】,https://github.com/kevinyang11102/ikdyvLMHft,0,0,,,2026-03-27T22:30:47Z,2026-03-28,False,Long Context
+1193916505,kevinyang11103/WteyomZlFB,【Java计算机毕业设计分享】基于SSM的二手物品交易平台，MySQL Java开发 毕业设计 实战项目【附源码、文档报告、代码讲解】,https://github.com/kevinyang11103/WteyomZlFB,0,0,,,2026-03-27T18:04:09Z,2026-03-28,False,Long Context
+1193357527,5771323yang/FSTBOAVLrY,【Java计算机毕业设计分享】基于SSM的装修图纸管理系统，MySQL Java开发 毕业设计 实战项目【附源码、文档报告、代码讲解】,https://github.com/5771323yang/FSTBOAVLrY,1,0,,,2026-03-27T06:13:35Z,2026-03-28,False,Long Context
+1193980951,kevinyang11102/JszpTIIIrb,【Java计算机毕业设计分享】基于SSM的畅阅读微信小程序，MySQL Java开发 毕业设计 实战项目【附源码、文档报告、代码讲解】,https://github.com/kevinyang11102/JszpTIIIrb,0,0,,,2026-03-27T19:38:52Z,2026-03-28,False,Long Context
+1194100133,laowang111101/YjxaCHhNNj,【Java计算机毕业设计分享】基于SSM的远程在线诊疗平台，MySQL Java开发 毕业设计 实战项目【附源码、文档报告、代码讲解】,https://github.com/laowang111101/YjxaCHhNNj,0,0,,,2026-03-27T23:21:16Z,2026-03-28,False,Long Context
+1193769477,kevinyang11101/MqtHAtkBWk,【Java计算机毕业设计分享】基于SSM的670课程管理系统，MySQL Java开发 毕业设计 实战项目【附源码、文档报告、代码讲解】,https://github.com/kevinyang11101/MqtHAtkBWk,0,0,,,2026-03-27T15:05:15Z,2026-03-28,False,Long Context
+1194104864,laowang111101/DsQLNuJhxw,【Java计算机毕业设计分享】基于SSM的高校寻物小程序，MySQL Java开发 毕业设计 实战项目【附源码、文档报告、代码讲解】,https://github.com/laowang111101/DsQLNuJhxw,0,0,,,2026-03-27T23:32:52Z,2026-03-28,False,Long Context
+1194024914,laowang111102/atlvudDzgL,【Java计算机毕业设计分享】基于SSM的场地预约管理系统，MySQL Java开发 毕业设计 实战项目【附源码、文档报告、代码讲解】,https://github.com/laowang111102/atlvudDzgL,0,0,,,2026-03-27T20:48:49Z,2026-03-28,False,Long Context
+1193462702,laowang111102/lPWssBqtJO,【Java计算机毕业设计分享】基于SSM的壁纸网站管理系统，MySQL Java开发 毕业设计 实战项目【附源码、文档报告、代码讲解】,https://github.com/laowang111102/lPWssBqtJO,0,0,,,2026-03-27T08:51:36Z,2026-03-28,False,Long Context
+1193451053,laowang111101/OCPYiEXlIz,【Java计算机毕业设计分享】基于SSM的Web新闻流媒体平台，MySQL Java开发 毕业设计 实战项目【附源码、文档报告、代码讲解】,https://github.com/laowang111101/OCPYiEXlIz,0,0,,,2026-03-27T08:34:57Z,2026-03-28,False,Long Context
+1193209083,5771323ykw/BimUkcBsIF,【Java计算机毕业设计分享】基于SSM的小型超市管理系统，MySQL Java开发 毕业设计 实战项目【附源码、文档报告、代码讲解】,https://github.com/5771323ykw/BimUkcBsIF,1,0,,,2026-03-27T01:35:31Z,2026-03-28,False,Long Context
+1193941836,laowang111102/sqPcBJflUq,【Java计算机毕业设计分享】基于SSM的停车场管理系统，MySQL Java开发 毕业设计 实战项目【附源码、文档报告、代码讲解】,https://github.com/laowang111102/sqPcBJflUq,0,0,,,2026-03-27T18:40:21Z,2026-03-28,False,Long Context
+1194015254,laowang111101/zZhRjjuXAT,【Java计算机毕业设计分享】基于SSM的走失人员报备平台，MySQL Java开发 毕业设计 实战项目【附源码、文档报告、代码讲解】,https://github.com/laowang111101/zZhRjjuXAT,0,0,,,2026-03-27T20:32:27Z,2026-03-28,False,Long Context
+1194070066,kevinyang11101/BzWixVMuVx,【Java计算机毕业设计分享】基于SSM微信点餐小程序设计，MySQL Java开发 毕业设计 实战项目【附源码、文档报告、代码讲解】,https://github.com/kevinyang11101/BzWixVMuVx,0,0,,,2026-03-27T22:15:29Z,2026-03-28,False,Long Context
+1194072976,kevinyang11101/PYqWChJfOu,【Java计算机毕业设计分享】基于SSM的微信社团小程序，MySQL Java开发 毕业设计 实战项目【附源码、文档报告、代码讲解】,https://github.com/kevinyang11101/PYqWChJfOu,0,0,,,2026-03-27T22:21:28Z,2026-03-28,False,Long Context
+1194082321,kevinyang11102/IJlNgBJgrQ,【Java计算机毕业设计分享】基于SSM的宿舍管理系统平台，MySQL Java开发 毕业设计 实战项目【附源码、文档报告、代码讲解】,https://github.com/kevinyang11102/IJlNgBJgrQ,0,0,,,2026-03-27T22:41:21Z,2026-03-28,False,Long Context
+1193796210,kevinyang11102/qwrnbweWWt,【Java计算机毕业设计分享】基于SSM的游戏资源管理系统，MySQL Java开发 毕业设计 实战项目【附源码、文档报告、代码讲解】,https://github.com/kevinyang11102/qwrnbweWWt,0,0,,,2026-03-27T15:34:21Z,2026-03-28,False,Long Context
+1194137871,3886370410/marNpGfPpm,【Java计算机毕业设计分享】基于SSM学生管理系统设计，MySQL Java开发 毕业设计 实战项目【附源码、文档报告、代码讲解】,https://github.com/3886370410/marNpGfPpm,1,0,,,2026-03-28T00:56:28Z,2026-03-28,False,Long Context
+1193192698,kevinyang5771323/PjZSREoQIj,【Java计算机毕业设计分享】基于SSM的电子相册管理系统，MySQL Java开发 毕业设计 实战项目【附源码、文档报告、代码讲解】,https://github.com/kevinyang5771323/PjZSREoQIj,1,0,,,2026-03-27T01:02:51Z,2026-03-28,False,Long Context
+1193988764,kevinyang11103/QfVWSBdeNT,【Java计算机毕业设计分享】基于SSM的校友林微信小程序，MySQL Java开发 毕业设计 实战项目【附源码、文档报告、代码讲解】,https://github.com/kevinyang11103/QfVWSBdeNT,0,0,,,2026-03-27T19:50:36Z,2026-03-28,False,Long Context
+1193420053,kevinyang11103/sdKIUEJpeD,【Java计算机毕业设计分享】基于SSM的网上手机销售平台，MySQL Java开发 毕业设计 实战项目【附源码、文档报告、代码讲解】,https://github.com/kevinyang11103/sdKIUEJpeD,0,0,,,2026-03-27T07:48:37Z,2026-03-28,False,Long Context
+1193418404,kevinyang11102/LnTVuMYByt,【Java计算机毕业设计分享】基于SSM的理财通管理系统，MySQL Java开发 毕业设计 实战项目【附源码、文档报告、代码讲解】,https://github.com/kevinyang11102/LnTVuMYByt,0,0,,,2026-03-27T07:46:11Z,2026-03-28,False,Long Context
+1193190211,3886370410/zyjxjJDvPQ,【Java计算机毕业设计分享】基于SSM的餐厅点菜管理系统，MySQL Java开发 毕业设计 实战项目【附源码、文档报告、代码讲解】,https://github.com/3886370410/zyjxjJDvPQ,1,0,,,2026-03-27T00:57:39Z,2026-03-28,False,Long Context
+1193206076,5771323ykw/OhoCtThKlm,【Java计算机毕业设计分享】基于SSM的高校社团管理系统，MySQL Java开发 毕业设计 实战项目【附源码、文档报告、代码讲解】,https://github.com/5771323ykw/OhoCtThKlm,1,0,,,2026-03-27T01:29:28Z,2026-03-28,False,Long Context
+1193779750,kevinyang11101/ciLJuNdouZ,【Java计算机毕业设计分享】基于SSM的生鲜商城管理系统，MySQL Java开发 毕业设计 实战项目【附源码、文档报告、代码讲解】,https://github.com/kevinyang11101/ciLJuNdouZ,0,0,,,2026-03-27T15:16:50Z,2026-03-28,False,Long Context
+1193766844,kevinyang11101/EgTDgVVJqh,【Java计算机毕业设计分享】基于SSM的学生考勤管理系统，MySQL Java开发 毕业设计 实战项目【附源码、文档报告、代码讲解】,https://github.com/kevinyang11101/EgTDgVVJqh,0,0,,,2026-03-27T15:02:49Z,2026-03-28,False,Long Context
+1193903345,kevinyang11103/WxHrXnMGLJ,【Java计算机毕业设计分享】基于SSM的疫苗预约小程序，MySQL Java开发 毕业设计 实战项目【附源码、文档报告、代码讲解】,https://github.com/kevinyang11103/WxHrXnMGLJ,0,0,,,2026-03-27T17:46:51Z,2026-03-28,False,Long Context
+1194026946,laowang111102/tbFGVzUoBK,【Java计算机毕业设计分享】基于SSM的童装购买小程序，MySQL Java开发 毕业设计 实战项目【附源码、文档报告、代码讲解】,https://github.com/laowang111102/tbFGVzUoBK,0,0,,,2026-03-27T20:52:12Z,2026-03-28,False,Long Context
+1194081167,kevinyang11102/dlAOPfWaNf,【Java计算机毕业设计分享】基于SSM的微信宠物小程序，MySQL Java开发 毕业设计 实战项目【附源码、文档报告、代码讲解】,https://github.com/kevinyang11102/dlAOPfWaNf,0,0,,,2026-03-27T22:39:01Z,2026-03-28,False,Long Context
+1193400159,kevinyang11101/NFKHFsapNS,【Java计算机毕业设计分享】基于SSM的航空票务推荐系统，MySQL Java开发 毕业设计 实战项目【附源码、文档报告、代码讲解】,https://github.com/kevinyang11101/NFKHFsapNS,0,0,,,2026-03-27T07:18:40Z,2026-03-28,False,Long Context
+1193389439,kevinyang11101/PJokGXtgxT,【Java计算机毕业设计分享】基于SSM的新生报道管理系统，MySQL Java开发 毕业设计 实战项目【附源码、文档报告、代码讲解】,https://github.com/kevinyang11101/PJokGXtgxT,0,0,,,2026-03-27T07:02:45Z,2026-03-28,False,Long Context
+1193443134,laowang111101/iMGQmNYCSb,【Java计算机毕业设计分享】基于SSM的食品安全追溯系统，MySQL Java开发 毕业设计 实战项目【附源码、文档报告、代码讲解】,https://github.com/laowang111101/iMGQmNYCSb,0,0,,,2026-03-27T08:23:03Z,2026-03-28,False,Long Context
+1193175066,3886370410/yvHFldDBgA,【Java计算机毕业设计分享】基于SSM的校园活动管理平台，MySQL Java开发 毕业设计 实战项目【附源码、文档报告、代码讲解】,https://github.com/3886370410/yvHFldDBgA,1,0,,,2026-03-27T00:25:52Z,2026-03-28,False,Long Context
+1193208597,5771323ykw/DCCNjOfhZs,【Java计算机毕业设计分享】基于SSM毕业论文管理平台，MySQL Java开发 毕业设计 实战项目【附源码、文档报告、代码讲解】,https://github.com/5771323ykw/DCCNjOfhZs,1,0,,,2026-03-27T01:34:31Z,2026-03-28,False,Long Context
+1194010420,laowang111101/ZVALBUUCqH,【Java计算机毕业设计分享】基于SSM的207课堂考勤小程序，MySQL Java开发 毕业设计 实战项目【附源码、文档报告、代码讲解】,https://github.com/laowang111101/ZVALBUUCqH,0,0,,,2026-03-27T20:24:28Z,2026-03-28,False,Long Context
+1193439806,laowang111101/mPdHmniOjh,【Java计算机毕业设计分享】基于SSM的游泳会员管理系统，MySQL Java开发 毕业设计 实战项目【附源码、文档报告、代码讲解】,https://github.com/laowang111101/mPdHmniOjh,0,0,,,2026-03-27T08:18:17Z,2026-03-28,False,Long Context
+1193992459,kevinyang11103/WzZwSCKhrO,【Java计算机毕业设计分享】基于SSM的实验室管理小程序，MySQL Java开发 毕业设计 实战项目【附源码、文档报告、代码讲解】,https://github.com/kevinyang11103/WzZwSCKhrO,0,0,,,2026-03-27T19:56:24Z,2026-03-28,False,Long Context
+1193191172,3886370410/kqDDiJarVw,【Java计算机毕业设计分享】基于SSM的校园驿站管理系统，MySQL Java开发 毕业设计 实战项目【附源码、文档报告、代码讲解】,https://github.com/3886370410/kqDDiJarVw,1,0,,,2026-03-27T00:59:41Z,2026-03-28,False,Long Context
+1193186179,3886370410/IlLGlviotA,【Java计算机毕业设计分享】基于SSM的学生作业管理系统，MySQL Java开发 毕业设计 实战项目【附源码、文档报告、代码讲解】,https://github.com/3886370410/IlLGlviotA,1,0,,,2026-03-27T00:49:30Z,2026-03-28,False,Long Context
+1193403400,kevinyang11101/dWKoqainMA,【Java计算机毕业设计分享】基于SSM的餐馆点餐系统设计，MySQL Java开发 毕业设计 实战项目【附源码、文档报告、代码讲解】,https://github.com/kevinyang11101/dWKoqainMA,0,0,,,2026-03-27T07:23:23Z,2026-03-28,False,Long Context
+1193784440,kevinyang11101/ndJLJWuCOL,【Java计算机毕业设计分享】基于SSM的校内互助交易平台，MySQL Java开发 毕业设计 实战项目【附源码、文档报告、代码讲解】,https://github.com/kevinyang11101/ndJLJWuCOL,0,0,,,2026-03-27T15:21:29Z,2026-03-28,False,Long Context
+1194001883,laowang111101/NIZPQUDXrT,【Java计算机毕业设计分享】基于SSM的教学质量评价系统，MySQL Java开发 毕业设计 实战项目【附源码、文档报告、代码讲解】,https://github.com/laowang111101/NIZPQUDXrT,0,0,,,2026-03-27T20:10:26Z,2026-03-28,False,Long Context
+1194090840,kevinyang11103/HEmJFTpFBc,【Java计算机毕业设计分享】基于SSM外籍人员管理平台，MySQL Java开发 毕业设计 实战项目【附源码、文档报告、代码讲解】,https://github.com/kevinyang11103/HEmJFTpFBc,0,0,,,2026-03-27T23:00:12Z,2026-03-28,False,Long Context
+1193354910,5771323yang/cEaHSBFqYU,【Java计算机毕业设计分享】基于SSM的校园二手交易平台，MySQL Java开发 毕业设计 实战项目【附源码、文档报告、代码讲解】,https://github.com/5771323yang/cEaHSBFqYU,1,0,,,2026-03-27T06:09:38Z,2026-03-28,False,Long Context
+1193830621,laowang111101/vifgBYSTTC,【Java计算机毕业设计分享】基于SSM婚纱拍摄网管理系统，MySQL Java开发 毕业设计 实战项目【附源码、文档报告、代码讲解】,https://github.com/laowang111101/vifgBYSTTC,0,0,,,2026-03-27T16:14:02Z,2026-03-28,False,Long Context
+1193967573,kevinyang11101/okhLQrKBan,【Java计算机毕业设计分享】基于SSM的小区管理系统设计，MySQL Java开发 毕业设计 实战项目【附源码、文档报告、代码讲解】,https://github.com/kevinyang11101/okhLQrKBan,0,0,,,2026-03-27T19:18:48Z,2026-03-28,False,Long Context
+1193955277,5771323yang/rzzShYRwzp,【Java计算机毕业设计分享】基于SSM的校园核酸筛查系统，MySQL Java开发 毕业设计 实战项目【附源码、文档报告、代码讲解】,https://github.com/5771323yang/rzzShYRwzp,1,0,,,2026-03-27T19:00:24Z,2026-03-28,False,Long Context
+1193433328,kevinyang11103/HGnHUEZtzj,【Java计算机毕业设计分享】基于SSM的Web电影购票系统，MySQL Java开发 毕业设计 实战项目【附源码、文档报告、代码讲解】,https://github.com/kevinyang11103/HGnHUEZtzj,0,0,,,2026-03-27T08:08:49Z,2026-03-28,False,Long Context
+1193397640,kevinyang11101/QjRojGbXQl,【Java计算机毕业设计分享】基于SSM的仓库管理系统（含Vue），MySQL Java开发 毕业设计 实战项目【附源码、文档报告、代码讲解】,https://github.com/kevinyang11101/QjRojGbXQl,0,0,,,2026-03-27T07:14:58Z,2026-03-28,False,Long Context
+1193461938,laowang111102/gWYPMUlbic,【Java计算机毕业设计分享】基于SSM奖助学金管理系统（Vue），MySQL Java开发 毕业设计 实战项目【附源码、文档报告、代码讲解】,https://github.com/laowang111102/gWYPMUlbic,0,0,,,2026-03-27T08:50:25Z,2026-03-28,False,Long Context
+1193443967,laowang111101/CRMSpdlADT,【Java计算机毕业设计分享】基于SSM的物资物流管理系统，MySQL Java开发 毕业设计 实战项目【附源码、文档报告、代码讲解】,https://github.com/laowang111101/CRMSpdlADT,0,0,,,2026-03-27T08:24:19Z,2026-03-28,False,Long Context
+1193973897,kevinyang11102/hqvMrePlhd,【Java计算机毕业设计分享】基于SSM的停车共享小程序，MySQL Java开发 毕业设计 实战项目【附源码、文档报告、代码讲解】,https://github.com/kevinyang11102/hqvMrePlhd,0,0,,,2026-03-27T19:28:18Z,2026-03-28,False,Long Context
+1193800931,kevinyang11102/JdEnahIqSs,【Java计算机毕业设计分享】基于SSM的酒店预订管理系统，MySQL Java开发 毕业设计 实战项目【附源码、文档报告、代码讲解】,https://github.com/kevinyang11102/JdEnahIqSs,0,0,,,2026-03-27T15:40:08Z,2026-03-28,False,Long Context
+1194087202,kevinyang11103/MYtyUbiMfg,【Java计算机毕业设计分享】基于SSM的微信答题小程序，MySQL Java开发 毕业设计 实战项目【附源码、文档报告、代码讲解】,https://github.com/kevinyang11103/MYtyUbiMfg,0,0,,,2026-03-27T22:52:06Z,2026-03-28,False,Long Context
+1194065426,kevinyang11101/nhoHZuwQPz,【Java计算机毕业设计分享】基于SSM的医院挂号预约平台，MySQL Java开发 毕业设计 实战项目【附源码、文档报告、代码讲解】,https://github.com/kevinyang11101/nhoHZuwQPz,0,0,,,2026-03-27T22:06:14Z,2026-03-28,False,Long Context
+1193440595,laowang111101/CXMeyBWznf,【Java计算机毕业设计分享】基于SSM的个人财务管理系统，MySQL Java开发 毕业设计 实战项目【附源码、文档报告、代码讲解】,https://github.com/laowang111101/CXMeyBWznf,0,0,,,2026-03-27T08:19:25Z,2026-03-28,False,Long Context
+1193444788,laowang111101/XEMAyHSbFw,【Java计算机毕业设计分享】基于SSM的网上花店管理系统，MySQL Java开发 毕业设计 实战项目【附源码、文档报告、代码讲解】,https://github.com/laowang111101/XEMAyHSbFw,0,0,,,2026-03-27T08:25:33Z,2026-03-28,False,Long Context
+1193483969,liting-liting/Immune-State-Space-Modeling,,https://github.com/liting-liting/Immune-State-Space-Modeling,0,0,,,2026-03-27T09:21:08Z,2026-03-28,False,Long Context
+1193233116,oneilsh/topic-state-space-modeling,,https://github.com/oneilsh/topic-state-space-modeling,0,0,,,2026-03-27T02:22:32Z,2026-03-28,False,Long Context
+1193836233,yash27-lab/batch_forge,"A high-performance, bare-metal inference engine for JAX and Equinox models written in Rust. Features zero-copy Safetensors   loading and hand-optimized Metal/Vulkan compute kernels for Transformers, Vision Language Models, and State-Space Models",https://github.com/yash27-lab/batch_forge,0,0,Rust,,2026-03-27T16:21:09Z,2026-03-28,False,Long Context
