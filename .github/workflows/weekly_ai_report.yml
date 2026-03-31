@@ -36,7 +36,7 @@ jobs:
 
       - name: Generate weekly report
         env:
-          GLM_API_KEY: ${{ secrets.GLM_API_KEY }}
+          OPENROUTER_API_KEY: ${{ secrets.OPENROUTER_API_KEY }}
           EMAIL_USER: ${{ secrets.EMAIL_USER }}
           EMAIL_PASSWORD: ${{ secrets.EMAIL_PASSWORD }}
         run: python generate_weekly_report.py
