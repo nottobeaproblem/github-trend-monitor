@@ -1,8 +1,6 @@
-"""为公司发布打标签"""
 import pandas as pd
 import os
 
-# 标签映射规则
 TAG_MAPPING = {
     "long-context": ["long context", "1m context", "infinite context", "mamba", "long sequence"],
     "multimodal": ["multimodal", "vision", "image", "video", "audio", "speech"],
@@ -12,6 +10,9 @@ TAG_MAPPING = {
 }
 
 def assign_tags(title, summary):
+    # 处理缺失值，转为空字符串
+    title = str(title) if pd.notna(title) else ""
+    summary = str(summary) if pd.notna(summary) else ""
     text = (title + " " + summary).lower()
     tags = []
     for tag, keywords in TAG_MAPPING.items():
@@ -26,13 +27,20 @@ def main():
         return
 
     df = pd.read_csv(csv_file)
+    # 确保 tags 列存在且为字符串类型
     if 'tags' not in df.columns:
         df['tags'] = ''
-    # 对每条记录，如果 tags 为空，则重新打标
+    else:
+        df['tags'] = df['tags'].astype(str)
+
+    # 对每条记录，如果 tags 为空或 NaN，则重新打标
     for idx, row in df.iterrows():
         if pd.isna(row['tags']) or row['tags'] == '':
             tags = assign_tags(row['title'], row.get('summary', ''))
             df.at[idx, 'tags'] = tags
+
+    # 保存前确保 tags 列是字符串
+    df['tags'] = df['tags'].astype(str)
     df.to_csv(csv_file, index=False)
     print("公司发布标签更新完成")
 
