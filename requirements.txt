@@ -5,3 +5,7 @@ matplotlib
 jieba
 huggingface_hub   # Hugging Face
 feedparser        # RSS
+chromadb
+openai
+tiktoken
+arxiv  # 可选，用于抓取论文

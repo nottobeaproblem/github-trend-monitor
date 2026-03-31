@@ -1,0 +1,52 @@
+name: Weekly AI Report
+
+on:
+  schedule:
+    - cron: '0 1 * * 1'   # 每周一 UTC 1:00 (北京时间 9:00)
+  workflow_dispatch:
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.GH_TOKEN }}
+          persist-credentials: true
+
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.9'
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      - name: Fetch READMEs
+        env:
+          GITHUB_TOKEN: ${{ secrets.GH_TOKEN }}
+        run: python fetch_readme.py
+
+      - name: Fetch arXiv papers
+        run: python fetch_arxiv.py
+
+      - name: Add tags to company releases
+        run: python add_tags_to_company.py
+
+      - name: Generate weekly report
+        env:
+          GLM_API_KEY: ${{ secrets.GLM_API_KEY }}
+          EMAIL_USER: ${{ secrets.EMAIL_USER }}
+          EMAIL_PASSWORD: ${{ secrets.EMAIL_PASSWORD }}
+        run: python generate_weekly_report.py
+
+      - name: Commit and push generated data
+        env:
+          GH_TOKEN: ${{ secrets.GH_TOKEN }}
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git add -f data/project_readmes/ data/arxiv_papers.csv data/company_releases.csv
+          git diff --cached --quiet || git commit -m "Update data for weekly report"
+          git push https://${GH_TOKEN}@github.com/${{ github.repository }}.git HEAD:${GITHUB_REF#refs/heads/}
