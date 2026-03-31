@@ -219,5 +219,44 @@
     "url": "https://simonwillison.net/2026/Mar/27/datasette-showboat/#atom-everything",
     "tags": "",
     "created_at": "2026-03-28 04:13:40"
+  },
+  {
+    "id": "rss_https://simonwillison.net/2026/Mar/30/datasette-files/#atom-everything",
+    "company": "Simon Willison",
+    "title": "datasette-files 0.1a3",
+    "publish_date": "2026-03-30",
+    "type": "其他",
+    "open_source": "否",
+    "summary": "<p><strong>Release:</strong> <a href=\"https://github.com/datasette/datasette-files/releases/tag/0.1a3\">datasette-files 0.1a3</a></p>\n    <p>I'm working on integrating <code>datasette-files</code> into",
+    "details": "",
+    "url": "https://simonwillison.net/2026/Mar/30/datasette-files/#atom-everything",
+    "tags": "",
+    "created_at": "2026-03-31 04:31:51"
+  },
+  {
+    "id": "rss_https://simonwillison.net/2026/Mar/30/datasette-llm/#atom-everything",
+    "company": "Simon Willison",
+    "title": "datasette-llm 0.1a3",
+    "publish_date": "2026-03-30",
+    "type": "其他",
+    "open_source": "否",
+    "summary": "<p><strong>Release:</strong> <a href=\"https://github.com/datasette/datasette-llm/releases/tag/0.1a3\">datasette-llm 0.1a3</a></p>\n    <p>Adds the ability to configure <a href=\"https://github.com/datase",
+    "details": "",
+    "url": "https://simonwillison.net/2026/Mar/30/datasette-llm/#atom-everything",
+    "tags": "",
+    "created_at": "2026-03-31 04:31:51"
+  },
+  {
+    "id": "rss_https://simonwillison.net/2026/Mar/30/mr-chatterbox/#atom-everything",
+    "company": "Simon Willison",
+    "title": "Mr. Chatterbox is a (weak) Victorian-era ethically trained model you can run on your own computer",
+    "publish_date": "2026-03-30",
+    "type": "其他",
+    "open_source": "否",
+    "summary": "<p>Trip Venturella released <a href=\"https://huggingface.co/tventurella/mr_chatterbox_model\">Mr. Chatterbox</a>, a language model trained entirely on out-of-copyright text from the British Library. He",
+    "details": "",
+    "url": "https://simonwillison.net/2026/Mar/30/mr-chatterbox/#atom-everything",
+    "tags": "",
+    "created_at": "2026-03-31 04:31:51"
   }
 ]
