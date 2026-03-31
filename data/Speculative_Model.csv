@@ -483,55 +483,55 @@ id,name,description,url,stars,forks,language,topics,created_at,first_seen,is_act
 1195066687,BarryBI3555/BackEnd-of-Eagle-System,,https://github.com/BarryBI3555/BackEnd-of-Eagle-System,0,0,Java,,2026-03-29T07:03:16Z,2026-03-30,False,Speculative Model
 1195686079,cherianjoseph-cpu/Eaglercraft-1.8.8-WASM,,https://github.com/cherianjoseph-cpu/Eaglercraft-1.8.8-WASM,0,0,HTML,,2026-03-30T00:47:46Z,2026-03-30,False,Speculative Model
 1195074579,Alex-Oss222/football-career-sim,"LLM-first football career simulation repo with coach and player modules, 1999 NFL world files, and Eagles-specific coaching start content.",https://github.com/Alex-Oss222/football-career-sim,0,0,,,2026-03-29T07:18:36Z,2026-03-30,False,Speculative Model
-1196051010,hussamkhoury/speculative-decoding-llm,,https://github.com/hussamkhoury/speculative-decoding-llm,0,0,,,2026-03-30T10:19:40Z,2026-03-31,True,Speculative Model
-1196043898,iggerask/mlx-mtp,MTP speculative decoding for Apple Silicon (MLX) — 1.27x throughput on Qwen3.5-35B-A3B via fused MoE kernels + zero-replay rejection,https://github.com/iggerask/mlx-mtp,0,0,Python,,2026-03-30T10:10:33Z,2026-03-31,True,Speculative Model
-1196134179,poorviyadav04/llm-inference-optimization,"Reducing LLM serving latency by 5.58× using quantization, KV caching, continuous batching, and speculative decoding. A reproducible benchmarking platform demonstrating modern LLM serving optimizations used in production inference systems.",https://github.com/poorviyadav04/llm-inference-optimization,1,0,Python,,2026-03-30T12:04:40Z,2026-03-31,True,Speculative Model
-1196054795,mantissaio/medusa-payment-wompi,Wompi El Salvador payment provider plugin for MedusaJS,https://github.com/mantissaio/medusa-payment-wompi,3,0,TypeScript,"medusajs,nodejs,typescript,wompi",2026-03-30T10:24:21Z,2026-03-31,True,Speculative Model
-1195972642,LRCHub/gBZN0jZRNfo,Medusa's Masquerade,https://github.com/LRCHub/gBZN0jZRNfo,0,0,,,2026-03-30T08:43:23Z,2026-03-31,True,Speculative Model
-1196083338,pesselamakana2001-lang/MedusaPhisher-,,https://github.com/pesselamakana2001-lang/MedusaPhisher-,0,0,,,2026-03-30T11:01:02Z,2026-03-31,True,Speculative Model
-1196502315,izzabizz5/medusa,yayayayayayayayayayay,https://github.com/izzabizz5/medusa,0,0,,,2026-03-30T19:02:40Z,2026-03-31,True,Speculative Model
-1196069035,pesselamakana2001-lang/Medusa,Ferramenta de Phishing ,https://github.com/pesselamakana2001-lang/Medusa,0,0,Shell,,2026-03-30T10:42:31Z,2026-03-31,True,Speculative Model
-1196566257,YugoPrime/dollup-medusa,DollUp Boutique - Medusa v2 Backend,https://github.com/YugoPrime/dollup-medusa,0,0,TypeScript,,2026-03-30T20:28:01Z,2026-03-31,True,Speculative Model
-1196038845,ankit-wft/medusa-training,,https://github.com/ankit-wft/medusa-training,0,0,TypeScript,,2026-03-30T10:04:14Z,2026-03-31,True,Speculative Model
-1196023242,akarshzap/medusa-x,,https://github.com/akarshzap/medusa-x,0,0,,,2026-03-30T09:44:52Z,2026-03-31,True,Speculative Model
-1196426474,mswysl/medusa-backend,backend variable for medusajs,https://github.com/mswysl/medusa-backend,0,0,,,2026-03-30T17:29:45Z,2026-03-31,True,Speculative Model
-1196345355,mswysl/medusa-be,backend for medusajs,https://github.com/mswysl/medusa-be,0,0,TypeScript,,2026-03-30T15:57:15Z,2026-03-31,True,Speculative Model
-1195879958,nhan88ng/medusa-tina,,https://github.com/nhan88ng/medusa-tina,0,0,TypeScript,,2026-03-30T06:41:58Z,2026-03-31,True,Speculative Model
-1196004523,thieuluan1618/my-medusa-store,medusajs store,https://github.com/thieuluan1618/my-medusa-store,0,0,,,2026-03-30T09:22:38Z,2026-03-31,True,Speculative Model
-1196509273,zan-shop/medusa-payment-moyasar,,https://github.com/zan-shop/medusa-payment-moyasar,0,0,TypeScript,,2026-03-30T19:11:34Z,2026-03-31,True,Speculative Model
-1195903482,nhan88ng/medusa-tina-fe,,https://github.com/nhan88ng/medusa-tina-fe,0,0,TypeScript,,2026-03-30T07:15:00Z,2026-03-31,True,Speculative Model
-1195808532,2wenty2wo/SnakeCharmer,"SnakeCharmer is a lightweight automation tool that syncs Trakt lists with Medusa, automatically adding missing TV shows to your library.",https://github.com/2wenty2wo/SnakeCharmer,0,0,Python,,2026-03-30T04:47:15Z,2026-03-31,True,Speculative Model
-1195831549,engrshahmir-sketch/Eagle_Control,Eagle_Control,https://github.com/engrshahmir-sketch/Eagle_Control,0,0,HTML,,2026-03-30T05:27:50Z,2026-03-31,True,Speculative Model
-1196543243,krocks9903/EagleGIS,Database project for Esterotoday with Postgres and ArcGIS inetrgation,https://github.com/krocks9903/EagleGIS,0,0,,,2026-03-30T19:56:10Z,2026-03-31,True,Speculative Model
-1196626644,hamanouno7/EagleStore,,https://github.com/hamanouno7/EagleStore,0,0,JavaScript,,2026-03-30T22:07:55Z,2026-03-31,True,Speculative Model
-1195824022,engrshahmir-sketch/EagleIOControl,EagleIOControl,https://github.com/engrshahmir-sketch/EagleIOControl,0,0,HTML,,2026-03-30T05:14:51Z,2026-03-31,True,Speculative Model
-1196450983,kyleighpea123/EagleRide,,https://github.com/kyleighpea123/EagleRide,0,0,,,2026-03-30T17:59:25Z,2026-03-31,True,Speculative Model
-1195820097,engrshahmir-sketch/EagleControlButton,EagleControlButton,https://github.com/engrshahmir-sketch/EagleControlButton,0,0,HTML,,2026-03-30T05:08:06Z,2026-03-31,True,Speculative Model
-1196217425,EagleStar002/EagleStar002,,https://github.com/EagleStar002/EagleStar002,0,0,,,2026-03-30T13:39:14Z,2026-03-31,True,Speculative Model
-1196311802,jN00n020/EagleConcreteCoating,,https://github.com/jN00n020/EagleConcreteCoating,0,0,HTML,,2026-03-30T15:19:15Z,2026-03-31,True,Speculative Model
-1196212754,guptasaanvi26-ops/eagl,space exploration mod of eagler craft without eagler forge you can fork,https://github.com/guptasaanvi26-ops/eagl,0,0,,,2026-03-30T13:34:00Z,2026-03-31,True,Speculative Model
-1196391190,DarlanVicSant/eaglecraft,,https://github.com/DarlanVicSant/eaglecraft,0,0,,,2026-03-30T16:50:00Z,2026-03-31,True,Speculative Model
-1196184414,Abc-hash-art/eaglercrafthtml,,https://github.com/Abc-hash-art/eaglercrafthtml,0,0,HTML,,2026-03-30T13:02:33Z,2026-03-31,True,Speculative Model
-1196499790,theosehahabane02/Eagle-Forex,Website for forex ,https://github.com/theosehahabane02/Eagle-Forex,0,0,,,2026-03-30T18:59:33Z,2026-03-31,True,Speculative Model
-1196690956,boraboraeurocenter-byte/araiza-eagles,,https://github.com/boraboraeurocenter-byte/araiza-eagles,0,0,,,2026-03-31T00:19:21Z,2026-03-31,True,Speculative Model
-1196300063,kychee-com/wl-eagles,The Eagles — Good Samaritans of Wichita. A demo community portal built on Wild Lychee + Run402. All content AI-generated.,https://github.com/kychee-com/wl-eagles,0,0,JavaScript,,2026-03-30T15:06:22Z,2026-03-31,True,Speculative Model
-1196340668,Krin8/EAGLE_COCO,,https://github.com/Krin8/EAGLE_COCO,0,0,,,2026-03-30T15:52:02Z,2026-03-31,True,Speculative Model
-1195979537,zen-vov/golden-eagle,,https://github.com/zen-vov/golden-eagle,0,0,CSS,,2026-03-30T08:51:49Z,2026-03-31,True,Speculative Model
-1196090306,balasahebmunde-dm/eagle-bm,,https://github.com/balasahebmunde-dm/eagle-bm,0,0,,,2026-03-30T11:10:04Z,2026-03-31,True,Speculative Model
-1196329776,idkwhat1234/eaglercraft-mods,,https://github.com/idkwhat1234/eaglercraft-mods,0,0,JavaScript,,2026-03-30T15:39:36Z,2026-03-31,True,Speculative Model
-1196622925,vleue/PixelEagle-cli,,https://github.com/vleue/PixelEagle-cli,0,0,Rust,,2026-03-30T22:00:51Z,2026-03-31,True,Speculative Model
-1196073175,ikaevigor-prog/eagle-school-whiteboard,,https://github.com/ikaevigor-prog/eagle-school-whiteboard,0,0,TypeScript,,2026-03-30T10:47:48Z,2026-03-31,True,Speculative Model
-1196291149,Sourabh-Kacher-ITG/twin-eagles-app,,https://github.com/Sourabh-Kacher-ITG/twin-eagles-app,0,0,JavaScript,,2026-03-30T14:56:27Z,2026-03-31,True,Speculative Model
-1196104595,bontango/efoo_to_eagle,Convert EasyEDA .efoo/.elibz files to Eagle .lbr (XML) for Target 3001 import,https://github.com/bontango/efoo_to_eagle,0,0,Python,,2026-03-30T11:28:19Z,2026-03-31,True,Speculative Model
-1196496083,prince-webAppDev/Eagle-Sports-Backend,,https://github.com/prince-webAppDev/Eagle-Sports-Backend,0,0,,,2026-03-30T18:54:56Z,2026-03-31,True,Speculative Model
-1196270072,cc-code-examples/glamorous-eagle-787521,C++ code example for the SQLite challenge,https://github.com/cc-code-examples/glamorous-eagle-787521,0,0,C++,,2026-03-30T14:34:03Z,2026-03-31,True,Speculative Model
-1196070004,Wadam100/easyeda2eagle,,https://github.com/Wadam100/easyeda2eagle,0,0,Python,,2026-03-30T10:43:42Z,2026-03-31,True,Speculative Model
-1195912215,shreyashchandak321-rgb/eagle-eye-finance,,https://github.com/shreyashchandak321-rgb/eagle-eye-finance,0,0,HTML,,2026-03-30T07:26:53Z,2026-03-31,True,Speculative Model
-1196518236,Polga088/eagles-esports-platform,,https://github.com/Polga088/eagles-esports-platform,0,0,TypeScript,,2026-03-30T19:23:20Z,2026-03-31,True,Speculative Model
-1196451608,dhyeybg9-maker/Eaglercraft-BookDupe-Client,Chunk Dupe For Eaglercraft,https://github.com/dhyeybg9-maker/Eaglercraft-BookDupe-Client,0,0,HTML,,2026-03-30T18:00:10Z,2026-03-31,True,Speculative Model
-1196172449,pr-poehali-dev/eagle-eye-monitor-3,,https://github.com/pr-poehali-dev/eagle-eye-monitor-3,0,0,TypeScript,,2026-03-30T12:48:50Z,2026-03-31,True,Speculative Model
-1196446089,dhyeybg9-maker/Eaglercraft-1.8-BookDupe-Client,This is a Special Client for BookDupe to Chunk Regen You have to press P to enable and disable!,https://github.com/dhyeybg9-maker/Eaglercraft-1.8-BookDupe-Client,0,0,HTML,,2026-03-30T17:53:21Z,2026-03-31,True,Speculative Model
-1196373771,davideellis/Flying_Event_ADSB_Tracker,"This is for use at Young Eagles, Challenge Air, or any other flying event involving aircraft which can be tracked by ADSB. ",https://github.com/davideellis/Flying_Event_ADSB_Tracker,0,0,Python,,2026-03-30T16:29:26Z,2026-03-31,True,Speculative Model
-1196615416,prarsena/fastembed-inference-training,,https://github.com/prarsena/fastembed-inference-training,0,0,Python,,2026-03-30T21:46:45Z,2026-03-31,True,Speculative Model
-1196654051,willjriley/vram-pager,Compressed GPU Memory Paging for Diffusion & Video Models — 3.4x faster inference on consumer GPUs,https://github.com/willjriley/vram-pager,1,0,Python,,2026-03-30T23:00:20Z,2026-03-31,True,Speculative Model
-1195811634,Harsha3435/Facial-Emotional-Classification-Recognization,"Built a real-time emotion detection system using grayscale facial images. Trained a CNN model and converted it to TensorFlow Lite for fast inference. Integrated OpenCV for face detection and Streamlit for a dashboard showing live predictions, emotion probabilities, and model performance.",https://github.com/Harsha3435/Facial-Emotional-Classification-Recognization,0,0,Python,,2026-03-30T04:52:52Z,2026-03-31,True,Speculative Model
+1196051010,hussamkhoury/speculative-decoding-llm,,https://github.com/hussamkhoury/speculative-decoding-llm,0,0,,,2026-03-30T10:19:40Z,2026-03-31,False,Speculative Model
+1196043898,iggerask/mlx-mtp,MTP speculative decoding for Apple Silicon (MLX) — 1.27x throughput on Qwen3.5-35B-A3B via fused MoE kernels + zero-replay rejection,https://github.com/iggerask/mlx-mtp,0,0,Python,,2026-03-30T10:10:33Z,2026-03-31,False,Speculative Model
+1196134179,poorviyadav04/llm-inference-optimization,"Reducing LLM serving latency by 5.58× using quantization, KV caching, continuous batching, and speculative decoding. A reproducible benchmarking platform demonstrating modern LLM serving optimizations used in production inference systems.",https://github.com/poorviyadav04/llm-inference-optimization,1,0,Python,,2026-03-30T12:04:40Z,2026-03-31,False,Speculative Model
+1196054795,mantissaio/medusa-payment-wompi,Wompi El Salvador payment provider plugin for MedusaJS,https://github.com/mantissaio/medusa-payment-wompi,3,0,TypeScript,"medusajs,nodejs,typescript,wompi",2026-03-30T10:24:21Z,2026-03-31,False,Speculative Model
+1195972642,LRCHub/gBZN0jZRNfo,Medusa's Masquerade,https://github.com/LRCHub/gBZN0jZRNfo,0,0,,,2026-03-30T08:43:23Z,2026-03-31,False,Speculative Model
+1196083338,pesselamakana2001-lang/MedusaPhisher-,,https://github.com/pesselamakana2001-lang/MedusaPhisher-,0,0,,,2026-03-30T11:01:02Z,2026-03-31,False,Speculative Model
+1196502315,izzabizz5/medusa,yayayayayayayayayayay,https://github.com/izzabizz5/medusa,0,0,,,2026-03-30T19:02:40Z,2026-03-31,False,Speculative Model
+1196069035,pesselamakana2001-lang/Medusa,Ferramenta de Phishing ,https://github.com/pesselamakana2001-lang/Medusa,0,0,Shell,,2026-03-30T10:42:31Z,2026-03-31,False,Speculative Model
+1196566257,YugoPrime/dollup-medusa,DollUp Boutique - Medusa v2 Backend,https://github.com/YugoPrime/dollup-medusa,0,0,TypeScript,,2026-03-30T20:28:01Z,2026-03-31,False,Speculative Model
+1196038845,ankit-wft/medusa-training,,https://github.com/ankit-wft/medusa-training,0,0,TypeScript,,2026-03-30T10:04:14Z,2026-03-31,False,Speculative Model
+1196023242,akarshzap/medusa-x,,https://github.com/akarshzap/medusa-x,0,0,,,2026-03-30T09:44:52Z,2026-03-31,False,Speculative Model
+1196426474,mswysl/medusa-backend,backend variable for medusajs,https://github.com/mswysl/medusa-backend,0,0,,,2026-03-30T17:29:45Z,2026-03-31,False,Speculative Model
+1196345355,mswysl/medusa-be,backend for medusajs,https://github.com/mswysl/medusa-be,0,0,TypeScript,,2026-03-30T15:57:15Z,2026-03-31,False,Speculative Model
+1195879958,nhan88ng/medusa-tina,,https://github.com/nhan88ng/medusa-tina,0,0,TypeScript,,2026-03-30T06:41:58Z,2026-03-31,False,Speculative Model
+1196004523,thieuluan1618/my-medusa-store,medusajs store,https://github.com/thieuluan1618/my-medusa-store,0,0,,,2026-03-30T09:22:38Z,2026-03-31,False,Speculative Model
+1196509273,zan-shop/medusa-payment-moyasar,,https://github.com/zan-shop/medusa-payment-moyasar,0,0,TypeScript,,2026-03-30T19:11:34Z,2026-03-31,False,Speculative Model
+1195903482,nhan88ng/medusa-tina-fe,,https://github.com/nhan88ng/medusa-tina-fe,0,0,TypeScript,,2026-03-30T07:15:00Z,2026-03-31,False,Speculative Model
+1195808532,2wenty2wo/SnakeCharmer,"SnakeCharmer is a lightweight automation tool that syncs Trakt lists with Medusa, automatically adding missing TV shows to your library.",https://github.com/2wenty2wo/SnakeCharmer,0,0,Python,,2026-03-30T04:47:15Z,2026-03-31,False,Speculative Model
+1195831549,engrshahmir-sketch/Eagle_Control,Eagle_Control,https://github.com/engrshahmir-sketch/Eagle_Control,0,0,HTML,,2026-03-30T05:27:50Z,2026-03-31,False,Speculative Model
+1196543243,krocks9903/EagleGIS,Database project for Esterotoday with Postgres and ArcGIS inetrgation,https://github.com/krocks9903/EagleGIS,0,0,,,2026-03-30T19:56:10Z,2026-03-31,False,Speculative Model
+1196626644,hamanouno7/EagleStore,,https://github.com/hamanouno7/EagleStore,0,0,JavaScript,,2026-03-30T22:07:55Z,2026-03-31,False,Speculative Model
+1195824022,engrshahmir-sketch/EagleIOControl,EagleIOControl,https://github.com/engrshahmir-sketch/EagleIOControl,0,0,HTML,,2026-03-30T05:14:51Z,2026-03-31,False,Speculative Model
+1196450983,kyleighpea123/EagleRide,,https://github.com/kyleighpea123/EagleRide,0,0,,,2026-03-30T17:59:25Z,2026-03-31,False,Speculative Model
+1195820097,engrshahmir-sketch/EagleControlButton,EagleControlButton,https://github.com/engrshahmir-sketch/EagleControlButton,0,0,HTML,,2026-03-30T05:08:06Z,2026-03-31,False,Speculative Model
+1196217425,EagleStar002/EagleStar002,,https://github.com/EagleStar002/EagleStar002,0,0,,,2026-03-30T13:39:14Z,2026-03-31,False,Speculative Model
+1196311802,jN00n020/EagleConcreteCoating,,https://github.com/jN00n020/EagleConcreteCoating,0,0,HTML,,2026-03-30T15:19:15Z,2026-03-31,False,Speculative Model
+1196212754,guptasaanvi26-ops/eagl,space exploration mod of eagler craft without eagler forge you can fork,https://github.com/guptasaanvi26-ops/eagl,0,0,,,2026-03-30T13:34:00Z,2026-03-31,False,Speculative Model
+1196391190,DarlanVicSant/eaglecraft,,https://github.com/DarlanVicSant/eaglecraft,0,0,,,2026-03-30T16:50:00Z,2026-03-31,False,Speculative Model
+1196184414,Abc-hash-art/eaglercrafthtml,,https://github.com/Abc-hash-art/eaglercrafthtml,0,0,HTML,,2026-03-30T13:02:33Z,2026-03-31,False,Speculative Model
+1196499790,theosehahabane02/Eagle-Forex,Website for forex ,https://github.com/theosehahabane02/Eagle-Forex,0,0,,,2026-03-30T18:59:33Z,2026-03-31,False,Speculative Model
+1196690956,boraboraeurocenter-byte/araiza-eagles,,https://github.com/boraboraeurocenter-byte/araiza-eagles,0,0,,,2026-03-31T00:19:21Z,2026-03-31,False,Speculative Model
+1196300063,kychee-com/wl-eagles,The Eagles — Good Samaritans of Wichita. A demo community portal built on Wild Lychee + Run402. All content AI-generated.,https://github.com/kychee-com/wl-eagles,0,0,JavaScript,,2026-03-30T15:06:22Z,2026-03-31,False,Speculative Model
+1196340668,Krin8/EAGLE_COCO,,https://github.com/Krin8/EAGLE_COCO,0,0,,,2026-03-30T15:52:02Z,2026-03-31,False,Speculative Model
+1195979537,zen-vov/golden-eagle,,https://github.com/zen-vov/golden-eagle,0,0,CSS,,2026-03-30T08:51:49Z,2026-03-31,False,Speculative Model
+1196090306,balasahebmunde-dm/eagle-bm,,https://github.com/balasahebmunde-dm/eagle-bm,0,0,,,2026-03-30T11:10:04Z,2026-03-31,False,Speculative Model
+1196329776,idkwhat1234/eaglercraft-mods,,https://github.com/idkwhat1234/eaglercraft-mods,0,0,JavaScript,,2026-03-30T15:39:36Z,2026-03-31,False,Speculative Model
+1196622925,vleue/PixelEagle-cli,,https://github.com/vleue/PixelEagle-cli,0,0,Rust,,2026-03-30T22:00:51Z,2026-03-31,False,Speculative Model
+1196073175,ikaevigor-prog/eagle-school-whiteboard,,https://github.com/ikaevigor-prog/eagle-school-whiteboard,0,0,TypeScript,,2026-03-30T10:47:48Z,2026-03-31,False,Speculative Model
+1196291149,Sourabh-Kacher-ITG/twin-eagles-app,,https://github.com/Sourabh-Kacher-ITG/twin-eagles-app,0,0,JavaScript,,2026-03-30T14:56:27Z,2026-03-31,False,Speculative Model
+1196104595,bontango/efoo_to_eagle,Convert EasyEDA .efoo/.elibz files to Eagle .lbr (XML) for Target 3001 import,https://github.com/bontango/efoo_to_eagle,0,0,Python,,2026-03-30T11:28:19Z,2026-03-31,False,Speculative Model
+1196496083,prince-webAppDev/Eagle-Sports-Backend,,https://github.com/prince-webAppDev/Eagle-Sports-Backend,0,0,,,2026-03-30T18:54:56Z,2026-03-31,False,Speculative Model
+1196270072,cc-code-examples/glamorous-eagle-787521,C++ code example for the SQLite challenge,https://github.com/cc-code-examples/glamorous-eagle-787521,0,0,C++,,2026-03-30T14:34:03Z,2026-03-31,False,Speculative Model
+1196070004,Wadam100/easyeda2eagle,,https://github.com/Wadam100/easyeda2eagle,0,0,Python,,2026-03-30T10:43:42Z,2026-03-31,False,Speculative Model
+1195912215,shreyashchandak321-rgb/eagle-eye-finance,,https://github.com/shreyashchandak321-rgb/eagle-eye-finance,0,0,HTML,,2026-03-30T07:26:53Z,2026-03-31,False,Speculative Model
+1196518236,Polga088/eagles-esports-platform,,https://github.com/Polga088/eagles-esports-platform,0,0,TypeScript,,2026-03-30T19:23:20Z,2026-03-31,False,Speculative Model
+1196451608,dhyeybg9-maker/Eaglercraft-BookDupe-Client,Chunk Dupe For Eaglercraft,https://github.com/dhyeybg9-maker/Eaglercraft-BookDupe-Client,0,0,HTML,,2026-03-30T18:00:10Z,2026-03-31,False,Speculative Model
+1196172449,pr-poehali-dev/eagle-eye-monitor-3,,https://github.com/pr-poehali-dev/eagle-eye-monitor-3,0,0,TypeScript,,2026-03-30T12:48:50Z,2026-03-31,False,Speculative Model
+1196446089,dhyeybg9-maker/Eaglercraft-1.8-BookDupe-Client,This is a Special Client for BookDupe to Chunk Regen You have to press P to enable and disable!,https://github.com/dhyeybg9-maker/Eaglercraft-1.8-BookDupe-Client,0,0,HTML,,2026-03-30T17:53:21Z,2026-03-31,False,Speculative Model
+1196373771,davideellis/Flying_Event_ADSB_Tracker,"This is for use at Young Eagles, Challenge Air, or any other flying event involving aircraft which can be tracked by ADSB. ",https://github.com/davideellis/Flying_Event_ADSB_Tracker,0,0,Python,,2026-03-30T16:29:26Z,2026-03-31,False,Speculative Model
+1196615416,prarsena/fastembed-inference-training,,https://github.com/prarsena/fastembed-inference-training,0,0,Python,,2026-03-30T21:46:45Z,2026-03-31,False,Speculative Model
+1196654051,willjriley/vram-pager,Compressed GPU Memory Paging for Diffusion & Video Models — 3.4x faster inference on consumer GPUs,https://github.com/willjriley/vram-pager,1,0,Python,,2026-03-30T23:00:20Z,2026-03-31,False,Speculative Model
+1195811634,Harsha3435/Facial-Emotional-Classification-Recognization,"Built a real-time emotion detection system using grayscale facial images. Trained a CNN model and converted it to TensorFlow Lite for fast inference. Integrated OpenCV for face detection and Streamlit for a dashboard showing live predictions, emotion probabilities, and model performance.",https://github.com/Harsha3435/Facial-Emotional-Classification-Recognization,0,0,Python,,2026-03-30T04:52:52Z,2026-03-31,False,Speculative Model
