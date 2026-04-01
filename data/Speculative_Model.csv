@@ -535,46 +535,46 @@ id,name,description,url,stars,forks,language,topics,created_at,first_seen,is_act
 1196615416,prarsena/fastembed-inference-training,,https://github.com/prarsena/fastembed-inference-training,0,0,Python,,2026-03-30T21:46:45Z,2026-03-31,False,Speculative Model
 1196654051,willjriley/vram-pager,Compressed GPU Memory Paging for Diffusion & Video Models — 3.4x faster inference on consumer GPUs,https://github.com/willjriley/vram-pager,1,0,Python,,2026-03-30T23:00:20Z,2026-03-31,False,Speculative Model
 1195811634,Harsha3435/Facial-Emotional-Classification-Recognization,"Built a real-time emotion detection system using grayscale facial images. Trained a CNN model and converted it to TensorFlow Lite for fast inference. Integrated OpenCV for face detection and Streamlit for a dashboard showing live predictions, emotion probabilities, and model performance.",https://github.com/Harsha3435/Facial-Emotional-Classification-Recognization,0,0,Python,,2026-03-30T04:52:52Z,2026-03-31,False,Speculative Model
-1196917820,AniruddhaPKawarase/speculative-decoding-demo,"Speculative Decoding: 2x faster LLM inference. Draft model proposes, target verifies. Benchmarks + FastAPI server.",https://github.com/AniruddhaPKawarase/speculative-decoding-demo,0,0,Python,,2026-03-31T06:53:56Z,2026-04-01,True,Speculative Model
-1197942559,carlosfundora/THOTH,OpenCoder 8B + TurboQuant KV cache + EAGLE/Medusa speculative decoding on RX 6700 XT (gfx1031) — ROCm 7.2,https://github.com/carlosfundora/THOTH,0,0,Dockerfile,,2026-04-01T02:12:22Z,2026-04-01,True,Speculative Model
-1197830473,greymatterads-del/medusa,,https://github.com/greymatterads-del/medusa,0,0,HTML,,2026-03-31T23:32:27Z,2026-04-01,True,Speculative Model
-1197267649,ptreezh/medusa-backend,,https://github.com/ptreezh/medusa-backend,0,0,Python,,2026-03-31T13:00:54Z,2026-04-01,True,Speculative Model
-1196989366,Cazephyr/medusa-storefront,,https://github.com/Cazephyr/medusa-storefront,0,0,TypeScript,,2026-03-31T08:21:38Z,2026-04-01,True,Speculative Model
-1197015601,Kristupas13/Medusa-store,,https://github.com/Kristupas13/Medusa-store,0,0,TypeScript,,2026-03-31T08:52:02Z,2026-04-01,True,Speculative Model
-1196961051,Cazephyr/Medusa-backend,,https://github.com/Cazephyr/Medusa-backend,0,0,TypeScript,,2026-03-31T07:46:33Z,2026-04-01,True,Speculative Model
-1197165343,NagyVikt/medusa-plugins,,https://github.com/NagyVikt/medusa-plugins,0,0,TypeScript,,2026-03-31T11:31:02Z,2026-04-01,True,Speculative Model
-1197417357,p9tnblwko/stainlessjewellery.com-medusa,,https://github.com/p9tnblwko/stainlessjewellery.com-medusa,0,0,,,2026-03-31T15:06:30Z,2026-04-01,True,Speculative Model
-1197568777,backyardboys-design/byb-medusa-backend,,https://github.com/backyardboys-design/byb-medusa-backend,0,0,TypeScript,,2026-03-31T17:29:37Z,2026-04-01,True,Speculative Model
-1197569579,backyardboys-design/byb-medusa-storefront,,https://github.com/backyardboys-design/byb-medusa-storefront,0,0,TypeScript,,2026-03-31T17:30:25Z,2026-04-01,True,Speculative Model
-1197059595,empty-complete/medusa-product-attributes,"🤒Custom product and category attributes module for Medusa v2. Add text, numeric, and file attributes to your products.",https://github.com/empty-complete/medusa-product-attributes,0,0,TypeScript,"attributes,ecommerce,medusa,medusa-plugin,medusajs-v2,nodejs,npm,product,typescript",2026-03-31T09:41:06Z,2026-04-01,True,Speculative Model
-1197644370,Inosukee/TOCO-medusa-fashion-demo,,https://github.com/Inosukee/TOCO-medusa-fashion-demo,0,0,TypeScript,,2026-03-31T18:53:06Z,2026-04-01,True,Speculative Model
-1197651538,iamfarazansar/medusajs-2.0-for-railway-boilerplate,,https://github.com/iamfarazansar/medusajs-2.0-for-railway-boilerplate,0,0,TypeScript,,2026-03-31T19:01:42Z,2026-04-01,True,Speculative Model
-1197718289,wil-ckaew/pentest-ai-pro,"cibersegurança, em rust e next e ia python - meduza , Nmap Medusa, Hydra , dvwa, cmb",https://github.com/wil-ckaew/pentest-ai-pro,0,0,Rust,,2026-03-31T20:27:39Z,2026-04-01,True,Speculative Model
-1197392112,DanielHart-02/Finding-a-boundary-within-the-North-Atlantic-Ocean,My dissertation on finding a boundary within 4 dimensional data based on geographical theory and data from the MEDUSA dataset,https://github.com/DanielHart-02/Finding-a-boundary-within-the-North-Atlantic-Ocean,0,0,MATLAB,,2026-03-31T14:45:13Z,2026-04-01,True,Speculative Model
-1197451716,sharkiesharkzo/EaglerCraft,,https://github.com/sharkiesharkzo/EaglerCraft,0,0,HTML,,2026-03-31T15:36:50Z,2026-04-01,True,Speculative Model
-1196906866,jaewonparkk/EagleCurrent,,https://github.com/jaewonparkk/EagleCurrent,0,0,TypeScript,,2026-03-31T06:40:06Z,2026-04-01,True,Speculative Model
-1197544960,abdosiyed/EagleVision,,https://github.com/abdosiyed/EagleVision,0,0,Python,,2026-03-31T17:05:57Z,2026-04-01,True,Speculative Model
-1197665353,Baaz-Smaeday/eagle-english,Eagle English — language learning platform,https://github.com/Baaz-Smaeday/eagle-english,0,0,TypeScript,,2026-03-31T19:18:48Z,2026-04-01,True,Speculative Model
-1197116747,Gizmoooooooooo/Eaglercraft,This is my eaglercraft server.,https://github.com/Gizmoooooooooo/Eaglercraft,0,0,,,2026-03-31T10:41:45Z,2026-04-01,True,Speculative Model
-1197035741,senuxcheats-bit/eaglesmm,,https://github.com/senuxcheats-bit/eaglesmm,0,0,HTML,,2026-03-31T09:14:57Z,2026-04-01,True,Speculative Model
-1196974908,Aura6606/eagles-,csc 227 project,https://github.com/Aura6606/eagles-,0,0,TypeScript,,2026-03-31T08:03:49Z,2026-04-01,True,Speculative Model
-1197999677,pppinappple/EAGLE-forces,A game submission for bad ideas game jam,https://github.com/pppinappple/EAGLE-forces,0,0,,,2026-04-01T03:28:37Z,2026-04-01,True,Speculative Model
-1197215308,Siyaim/Eagler-Essentials,The eaglercraft essentials clients and texture packs. Made by sam,https://github.com/Siyaim/Eagler-Essentials,1,0,HTML,,2026-03-31T12:15:34Z,2026-04-01,True,Speculative Model
-1196868582,sujatha-kantheti/eagleiitech_frontend,,https://github.com/sujatha-kantheti/eagleiitech_frontend,0,0,JavaScript,,2026-03-31T05:48:31Z,2026-04-01,True,Speculative Model
-1197559603,0xdegend/eagle-sui,,https://github.com/0xdegend/eagle-sui,0,0,TypeScript,,2026-03-31T17:20:14Z,2026-04-01,True,Speculative Model
-1197478652,DEMON-png356/eaglercraft-site,,https://github.com/DEMON-png356/eaglercraft-site,0,0,HTML,,2026-03-31T16:01:54Z,2026-04-01,True,Speculative Model
-1197570933,mpfarina2919/eagle-advisor,,https://github.com/mpfarina2919/eagle-advisor,0,0,TypeScript,,2026-03-31T17:31:52Z,2026-04-01,True,Speculative Model
-1197036031,senuxcheats-bit/eaglesmm-site,,https://github.com/senuxcheats-bit/eaglesmm-site,0,0,HTML,,2026-03-31T09:15:17Z,2026-04-01,True,Speculative Model
-1197168960,arkerderacker/Eaglercraft-test,just a cloned repository of eaglercraft,https://github.com/arkerderacker/Eaglercraft-test,0,0,HTML,,2026-03-31T11:34:20Z,2026-04-01,True,Speculative Model
-1197749745,Eagleworrior/EAGLEX-RENTALS,,https://github.com/Eagleworrior/EAGLEX-RENTALS,0,0,Python,,2026-03-31T21:14:11Z,2026-04-01,True,Speculative Model
-1196825289,kyuhyi/eagle-typing,RPG 스타일 타자 연습 앱 - 검은 성소의 부름,https://github.com/kyuhyi/eagle-typing,0,0,TypeScript,,2026-03-31T04:36:06Z,2026-04-01,True,Speculative Model
-1196860882,motivationxpress08-rgb/EAGLECRAFT-MINECRAFT,play free mine craft single player freely in the web,https://github.com/motivationxpress08-rgb/EAGLECRAFT-MINECRAFT,0,0,,,2026-03-31T05:37:31Z,2026-04-01,True,Speculative Model
-1197513560,preds/eaglesec-server,,https://github.com/preds/eaglesec-server,0,0,C++,,2026-03-31T16:35:27Z,2026-04-01,True,Speculative Model
-1197358005,Mamembeshir/eaglepoint-task39,,https://github.com/Mamembeshir/eaglepoint-task39,0,0,JavaScript,,2026-03-31T14:17:12Z,2026-04-01,True,Speculative Model
-1197437863,davekelly6/once-an-eagle,,https://github.com/davekelly6/once-an-eagle,0,0,CSS,,2026-03-31T15:24:19Z,2026-04-01,True,Speculative Model
-1197788914,adparker2/giant-eagle-picos,,https://github.com/adparker2/giant-eagle-picos,0,0,HTML,,2026-03-31T22:18:11Z,2026-04-01,True,Speculative Model
-1197919276,kamlesh-bannagare/eagle-eye-ops,,https://github.com/kamlesh-bannagare/eagle-eye-ops,0,0,TypeScript,,2026-04-01T01:43:44Z,2026-04-01,True,Speculative Model
-1197647204,shreyashchandak321-rgb/eagle-eye-ca-website,,https://github.com/shreyashchandak321-rgb/eagle-eye-ca-website,0,0,HTML,,2026-03-31T18:56:38Z,2026-04-01,True,Speculative Model
-1197617090,klaushofrichter/ObservationCompanion,SwiftUI iOS app for real-time Eagle Eye Networks camera event monitoring,https://github.com/klaushofrichter/ObservationCompanion,0,0,Swift,,2026-03-31T18:21:24Z,2026-04-01,True,Speculative Model
-1197329375,ecruhs/BAEA-PFAS-fingerprinting,Bald eagle (BAEA) PFAS study across sites throughout Wisconsin. Data and scripts represent the final versions used for publication.,https://github.com/ecruhs/BAEA-PFAS-fingerprinting,0,0,R,,2026-03-31T13:53:01Z,2026-04-01,True,Speculative Model
-1197726588,ArnavTomar18/ArnavPortfolio,"An intelligent portfolio chatbot designed to replace static resumes with interactive AI conversations.  This system leverages RAG architecture to fetch real knowledge from a curated dataset and combines it with LLM reasoning to deliver accurate, contextual responses.  • ⚡ Lightning-fast inference using Groq",https://github.com/ArnavTomar18/ArnavPortfolio,0,0,CSS,,2026-03-31T20:39:31Z,2026-04-01,True,Speculative Model
+1196917820,AniruddhaPKawarase/speculative-decoding-demo,"Speculative Decoding: 2x faster LLM inference. Draft model proposes, target verifies. Benchmarks + FastAPI server.",https://github.com/AniruddhaPKawarase/speculative-decoding-demo,0,0,Python,,2026-03-31T06:53:56Z,2026-04-01,False,Speculative Model
+1197942559,carlosfundora/THOTH,OpenCoder 8B + TurboQuant KV cache + EAGLE/Medusa speculative decoding on RX 6700 XT (gfx1031) — ROCm 7.2,https://github.com/carlosfundora/THOTH,0,0,Dockerfile,,2026-04-01T02:12:22Z,2026-04-01,False,Speculative Model
+1197830473,greymatterads-del/medusa,,https://github.com/greymatterads-del/medusa,0,0,HTML,,2026-03-31T23:32:27Z,2026-04-01,False,Speculative Model
+1197267649,ptreezh/medusa-backend,,https://github.com/ptreezh/medusa-backend,0,0,Python,,2026-03-31T13:00:54Z,2026-04-01,False,Speculative Model
+1196989366,Cazephyr/medusa-storefront,,https://github.com/Cazephyr/medusa-storefront,0,0,TypeScript,,2026-03-31T08:21:38Z,2026-04-01,False,Speculative Model
+1197015601,Kristupas13/Medusa-store,,https://github.com/Kristupas13/Medusa-store,0,0,TypeScript,,2026-03-31T08:52:02Z,2026-04-01,False,Speculative Model
+1196961051,Cazephyr/Medusa-backend,,https://github.com/Cazephyr/Medusa-backend,0,0,TypeScript,,2026-03-31T07:46:33Z,2026-04-01,False,Speculative Model
+1197165343,NagyVikt/medusa-plugins,,https://github.com/NagyVikt/medusa-plugins,0,0,TypeScript,,2026-03-31T11:31:02Z,2026-04-01,False,Speculative Model
+1197417357,p9tnblwko/stainlessjewellery.com-medusa,,https://github.com/p9tnblwko/stainlessjewellery.com-medusa,0,0,,,2026-03-31T15:06:30Z,2026-04-01,False,Speculative Model
+1197568777,backyardboys-design/byb-medusa-backend,,https://github.com/backyardboys-design/byb-medusa-backend,0,0,TypeScript,,2026-03-31T17:29:37Z,2026-04-01,False,Speculative Model
+1197569579,backyardboys-design/byb-medusa-storefront,,https://github.com/backyardboys-design/byb-medusa-storefront,0,0,TypeScript,,2026-03-31T17:30:25Z,2026-04-01,False,Speculative Model
+1197059595,empty-complete/medusa-product-attributes,"🤒Custom product and category attributes module for Medusa v2. Add text, numeric, and file attributes to your products.",https://github.com/empty-complete/medusa-product-attributes,0,0,TypeScript,"attributes,ecommerce,medusa,medusa-plugin,medusajs-v2,nodejs,npm,product,typescript",2026-03-31T09:41:06Z,2026-04-01,False,Speculative Model
+1197644370,Inosukee/TOCO-medusa-fashion-demo,,https://github.com/Inosukee/TOCO-medusa-fashion-demo,0,0,TypeScript,,2026-03-31T18:53:06Z,2026-04-01,False,Speculative Model
+1197651538,iamfarazansar/medusajs-2.0-for-railway-boilerplate,,https://github.com/iamfarazansar/medusajs-2.0-for-railway-boilerplate,0,0,TypeScript,,2026-03-31T19:01:42Z,2026-04-01,False,Speculative Model
+1197718289,wil-ckaew/pentest-ai-pro,"cibersegurança, em rust e next e ia python - meduza , Nmap Medusa, Hydra , dvwa, cmb",https://github.com/wil-ckaew/pentest-ai-pro,0,0,Rust,,2026-03-31T20:27:39Z,2026-04-01,False,Speculative Model
+1197392112,DanielHart-02/Finding-a-boundary-within-the-North-Atlantic-Ocean,My dissertation on finding a boundary within 4 dimensional data based on geographical theory and data from the MEDUSA dataset,https://github.com/DanielHart-02/Finding-a-boundary-within-the-North-Atlantic-Ocean,0,0,MATLAB,,2026-03-31T14:45:13Z,2026-04-01,False,Speculative Model
+1197451716,sharkiesharkzo/EaglerCraft,,https://github.com/sharkiesharkzo/EaglerCraft,0,0,HTML,,2026-03-31T15:36:50Z,2026-04-01,False,Speculative Model
+1196906866,jaewonparkk/EagleCurrent,,https://github.com/jaewonparkk/EagleCurrent,0,0,TypeScript,,2026-03-31T06:40:06Z,2026-04-01,False,Speculative Model
+1197544960,abdosiyed/EagleVision,,https://github.com/abdosiyed/EagleVision,0,0,Python,,2026-03-31T17:05:57Z,2026-04-01,False,Speculative Model
+1197665353,Baaz-Smaeday/eagle-english,Eagle English — language learning platform,https://github.com/Baaz-Smaeday/eagle-english,0,0,TypeScript,,2026-03-31T19:18:48Z,2026-04-01,False,Speculative Model
+1197116747,Gizmoooooooooo/Eaglercraft,This is my eaglercraft server.,https://github.com/Gizmoooooooooo/Eaglercraft,0,0,,,2026-03-31T10:41:45Z,2026-04-01,False,Speculative Model
+1197035741,senuxcheats-bit/eaglesmm,,https://github.com/senuxcheats-bit/eaglesmm,0,0,HTML,,2026-03-31T09:14:57Z,2026-04-01,False,Speculative Model
+1196974908,Aura6606/eagles-,csc 227 project,https://github.com/Aura6606/eagles-,0,0,TypeScript,,2026-03-31T08:03:49Z,2026-04-01,False,Speculative Model
+1197999677,pppinappple/EAGLE-forces,A game submission for bad ideas game jam,https://github.com/pppinappple/EAGLE-forces,0,0,,,2026-04-01T03:28:37Z,2026-04-01,False,Speculative Model
+1197215308,Siyaim/Eagler-Essentials,The eaglercraft essentials clients and texture packs. Made by sam,https://github.com/Siyaim/Eagler-Essentials,1,0,HTML,,2026-03-31T12:15:34Z,2026-04-01,False,Speculative Model
+1196868582,sujatha-kantheti/eagleiitech_frontend,,https://github.com/sujatha-kantheti/eagleiitech_frontend,0,0,JavaScript,,2026-03-31T05:48:31Z,2026-04-01,False,Speculative Model
+1197559603,0xdegend/eagle-sui,,https://github.com/0xdegend/eagle-sui,0,0,TypeScript,,2026-03-31T17:20:14Z,2026-04-01,False,Speculative Model
+1197478652,DEMON-png356/eaglercraft-site,,https://github.com/DEMON-png356/eaglercraft-site,0,0,HTML,,2026-03-31T16:01:54Z,2026-04-01,False,Speculative Model
+1197570933,mpfarina2919/eagle-advisor,,https://github.com/mpfarina2919/eagle-advisor,0,0,TypeScript,,2026-03-31T17:31:52Z,2026-04-01,False,Speculative Model
+1197036031,senuxcheats-bit/eaglesmm-site,,https://github.com/senuxcheats-bit/eaglesmm-site,0,0,HTML,,2026-03-31T09:15:17Z,2026-04-01,False,Speculative Model
+1197168960,arkerderacker/Eaglercraft-test,just a cloned repository of eaglercraft,https://github.com/arkerderacker/Eaglercraft-test,0,0,HTML,,2026-03-31T11:34:20Z,2026-04-01,False,Speculative Model
+1197749745,Eagleworrior/EAGLEX-RENTALS,,https://github.com/Eagleworrior/EAGLEX-RENTALS,0,0,Python,,2026-03-31T21:14:11Z,2026-04-01,False,Speculative Model
+1196825289,kyuhyi/eagle-typing,RPG 스타일 타자 연습 앱 - 검은 성소의 부름,https://github.com/kyuhyi/eagle-typing,0,0,TypeScript,,2026-03-31T04:36:06Z,2026-04-01,False,Speculative Model
+1196860882,motivationxpress08-rgb/EAGLECRAFT-MINECRAFT,play free mine craft single player freely in the web,https://github.com/motivationxpress08-rgb/EAGLECRAFT-MINECRAFT,0,0,,,2026-03-31T05:37:31Z,2026-04-01,False,Speculative Model
+1197513560,preds/eaglesec-server,,https://github.com/preds/eaglesec-server,0,0,C++,,2026-03-31T16:35:27Z,2026-04-01,False,Speculative Model
+1197358005,Mamembeshir/eaglepoint-task39,,https://github.com/Mamembeshir/eaglepoint-task39,0,0,JavaScript,,2026-03-31T14:17:12Z,2026-04-01,False,Speculative Model
+1197437863,davekelly6/once-an-eagle,,https://github.com/davekelly6/once-an-eagle,0,0,CSS,,2026-03-31T15:24:19Z,2026-04-01,False,Speculative Model
+1197788914,adparker2/giant-eagle-picos,,https://github.com/adparker2/giant-eagle-picos,0,0,HTML,,2026-03-31T22:18:11Z,2026-04-01,False,Speculative Model
+1197919276,kamlesh-bannagare/eagle-eye-ops,,https://github.com/kamlesh-bannagare/eagle-eye-ops,0,0,TypeScript,,2026-04-01T01:43:44Z,2026-04-01,False,Speculative Model
+1197647204,shreyashchandak321-rgb/eagle-eye-ca-website,,https://github.com/shreyashchandak321-rgb/eagle-eye-ca-website,0,0,HTML,,2026-03-31T18:56:38Z,2026-04-01,False,Speculative Model
+1197617090,klaushofrichter/ObservationCompanion,SwiftUI iOS app for real-time Eagle Eye Networks camera event monitoring,https://github.com/klaushofrichter/ObservationCompanion,0,0,Swift,,2026-03-31T18:21:24Z,2026-04-01,False,Speculative Model
+1197329375,ecruhs/BAEA-PFAS-fingerprinting,Bald eagle (BAEA) PFAS study across sites throughout Wisconsin. Data and scripts represent the final versions used for publication.,https://github.com/ecruhs/BAEA-PFAS-fingerprinting,0,0,R,,2026-03-31T13:53:01Z,2026-04-01,False,Speculative Model
+1197726588,ArnavTomar18/ArnavPortfolio,"An intelligent portfolio chatbot designed to replace static resumes with interactive AI conversations.  This system leverages RAG architecture to fetch real knowledge from a curated dataset and combines it with LLM reasoning to deliver accurate, contextual responses.  • ⚡ Lightning-fast inference using Groq",https://github.com/ArnavTomar18/ArnavPortfolio,0,0,CSS,,2026-03-31T20:39:31Z,2026-04-01,False,Speculative Model
