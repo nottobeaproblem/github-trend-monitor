@@ -56,3 +56,11 @@ rss_https://simonwillison.net/2026/Mar/26/datasette-llm/#atom-everything,Simon W
     <blockquote>
 <ul>
 <li><code>actor</code> is now available to the <c",,https://simonwillison.net/2026/Mar/26/datasette-llm/#atom-everything,,2026-04-01 04:43:42
+rss_https://simonwillison.net/2026/Apr/1/datasette-llm-2/#atom-everything,Simon Willison,datasette-llm 0.1a6,2026-04-01,其他,否,"<p><strong>Release:</strong> <a href=""https://github.com/datasette/datasette-llm/releases/tag/0.1a6"">datasette-llm 0.1a6</a></p>
+    <blockquote>
+<ul>
+<li>The same model ID no longer needs to be repea",,https://simonwillison.net/2026/Apr/1/datasette-llm-2/#atom-everything,,2026-04-02 04:24:25
+rss_https://simonwillison.net/2026/Apr/1/datasette-enrichments-llm-2/#atom-everything,Simon Willison,datasette-enrichments-llm 0.2a1,2026-04-01,其他,否,"<p><strong>Release:</strong> <a href=""https://github.com/datasette/datasette-enrichments-llm/releases/tag/0.2a1"">datasette-enrichments-llm 0.2a1</a></p>
+    <blockquote>
+<ul>
+<li>The <code>actor</code",,https://simonwillison.net/2026/Apr/1/datasette-enrichments-llm-2/#atom-everything,,2026-04-02 04:24:25

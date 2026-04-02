@@ -375,5 +375,31 @@
     "url": "https://simonwillison.net/2026/Mar/26/datasette-llm/#atom-everything",
     "tags": "",
     "created_at": "2026-04-01 04:43:42"
+  },
+  {
+    "id": "rss_https://simonwillison.net/2026/Apr/1/datasette-llm-2/#atom-everything",
+    "company": "Simon Willison",
+    "title": "datasette-llm 0.1a6",
+    "publish_date": "2026-04-01",
+    "type": "其他",
+    "open_source": "否",
+    "summary": "<p><strong>Release:</strong> <a href=\"https://github.com/datasette/datasette-llm/releases/tag/0.1a6\">datasette-llm 0.1a6</a></p>\n    <blockquote>\n<ul>\n<li>The same model ID no longer needs to be repea",
+    "details": "",
+    "url": "https://simonwillison.net/2026/Apr/1/datasette-llm-2/#atom-everything",
+    "tags": "",
+    "created_at": "2026-04-02 04:24:25"
+  },
+  {
+    "id": "rss_https://simonwillison.net/2026/Apr/1/datasette-enrichments-llm-2/#atom-everything",
+    "company": "Simon Willison",
+    "title": "datasette-enrichments-llm 0.2a1",
+    "publish_date": "2026-04-01",
+    "type": "其他",
+    "open_source": "否",
+    "summary": "<p><strong>Release:</strong> <a href=\"https://github.com/datasette/datasette-enrichments-llm/releases/tag/0.2a1\">datasette-enrichments-llm 0.2a1</a></p>\n    <blockquote>\n<ul>\n<li>The <code>actor</code",
+    "details": "",
+    "url": "https://simonwillison.net/2026/Apr/1/datasette-enrichments-llm-2/#atom-everything",
+    "tags": "",
+    "created_at": "2026-04-02 04:24:25"
   }
 ]
