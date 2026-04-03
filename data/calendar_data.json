@@ -401,5 +401,83 @@
     "url": "https://simonwillison.net/2026/Apr/1/datasette-enrichments-llm-2/#atom-everything",
     "tags": "",
     "created_at": "2026-04-02 04:24:25"
+  },
+  {
+    "id": "rss_https://deepmind.google/blog/gemma-4-byte-for-byte-the-most-capable-open-models/",
+    "company": "Google DeepMind",
+    "title": "Gemma 4: Byte for byte, the most capable open models",
+    "publish_date": "2026-04-02",
+    "type": "其他",
+    "open_source": "否",
+    "summary": "Gemma 4: Our most intelligent open models to date, purpose-built for advanced reasoning and agentic workflows.",
+    "details": "",
+    "url": "https://deepmind.google/blog/gemma-4-byte-for-byte-the-most-capable-open-models/",
+    "tags": "",
+    "created_at": "2026-04-03 04:25:06"
+  },
+  {
+    "id": "rss_https://blog.google/innovation-and-ai/technology/developers-tools/introducing-flex-and-priority-inference/",
+    "company": "Google AI",
+    "title": "New ways to balance cost and reliability in the Gemini API",
+    "publish_date": "2026-04-02",
+    "type": "其他",
+    "open_source": "否",
+    "summary": "Gemini API Dials",
+    "details": "",
+    "url": "https://blog.google/innovation-and-ai/technology/developers-tools/introducing-flex-and-priority-inference/",
+    "tags": "",
+    "created_at": "2026-04-03 04:25:07"
+  },
+  {
+    "id": "rss_https://huggingface.co/blog/gemma4",
+    "company": "Hugging Face",
+    "title": "Welcome Gemma 4: Frontier multimodal intelligence on device",
+    "publish_date": "2026-04-02",
+    "type": "其他",
+    "open_source": "否",
+    "summary": "",
+    "details": "",
+    "url": "https://huggingface.co/blog/gemma4",
+    "tags": "",
+    "created_at": "2026-04-03 04:25:08"
+  },
+  {
+    "id": "rss_https://simonwillison.net/2026/Apr/2/lennys-podcast/#atom-everything",
+    "company": "Simon Willison",
+    "title": "Highlights from my conversation about agentic engineering on Lenny's Podcast",
+    "publish_date": "2026-04-02",
+    "type": "其他",
+    "open_source": "否",
+    "summary": "<p>I was a guest on Lenny Rachitsky's podcast, in a new episode titled <a href=\"https://www.lennysnewsletter.com/p/an-ai-state-of-the-union\">An AI state of the union: We've passed the inflection point",
+    "details": "",
+    "url": "https://simonwillison.net/2026/Apr/2/lennys-podcast/#atom-everything",
+    "tags": "",
+    "created_at": "2026-04-03 04:25:09"
+  },
+  {
+    "id": "rss_https://simonwillison.net/2026/Apr/2/gemma-4/#atom-everything",
+    "company": "Simon Willison",
+    "title": "Gemma 4: Byte for byte, the most capable open models",
+    "publish_date": "2026-04-02",
+    "type": "其他",
+    "open_source": "否",
+    "summary": "<p><strong><a href=\"https://blog.google/innovation-and-ai/technology/developers-tools/gemma-4/\">Gemma 4: Byte for byte, the most capable open models</a></strong></p>\nFour new vision-capable Apache 2.0",
+    "details": "",
+    "url": "https://simonwillison.net/2026/Apr/2/gemma-4/#atom-everything",
+    "tags": "",
+    "created_at": "2026-04-03 04:25:09"
+  },
+  {
+    "id": "rss_https://simonwillison.net/2026/Apr/2/llm-gemini/#atom-everything",
+    "company": "Simon Willison",
+    "title": "llm-gemini 0.30",
+    "publish_date": "2026-04-02",
+    "type": "其他",
+    "open_source": "否",
+    "summary": "<p><strong>Release:</strong> <a href=\"https://github.com/simonw/llm-gemini/releases/tag/0.30\">llm-gemini 0.30</a></p>\n    <p>New models <code>gemini-3.1-flash-lite-preview</code>, <code>gemma-4-26b-a4",
+    "details": "",
+    "url": "https://simonwillison.net/2026/Apr/2/llm-gemini/#atom-everything",
+    "tags": "",
+    "created_at": "2026-04-03 04:25:09"
   }
 ]
