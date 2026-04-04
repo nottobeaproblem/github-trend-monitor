@@ -479,5 +479,31 @@
     "url": "https://simonwillison.net/2026/Apr/2/llm-gemini/#atom-everything",
     "tags": "",
     "created_at": "2026-04-03 04:25:09"
+  },
+  {
+    "id": "rss_https://simonwillison.net/2026/Apr/3/vulnerability-research-is-cooked/#atom-everything",
+    "company": "Simon Willison",
+    "title": "Vulnerability Research Is Cooked",
+    "publish_date": "2026-04-03",
+    "type": "其他",
+    "open_source": "否",
+    "summary": "<p><strong><a href=\"https://sockpuppet.org/blog/2026/03/30/vulnerability-research-is-cooked/\">Vulnerability Research Is Cooked</a></strong></p>\nThomas Ptacek's take on the sudden and enormous impact t",
+    "details": "",
+    "url": "https://simonwillison.net/2026/Apr/3/vulnerability-research-is-cooked/#atom-everything",
+    "tags": "",
+    "created_at": "2026-04-04 04:11:21"
+  },
+  {
+    "id": "rss_https://simonwillison.net/2026/Apr/3/cognitive-cost/#atom-everything",
+    "company": "Simon Willison",
+    "title": "The cognitive impact of coding agents",
+    "publish_date": "2026-04-03",
+    "type": "其他",
+    "open_source": "否",
+    "summary": "<p>A fun thing about <a href=\"https://simonwillison.net/2026/Apr/2/lennys-podcast/\">recording a podcast</a> with a professional like Lenny Rachitsky is that his team know how to slice the resulting vi",
+    "details": "",
+    "url": "https://simonwillison.net/2026/Apr/3/cognitive-cost/#atom-everything",
+    "tags": "",
+    "created_at": "2026-04-04 04:11:21"
   }
 ]
