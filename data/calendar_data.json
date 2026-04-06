@@ -518,5 +518,44 @@
     "url": "https://simonwillison.net/2026/Apr/5/research-llm-apis/#atom-everything",
     "tags": "",
     "created_at": "2026-04-05 04:32:34"
+  },
+  {
+    "id": "rss_https://simonwillison.net/2026/Apr/6/datasette-ports-2/#atom-everything",
+    "company": "Simon Willison",
+    "title": "datasette-ports 0.2",
+    "publish_date": "2026-04-06",
+    "type": "其他",
+    "open_source": "否",
+    "summary": "<p><strong>Release:</strong> <a href=\"https://github.com/datasette/datasette-ports/releases/tag/0.2\">datasette-ports 0.2</a></p>\n    <blockquote>\n<ul>\n<li>No longer requires Datasette - running <code>",
+    "details": "",
+    "url": "https://simonwillison.net/2026/Apr/6/datasette-ports-2/#atom-everything",
+    "tags": "",
+    "created_at": "2026-04-06 04:39:44"
+  },
+  {
+    "id": "rss_https://simonwillison.net/2026/Apr/6/cleanup-claude-code-paste/#atom-everything",
+    "company": "Simon Willison",
+    "title": "Cleanup Claude Code Paste",
+    "publish_date": "2026-04-06",
+    "type": "其他",
+    "open_source": "否",
+    "summary": "<p><strong>Tool:</strong> <a href=\"https://tools.simonwillison.net/cleanup-claude-code-paste\">Cleanup Claude Code Paste</a></p>\n    <p>Super-niche tool this. I sometimes copy prompts out of the Claude",
+    "details": "",
+    "url": "https://simonwillison.net/2026/Apr/6/cleanup-claude-code-paste/#atom-everything",
+    "tags": "",
+    "created_at": "2026-04-06 04:39:44"
+  },
+  {
+    "id": "rss_https://simonwillison.net/2026/Apr/6/datasette-ports/#atom-everything",
+    "company": "Simon Willison",
+    "title": "datasette-ports 0.1",
+    "publish_date": "2026-04-06",
+    "type": "其他",
+    "open_source": "否",
+    "summary": "<p><strong>Release:</strong> <a href=\"https://github.com/datasette/datasette-ports/releases/tag/0.1\">datasette-ports 0.1</a></p>\n    <p>Another <a href=\"https://gisthost.github.io/?f92d8a6bdadee1c7797",
+    "details": "",
+    "url": "https://simonwillison.net/2026/Apr/6/datasette-ports/#atom-everything",
+    "tags": "",
+    "created_at": "2026-04-06 04:39:44"
   }
 ]
