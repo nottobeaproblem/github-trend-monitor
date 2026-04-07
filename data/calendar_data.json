@@ -557,5 +557,18 @@
     "url": "https://simonwillison.net/2026/Apr/6/datasette-ports/#atom-everything",
     "tags": "",
     "created_at": "2026-04-06 04:39:44"
+  },
+  {
+    "id": "rss_https://openai.com/index/introducing-openai-safety-fellowship",
+    "company": "OpenAI",
+    "title": "Announcing the OpenAI Safety Fellowship",
+    "publish_date": "2026-04-06",
+    "type": "其他",
+    "open_source": "否",
+    "summary": "A pilot program to support independent safety and alignment research and develop the next generation of talent",
+    "details": "",
+    "url": "https://openai.com/index/introducing-openai-safety-fellowship",
+    "tags": "",
+    "created_at": "2026-04-07 04:29:00"
   }
 ]

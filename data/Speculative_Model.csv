@@ -804,3 +804,63 @@ id,name,description,url,stars,forks,language,topics,created_at,first_seen,is_act
 1202269812,SenmiaoORZ/Eagle-Efficient-Training-Free-Router-for-Multi-LLM-Inference,Official Codebase for Paper : 《Eagle: Efficient Training-Free Router for Multi-LLM Inference》,https://github.com/SenmiaoORZ/Eagle-Efficient-Training-Free-Router-for-Multi-LLM-Inference,0,0,Python,,2026-04-05T20:28:06Z,2026-04-06,False,Speculative Model
 1202191976,Tosa9/urtec-4495058-pinn-eur,Physics-Informed Neural Networks for EUR prediction in unconventional wells. Reproducible implementation for URTeC 2026 paper (URTeC: 4495058). PyTorch · XGBoost · Monte Carlo Dropout · Permian · Eagle Ford · Montney.,https://github.com/Tosa9/urtec-4495058-pinn-eur,0,0,,,2026-04-05T18:08:13Z,2026-04-06,False,Speculative Model
 1201910509,GirinChutia/YOLOX-Fast-Inference,,https://github.com/GirinChutia/YOLOX-Fast-Inference,0,0,Python,,2026-04-05T10:31:51Z,2026-04-06,False,Speculative Model
+1203229211,JasxnNg/65930-final,Speculative Decoding + KV caching ,https://github.com/JasxnNg/65930-final,0,0,Jupyter Notebook,,2026-04-06T21:07:50Z,2026-04-07,True,Speculative Model
+1203091819,axie22/Speculative-Decoding,,https://github.com/axie22/Speculative-Decoding,0,0,,,2026-04-06T17:59:11Z,2026-04-07,True,Speculative Model
+1203056510,nobitanobi22/Speculative-Decoding-Engine,,https://github.com/nobitanobi22/Speculative-Decoding-Engine,0,0,,,2026-04-06T17:17:16Z,2026-04-07,True,Speculative Model
+1202516020,banfeb/nano-vLLM-MS,在nano-vllm基础上支持moe模型以及Speculative Decoding技术,https://github.com/banfeb/nano-vLLM-MS,0,0,Python,,2026-04-06T05:22:22Z,2026-04-07,True,Speculative Model
+1203172493,MatthewOlaka/abisakis_farm_medusa,Abisaki's farm medusa dashboard,https://github.com/MatthewOlaka/abisakis_farm_medusa,0,0,TypeScript,,2026-04-06T19:44:05Z,2026-04-07,True,Speculative Model
+1202672622,StackD-Solutions/medusa-password-manager,Password management plugin for Medusa,https://github.com/StackD-Solutions/medusa-password-manager,0,0,TypeScript,,2026-04-06T09:21:07Z,2026-04-07,True,Speculative Model
+1203400705,gelasmadurasa/medusacil,project 1,https://github.com/gelasmadurasa/medusacil,0,0,,,2026-04-07T02:24:10Z,2026-04-07,True,Speculative Model
+1202812936,Prashantch265/medusajs-backend,This repository is created for issue reproduction for medusajs team.,https://github.com/Prashantch265/medusajs-backend,0,0,TypeScript,,2026-04-06T12:32:05Z,2026-04-07,True,Speculative Model
+1203121320,Anasss/medusa-backend,,https://github.com/Anasss/medusa-backend,0,0,TypeScript,,2026-04-06T18:36:10Z,2026-04-07,True,Speculative Model
+1203475074,Jonneal3/medusa-old,,https://github.com/Jonneal3/medusa-old,0,0,,,2026-04-07T04:26:53Z,2026-04-07,True,Speculative Model
+1203153442,munzerazra/medusa-perseus,,https://github.com/munzerazra/medusa-perseus,0,0,HTML,,2026-04-06T19:18:37Z,2026-04-07,True,Speculative Model
+1203121593,Anasss/medusa-storefront,,https://github.com/Anasss/medusa-storefront,0,0,TypeScript,,2026-04-06T18:36:32Z,2026-04-07,True,Speculative Model
+1202774887,nerajlal/Medusa-Saas,,https://github.com/nerajlal/Medusa-Saas,0,0,,,2026-04-06T11:40:44Z,2026-04-07,True,Speculative Model
+1202824148,maxdemarque/Medusa-Kali,Simulando um Ataque de Brute Force de Senhas com Medusa e Kali Linux.,https://github.com/maxdemarque/Medusa-Kali,0,0,,,2026-04-06T12:46:24Z,2026-04-07,True,Speculative Model
+1202981850,okirmio-create/medusa-config-cli,,https://github.com/okirmio-create/medusa-config-cli,0,0,TypeScript,,2026-04-06T15:49:26Z,2026-04-07,True,Speculative Model
+1203395141,luckycrm/Quickbooks-Sync-Medusajs,,https://github.com/luckycrm/Quickbooks-Sync-Medusajs,1,0,TypeScript,,2026-04-07T02:16:01Z,2026-04-07,True,Speculative Model
+1203115458,pevey/medusa-plugin-r2,,https://github.com/pevey/medusa-plugin-r2,0,0,TypeScript,,2026-04-06T18:28:34Z,2026-04-07,True,Speculative Model
+1202912487,eliasguralnik/WhiteLabelMedusaApp,,https://github.com/eliasguralnik/WhiteLabelMedusaApp,0,0,Dart,,2026-04-06T14:28:29Z,2026-04-07,True,Speculative Model
+1202811025,rubensrhn/pentest_riachuelo,"Projeto DIO (Riachuelo Cybersecurity) - Pentest Prático com Kali Linux & (Medusa, Hydra)",https://github.com/rubensrhn/pentest_riachuelo,0,0,,,2026-04-06T12:29:35Z,2026-04-07,True,Speculative Model
+1203387312,fabianobernardi/Simulando_ataque_brute_force_com_Kali_Medusa,Repositório com o relatório do desafio do bootcamp de Cybersegurança,https://github.com/fabianobernardi/Simulando_ataque_brute_force_com_Kali_Medusa,0,0,,,2026-04-07T02:03:37Z,2026-04-07,True,Speculative Model
+1202877209,Joerbeth-CyberSecurity/cyber-estudosDIO-Cyber,"Projeto demonstrando ataques de força bruta utilizando Kali Linux e Medusa em ambiente controlado com Metasploitable 2 e DVWA. Foram realizados testes em FTP, SMB e login web, documentando comandos utilizados, wordlists e recomendações de mitigação.",https://github.com/Joerbeth-CyberSecurity/cyber-estudosDIO-Cyber,0,0,,,2026-04-06T13:49:24Z,2026-04-07,True,Speculative Model
+1202881468,glennfb83/ec,eagle,https://github.com/glennfb83/ec,0,0,HTML,,2026-04-06T13:54:23Z,2026-04-07,True,Speculative Model
+1202782307,piyushsingh-909/eagle,AEO Dashboard,https://github.com/piyushsingh-909/eagle,0,0,HTML,,2026-04-06T11:51:05Z,2026-04-07,True,Speculative Model
+1203298720,Foryoursecu/Eagleye1,,https://github.com/Foryoursecu/Eagleye1,0,0,JavaScript,,2026-04-06T23:12:02Z,2026-04-07,True,Speculative Model
+1202907467,GamotechSofta/EagleGames,,https://github.com/GamotechSofta/EagleGames,0,0,JavaScript,,2026-04-06T14:22:46Z,2026-04-07,True,Speculative Model
+1203199414,Digitalgraphity1/The-Eagle-Script-AI,The Eagle Script AI,https://github.com/Digitalgraphity1/The-Eagle-Script-AI,0,0,,,2026-04-06T20:22:55Z,2026-04-07,True,Speculative Model
+1202588802,MoniAIEngineer/SocialEagle_Assignments,Social Eagle All Assignments,https://github.com/MoniAIEngineer/SocialEagle_Assignments,0,0,Python,,2026-04-06T07:20:41Z,2026-04-07,True,Speculative Model
+1203426801,Bakthi2001/eagle-events-website,Website for the eagle,https://github.com/Bakthi2001/eagle-events-website,0,0,,,2026-04-07T03:04:50Z,2026-04-07,True,Speculative Model
+1203212096,Foryoursecu/eagleye,,https://github.com/Foryoursecu/eagleye,0,0,JavaScript,,2026-04-06T20:41:14Z,2026-04-07,True,Speculative Model
+1203247262,nathanmagero-dotcom/eaglefurniture,furniture ecommerce,https://github.com/nathanmagero-dotcom/eaglefurniture,0,0,,,2026-04-06T21:38:35Z,2026-04-07,True,Speculative Model
+1203420917,ninjin-bilgee/flight-crew,Giant Eagle Sprinternship May 2026 Cohort,https://github.com/ninjin-bilgee/flight-crew,0,0,,,2026-04-07T02:55:53Z,2026-04-07,True,Speculative Model
+1203353637,youngstunners88/eagle-locksmith,Website for Eagle Locksmith - Professional services,https://github.com/youngstunners88/eagle-locksmith,0,0,HTML,,2026-04-07T01:01:05Z,2026-04-07,True,Speculative Model
+1202905402,tflanigan-bit/eaglercraft,,https://github.com/tflanigan-bit/eaglercraft,0,0,HTML,,2026-04-06T14:20:29Z,2026-04-07,True,Speculative Model
+1203203333,Yigen1/eaglercrafthtml,,https://github.com/Yigen1/eaglercrafthtml,0,0,HTML,,2026-04-06T20:28:45Z,2026-04-07,True,Speculative Model
+1202934180,ryangruno5-cell/eagle-advisor,AI Academic Advisor for FGCU Entrepreneurship Students,https://github.com/ryangruno5-cell/eagle-advisor,0,0,Shell,,2026-04-06T14:53:03Z,2026-04-07,True,Speculative Model
+1202556702,sumedhachugh/EAGLE_blog,,https://github.com/sumedhachugh/EAGLE_blog,0,0,HTML,,2026-04-06T06:30:39Z,2026-04-07,True,Speculative Model
+1203313796,Sharjeel-Rajput-143/bald-eagle,angular v20 learning,https://github.com/Sharjeel-Rajput-143/bald-eagle,0,0,TypeScript,,2026-04-06T23:41:25Z,2026-04-07,True,Speculative Model
+1203235964,DragonFlamePrime/my-eaglercraft,,https://github.com/DragonFlamePrime/my-eaglercraft,0,0,HTML,,2026-04-06T21:19:06Z,2026-04-07,True,Speculative Model
+1203386596,jlarm/eagles-gallery,,https://github.com/jlarm/eagles-gallery,0,0,Vue,,2026-04-07T02:02:29Z,2026-04-07,True,Speculative Model
+1202860929,GamingBloxdProYT/eagler-proxy,Bla bla bla,https://github.com/GamingBloxdProYT/eagler-proxy,0,0,JavaScript,,2026-04-06T13:30:46Z,2026-04-07,True,Speculative Model
+1202580590,kevin-carlson/eagle-ide,An IDE optimized for managing multiple CLI AI coding agents at once.,https://github.com/kevin-carlson/eagle-ide,0,0,,,2026-04-06T07:07:52Z,2026-04-07,True,Speculative Model
+1203348773,sam-packer/StrikeEagle,,https://github.com/sam-packer/StrikeEagle,0,0,Python,,2026-04-07T00:51:30Z,2026-04-07,True,Speculative Model
+1203055300,mahmoud2308-ux/Eagle_X,AI,https://github.com/mahmoud2308-ux/Eagle_X,0,0,,,2026-04-06T17:15:49Z,2026-04-07,True,Speculative Model
+1202929913,supokedehljs/Vault,eagle的安卓手机版,https://github.com/supokedehljs/Vault,0,0,Java,,2026-04-06T14:48:09Z,2026-04-07,True,Speculative Model
+1202565718,BlancasJ/pcb-designs-eagle,"PCB designs in Eagle CAD: motor driver, accelerometer, regulated power supply. Built at UPY (2018-2019)",https://github.com/BlancasJ/pcb-designs-eagle,0,0,Stata,,2026-04-06T06:44:36Z,2026-04-07,True,Speculative Model
+1203294426,robtay1/eagle-app-2,,https://github.com/robtay1/eagle-app-2,0,0,,,2026-04-06T23:03:20Z,2026-04-07,True,Speculative Model
+1203261033,robtay1/eagle-app-1,,https://github.com/robtay1/eagle-app-1,0,0,HTML,,2026-04-06T22:02:24Z,2026-04-07,True,Speculative Model
+1203298011,robtay1/eagle-app-4,,https://github.com/robtay1/eagle-app-4,0,0,HTML,,2026-04-06T23:10:38Z,2026-04-07,True,Speculative Model
+1203274000,kwolfdaas/Eaglercraft-Server-Totortial,,https://github.com/kwolfdaas/Eaglercraft-Server-Totortial,0,0,,,2026-04-06T22:25:45Z,2026-04-07,True,Speculative Model
+1203306092,robtay1/eagle-app-5,,https://github.com/robtay1/eagle-app-5,0,0,HTML,,2026-04-06T23:26:20Z,2026-04-07,True,Speculative Model
+1203288791,plplss/Eaglercraft-1.8.9,,https://github.com/plplss/Eaglercraft-1.8.9,0,0,HTML,,2026-04-06T22:52:18Z,2026-04-07,True,Speculative Model
+1203417150,plplss/Eaglercraft-1.21.1,,https://github.com/plplss/Eaglercraft-1.21.1,0,0,HTML,,2026-04-07T02:49:46Z,2026-04-07,True,Speculative Model
+1202892031,Achilleas04/Eagle-Claw-site-codes,,https://github.com/Achilleas04/Eagle-Claw-site-codes,0,0,,,2026-04-06T14:06:10Z,2026-04-07,True,Speculative Model
+1203055174,prince-webAppDev/Eagle-Sports-Ground-Backend,,https://github.com/prince-webAppDev/Eagle-Sports-Ground-Backend,0,0,JavaScript,,2026-04-06T17:15:41Z,2026-04-07,True,Speculative Model
+1202824998,GamingBloxdProYT/WASM-Eaglercraft-Hacked-client-,"A HACKED EAGLERCRAFT WASM-GC 1,8,8 CLIENT!!!!!",https://github.com/GamingBloxdProYT/WASM-Eaglercraft-Hacked-client-,0,0,,,2026-04-06T12:47:34Z,2026-04-07,True,Speculative Model
+1203410639,plplss/Eaglercraft-1.14.4-remake,,https://github.com/plplss/Eaglercraft-1.14.4-remake,0,0,HTML,,2026-04-07T02:39:59Z,2026-04-07,True,Speculative Model
+1203022373,thuanbg111/black-eagle-productions-llc-5482,,https://github.com/thuanbg111/black-eagle-productions-llc-5482,0,0,HTML,,2026-04-06T16:36:56Z,2026-04-07,True,Speculative Model
+1202825808,GamingBloxdProYT/WASM-GC-Eaglercraft-1.8.8-Hacked-client,A HACKED EAGLERCRAFT WASM-GC 1.8.8 CLIENT!!!!!,https://github.com/GamingBloxdProYT/WASM-GC-Eaglercraft-1.8.8-Hacked-client,0,0,,,2026-04-06T12:48:33Z,2026-04-07,True,Speculative Model
+1203216048,lmtdcrew/truesight-vision-pipeline,"Wearable edge AI situational awareness system -- stereo depth estimation + object detection pipeline. Built for TrueSight, inspired by Anduril's Eagle Eye. NVIDIA Jetson Orin Nano",https://github.com/lmtdcrew/truesight-vision-pipeline,0,0,Python,,2026-04-06T20:47:26Z,2026-04-07,True,Speculative Model
+1202743128,komal-sharma19/MailMind,"MailMind - AI-powered email composer using Groq's LLaMA 3.3. Generate professional emails instantly with a beautiful Streamlit interface. Features custom signature builder, Gmail integration, and privacy-first design. No data storage, lightning-fast inference, works across devices. Perfect for busy professionals seeking efficient communication.",https://github.com/komal-sharma19/MailMind,0,0,Python,,2026-04-06T10:57:06Z,2026-04-07,True,Speculative Model
