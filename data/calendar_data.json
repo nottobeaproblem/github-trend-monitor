@@ -570,5 +570,18 @@
     "url": "https://openai.com/index/introducing-openai-safety-fellowship",
     "tags": "",
     "created_at": "2026-04-07 04:29:00"
+  },
+  {
+    "id": "rss_https://simonwillison.net/2026/Apr/7/project-glasswing/#atom-everything",
+    "company": "Simon Willison",
+    "title": "Anthropic's Project Glasswing - restricting Claude Mythos to security researchers - sounds necessary to me",
+    "publish_date": "2026-04-07",
+    "type": "其他",
+    "open_source": "否",
+    "summary": "<p>Anthropic <em>didn't</em> release their latest model, Claude Mythos (<a href=\"https://www-cdn.anthropic.com/53566bf5440a10affd749724787c8913a2ae0841.pdf\">system card PDF</a>), today. They have inst",
+    "details": "",
+    "url": "https://simonwillison.net/2026/Apr/7/project-glasswing/#atom-everything",
+    "tags": "",
+    "created_at": "2026-04-08 04:32:08"
   }
 ]
