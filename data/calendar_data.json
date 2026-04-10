@@ -609,5 +609,44 @@
     "url": "https://simonwillison.net/2026/Apr/8/muse-spark/#atom-everything",
     "tags": "",
     "created_at": "2026-04-09 04:28:24"
+  },
+  {
+    "id": "rss_https://openai.com/index/cyberagent",
+    "company": "OpenAI",
+    "title": "CyberAgent moves faster with ChatGPT Enterprise and Codex",
+    "publish_date": "2026-04-09",
+    "type": "其他",
+    "open_source": "否",
+    "summary": "CyberAgent uses ChatGPT Enterprise and Codex to securely scale AI adoption, improve quality, and accelerate decisions across advertising, media, and gaming.",
+    "details": "",
+    "url": "https://openai.com/index/cyberagent",
+    "tags": "",
+    "created_at": "2026-04-10 04:42:05"
+  },
+  {
+    "id": "rss_https://huggingface.co/blog/multimodal-sentence-transformers",
+    "company": "Hugging Face",
+    "title": "Multimodal Embedding & Reranker Models with Sentence Transformers",
+    "publish_date": "2026-04-09",
+    "type": "其他",
+    "open_source": "否",
+    "summary": "",
+    "details": "",
+    "url": "https://huggingface.co/blog/multimodal-sentence-transformers",
+    "tags": "",
+    "created_at": "2026-04-10 04:42:06"
+  },
+  {
+    "id": "rss_",
+    "company": "Microsoft Research",
+    "title": "New Future of Work: AI is driving rapid change, uneven benefits",
+    "publish_date": "2026-04-09",
+    "type": "其他",
+    "open_source": "否",
+    "summary": "<p>For the past five years, the New Future of Work report has captured how work is changing. This year, the shift feels especially sharp. Previous editions have focused on technology’s role in increas",
+    "details": "",
+    "url": "https://www.microsoft.com/en-us/research/blog/new-future-of-work-ai-is-driving-rapid-change-uneven-benefits/",
+    "tags": "",
+    "created_at": "2026-04-10 04:42:08"
   }
 ]
