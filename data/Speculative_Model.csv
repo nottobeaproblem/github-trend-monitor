@@ -1028,63 +1028,63 @@ id,name,description,url,stars,forks,language,topics,created_at,first_seen,is_act
 1205713832,the-profitable-stoic/demo-eagle-animal-control-llc,,https://github.com/the-profitable-stoic/demo-eagle-animal-control-llc,0,0,Astro,,2026-04-09T08:03:21Z,2026-04-10,False,Speculative Model
 1205790592,rajivswain/aeroeagle_prj_reports,This Repo is for the Aero Eagle Prayagraj Report Details. ,https://github.com/rajivswain/aeroeagle_prj_reports,0,0,HTML,,2026-04-09T09:26:28Z,2026-04-10,False,Speculative Model
 1205928885,ramanvdev/road-damage-detection-main,"RDD-YOLO optimizes YOLOv8 for road safety using a SimAM attention module to highlight cracks and GhostConv to reduce parameters. It classifies four damage types: D00 (Longitudinal), D10 (Transverse), D20 (Alligator), and D40 (Pothole). It offers higher mAP and faster inference, making it ideal for real-time mobile deployment.",https://github.com/ramanvdev/road-damage-detection-main,0,0,,,2026-04-09T12:17:20Z,2026-04-10,False,Speculative Model
-1207082190,Aryagm/dflash-mlx,"Exact speculative decoding on Apple Silicon, powered by MLX.",https://github.com/Aryagm/dflash-mlx,0,0,Python,,2026-04-10T14:56:27Z,2026-04-11,True,Speculative Model
-1207319560,youngharold/tightwad,Mixed-vendor GPU inference cluster manager with speculative decoding,https://github.com/youngharold/tightwad,0,0,Python,,2026-04-10T20:11:47Z,2026-04-11,True,Speculative Model
-1207378019,lingjiechen2/dlm-speculative-decoding,Research codebase for speculative decoding with diffusion language model drafters,https://github.com/lingjiechen2/dlm-speculative-decoding,0,0,Python,,2026-04-10T21:55:25Z,2026-04-11,True,Speculative Model
-1207070541,kangyijie5473/nano-dist-spec,"A minimal, educational implementation of tensor-parallel speculative decoding for LLM inference.",https://github.com/kangyijie5473/nano-dist-spec,0,0,Python,,2026-04-10T14:43:16Z,2026-04-11,True,Speculative Model
-1207290782,quivent/vllm-qwen-speculative-decode,Speculative decoding optimization toolkit for vLLM + Qwen 3.5-27B MTP heads on NVIDIA GH200,https://github.com/quivent/vllm-qwen-speculative-decode,0,0,Python,,2026-04-10T19:28:09Z,2026-04-11,True,Speculative Model
-1207015509,banfeb/nano-vLLM-MS2,在nano-vllm基础上支持moe模型以及Speculative Decoding技术,https://github.com/banfeb/nano-vLLM-MS2,0,0,Python,,2026-04-10T13:40:10Z,2026-04-11,True,Speculative Model
-1207261295,parrishcorcoran/MedusaBitNet,"Train Medusa speculative-decoding heads on a frozen BitNet b1.58 backbone, CPU-only, tuned for HP Z8 G4 (dual Xeon + AVX-512 via IPEX).",https://github.com/parrishcorcoran/MedusaBitNet,1,0,Python,,2026-04-10T18:46:43Z,2026-04-11,True,Speculative Model
-1206638597,albertodeluca-dot/medusa,,https://github.com/albertodeluca-dot/medusa,0,0,TypeScript,,2026-04-10T05:34:11Z,2026-04-11,True,Speculative Model
-1206707323,tactical-affairs/ta-strike-arena-store,Strike Arena storefront platform using Medusa,https://github.com/tactical-affairs/ta-strike-arena-store,0,0,TypeScript,,2026-04-10T07:13:36Z,2026-04-11,True,Speculative Model
-1207177851,MikiOB/medusa-storefront,,https://github.com/MikiOB/medusa-storefront,0,0,TypeScript,,2026-04-10T16:56:31Z,2026-04-11,True,Speculative Model
-1207385212,Gabriel-front/Projeto-medusa-,Desafio: simulando um ataque de brute force de senhas com medusa e kali linux,https://github.com/Gabriel-front/Projeto-medusa-,0,0,,,2026-04-10T22:10:26Z,2026-04-11,True,Speculative Model
-1207293141,Davidcode2/medusa-backend,,https://github.com/Davidcode2/medusa-backend,0,0,TypeScript,,2026-04-10T19:31:21Z,2026-04-11,True,Speculative Model
-1206913533,Umakani-EmberTech/Medusajs-training,,https://github.com/Umakani-EmberTech/Medusajs-training,0,0,TypeScript,,2026-04-10T11:34:34Z,2026-04-11,True,Speculative Model
-1206949054,junwonkim07/my-medusa-store,,https://github.com/junwonkim07/my-medusa-store,0,0,JavaScript,,2026-04-10T12:20:39Z,2026-04-11,True,Speculative Model
-1207235484,sayedsafi2000/medusa-plugin-crm,,https://github.com/sayedsafi2000/medusa-plugin-crm,0,0,TypeScript,,2026-04-10T18:12:24Z,2026-04-11,True,Speculative Model
-1207327698,Wrenbjor/trades--medusa-concrete-and-asphalt,,https://github.com/Wrenbjor/trades--medusa-concrete-and-asphalt,0,0,HTML,,2026-04-10T20:24:56Z,2026-04-11,True,Speculative Model
-1207084242,Emad-AlBadani/Weekly-Breach-Investigation-10.04.2026,China-Linked Storm-1175 Exploits Zero-Days to Rapidly Deploy Medusa Ransomware,https://github.com/Emad-AlBadani/Weekly-Breach-Investigation-10.04.2026,0,0,,,2026-04-10T14:58:57Z,2026-04-11,True,Speculative Model
-1206684724,danlanko/eagle_advantage_api_v1,Eagle Advatantage,https://github.com/danlanko/eagle_advantage_api_v1,0,0,Python,,2026-04-10T06:42:52Z,2026-04-11,True,Speculative Model
-1207149976,DhananjayMane004/Eagle,,https://github.com/DhananjayMane004/Eagle,0,0,Python,,2026-04-10T16:20:23Z,2026-04-11,True,Speculative Model
-1206958023,SreenathKarthick11/Eagle,,https://github.com/SreenathKarthick11/Eagle,0,0,TypeScript,,2026-04-10T12:31:50Z,2026-04-11,True,Speculative Model
-1206977918,zakaullah-ansari/eagle,,https://github.com/zakaullah-ansari/eagle,0,0,,,2026-04-10T12:55:51Z,2026-04-11,True,Speculative Model
-1207264275,power-eagle/eagle-react-template,eagle react template,https://github.com/power-eagle/eagle-react-template,0,0,JavaScript,,2026-04-10T18:50:55Z,2026-04-11,True,Speculative Model
-1206742941,HubiBubi123/eaglercraft152,,https://github.com/HubiBubi123/eaglercraft152,0,0,HTML,,2026-04-10T08:00:31Z,2026-04-11,True,Speculative Model
-1207150746,ataolpeker-del/EagleEyeApp,,https://github.com/ataolpeker-del/EagleEyeApp,0,0,Python,,2026-04-10T16:21:21Z,2026-04-11,True,Speculative Model
-1207343153,power-eagle/eagle-brat,brat support for eagle.cool,https://github.com/power-eagle/eagle-brat,0,0,JavaScript,,2026-04-10T20:51:02Z,2026-04-11,True,Speculative Model
-1207364714,annaozola/eagle-color-picker,Color picker plugin for Eagle.,https://github.com/annaozola/eagle-color-picker,0,0,HTML,,2026-04-10T21:29:04Z,2026-04-11,True,Speculative Model
-1207233838,motoricyclee-boop/EAGLEMOTO,,https://github.com/motoricyclee-boop/EAGLEMOTO,0,0,,,2026-04-10T18:10:01Z,2026-04-11,True,Speculative Model
-1207280591,disguy95/Eaglercraft,e,https://github.com/disguy95/Eaglercraft,0,0,,,2026-04-10T19:13:55Z,2026-04-11,True,Speculative Model
-1207218058,10342698-droid/eaglecraft,,https://github.com/10342698-droid/eaglecraft,0,0,,,2026-04-10T17:48:35Z,2026-04-11,True,Speculative Model
-1206835385,deadbladeMC/eaglercrafthtml,,https://github.com/deadbladeMC/eaglercrafthtml,0,0,HTML,,2026-04-10T09:51:53Z,2026-04-11,True,Speculative Model
-1206974885,johntrucknuts/eaglercrafthtml,,https://github.com/johntrucknuts/eaglercrafthtml,0,0,HTML,,2026-04-10T12:52:13Z,2026-04-11,True,Speculative Model
-1207342516,syoun495-afk/eaglercrafthtml,,https://github.com/syoun495-afk/eaglercrafthtml,0,0,,,2026-04-10T20:49:56Z,2026-04-11,True,Speculative Model
-1207154984,mohammadJahid8/eagle-likes,,https://github.com/mohammadJahid8/eagle-likes,0,0,TypeScript,,2026-04-10T16:26:52Z,2026-04-11,True,Speculative Model
-1207490406,Danielbarkerjd/eagleridge-site,,https://github.com/Danielbarkerjd/eagleridge-site,0,0,HTML,,2026-04-11T02:18:43Z,2026-04-11,True,Speculative Model
-1207251894,power-eagle/eagle-template,a lefthook enabled devops environment,https://github.com/power-eagle/eagle-template,0,1,JavaScript,,2026-04-10T18:33:47Z,2026-04-11,True,Speculative Model
-1207221312,KnotyYachtie/eagle-detailing,Website repository for Eagle Detailing by Knoty Yachtie,https://github.com/KnotyYachtie/eagle-detailing,0,0,Astro,,2026-04-10T17:52:58Z,2026-04-11,True,Speculative Model
-1207015377,ProofPulse7/push-eagle,,https://github.com/ProofPulse7/push-eagle,0,0,TypeScript,,2026-04-10T13:40:02Z,2026-04-11,True,Speculative Model
-1207284869,rey555ddd/eagle-toolkit,伊果國外精品代購 — 精品工具套件 (Eagle Shopping Toolkit),https://github.com/rey555ddd/eagle-toolkit,0,0,TypeScript,,2026-04-10T19:20:02Z,2026-04-11,True,Speculative Model
-1207079194,MrSmart00/augmented-eagle,,https://github.com/MrSmart00/augmented-eagle,0,0,JavaScript,,2026-04-10T14:52:57Z,2026-04-11,True,Speculative Model
-1206887496,Taniaa-p/eagle-eye,,https://github.com/Taniaa-p/eagle-eye,0,0,Python,,2026-04-10T10:57:52Z,2026-04-11,True,Speculative Model
-1206772790,Alec-Burton96/eagle-bank,Barclays interview project,https://github.com/Alec-Burton96/eagle-bank,0,0,Java,,2026-04-10T08:35:46Z,2026-04-11,True,Speculative Model
-1206869711,ebrahim-saber/GoldenEagle,,https://github.com/ebrahim-saber/GoldenEagle,0,0,TypeScript,,2026-04-10T10:33:09Z,2026-04-11,True,Speculative Model
-1207265371,maturbuk/Prototipos-Squad-Eagle---PMC,Protótipos da Squad Eagle - Caajamar - para exemplificação.,https://github.com/maturbuk/Prototipos-Squad-Eagle---PMC,0,0,HTML,,2026-04-10T18:52:24Z,2026-04-11,True,Speculative Model
-1207174143,IcedDog/PVDex-Eagle-Helper,,https://github.com/IcedDog/PVDex-Eagle-Helper,0,0,JavaScript,,2026-04-10T16:51:48Z,2026-04-11,True,Speculative Model
-1206976134,johntrucknuts/eaglercrafthtml-bc029,,https://github.com/johntrucknuts/eaglercrafthtml-bc029,0,0,HTML,,2026-04-10T12:53:40Z,2026-04-11,True,Speculative Model
-1206645953,citonmht/firm-eagle-1960,,https://github.com/citonmht/firm-eagle-1960,0,0,,,2026-04-10T05:46:00Z,2026-04-11,True,Speculative Model
-1207391934,ProofPulse7/push-eagle-dashboard,,https://github.com/ProofPulse7/push-eagle-dashboard,0,0,TypeScript,,2026-04-10T22:24:35Z,2026-04-11,True,Speculative Model
-1207441638,pr-poehali-dev/eagle-eye-sensors,,https://github.com/pr-poehali-dev/eagle-eye-sensors,0,0,TypeScript,,2026-04-11T00:21:46Z,2026-04-11,True,Speculative Model
-1206689879,EWFPALACEOFBLESSING/EAGLE-S-WINGS-FOUNDATION-,palace of blessing ,https://github.com/EWFPALACEOFBLESSING/EAGLE-S-WINGS-FOUNDATION-,0,0,,,2026-04-10T06:49:58Z,2026-04-11,True,Speculative Model
-1207161862,aweekatstormysofficial/eaglermodded-1.6.4,,https://github.com/aweekatstormysofficial/eaglermodded-1.6.4,0,0,HTML,,2026-04-10T16:35:42Z,2026-04-11,True,Speculative Model
-1207539705,befoer/eagle-plugin-folder-merge,用于合并两个文件夹中同名文件夹的 Eagle 插件,https://github.com/befoer/eagle-plugin-folder-merge,0,0,JavaScript,,2026-04-11T04:13:40Z,2026-04-11,True,Speculative Model
-1207509459,kuwa2005/sd-mcp,"MCP server for AUTOMATIC1111 WebUI (txt2img, optional Eagle import)",https://github.com/kuwa2005/sd-mcp,0,0,JavaScript,,2026-04-11T03:02:50Z,2026-04-11,True,Speculative Model
-1207509751,Wssxiu/exercise,As a practice repo for HW's Eagle Plan,https://github.com/Wssxiu/exercise,0,0,Java,,2026-04-11T03:03:32Z,2026-04-11,True,Speculative Model
-1207026438,Wrenbjor/trades--eagle-constr-services-inc,,https://github.com/Wrenbjor/trades--eagle-constr-services-inc,0,0,HTML,,2026-04-10T13:52:39Z,2026-04-11,True,Speculative Model
-1207027875,Wrenbjor/trades--eagle-construction-services-inc,,https://github.com/Wrenbjor/trades--eagle-construction-services-inc,0,0,HTML,,2026-04-10T13:54:19Z,2026-04-11,True,Speculative Model
-1207344626,syoun495-afk/eaglercrafthtml-7da7a,,https://github.com/syoun495-afk/eaglercrafthtml-7da7a,0,0,HTML,,2026-04-10T20:53:20Z,2026-04-11,True,Speculative Model
-1207028611,Wrenbjor/trades--eaglespeed-oil-and-lube,,https://github.com/Wrenbjor/trades--eaglespeed-oil-and-lube,0,0,HTML,,2026-04-10T13:55:09Z,2026-04-11,True,Speculative Model
-1207027151,Wrenbjor/trades--eagle-construction-service-inc,,https://github.com/Wrenbjor/trades--eagle-construction-service-inc,0,0,HTML,,2026-04-10T13:53:29Z,2026-04-11,True,Speculative Model
-1207479049,Exer26/sports-clubhouse,An ALPHA PROTOTYPE of a web-based online booking system for Eagle Ridge Golf & Country Club - Sports Clubhouse,https://github.com/Exer26/sports-clubhouse,0,0,Blade,,2026-04-11T01:51:21Z,2026-04-11,True,Speculative Model
-1207450735,hannarhodes438/conch-ray-trophic-dynamics,"This repository contains data and R scripts associated with a BIOL 462 course project examining trophic dynamics between a benthic prey species (queen conch, Lobatus gigas) and a mobile predator (spotted eagle ray, Aetobatus narinari).",https://github.com/hannarhodes438/conch-ray-trophic-dynamics,0,0,R,,2026-04-11T00:43:29Z,2026-04-11,True,Speculative Model
+1207082190,Aryagm/dflash-mlx,"Exact speculative decoding on Apple Silicon, powered by MLX.",https://github.com/Aryagm/dflash-mlx,0,0,Python,,2026-04-10T14:56:27Z,2026-04-11,False,Speculative Model
+1207319560,youngharold/tightwad,Mixed-vendor GPU inference cluster manager with speculative decoding,https://github.com/youngharold/tightwad,0,0,Python,,2026-04-10T20:11:47Z,2026-04-11,False,Speculative Model
+1207378019,lingjiechen2/dlm-speculative-decoding,Research codebase for speculative decoding with diffusion language model drafters,https://github.com/lingjiechen2/dlm-speculative-decoding,0,0,Python,,2026-04-10T21:55:25Z,2026-04-11,False,Speculative Model
+1207070541,kangyijie5473/nano-dist-spec,"A minimal, educational implementation of tensor-parallel speculative decoding for LLM inference.",https://github.com/kangyijie5473/nano-dist-spec,0,0,Python,,2026-04-10T14:43:16Z,2026-04-11,False,Speculative Model
+1207290782,quivent/vllm-qwen-speculative-decode,Speculative decoding optimization toolkit for vLLM + Qwen 3.5-27B MTP heads on NVIDIA GH200,https://github.com/quivent/vllm-qwen-speculative-decode,0,0,Python,,2026-04-10T19:28:09Z,2026-04-11,False,Speculative Model
+1207015509,banfeb/nano-vLLM-MS2,在nano-vllm基础上支持moe模型以及Speculative Decoding技术,https://github.com/banfeb/nano-vLLM-MS2,0,0,Python,,2026-04-10T13:40:10Z,2026-04-11,False,Speculative Model
+1207261295,parrishcorcoran/MedusaBitNet,"Train Medusa speculative-decoding heads on a frozen BitNet b1.58 backbone, CPU-only, tuned for HP Z8 G4 (dual Xeon + AVX-512 via IPEX).",https://github.com/parrishcorcoran/MedusaBitNet,1,0,Python,,2026-04-10T18:46:43Z,2026-04-11,False,Speculative Model
+1206638597,albertodeluca-dot/medusa,,https://github.com/albertodeluca-dot/medusa,0,0,TypeScript,,2026-04-10T05:34:11Z,2026-04-11,False,Speculative Model
+1206707323,tactical-affairs/ta-strike-arena-store,Strike Arena storefront platform using Medusa,https://github.com/tactical-affairs/ta-strike-arena-store,0,0,TypeScript,,2026-04-10T07:13:36Z,2026-04-11,False,Speculative Model
+1207177851,MikiOB/medusa-storefront,,https://github.com/MikiOB/medusa-storefront,0,0,TypeScript,,2026-04-10T16:56:31Z,2026-04-11,False,Speculative Model
+1207385212,Gabriel-front/Projeto-medusa-,Desafio: simulando um ataque de brute force de senhas com medusa e kali linux,https://github.com/Gabriel-front/Projeto-medusa-,0,0,,,2026-04-10T22:10:26Z,2026-04-11,False,Speculative Model
+1207293141,Davidcode2/medusa-backend,,https://github.com/Davidcode2/medusa-backend,0,0,TypeScript,,2026-04-10T19:31:21Z,2026-04-11,False,Speculative Model
+1206913533,Umakani-EmberTech/Medusajs-training,,https://github.com/Umakani-EmberTech/Medusajs-training,0,0,TypeScript,,2026-04-10T11:34:34Z,2026-04-11,False,Speculative Model
+1206949054,junwonkim07/my-medusa-store,,https://github.com/junwonkim07/my-medusa-store,0,0,JavaScript,,2026-04-10T12:20:39Z,2026-04-11,False,Speculative Model
+1207235484,sayedsafi2000/medusa-plugin-crm,,https://github.com/sayedsafi2000/medusa-plugin-crm,0,0,TypeScript,,2026-04-10T18:12:24Z,2026-04-11,False,Speculative Model
+1207327698,Wrenbjor/trades--medusa-concrete-and-asphalt,,https://github.com/Wrenbjor/trades--medusa-concrete-and-asphalt,0,0,HTML,,2026-04-10T20:24:56Z,2026-04-11,False,Speculative Model
+1207084242,Emad-AlBadani/Weekly-Breach-Investigation-10.04.2026,China-Linked Storm-1175 Exploits Zero-Days to Rapidly Deploy Medusa Ransomware,https://github.com/Emad-AlBadani/Weekly-Breach-Investigation-10.04.2026,0,0,,,2026-04-10T14:58:57Z,2026-04-11,False,Speculative Model
+1206684724,danlanko/eagle_advantage_api_v1,Eagle Advatantage,https://github.com/danlanko/eagle_advantage_api_v1,0,0,Python,,2026-04-10T06:42:52Z,2026-04-11,False,Speculative Model
+1207149976,DhananjayMane004/Eagle,,https://github.com/DhananjayMane004/Eagle,0,0,Python,,2026-04-10T16:20:23Z,2026-04-11,False,Speculative Model
+1206958023,SreenathKarthick11/Eagle,,https://github.com/SreenathKarthick11/Eagle,0,0,TypeScript,,2026-04-10T12:31:50Z,2026-04-11,False,Speculative Model
+1206977918,zakaullah-ansari/eagle,,https://github.com/zakaullah-ansari/eagle,0,0,,,2026-04-10T12:55:51Z,2026-04-11,False,Speculative Model
+1207264275,power-eagle/eagle-react-template,eagle react template,https://github.com/power-eagle/eagle-react-template,0,0,JavaScript,,2026-04-10T18:50:55Z,2026-04-11,False,Speculative Model
+1206742941,HubiBubi123/eaglercraft152,,https://github.com/HubiBubi123/eaglercraft152,0,0,HTML,,2026-04-10T08:00:31Z,2026-04-11,False,Speculative Model
+1207150746,ataolpeker-del/EagleEyeApp,,https://github.com/ataolpeker-del/EagleEyeApp,0,0,Python,,2026-04-10T16:21:21Z,2026-04-11,False,Speculative Model
+1207343153,power-eagle/eagle-brat,brat support for eagle.cool,https://github.com/power-eagle/eagle-brat,0,0,JavaScript,,2026-04-10T20:51:02Z,2026-04-11,False,Speculative Model
+1207364714,annaozola/eagle-color-picker,Color picker plugin for Eagle.,https://github.com/annaozola/eagle-color-picker,0,0,HTML,,2026-04-10T21:29:04Z,2026-04-11,False,Speculative Model
+1207233838,motoricyclee-boop/EAGLEMOTO,,https://github.com/motoricyclee-boop/EAGLEMOTO,0,0,,,2026-04-10T18:10:01Z,2026-04-11,False,Speculative Model
+1207280591,disguy95/Eaglercraft,e,https://github.com/disguy95/Eaglercraft,0,0,,,2026-04-10T19:13:55Z,2026-04-11,False,Speculative Model
+1207218058,10342698-droid/eaglecraft,,https://github.com/10342698-droid/eaglecraft,0,0,,,2026-04-10T17:48:35Z,2026-04-11,False,Speculative Model
+1206835385,deadbladeMC/eaglercrafthtml,,https://github.com/deadbladeMC/eaglercrafthtml,0,0,HTML,,2026-04-10T09:51:53Z,2026-04-11,False,Speculative Model
+1206974885,johntrucknuts/eaglercrafthtml,,https://github.com/johntrucknuts/eaglercrafthtml,0,0,HTML,,2026-04-10T12:52:13Z,2026-04-11,False,Speculative Model
+1207342516,syoun495-afk/eaglercrafthtml,,https://github.com/syoun495-afk/eaglercrafthtml,0,0,,,2026-04-10T20:49:56Z,2026-04-11,False,Speculative Model
+1207154984,mohammadJahid8/eagle-likes,,https://github.com/mohammadJahid8/eagle-likes,0,0,TypeScript,,2026-04-10T16:26:52Z,2026-04-11,False,Speculative Model
+1207490406,Danielbarkerjd/eagleridge-site,,https://github.com/Danielbarkerjd/eagleridge-site,0,0,HTML,,2026-04-11T02:18:43Z,2026-04-11,False,Speculative Model
+1207251894,power-eagle/eagle-template,a lefthook enabled devops environment,https://github.com/power-eagle/eagle-template,0,1,JavaScript,,2026-04-10T18:33:47Z,2026-04-11,False,Speculative Model
+1207221312,KnotyYachtie/eagle-detailing,Website repository for Eagle Detailing by Knoty Yachtie,https://github.com/KnotyYachtie/eagle-detailing,0,0,Astro,,2026-04-10T17:52:58Z,2026-04-11,False,Speculative Model
+1207015377,ProofPulse7/push-eagle,,https://github.com/ProofPulse7/push-eagle,0,0,TypeScript,,2026-04-10T13:40:02Z,2026-04-11,False,Speculative Model
+1207284869,rey555ddd/eagle-toolkit,伊果國外精品代購 — 精品工具套件 (Eagle Shopping Toolkit),https://github.com/rey555ddd/eagle-toolkit,0,0,TypeScript,,2026-04-10T19:20:02Z,2026-04-11,False,Speculative Model
+1207079194,MrSmart00/augmented-eagle,,https://github.com/MrSmart00/augmented-eagle,0,0,JavaScript,,2026-04-10T14:52:57Z,2026-04-11,False,Speculative Model
+1206887496,Taniaa-p/eagle-eye,,https://github.com/Taniaa-p/eagle-eye,0,0,Python,,2026-04-10T10:57:52Z,2026-04-11,False,Speculative Model
+1206772790,Alec-Burton96/eagle-bank,Barclays interview project,https://github.com/Alec-Burton96/eagle-bank,0,0,Java,,2026-04-10T08:35:46Z,2026-04-11,False,Speculative Model
+1206869711,ebrahim-saber/GoldenEagle,,https://github.com/ebrahim-saber/GoldenEagle,0,0,TypeScript,,2026-04-10T10:33:09Z,2026-04-11,False,Speculative Model
+1207265371,maturbuk/Prototipos-Squad-Eagle---PMC,Protótipos da Squad Eagle - Caajamar - para exemplificação.,https://github.com/maturbuk/Prototipos-Squad-Eagle---PMC,0,0,HTML,,2026-04-10T18:52:24Z,2026-04-11,False,Speculative Model
+1207174143,IcedDog/PVDex-Eagle-Helper,,https://github.com/IcedDog/PVDex-Eagle-Helper,0,0,JavaScript,,2026-04-10T16:51:48Z,2026-04-11,False,Speculative Model
+1206976134,johntrucknuts/eaglercrafthtml-bc029,,https://github.com/johntrucknuts/eaglercrafthtml-bc029,0,0,HTML,,2026-04-10T12:53:40Z,2026-04-11,False,Speculative Model
+1206645953,citonmht/firm-eagle-1960,,https://github.com/citonmht/firm-eagle-1960,0,0,,,2026-04-10T05:46:00Z,2026-04-11,False,Speculative Model
+1207391934,ProofPulse7/push-eagle-dashboard,,https://github.com/ProofPulse7/push-eagle-dashboard,0,0,TypeScript,,2026-04-10T22:24:35Z,2026-04-11,False,Speculative Model
+1207441638,pr-poehali-dev/eagle-eye-sensors,,https://github.com/pr-poehali-dev/eagle-eye-sensors,0,0,TypeScript,,2026-04-11T00:21:46Z,2026-04-11,False,Speculative Model
+1206689879,EWFPALACEOFBLESSING/EAGLE-S-WINGS-FOUNDATION-,palace of blessing ,https://github.com/EWFPALACEOFBLESSING/EAGLE-S-WINGS-FOUNDATION-,0,0,,,2026-04-10T06:49:58Z,2026-04-11,False,Speculative Model
+1207161862,aweekatstormysofficial/eaglermodded-1.6.4,,https://github.com/aweekatstormysofficial/eaglermodded-1.6.4,0,0,HTML,,2026-04-10T16:35:42Z,2026-04-11,False,Speculative Model
+1207539705,befoer/eagle-plugin-folder-merge,用于合并两个文件夹中同名文件夹的 Eagle 插件,https://github.com/befoer/eagle-plugin-folder-merge,0,0,JavaScript,,2026-04-11T04:13:40Z,2026-04-11,False,Speculative Model
+1207509459,kuwa2005/sd-mcp,"MCP server for AUTOMATIC1111 WebUI (txt2img, optional Eagle import)",https://github.com/kuwa2005/sd-mcp,0,0,JavaScript,,2026-04-11T03:02:50Z,2026-04-11,False,Speculative Model
+1207509751,Wssxiu/exercise,As a practice repo for HW's Eagle Plan,https://github.com/Wssxiu/exercise,0,0,Java,,2026-04-11T03:03:32Z,2026-04-11,False,Speculative Model
+1207026438,Wrenbjor/trades--eagle-constr-services-inc,,https://github.com/Wrenbjor/trades--eagle-constr-services-inc,0,0,HTML,,2026-04-10T13:52:39Z,2026-04-11,False,Speculative Model
+1207027875,Wrenbjor/trades--eagle-construction-services-inc,,https://github.com/Wrenbjor/trades--eagle-construction-services-inc,0,0,HTML,,2026-04-10T13:54:19Z,2026-04-11,False,Speculative Model
+1207344626,syoun495-afk/eaglercrafthtml-7da7a,,https://github.com/syoun495-afk/eaglercrafthtml-7da7a,0,0,HTML,,2026-04-10T20:53:20Z,2026-04-11,False,Speculative Model
+1207028611,Wrenbjor/trades--eaglespeed-oil-and-lube,,https://github.com/Wrenbjor/trades--eaglespeed-oil-and-lube,0,0,HTML,,2026-04-10T13:55:09Z,2026-04-11,False,Speculative Model
+1207027151,Wrenbjor/trades--eagle-construction-service-inc,,https://github.com/Wrenbjor/trades--eagle-construction-service-inc,0,0,HTML,,2026-04-10T13:53:29Z,2026-04-11,False,Speculative Model
+1207479049,Exer26/sports-clubhouse,An ALPHA PROTOTYPE of a web-based online booking system for Eagle Ridge Golf & Country Club - Sports Clubhouse,https://github.com/Exer26/sports-clubhouse,0,0,Blade,,2026-04-11T01:51:21Z,2026-04-11,False,Speculative Model
+1207450735,hannarhodes438/conch-ray-trophic-dynamics,"This repository contains data and R scripts associated with a BIOL 462 course project examining trophic dynamics between a benthic prey species (queen conch, Lobatus gigas) and a mobile predator (spotted eagle ray, Aetobatus narinari).",https://github.com/hannarhodes438/conch-ray-trophic-dynamics,0,0,R,,2026-04-11T00:43:29Z,2026-04-11,False,Speculative Model
