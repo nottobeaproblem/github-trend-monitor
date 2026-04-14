@@ -895,5 +895,18 @@
     "url": "https://simonwillison.net/2026/Apr/10/voice-mode-is-weaker/#atom-everything",
     "tags": "",
     "created_at": "2026-04-11 04:15:35"
+  },
+  {
+    "id": "rss_https://openai.com/index/cloudflare-openai-agent-cloud",
+    "company": "OpenAI",
+    "title": "Enterprises power agentic workflows in Cloudflare Agent Cloud with OpenAI",
+    "publish_date": "2026-04-13",
+    "type": "其他",
+    "open_source": "否",
+    "summary": "Cloudflare brings OpenAI’s GPT-5.4 and Codex to Agent Cloud, enabling enterprises to build, deploy, and scale AI agents for real-world tasks with speed and security.",
+    "details": "",
+    "url": "https://openai.com/index/cloudflare-openai-agent-cloud",
+    "tags": "",
+    "created_at": "2026-04-14 04:41:34"
   }
 ]
