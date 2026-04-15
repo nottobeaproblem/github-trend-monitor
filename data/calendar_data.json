@@ -908,5 +908,57 @@
     "url": "https://openai.com/index/cloudflare-openai-agent-cloud",
     "tags": "",
     "created_at": "2026-04-14 04:41:34"
+  },
+  {
+    "id": "rss_https://deepmind.google/blog/gemini-robotics-er-1-6/",
+    "company": "Google DeepMind",
+    "title": "Gemini Robotics-ER 1.6: Powering real-world robotics tasks through enhanced embodied reasoning",
+    "publish_date": "2026-04-13",
+    "type": "其他",
+    "open_source": "否",
+    "summary": "Gemini Robotics ER 1.6: Enhancing spatial reasoning and multi-view understanding for autonomous robotics.",
+    "details": "",
+    "url": "https://deepmind.google/blog/gemini-robotics-er-1-6/",
+    "tags": "",
+    "created_at": "2026-04-15 04:41:34"
+  },
+  {
+    "id": "rss_https://blog.google/products-and-platforms/products/chrome/skills-in-chrome/",
+    "company": "Google AI",
+    "title": "Turn your best AI prompts into one-click tools in Chrome",
+    "publish_date": "2026-04-14",
+    "type": "其他",
+    "open_source": "否",
+    "summary": "Video showing Skills in Chrome",
+    "details": "",
+    "url": "https://blog.google/products-and-platforms/products/chrome/skills-in-chrome/",
+    "tags": "",
+    "created_at": "2026-04-15 04:41:35"
+  },
+  {
+    "id": "rss_https://simonwillison.net/2026/Apr/15/juicy-main/#atom-everything",
+    "company": "Simon Willison",
+    "title": "Zig 0.16.0 release notes: \"Juicy Main\"",
+    "publish_date": "2026-04-15",
+    "type": "其他",
+    "open_source": "否",
+    "summary": "<p><strong><a href=\"https://ziglang.org/download/0.16.0/release-notes.html#Juicy-Main\">Zig 0.16.0 release notes: &quot;Juicy Main&quot;</a></strong></p>\nZig has <em>really good</em> release notes - co",
+    "details": "",
+    "url": "https://simonwillison.net/2026/Apr/15/juicy-main/#atom-everything",
+    "tags": "",
+    "created_at": "2026-04-15 04:41:38"
+  },
+  {
+    "id": "rss_https://simonwillison.net/2026/Apr/14/replace-token-based-csrf/#atom-everything",
+    "company": "Simon Willison",
+    "title": "datasette PR #2689: Replace token-based CSRF with Sec-Fetch-Site header protection",
+    "publish_date": "2026-04-14",
+    "type": "其他",
+    "open_source": "否",
+    "summary": "<p><strong><a href=\"https://github.com/simonw/datasette/pull/2689\">datasette PR #2689: Replace token-based CSRF with Sec-Fetch-Site header protection</a></strong></p>\nDatasette has long protected agai",
+    "details": "",
+    "url": "https://simonwillison.net/2026/Apr/14/replace-token-based-csrf/#atom-everything",
+    "tags": "",
+    "created_at": "2026-04-15 04:41:38"
   }
 ]
