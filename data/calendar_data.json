@@ -1077,5 +1077,57 @@
     "url": "https://simonwillison.net/2026/Apr/15/datasette-ports/#atom-everything",
     "tags": "",
     "created_at": "2026-04-16 04:47:41"
+  },
+  {
+    "id": "rss_https://openai.com/index/introducing-gpt-rosalind",
+    "company": "OpenAI",
+    "title": "Introducing GPT-Rosalind for life sciences research",
+    "publish_date": "2026-04-16",
+    "type": "其他",
+    "open_source": "否",
+    "summary": "OpenAI introduces GPT-Rosalind, a frontier reasoning model built to accelerate drug discovery, genomics analysis, protein reasoning, and scientific research workflows.",
+    "details": "",
+    "url": "https://openai.com/index/introducing-gpt-rosalind",
+    "tags": "",
+    "created_at": "2026-04-17 04:44:49"
+  },
+  {
+    "id": "rss_https://blog.google/innovation-and-ai/products/gemini-app/personal-intelligence-nano-banana/",
+    "company": "Google AI",
+    "title": "New ways to create personalized images in the Gemini app",
+    "publish_date": "2026-04-16",
+    "type": "其他",
+    "open_source": "否",
+    "summary": "Example images made with Personal Intelligence",
+    "details": "",
+    "url": "https://blog.google/innovation-and-ai/products/gemini-app/personal-intelligence-nano-banana/",
+    "tags": "",
+    "created_at": "2026-04-17 04:44:50"
+  },
+  {
+    "id": "rss_https://huggingface.co/blog/train-multimodal-sentence-transformers",
+    "company": "Hugging Face",
+    "title": "Training and Finetuning Multimodal Embedding & Reranker Models with Sentence Transformers",
+    "publish_date": "2026-04-16",
+    "type": "其他",
+    "open_source": "否",
+    "summary": "",
+    "details": "",
+    "url": "https://huggingface.co/blog/train-multimodal-sentence-transformers",
+    "tags": "",
+    "created_at": "2026-04-17 04:44:51"
+  },
+  {
+    "id": "rss_https://simonwillison.net/2026/Apr/16/qwen-beats-opus/#atom-everything",
+    "company": "Simon Willison",
+    "title": "Qwen3.6-35B-A3B on my laptop drew me a better pelican than Claude Opus 4.7",
+    "publish_date": "2026-04-16",
+    "type": "其他",
+    "open_source": "否",
+    "summary": "<p>For anyone who has been (inadvisably) taking my <a href=\"https://simonwillison.net/tags/pelican-riding-a-bicycle/\">pelican riding a bicycle benchmark</a> seriously as a robust way to test models, h",
+    "details": "",
+    "url": "https://simonwillison.net/2026/Apr/16/qwen-beats-opus/#atom-everything",
+    "tags": "",
+    "created_at": "2026-04-17 04:44:53"
   }
 ]
