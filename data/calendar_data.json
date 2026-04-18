@@ -1129,5 +1129,57 @@
     "url": "https://simonwillison.net/2026/Apr/16/qwen-beats-opus/#atom-everything",
     "tags": "",
     "created_at": "2026-04-17 04:44:53"
+  },
+  {
+    "id": "rss_https://huggingface.co/blog/nvidia/nemotron-ocr-v2",
+    "company": "Hugging Face",
+    "title": "Building a Fast Multilingual OCR Model with Synthetic Data",
+    "publish_date": "2026-04-17",
+    "type": "其他",
+    "open_source": "否",
+    "summary": "",
+    "details": "",
+    "url": "https://huggingface.co/blog/nvidia/nemotron-ocr-v2",
+    "tags": "",
+    "created_at": "2026-04-18 04:27:22"
+  },
+  {
+    "id": "rss_https://huggingface.co/blog/ecom-rlve",
+    "company": "Hugging Face",
+    "title": "Ecom-RLVE: Adaptive Verifiable Environments for E-Commerce Conversational Agents",
+    "publish_date": "2026-04-16",
+    "type": "其他",
+    "open_source": "否",
+    "summary": "",
+    "details": "",
+    "url": "https://huggingface.co/blog/ecom-rlve",
+    "tags": "",
+    "created_at": "2026-04-18 04:27:22"
+  },
+  {
+    "id": "rss_https://simonwillison.net/guides/agentic-engineering-patterns/adding-a-new-content-type/#atom-everything",
+    "company": "Simon Willison",
+    "title": "Adding a new content type to my blog-to-newsletter tool",
+    "publish_date": "2026-04-18",
+    "type": "其他",
+    "open_source": "否",
+    "summary": "<p><em><a href=\"https://simonwillison.net/guides/agentic-engineering-patterns/\">Agentic Engineering Patterns</a> &gt;</em></p>\n    <p>Here's an example of a deceptively short prompt that got a <em>lot",
+    "details": "",
+    "url": "https://simonwillison.net/guides/agentic-engineering-patterns/adding-a-new-content-type/#atom-everything",
+    "tags": "",
+    "created_at": "2026-04-18 04:27:24"
+  },
+  {
+    "id": "rss_https://simonwillison.net/2026/Apr/17/datasette/#atom-everything",
+    "company": "Simon Willison",
+    "title": "datasette 1.0a28",
+    "publish_date": "2026-04-17",
+    "type": "其他",
+    "open_source": "否",
+    "summary": "<p><strong>Release:</strong> <a href=\"https://github.com/simonw/datasette/releases/tag/1.0a28\">datasette 1.0a28</a></p>\n    <p>I was upgrading Datasette Cloud to <a href=\"https://simonwillison.net/202",
+    "details": "",
+    "url": "https://simonwillison.net/2026/Apr/17/datasette/#atom-everything",
+    "tags": "",
+    "created_at": "2026-04-18 04:27:24"
   }
 ]
