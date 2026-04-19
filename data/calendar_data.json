@@ -1181,5 +1181,31 @@
     "url": "https://simonwillison.net/2026/Apr/17/datasette/#atom-everything",
     "tags": "",
     "created_at": "2026-04-18 04:27:24"
+  },
+  {
+    "id": "rss_https://simonwillison.net/2026/Apr/18/opus-system-prompt/#atom-everything",
+    "company": "Simon Willison",
+    "title": "Changes in the system prompt between Claude Opus 4.6 and 4.7",
+    "publish_date": "2026-04-18",
+    "type": "其他",
+    "open_source": "否",
+    "summary": "<p>Anthropic are the only major AI lab to <a href=\"https://platform.claude.com/docs/en/release-notes/system-prompts\">publish the system prompts</a> for their user-facing chat systems. Their system pro",
+    "details": "",
+    "url": "https://simonwillison.net/2026/Apr/18/opus-system-prompt/#atom-everything",
+    "tags": "",
+    "created_at": "2026-04-19 04:47:32"
+  },
+  {
+    "id": "rss_https://simonwillison.net/2026/Apr/18/extract-system-prompts/#atom-everything",
+    "company": "Simon Willison",
+    "title": "Claude system prompts as a git timeline",
+    "publish_date": "2026-04-18",
+    "type": "其他",
+    "open_source": "否",
+    "summary": "<p><strong>Research:</strong> <a href=\"https://github.com/simonw/research/tree/main/extract-system-prompts#readme\">Claude system prompts as a git timeline</a></p>\n    <p>Anthropic <a href=\"https://pla",
+    "details": "",
+    "url": "https://simonwillison.net/2026/Apr/18/extract-system-prompts/#atom-everything",
+    "tags": "",
+    "created_at": "2026-04-19 04:47:32"
   }
 ]
