@@ -1207,5 +1207,31 @@
     "url": "https://simonwillison.net/2026/Apr/18/extract-system-prompts/#atom-everything",
     "tags": "",
     "created_at": "2026-04-19 04:47:32"
+  },
+  {
+    "id": "rss_https://simonwillison.net/2026/Apr/20/datasette-sql/#atom-everything",
+    "company": "Simon Willison",
+    "title": "SQL functions in Google Sheets to fetch data from Datasette",
+    "publish_date": "2026-04-20",
+    "type": "其他",
+    "open_source": "否",
+    "summary": "<p><strong>TIL:</strong> <a href=\"https://til.simonwillison.net/google-sheets/datasette-sql\">SQL functions in Google Sheets to fetch data from Datasette</a></p>\n    <p>I put together some notes on pat",
+    "details": "",
+    "url": "https://simonwillison.net/2026/Apr/20/datasette-sql/#atom-everything",
+    "tags": "",
+    "created_at": "2026-04-20 04:56:20"
+  },
+  {
+    "id": "rss_https://simonwillison.net/2026/Apr/20/claude-token-counts/#atom-everything",
+    "company": "Simon Willison",
+    "title": "Claude Token Counter, now with model comparisons",
+    "publish_date": "2026-04-20",
+    "type": "其他",
+    "open_source": "否",
+    "summary": "<p><strong><a href=\"https://tools.simonwillison.net/claude-token-counter\">Claude Token Counter, now with model comparisons</a></strong></p>\nI <a href=\"https://github.com/simonw/tools/pull/269\">upgrade",
+    "details": "",
+    "url": "https://simonwillison.net/2026/Apr/20/claude-token-counts/#atom-everything",
+    "tags": "",
+    "created_at": "2026-04-20 04:56:20"
   }
 ]
