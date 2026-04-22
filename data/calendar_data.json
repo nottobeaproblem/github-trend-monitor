@@ -1246,5 +1246,31 @@
     "url": "https://huggingface.co/blog/nvidia/build-korean-agents-with-nemotron-personas",
     "tags": "",
     "created_at": "2026-04-21 04:44:30"
+  },
+  {
+    "id": "rss_https://simonwillison.net/2026/Apr/22/claude-code-confusion/#atom-everything",
+    "company": "Simon Willison",
+    "title": "Is Claude Code going to cost $100/month? Probably not - it's all very confusing",
+    "publish_date": "2026-04-22",
+    "type": "其他",
+    "open_source": "否",
+    "summary": "<p>Anthropic today quietly (as in <em>silently</em>, no announcement anywhere at all) updated their <a href=\"https://claude.com/pricing\">claude.com/pricing</a> page (but not their <a href=\"https://sup",
+    "details": "",
+    "url": "https://simonwillison.net/2026/Apr/22/claude-code-confusion/#atom-everything",
+    "tags": "",
+    "created_at": "2026-04-22 04:42:35"
+  },
+  {
+    "id": "rss_https://simonwillison.net/2026/Apr/21/gpt-image-2/#atom-everything",
+    "company": "Simon Willison",
+    "title": "Where's the raccoon with the ham radio? (ChatGPT Images 2.0)",
+    "publish_date": "2026-04-21",
+    "type": "其他",
+    "open_source": "否",
+    "summary": "<p>OpenAI <a href=\"https://openai.com/index/introducing-chatgpt-images-2-0/\">released ChatGPT Images 2.0 today</a>, their latest image generation model. On <a href=\"https://www.youtube.com/watch?v=sWk",
+    "details": "",
+    "url": "https://simonwillison.net/2026/Apr/21/gpt-image-2/#atom-everything",
+    "tags": "",
+    "created_at": "2026-04-22 04:42:35"
   }
 ]
