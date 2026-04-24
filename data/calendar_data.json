@@ -1376,5 +1376,70 @@
     "url": "https://simonwillison.net/2026/Apr/22/qwen36-27b/#atom-everything",
     "tags": "",
     "created_at": "2026-04-23 04:47:23"
+  },
+  {
+    "id": "rss_https://openai.com/index/introducing-gpt-5-5",
+    "company": "OpenAI",
+    "title": "Introducing GPT-5.5",
+    "publish_date": "2026-04-23",
+    "type": "其他",
+    "open_source": "否",
+    "summary": "Introducing GPT-5.5, our smartest model yet—faster, more capable, and built for complex tasks like coding, research, and data analysis across tools.",
+    "details": "",
+    "url": "https://openai.com/index/introducing-gpt-5-5",
+    "tags": "",
+    "created_at": "2026-04-24 04:50:54"
+  },
+  {
+    "id": "rss_https://openai.com/index/gpt-5-5-system-card",
+    "company": "OpenAI",
+    "title": "GPT-5.5 System Card",
+    "publish_date": "2026-04-23",
+    "type": "其他",
+    "open_source": "否",
+    "summary": "",
+    "details": "",
+    "url": "https://openai.com/index/gpt-5-5-system-card",
+    "tags": "",
+    "created_at": "2026-04-24 04:50:54"
+  },
+  {
+    "id": "rss_https://openai.com/index/gpt-5-5-bio-bug-bounty",
+    "company": "OpenAI",
+    "title": "GPT-5.5 Bio Bug Bounty",
+    "publish_date": "2026-04-23",
+    "type": "其他",
+    "open_source": "否",
+    "summary": "Explore the GPT-5.5 Bio Bug Bounty: a red-teaming challenge to find universal jailbreaks for bio safety risks, with rewards up to $25,000.",
+    "details": "",
+    "url": "https://openai.com/index/gpt-5-5-bio-bug-bounty",
+    "tags": "",
+    "created_at": "2026-04-24 04:50:54"
+  },
+  {
+    "id": "rss_https://simonwillison.net/2026/Apr/24/recent-claude-code-quality-reports/#atom-everything",
+    "company": "Simon Willison",
+    "title": "An update on recent Claude Code quality reports",
+    "publish_date": "2026-04-24",
+    "type": "其他",
+    "open_source": "否",
+    "summary": "<p><strong><a href=\"https://www.anthropic.com/engineering/april-23-postmortem\">An update on recent Claude Code quality reports</a></strong></p>\nIt turns out the high volume of complaints that Claude C",
+    "details": "",
+    "url": "https://simonwillison.net/2026/Apr/24/recent-claude-code-quality-reports/#atom-everything",
+    "tags": "",
+    "created_at": "2026-04-24 04:50:57"
+  },
+  {
+    "id": "rss_https://simonwillison.net/2026/Apr/23/gpt-5-5/#atom-everything",
+    "company": "Simon Willison",
+    "title": "A pelican for GPT-5.5 via the semi-official Codex backdoor API",
+    "publish_date": "2026-04-23",
+    "type": "其他",
+    "open_source": "否",
+    "summary": "<p><a href=\"https://openai.com/index/introducing-gpt-5-5/\">GPT-5.5 is out</a>. It's available in OpenAI Codex and is rolling out to paid ChatGPT subscribers. I've had some preview access and found it ",
+    "details": "",
+    "url": "https://simonwillison.net/2026/Apr/23/gpt-5-5/#atom-everything",
+    "tags": "",
+    "created_at": "2026-04-24 04:50:57"
   }
 ]
