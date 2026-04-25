@@ -1441,5 +1441,57 @@
     "url": "https://simonwillison.net/2026/Apr/23/gpt-5-5/#atom-everything",
     "tags": "",
     "created_at": "2026-04-24 04:50:57"
+  },
+  {
+    "id": "rss_https://blog.google/products-and-platforms/products/gemini/gemini-spring-cleaning-tips/",
+    "company": "Google AI",
+    "title": "8 Gemini tips for organizing your space (and life)",
+    "publish_date": "2026-04-24",
+    "type": "其他",
+    "open_source": "否",
+    "summary": "Black screen with illustrations including a laptop with document and email icons streaming out, a smiling person holding a phone and looking at a checklist, and a user activating Gemini Live",
+    "details": "",
+    "url": "https://blog.google/products-and-platforms/products/gemini/gemini-spring-cleaning-tips/",
+    "tags": "",
+    "created_at": "2026-04-25 04:32:21"
+  },
+  {
+    "id": "rss_https://huggingface.co/blog/deepseekv4",
+    "company": "Hugging Face",
+    "title": "DeepSeek-V4: a million-token context that agents can actually use",
+    "publish_date": "2026-04-24",
+    "type": "其他",
+    "open_source": "否",
+    "summary": "",
+    "details": "",
+    "url": "https://huggingface.co/blog/deepseekv4",
+    "tags": "",
+    "created_at": "2026-04-25 04:32:22"
+  },
+  {
+    "id": "rss_https://simonwillison.net/2026/Apr/25/gpt-5-5-prompting-guide/#atom-everything",
+    "company": "Simon Willison",
+    "title": "GPT-5.5 prompting guide",
+    "publish_date": "2026-04-25",
+    "type": "其他",
+    "open_source": "否",
+    "summary": "<p><strong><a href=\"https://developers.openai.com/api/docs/guides/prompt-guidance?model=gpt-5.5\">GPT-5.5 prompting guide</a></strong></p>\nNow that GPT-5.5 is <a href=\"https://developers.openai.com/api",
+    "details": "",
+    "url": "https://simonwillison.net/2026/Apr/25/gpt-5-5-prompting-guide/#atom-everything",
+    "tags": "",
+    "created_at": "2026-04-25 04:32:24"
+  },
+  {
+    "id": "rss_https://simonwillison.net/2026/Apr/24/deepseek-v4/#atom-everything",
+    "company": "Simon Willison",
+    "title": "DeepSeek V4 - almost on the frontier, a fraction of the price",
+    "publish_date": "2026-04-24",
+    "type": "其他",
+    "open_source": "否",
+    "summary": "<p>Chinese AI lab DeepSeek's last model release was V3.2 (and V3.2 Speciale) <a href=\"https://simonwillison.net/2025/Dec/1/deepseek-v32/\">last December</a>. They just dropped the first of their hotly ",
+    "details": "",
+    "url": "https://simonwillison.net/2026/Apr/24/deepseek-v4/#atom-everything",
+    "tags": "",
+    "created_at": "2026-04-25 04:32:24"
   }
 ]
