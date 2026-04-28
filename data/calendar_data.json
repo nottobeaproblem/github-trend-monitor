@@ -1493,5 +1493,57 @@
     "url": "https://simonwillison.net/2026/Apr/24/deepseek-v4/#atom-everything",
     "tags": "",
     "created_at": "2026-04-25 04:32:24"
+  },
+  {
+    "id": "rss_https://openai.com/index/choco",
+    "company": "OpenAI",
+    "title": "Choco automates food distribution with AI agents",
+    "publish_date": "2026-04-27",
+    "type": "其他",
+    "open_source": "否",
+    "summary": "How Choco used OpenAI APIs to streamline food distribution, boost productivity, and unlock growth—an in-depth customer story on real-world AI impact.",
+    "details": "",
+    "url": "https://openai.com/index/choco",
+    "tags": "",
+    "created_at": "2026-04-28 05:26:09"
+  },
+  {
+    "id": "rss_https://deepmind.google/blog/announcing-our-partnership-with-the-republic-of-korea/",
+    "company": "Google DeepMind",
+    "title": "Announcing our partnership with the Republic of Korea",
+    "publish_date": "2026-04-27",
+    "type": "其他",
+    "open_source": "否",
+    "summary": "Google DeepMind and Korea partner to accelerate scientific breakthroughs using frontier AI models",
+    "details": "",
+    "url": "https://deepmind.google/blog/announcing-our-partnership-with-the-republic-of-korea/",
+    "tags": "",
+    "created_at": "2026-04-28 05:26:10"
+  },
+  {
+    "id": "rss_https://blog.google/innovation-and-ai/technology/developers-tools/kaggle-genai-intensive-course-vibe-coding-june-2026/",
+    "company": "Google AI",
+    "title": "Join the new AI Agents Vibe Coding Course from Google and Kaggle",
+    "publish_date": "2026-04-27",
+    "type": "其他",
+    "open_source": "否",
+    "summary": "A web next to a laptop",
+    "details": "",
+    "url": "https://blog.google/innovation-and-ai/technology/developers-tools/kaggle-genai-intensive-course-vibe-coding-june-2026/",
+    "tags": "",
+    "created_at": "2026-04-28 05:26:10"
+  },
+  {
+    "id": "rss_https://simonwillison.net/2026/Apr/28/talkie/#atom-everything",
+    "company": "Simon Willison",
+    "title": "Introducing talkie: a 13B vintage language model from 1930",
+    "publish_date": "2026-04-28",
+    "type": "其他",
+    "open_source": "否",
+    "summary": "<p><strong><a href=\"https://talkie-lm.com/introducing-talkie\">Introducing talkie: a 13B vintage language model from 1930</a></strong></p>\nNew project from <a href=\"https://nlevine.org\">Nick Levine</a>",
+    "details": "",
+    "url": "https://simonwillison.net/2026/Apr/28/talkie/#atom-everything",
+    "tags": "",
+    "created_at": "2026-04-28 05:26:12"
   }
 ]
