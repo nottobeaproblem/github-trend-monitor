@@ -1545,5 +1545,31 @@
     "url": "https://simonwillison.net/2026/Apr/28/talkie/#atom-everything",
     "tags": "",
     "created_at": "2026-04-28 05:26:12"
+  },
+  {
+    "id": "rss_https://openai.com/index/openai-on-aws",
+    "company": "OpenAI",
+    "title": "OpenAI models, Codex, and Managed Agents come to AWS",
+    "publish_date": "2026-04-28",
+    "type": "其他",
+    "open_source": "否",
+    "summary": "OpenAI GPT models, Codex, and Managed Agents are now available on AWS, enabling enterprises to build secure AI in their AWS environments.",
+    "details": "",
+    "url": "https://openai.com/index/openai-on-aws",
+    "tags": "",
+    "created_at": "2026-04-29 05:22:56"
+  },
+  {
+    "id": "rss_https://huggingface.co/blog/nvidia/nemotron-3-nano-omni-multimodal-intelligence",
+    "company": "Hugging Face",
+    "title": "Introducing NVIDIA Nemotron 3 Nano Omni: Long-Context Multimodal Intelligence for Documents, Audio and Video Agents",
+    "publish_date": "2026-04-28",
+    "type": "其他",
+    "open_source": "否",
+    "summary": "",
+    "details": "",
+    "url": "https://huggingface.co/blog/nvidia/nemotron-3-nano-omni-multimodal-intelligence",
+    "tags": "",
+    "created_at": "2026-04-29 05:22:58"
   }
 ]
