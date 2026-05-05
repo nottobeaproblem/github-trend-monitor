@@ -1610,5 +1610,18 @@
     "url": "https://simonwillison.net/2026/Apr/30/gpt-55-cyber-capabilities/#atom-everything",
     "tags": "",
     "created_at": "2026-05-01 05:38:10"
+  },
+  {
+    "id": "rss_https://blog.google/innovation-and-ai/technology/developers-tools/event-driven-webhooks/",
+    "company": "Google AI",
+    "title": "Reduce friction and latency for long-running jobs with Webhooks in Gemini API",
+    "publish_date": "2026-05-04",
+    "type": "其他",
+    "open_source": "否",
+    "summary": "Gemini API",
+    "details": "",
+    "url": "https://blog.google/innovation-and-ai/technology/developers-tools/event-driven-webhooks/",
+    "tags": "",
+    "created_at": "2026-05-05 04:57:56"
   }
 ]
