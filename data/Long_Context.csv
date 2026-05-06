@@ -10913,3 +10913,239 @@ id,name,description,url,stars,forks,language,topics,created_at,first_seen,is_act
 1228611876,meghabilagi/Automated-Cloud-Forensics-and-Incident-Response-System,"Automated Cloud Forensics and Incident Response System using AWS. Detects suspicious API activity via CloudTrail/EventBridge, collects forensic evidence from EC2 instances using SSM, and stores results in S3. Built for academic demonstration using AWS Free Tier.",https://github.com/meghabilagi/Automated-Cloud-Forensics-and-Incident-Response-System,0,0,,,2026-05-04T07:41:39Z,2026-05-05,False,Long Context
 1229351374,AdrielMarasca/Relat-rio-Consolidado-de-Vendas,"Este projeto apresenta um dashboard interativo desenvolvido no Power BI para análise de desempenho de vendas, utilizando dados provenientes de um banco de dados SQL Server (SSMS).  A solução foi construída com base em um modelo dimensional no formato Star Schema, garantindo alta performance nas consultas e organização eficiente dos dados.",https://github.com/AdrielMarasca/Relat-rio-Consolidado-de-Vendas,0,0,,,2026-05-05T00:38:50Z,2026-05-05,False,Long Context
 1229123738,jackruder/diffusion-driven-state-space-models,,https://github.com/jackruder/diffusion-driven-state-space-models,0,0,Python,,2026-05-04T18:14:03Z,2026-05-05,False,Long Context
+1229869023,hswsplendid/bfcl_long_context_sp_bench,,https://github.com/hswsplendid/bfcl_long_context_sp_bench,0,0,Python,,2026-05-05T13:09:55Z,2026-05-06,True,Long Context
+1230385323,himans-iitk/EMNLP2026,Discourse & Pragmatics in Long-Context LLMs,https://github.com/himans-iitk/EMNLP2026,0,0,,,2026-05-06T00:22:34Z,2026-05-06,True,Long Context
+1229840967,Rekio-lll/BTHA,Block-then-Hash Attention for Efficient Long-Context,https://github.com/Rekio-lll/BTHA,0,0,,,2026-05-05T12:39:14Z,2026-05-06,True,Long Context
+1230146094,xrenaf/MEMLENS,MemLens: Benchmarking Multimodal Long-Context Conversational Memory in Vision-Language Models,https://github.com/xrenaf/MEMLENS,0,0,Python,,2026-05-05T18:12:04Z,2026-05-06,True,Long Context
+1229651069,canarybyte/veridrop,🔍 AI API relay/proxy authenticity detector · Verify Claude / GPT / Gemini relay真伪 · thinking signature crypto + needle-in-haystack long-context probe · 中转站真伪检测 · self-hostable · AGPL-3.0,https://github.com/canarybyte/veridrop,5,0,Python,"ai-tools,anthropic,api-relay,api-security,api-verification,claude,claude-api,developer-tools,fastapi,gemini,long-context,needle-in-haystack,openai,openai-api,proxy-detector,python,relay-detector,self-hostable,thinking-signature",2026-05-05T08:56:18Z,2026-05-06,True,Long Context
+1230291810,spfunctions/major-model-benchmark,"Open benchmark harness for latest major AI models on general reasoning, coding, tool use, and long-context tasks.",https://github.com/spfunctions/major-model-benchmark,0,0,Python,,2026-05-05T21:26:05Z,2026-05-06,True,Long Context
+1230089316,llurry/ctf-mobile-agent,"A multi-agent workflow for CTF and mobile security analysis with APK upload, long-context reasoning, and structured reporting.",https://github.com/llurry/ctf-mobile-agent,1,0,Python,,2026-05-05T17:04:46Z,2026-05-06,True,Long Context
+1229973960,ixu2486/mobius_phase_retrieval,Phase-aware retrieval SDK using full-reptend prime coordinates and Möbius latent pairing for long-context AI memory and semantic indexing.,https://github.com/ixu2486/mobius_phase_retrieval,0,0,Rust,,2026-05-05T14:57:16Z,2026-05-06,True,Long Context
+1230137356,RashedDadou/Sovereign-Code-Archivist,"Project concept: Building a ""sovereign memory"" + an intelligent code formatting system within a long context.  This type of project is very rare in most LLM systems.",https://github.com/RashedDadou/Sovereign-Code-Archivist,0,0,Python,,2026-05-05T18:01:33Z,2026-05-06,True,Long Context
+1230523656,Mariop4826/club-3090,"Run local LLMs on RTX 3090 hardware with validated configs for vLLM, llama.cpp, and SGLang. Use optimized setups for high throughput or long-context stability.",https://github.com/Mariop4826/club-3090,0,0,,"adaptive-triggers-pc,agent,agentscope-runtime,caricatures,chat-api,chatgpt-api,chinese,danmaku,dualsense-controller,dualsense-pc-adaptive-triggers,games,kubernetes,pretrained-models,qwen-api,react-native,tongyi,video-player",2026-05-06T04:39:36Z,2026-05-06,True,Long Context
+1230075611,jcartu/qwen36-27b-bf16-dflash-repne-vs-upstream,"Same BF16+DFlash config on Repne fork vs upstream vLLM v0.20.1, dual RTX PRO 6000 Blackwell. Upstream's dflash collapses at long context (5-6x slower at 131K).",https://github.com/jcartu/qwen36-27b-bf16-dflash-repne-vs-upstream,0,0,,,2026-05-05T16:48:49Z,2026-05-06,True,Long Context
+1230512463,JiangChang93/Human_pose_estimation,with mamba,https://github.com/JiangChang93/Human_pose_estimation,0,0,,,2026-05-06T04:19:23Z,2026-05-06,True,Long Context
+1230446095,ygczlj/mamba1,,https://github.com/ygczlj/mamba1,0,0,Python,,2026-05-06T02:17:58Z,2026-05-06,True,Long Context
+1229930407,Hoverpu/MambaCrispr,,https://github.com/Hoverpu/MambaCrispr,0,0,Python,,2026-05-05T14:13:51Z,2026-05-06,True,Long Context
+1230152309,taoyexidian-max/CW-MambaNet,,https://github.com/taoyexidian-max/CW-MambaNet,0,0,,,2026-05-05T18:19:49Z,2026-05-06,True,Long Context
+1230054896,FLOCK4H/Mamba,"API, MCP, Rust Crate, and TUI | Solana kit for major decentralized exchanges. Talk to markets via MCP, build apps using an API/Crate, Trade or Create tokens inside your desktop terminal.",https://github.com/FLOCK4H/Mamba,0,0,Rust,,2026-05-05T16:24:30Z,2026-05-06,True,Long Context
+1230442752,ygczlj/mamba,,https://github.com/ygczlj/mamba,0,0,,,2026-05-06T02:12:01Z,2026-05-06,True,Long Context
+1229786341,AlexanderGTumanov/mamba-forecaster,,https://github.com/AlexanderGTumanov/mamba-forecaster,0,0,,,2026-05-05T11:37:15Z,2026-05-06,True,Long Context
+1230264654,Abdulrahman-Mahmoud-12/TrackMamba,,https://github.com/Abdulrahman-Mahmoud-12/TrackMamba,0,0,Jupyter Notebook,,2026-05-05T20:44:31Z,2026-05-06,True,Long Context
+1229666773,FF7CA/LandMamba,,https://github.com/FF7CA/LandMamba,0,0,,,2026-05-05T09:15:10Z,2026-05-06,True,Long Context
+1230529815,wfcyliyuheng-dev/CB-Mamba,,https://github.com/wfcyliyuheng-dev/CB-Mamba,0,0,Python,,2026-05-06T04:50:38Z,2026-05-06,True,Long Context
+1229761397,nikitalakha/sign-MAMBA,,https://github.com/nikitalakha/sign-MAMBA,0,0,Jupyter Notebook,,2026-05-05T11:06:35Z,2026-05-06,True,Long Context
+1229862369,sunbv56/mamba-forecast-ad,,https://github.com/sunbv56/mamba-forecast-ad,0,0,Jupyter Notebook,,2026-05-05T13:02:32Z,2026-05-06,True,Long Context
+1229750577,ustcwq/mamba_BN_LN,,https://github.com/ustcwq/mamba_BN_LN,0,0,Python,,2026-05-05T10:53:34Z,2026-05-06,True,Long Context
+1230362039,ctestagrose/Mamba-Continual-Learning,,https://github.com/ctestagrose/Mamba-Continual-Learning,0,0,,,2026-05-05T23:32:36Z,2026-05-06,True,Long Context
+1229763383,thesaajii/EdgeMamba-PQC,,https://github.com/thesaajii/EdgeMamba-PQC,0,0,C,,2026-05-05T11:09:00Z,2026-05-06,True,Long Context
+1229504824,Natthawat-saw/multimodal-emotion-recognition,Multimodal emotion recognition using ViT + Mamba with CLIP-style contrastive learning,https://github.com/Natthawat-saw/multimodal-emotion-recognition,0,0,Python,"contrastive-learning,deep-learning,emotion-recognition,mamba,multimodal,pytorch,vision-transformer",2026-05-05T05:36:20Z,2026-05-06,True,Long Context
+1230428900,Xiao-Di/LEO-CSI_Prediction,Toward Generalized LEO Channel Prediction: An Rapid Adaption Time-Frequency Mamba Framework,https://github.com/Xiao-Di/LEO-CSI_Prediction,0,0,,,2026-05-06T01:47:25Z,2026-05-06,True,Long Context
+1230110660,WangqiLiu/plateau_cliff,"Experiment scaffold for Plateau-Cliff local norm shaping and Cross-Lipschitz regularization (Hein & Andriushchenko 2017) on Mamba, DNN, and nmODE classifiers.",https://github.com/WangqiLiu/plateau_cliff,0,0,Python,,2026-05-05T17:29:48Z,2026-05-06,True,Long Context
+1230167380,viniciusazeved/enso-forecast,"Previsao multi-horizonte do ENSO com auditoria de leakage, multi-seed e arquiteturas modernas (TCN, Transformer, Mamba). Companheiro do trabalho em Scientia Plena 22 (2026).",https://github.com/viniciusazeved/enso-forecast,0,0,Python,,2026-05-05T18:38:20Z,2026-05-06,True,Long Context
+1230350730,x7yxpksk72-maker/maker-nvclcjijxq-Coding,基于SSM的ssm基于ssm的房源管理系统+vue,https://github.com/x7yxpksk72-maker/maker-nvclcjijxq-Coding,0,0,Java,,2026-05-05T23:09:31Z,2026-05-06,True,Long Context
+1230185891,TheBlandit/ssmp,,https://github.com/TheBlandit/ssmp,0,0,Rust,,2026-05-05T19:00:41Z,2026-05-06,True,Long Context
+1229598601,Alexbuzz247/SSM-elite,,https://github.com/Alexbuzz247/SSM-elite,0,0,JavaScript,,2026-05-05T07:49:48Z,2026-05-06,True,Long Context
+1229806465,ssms-soma/ssms-soma,,https://github.com/ssms-soma/ssms-soma,0,0,,,2026-05-05T12:00:26Z,2026-05-06,True,Long Context
+1230376004,may6ixSong/SSM_WEB,,https://github.com/may6ixSong/SSM_WEB,0,0,,,2026-05-06T00:02:16Z,2026-05-06,True,Long Context
+1229618321,sadanandkaji/ssmvr_hackathon,,https://github.com/sadanandkaji/ssmvr_hackathon,0,0,TypeScript,,2026-05-05T08:14:45Z,2026-05-06,True,Long Context
+1230017691,chinmaygupta26/Hough-SSM,,https://github.com/chinmaygupta26/Hough-SSM,0,0,,,2026-05-05T15:43:16Z,2026-05-06,True,Long Context
+1230349111,Jennarine/ssms-backend,"A fullstack system where admin can manage students, courses, and results",https://github.com/Jennarine/ssms-backend,0,0,,,2026-05-05T23:06:02Z,2026-05-06,True,Long Context
+1230349282,x7yxpksk72-maker/maker-kwicjjtevq-Coding,基于SSM的ssm停车管理系统+jsp,https://github.com/x7yxpksk72-maker/maker-kwicjjtevq-Coding,0,0,Java,,2026-05-05T23:06:24Z,2026-05-06,True,Long Context
+1230354169,x7yxpksk72-maker/maker-soquwukuld-Coding,基于SSM的ssm教材管理系统+vue,https://github.com/x7yxpksk72-maker/maker-soquwukuld-Coding,0,0,Java,,2026-05-05T23:16:39Z,2026-05-06,True,Long Context
+1230352807,x7yxpksk72-maker/maker-qyqlckurgh-Coding,基于SSM的ssm网上挂号系统+jsp,https://github.com/x7yxpksk72-maker/maker-qyqlckurgh-Coding,0,0,Java,,2026-05-05T23:13:50Z,2026-05-06,True,Long Context
+1230349423,x7yxpksk72-maker/maker-kymnxafxaf-Coding,基于SSM的ssm订餐管理系统+jsp,https://github.com/x7yxpksk72-maker/maker-kymnxafxaf-Coding,0,0,Java,,2026-05-05T23:06:41Z,2026-05-06,True,Long Context
+1230342038,x7yxpksk72-maker/maker-bqtamitzxv-Coding,基于SSM的ssm电影购票系统+vue,https://github.com/x7yxpksk72-maker/maker-bqtamitzxv-Coding,0,0,Java,,2026-05-05T22:51:32Z,2026-05-06,True,Long Context
+1230348945,x7yxpksk72-maker/maker-kumgpxclvu-Coding,基于SSM的ssm实验室排课系统+jsp,https://github.com/x7yxpksk72-maker/maker-kumgpxclvu-Coding,0,0,Java,,2026-05-05T23:05:42Z,2026-05-06,True,Long Context
+1230211564,alabisimisolaa-sys/aws-ssm-automation,"Automated instance inventory, application deployment, and dynamic configuration using AWS Systems Manager.",https://github.com/alabisimisolaa-sys/aws-ssm-automation,0,0,,,2026-05-05T19:33:52Z,2026-05-06,True,Long Context
+1229838929,Xelent143/ssm-leather-atelier,,https://github.com/Xelent143/ssm-leather-atelier,0,0,,,2026-05-05T12:36:56Z,2026-05-06,True,Long Context
+1230355244,x7yxpksk72-maker/maker-uoujhzjkfz-Coding,基于SSM的ssm流浪动物救助站+vue,https://github.com/x7yxpksk72-maker/maker-uoujhzjkfz-Coding,0,0,Java,,2026-05-05T23:19:02Z,2026-05-06,True,Long Context
+1229524997,blazuryk/SSMCR-Log-Analyzer,,https://github.com/blazuryk/SSMCR-Log-Analyzer,0,0,Python,,2026-05-05T06:08:44Z,2026-05-06,True,Long Context
+1230345356,x7yxpksk72-maker/maker-frtmshmcxa-Coding,基于SSM的ssm孩童收养信息管理+vue,https://github.com/x7yxpksk72-maker/maker-frtmshmcxa-Coding,0,0,Java,,2026-05-05T22:58:27Z,2026-05-06,True,Long Context
+1230342809,x7yxpksk72-maker/maker-cetkatzlsz-Coding,基于SSM的ssm学生社团管理系统+vue,https://github.com/x7yxpksk72-maker/maker-cetkatzlsz-Coding,0,0,Java,,2026-05-05T22:53:08Z,2026-05-06,True,Long Context
+1230341490,x7yxpksk72-maker/maker-aevfppkzta-Coding,基于SSM的ssm企业人事管理系统+vue,https://github.com/x7yxpksk72-maker/maker-aevfppkzta-Coding,0,0,Java,,2026-05-05T22:50:31Z,2026-05-06,True,Long Context
+1230347572,x7yxpksk72-maker/maker-iaxdqrtepl-Coding,基于SSM的ssm在线视频网站开发+jsp,https://github.com/x7yxpksk72-maker/maker-iaxdqrtepl-Coding,0,0,Java,,2026-05-05T23:02:58Z,2026-05-06,True,Long Context
+1230344253,x7yxpksk72-maker/maker-dvanulkivl-Coding,基于SSM的ssm网上购物平台设计+jsp,https://github.com/x7yxpksk72-maker/maker-dvanulkivl-Coding,0,0,Java,,2026-05-05T22:56:07Z,2026-05-06,True,Long Context
+1230351121,x7yxpksk72-maker/maker-ohlntbafjf-Coding,基于SSM的ssm教室信息管理系统+vue,https://github.com/x7yxpksk72-maker/maker-ohlntbafjf-Coding,0,0,Java,,2026-05-05T23:10:18Z,2026-05-06,True,Long Context
+1230351451,x7yxpksk72-maker/maker-omicffsmsr-Coding,基于SSM的ssm杂志在线阅读网站+vue,https://github.com/x7yxpksk72-maker/maker-omicffsmsr-Coding,0,0,Java,,2026-05-05T23:10:57Z,2026-05-06,True,Long Context
+1230348802,x7yxpksk72-maker/maker-kngcodbqje-Coding,基于SSM的ssm企业员工管理系统+vue,https://github.com/x7yxpksk72-maker/maker-kngcodbqje-Coding,0,0,Java,,2026-05-05T23:05:24Z,2026-05-06,True,Long Context
+1230349582,x7yxpksk72-maker/maker-lstehdecsl-Coding,基于SSM的ssm物流信息管理系统+jsp,https://github.com/x7yxpksk72-maker/maker-lstehdecsl-Coding,0,0,Java,,2026-05-05T23:07:02Z,2026-05-06,True,Long Context
+1230348445,x7yxpksk72-maker/maker-jpwlhwostv-Coding,基于SSM的ssm企业文档管理系统+vue,https://github.com/x7yxpksk72-maker/maker-jpwlhwostv-Coding,0,0,Java,,2026-05-05T23:04:46Z,2026-05-06,True,Long Context
+1230351279,x7yxpksk72-maker/maker-ojpkwmrkok-Coding,基于SSM的ssm驾校预约管理系统+jsp,https://github.com/x7yxpksk72-maker/maker-ojpkwmrkok-Coding,0,0,Java,,2026-05-05T23:10:36Z,2026-05-06,True,Long Context
+1230356778,x7yxpksk72-maker/maker-ybxmosbfwh-Coding,基于SSM的ssm学生档案管理系统+jsp,https://github.com/x7yxpksk72-maker/maker-ybxmosbfwh-Coding,0,0,Java,,2026-05-05T23:22:13Z,2026-05-06,True,Long Context
+1230343420,x7yxpksk72-maker/maker-dazkenhule-Coding,基于SSM的ssm班级事务管理系统+vue,https://github.com/x7yxpksk72-maker/maker-dazkenhule-Coding,0,0,Java,,2026-05-05T22:54:21Z,2026-05-06,True,Long Context
+1230342467,x7yxpksk72-maker/maker-cdjppofbuv-Coding,基于SSM的ssm政府项目管理平台+vue,https://github.com/x7yxpksk72-maker/maker-cdjppofbuv-Coding,0,0,Java,,2026-05-05T22:52:26Z,2026-05-06,True,Long Context
+1230345193,x7yxpksk72-maker/maker-fkcshnbkta-Coding,基于SSM的ssm毕业设计选题系统+jsp,https://github.com/x7yxpksk72-maker/maker-fkcshnbkta-Coding,0,0,Java,,2026-05-05T22:58:09Z,2026-05-06,True,Long Context
+1230345056,x7yxpksk72-maker/maker-eympsjrgem-Coding,基于SSM的ssm运动器械购物商城+jsp,https://github.com/x7yxpksk72-maker/maker-eympsjrgem-Coding,0,0,Java,,2026-05-05T22:57:52Z,2026-05-06,True,Long Context
+1230091062,chinmaygupta26/Hough-SSM-CodeBase,,https://github.com/chinmaygupta26/Hough-SSM-CodeBase,0,0,Python,,2026-05-05T17:06:49Z,2026-05-06,True,Long Context
+1230346124,x7yxpksk72-maker/maker-hasscrqciy-Coding,基于SSM的ssm理财通的设计与实现+jsp,https://github.com/x7yxpksk72-maker/maker-hasscrqciy-Coding,0,0,Java,,2026-05-05T23:00:04Z,2026-05-06,True,Long Context
+1230350931,x7yxpksk72-maker/maker-nycmaawdpl-Coding,基于SSM的ssm公交车信息管理系统+vue,https://github.com/x7yxpksk72-maker/maker-nycmaawdpl-Coding,0,0,Java,,2026-05-05T23:09:55Z,2026-05-06,True,Long Context
+1230356088,x7yxpksk72-maker/maker-whmqefqdjx-Coding,基于SSM的ssm图书馆书库管理系统+vue,https://github.com/x7yxpksk72-maker/maker-whmqefqdjx-Coding,0,0,Java,,2026-05-05T23:20:49Z,2026-05-06,True,Long Context
+1230344056,x7yxpksk72-maker/maker-dpnxwwmlkg-Coding,基于SSM的ssm校内二手商城交易系统+vue,https://github.com/x7yxpksk72-maker/maker-dpnxwwmlkg-Coding,0,0,Java,,2026-05-05T22:55:43Z,2026-05-06,True,Long Context
+1230347902,x7yxpksk72-maker/maker-inihrrbtqu-Coding,基于SSM的ssm基于vue搭建的新闻网站+vue,https://github.com/x7yxpksk72-maker/maker-inihrrbtqu-Coding,0,0,Java,,2026-05-05T23:03:40Z,2026-05-06,True,Long Context
+1230346990,x7yxpksk72-maker/maker-hnzvfdtcyi-Coding,基于SSM的ssm社区医疗保健监控系统+vue,https://github.com/x7yxpksk72-maker/maker-hnzvfdtcyi-Coding,0,0,Java,,2026-05-05T23:01:46Z,2026-05-06,True,Long Context
+1230352201,x7yxpksk72-maker/maker-psqvouxljw-Coding,基于SSM的ssm基于BS的项目监管系统+jsp,https://github.com/x7yxpksk72-maker/maker-psqvouxljw-Coding,0,0,Java,,2026-05-05T23:12:29Z,2026-05-06,True,Long Context
+1230352015,x7yxpksk72-maker/maker-pmmdekxina-Coding,基于SSM的ssm智慧社区电子商务系统+vue,https://github.com/x7yxpksk72-maker/maker-pmmdekxina-Coding,0,0,Java,,2026-05-05T23:12:08Z,2026-05-06,True,Long Context
+1230342329,x7yxpksk72-maker/maker-cauhknuhtr-Coding,基于SSM的ssm基于Vue的戏剧推广网站+vue,https://github.com/x7yxpksk72-maker/maker-cauhknuhtr-Coding,0,0,Java,,2026-05-05T22:52:05Z,2026-05-06,True,Long Context
+1230354820,x7yxpksk72-maker/maker-tzwjirrbdt-Coding,基于SSM的ssm连锁超市会员管理系统+vue,https://github.com/x7yxpksk72-maker/maker-tzwjirrbdt-Coding,0,0,Java,,2026-05-05T23:18:06Z,2026-05-06,True,Long Context
+1230353813,x7yxpksk72-maker/maker-sfdupujuog-Coding,基于SSM的ssm校园二手交易管理系统+vue,https://github.com/x7yxpksk72-maker/maker-sfdupujuog-Coding,0,0,Java,,2026-05-05T23:15:55Z,2026-05-06,True,Long Context
+1230356930,x7yxpksk72-maker/maker-ystxgjujnu-Coding,基于SSM的ssm中医+养老服务平台设计+vue,https://github.com/x7yxpksk72-maker/maker-ystxgjujnu-Coding,0,0,Java,,2026-05-05T23:22:31Z,2026-05-06,True,Long Context
+1230353236,x7yxpksk72-maker/maker-rebkqahnko-Coding,基于SSM的SSM的游戏商城的设计与实现+jsp,https://github.com/x7yxpksk72-maker/maker-rebkqahnko-Coding,0,0,Java,,2026-05-05T23:14:47Z,2026-05-06,True,Long Context
+1230344602,x7yxpksk72-maker/maker-erdaylgnla-Coding,基于SSM的ssm图书管理系统设计与实现+vue,https://github.com/x7yxpksk72-maker/maker-erdaylgnla-Coding,0,0,Java,,2026-05-05T22:56:52Z,2026-05-06,True,Long Context
+1230357296,x7yxpksk72-maker/maker-zrxehmeirj-Coding,基于SSM的基于VUE3+SSM框架的在线宠物商城,https://github.com/x7yxpksk72-maker/maker-zrxehmeirj-Coding,0,0,Java,,2026-05-05T23:23:17Z,2026-05-06,True,Long Context
+1230345990,x7yxpksk72-maker/maker-hafurickyt-Coding,基于SSM的基于ssm的学生资助管理系统+vue,https://github.com/x7yxpksk72-maker/maker-hafurickyt-Coding,0,0,Java,,2026-05-05T22:59:47Z,2026-05-06,True,Long Context
+1230342189,x7yxpksk72-maker/maker-buyvedlybh-Coding,基于SSM的ssm社区老年人关怀服务系统+jsp,https://github.com/x7yxpksk72-maker/maker-buyvedlybh-Coding,0,0,Java,,2026-05-05T22:51:48Z,2026-05-06,True,Long Context
+1230349108,x7yxpksk72-maker/maker-kvcxvokxwa-Coding,基于SSM的ssm阅微文学网站的设计与开发+vue,https://github.com/x7yxpksk72-maker/maker-kvcxvokxwa-Coding,0,0,Java,,2026-05-05T23:06:02Z,2026-05-06,True,Long Context
+1230339058,nicu-bura-cloud/aws-rds-ha-bastion-ssm-lab,Lab RDS Multi-AZ + Bastion SSM Debug 05/05/2026 SG outbound + falover ENI,https://github.com/nicu-bura-cloud/aws-rds-ha-bastion-ssm-lab,0,0,HCL,,2026-05-05T22:45:36Z,2026-05-06,True,Long Context
+1230356288,x7yxpksk72-maker/maker-wvarhhxpjf-Coding,基于SSM的基于ssm框架的博客系统的开发+vue,https://github.com/x7yxpksk72-maker/maker-wvarhhxpjf-Coding,0,0,Java,,2026-05-05T23:21:11Z,2026-05-06,True,Long Context
+1230342616,x7yxpksk72-maker/maker-ceolpooomp-Coding,基于SSM的ssm学费管理系统的设计与实现+jsp,https://github.com/x7yxpksk72-maker/maker-ceolpooomp-Coding,0,0,Java,,2026-05-05T22:52:44Z,2026-05-06,True,Long Context
+1230353639,x7yxpksk72-maker/maker-rhjciimivo-Coding,基于SSM的基于SSM的毕业生就业管理系统+vue,https://github.com/x7yxpksk72-maker/maker-rhjciimivo-Coding,0,0,Java,,2026-05-05T23:15:34Z,2026-05-06,True,Long Context
+1230349918,x7yxpksk72-maker/maker-ltlsymbode-Coding,基于SSM的ssm文化遗产的保护与旅游开发+jsp,https://github.com/x7yxpksk72-maker/maker-ltlsymbode-Coding,0,0,Java,,2026-05-05T23:07:45Z,2026-05-06,True,Long Context
+1230348261,x7yxpksk72-maker/maker-jphivtyiws-Coding,基于SSM的ssm框架的滁艺咖啡在线销售系统,https://github.com/x7yxpksk72-maker/maker-jphivtyiws-Coding,0,0,Java,,2026-05-05T23:04:24Z,2026-05-06,True,Long Context
+1230353448,x7yxpksk72-maker/maker-rgxznecrif-Coding,基于SSM的基于ssm框架的车辆出租管理系统,https://github.com/x7yxpksk72-maker/maker-rgxznecrif-Coding,0,0,Java,,2026-05-05T23:15:11Z,2026-05-06,True,Long Context
+1230357461,x7yxpksk72-maker/maker-zwcigdlsai-Coding,基于SSM的ssm网上购物商城的设计与实现+jsp,https://github.com/x7yxpksk72-maker/maker-zwcigdlsai-Coding,0,0,Java,,2026-05-05T23:23:38Z,2026-05-06,True,Long Context
+1230348593,x7yxpksk72-maker/maker-jqxxsdnkdz-Coding,基于SSM的ssm好例文共享平台的设计与实现+jsp,https://github.com/x7yxpksk72-maker/maker-jqxxsdnkdz-Coding,0,0,Java,,2026-05-05T23:05:03Z,2026-05-06,True,Long Context
+1230346385,x7yxpksk72-maker/maker-himfkdguca-Coding,基于SSM的基于SSM的二手交易平台设计与开发,https://github.com/x7yxpksk72-maker/maker-himfkdguca-Coding,0,0,Java,,2026-05-05T23:00:37Z,2026-05-06,True,Long Context
+1230349734,x7yxpksk72-maker/maker-lsuptmpfis-Coding,基于SSM的ssm框架的校园闲置物品交易平台+jsp,https://github.com/x7yxpksk72-maker/maker-lsuptmpfis-Coding,0,0,Java,,2026-05-05T23:07:23Z,2026-05-06,True,Long Context
+1230426819,sdfshddd1/JAVA-xfstpfioci-Code,基于微信小程序的云上考场+ssm,https://github.com/sdfshddd1/JAVA-xfstpfioci-Code,0,0,Java,,2026-05-06T01:43:27Z,2026-05-06,True,Long Context
+1230419949,L-wenchao/SpringBoot-colmsjjiev-Sharing,基于微信小程序的在线选座+ssm,https://github.com/L-wenchao/SpringBoot-colmsjjiev-Sharing,0,0,Java,,2026-05-06T01:30:34Z,2026-05-06,True,Long Context
+1229741336,youssef6316/Pharmacy-Management-system-in-CS,Implemented a C# project for Pharmacy Management systems including DB connection using SSMS,https://github.com/youssef6316/Pharmacy-Management-system-in-CS,0,0,,,2026-05-05T10:42:35Z,2026-05-06,True,Long Context
+1230421027,sdfshddd1/JAVA-ifvarcurrl-Code,基于微信小程序的小说阅读器+ssm,https://github.com/sdfshddd1/JAVA-ifvarcurrl-Code,0,0,Java,,2026-05-06T01:32:37Z,2026-05-06,True,Long Context
+1230343913,x7yxpksk72-maker/maker-dnobiwhrjh-Coding,基于SSM的文学网的设计与实现+vue,https://github.com/x7yxpksk72-maker/maker-dnobiwhrjh-Coding,0,0,Java,,2026-05-05T22:55:25Z,2026-05-06,True,Long Context
+1230422539,L-wenchao/SpringBoot-iecibsnomw-Sharing,基于微信小程序的健身小程序+ssm,https://github.com/L-wenchao/SpringBoot-iecibsnomw-Sharing,0,0,Java,,2026-05-06T01:35:27Z,2026-05-06,True,Long Context
+1230419426,L-wenchao/SpringBoot-bxmbakqgoe-Sharing,基于微信小程序的博客小程序+ssm,https://github.com/L-wenchao/SpringBoot-bxmbakqgoe-Sharing,0,0,Java,,2026-05-06T01:29:34Z,2026-05-06,True,Long Context
+1230345681,x7yxpksk72-maker/maker-gezhliluia-Coding,基于SSM的素材网的设计与实现+vue,https://github.com/x7yxpksk72-maker/maker-gezhliluia-Coding,0,0,Java,,2026-05-05T22:59:10Z,2026-05-06,True,Long Context
+1230418703,L-wenchao/SpringBoot-aervelrtfn-Sharing,基于微信小程序的停车场管理+ssm,https://github.com/L-wenchao/SpringBoot-aervelrtfn-Sharing,0,0,Java,,2026-05-06T01:28:21Z,2026-05-06,True,Long Context
+1230420348,L-wenchao/SpringBoot-dbvyinozcp-Sharing,基于微信小程序的酒店管理系统+ssm,https://github.com/L-wenchao/SpringBoot-dbvyinozcp-Sharing,0,0,Java,,2026-05-06T01:31:16Z,2026-05-06,True,Long Context
+1230423412,sdfshddd1/JAVA-mkwagxfogy-Code,基于微信小程序的在线投稿系统+ssm,https://github.com/sdfshddd1/JAVA-mkwagxfogy-Code,0,0,Java,,2026-05-06T01:37:06Z,2026-05-06,True,Long Context
+1230427680,sdfshddd1/JAVA-zvftzoouof-Code,基于微信小程序的考研论坛设计+ssm,https://github.com/sdfshddd1/JAVA-zvftzoouof-Code,0,0,Java,,2026-05-06T01:45:06Z,2026-05-06,True,Long Context
+1230344445,x7yxpksk72-maker/maker-edjwyvwzhb-Coding,基于SSM的人事档案管理系统的设计,https://github.com/x7yxpksk72-maker/maker-edjwyvwzhb-Coding,0,0,Java,,2026-05-05T22:56:30Z,2026-05-06,True,Long Context
+1230423237,L-wenchao/SpringBoot-kszrqsekep-Sharing,基于微信小程序的社区互助养老+ssm,https://github.com/L-wenchao/SpringBoot-kszrqsekep-Sharing,0,0,Java,,2026-05-06T01:36:44Z,2026-05-06,True,Long Context
+1230425129,L-wenchao/SpringBoot-pflqstslhx-Sharing,基于微信小程序的专利服务系统+ssm,https://github.com/L-wenchao/SpringBoot-pflqstslhx-Sharing,0,0,Java,,2026-05-06T01:40:15Z,2026-05-06,True,Long Context
+1230423963,L-wenchao/SpringBoot-lldolswwmn-Sharing,基于微信小程序的预约挂号系统+ssm,https://github.com/L-wenchao/SpringBoot-lldolswwmn-Sharing,0,0,Java,,2026-05-06T01:38:10Z,2026-05-06,True,Long Context
+1230424367,L-wenchao/SpringBoot-nweympsppm-Sharing,基于微信小程序的驾校管理系统+ssm,https://github.com/L-wenchao/SpringBoot-nweympsppm-Sharing,0,0,Java,,2026-05-06T01:38:54Z,2026-05-06,True,Long Context
+1230423901,sdfshddd1/JAVA-oddklviwig-Code,基于微信小程序的绘画学习平台+ssm,https://github.com/sdfshddd1/JAVA-oddklviwig-Code,0,0,Java,,2026-05-06T01:38:02Z,2026-05-06,True,Long Context
+1230419035,sdfshddd1/JAVA-backxceuer-Code,基于微信小程序的家政项目小程序+ssm,https://github.com/sdfshddd1/JAVA-backxceuer-Code,0,0,Java,,2026-05-06T01:28:54Z,2026-05-06,True,Long Context
+1230424769,sdfshddd1/JAVA-rcgsanafpm-Code,基于微信小程序的居住证申报系统+ssm,https://github.com/sdfshddd1/JAVA-rcgsanafpm-Code,0,0,Java,,2026-05-06T01:39:33Z,2026-05-06,True,Long Context
+1230346602,x7yxpksk72-maker/maker-hjcotmgfew-Coding,基于SSM的Java Web的怀旧唱片售卖系统+vue,https://github.com/x7yxpksk72-maker/maker-hjcotmgfew-Coding,0,0,Java,,2026-05-05T23:01:01Z,2026-05-06,True,Long Context
+1230427383,L-wenchao/SpringBoot-ywxowrdybc-Sharing,基于微信小程序的自修室预约系统+ssm,https://github.com/L-wenchao/SpringBoot-ywxowrdybc-Sharing,0,0,Java,,2026-05-06T01:44:32Z,2026-05-06,True,Long Context
+1230351576,x7yxpksk72-maker/maker-oupqgvgvwe-Coding,基于SSM的vue框架和elementui组件的手机官网,https://github.com/x7yxpksk72-maker/maker-oupqgvgvwe-Coding,0,0,Java,,2026-05-05T23:11:14Z,2026-05-06,True,Long Context
+1230347746,x7yxpksk72-maker/maker-iedtoqpufg-Coding,基于SSM的java web 的QQ村旅游网站的设计,https://github.com/x7yxpksk72-maker/maker-iedtoqpufg-Coding,0,0,Java,,2026-05-05T23:03:19Z,2026-05-06,True,Long Context
+1230420038,sdfshddd1/JAVA-fiianhasmx-Code,基于微信小程序的畅阅读微信小程序+ssm,https://github.com/sdfshddd1/JAVA-fiianhasmx-Code,0,0,Java,,2026-05-06T01:30:44Z,2026-05-06,True,Long Context
+1230425901,sdfshddd1/JAVA-vaazedxshe-Code,基于微信小程序的私家车位共享系统+ssm,https://github.com/sdfshddd1/JAVA-vaazedxshe-Code,0,0,Java,,2026-05-06T01:41:43Z,2026-05-06,True,Long Context
+1230357630,x7yxpksk72-maker/maker-zxycsusrhb-Coding,基于SSM的基于JAVA的网上订餐管理系统+vue,https://github.com/x7yxpksk72-maker/maker-zxycsusrhb-Coding,0,0,Java,,2026-05-05T23:24:00Z,2026-05-06,True,Long Context
+1230425471,L-wenchao/SpringBoot-qkiuwpyhtb-Sharing,基于微信小程序的学生活动管理系统+ssm,https://github.com/L-wenchao/SpringBoot-qkiuwpyhtb-Sharing,0,0,Java,,2026-05-06T01:40:54Z,2026-05-06,True,Long Context
+1230356452,x7yxpksk72-maker/maker-wwnvrmyzwe-Coding,基于SSM的线上选课系统的设计与实现+jsp,https://github.com/x7yxpksk72-maker/maker-wwnvrmyzwe-Coding,0,0,Java,,2026-05-05T23:21:33Z,2026-05-06,True,Long Context
+1230343702,x7yxpksk72-maker/maker-djwtrhisue-Coding,基于SSM的《数据库系统原理》课程平台的设,https://github.com/x7yxpksk72-maker/maker-djwtrhisue-Coding,0,0,Java,,2026-05-05T22:54:59Z,2026-05-06,True,Long Context
+1230343265,x7yxpksk72-maker/maker-ctnkcazwtc-Coding,基于SSM的J2EE开发的猎头公司管理系统+vue,https://github.com/x7yxpksk72-maker/maker-ctnkcazwtc-Coding,0,0,Java,,2026-05-05T22:54:03Z,2026-05-06,True,Long Context
+1230426484,sdfshddd1/JAVA-vymvazsxao-Code,基于微信小程序的汽车预约维修系统+ssm,https://github.com/sdfshddd1/JAVA-vymvazsxao-Code,0,0,Java,,2026-05-06T01:42:47Z,2026-05-06,True,Long Context
+1230426225,L-wenchao/SpringBoot-umgnrdfwlf-Sharing,基于微信小程序的在线视频教育系统+ssm,https://github.com/L-wenchao/SpringBoot-umgnrdfwlf-Sharing,0,0,Java,,2026-05-06T01:42:17Z,2026-05-06,True,Long Context
+1230354962,x7yxpksk72-maker/maker-uakyiwdrrr-Coding,基于SSM的基于Vue.js的网上招聘系统设计,https://github.com/x7yxpksk72-maker/maker-uakyiwdrrr-Coding,0,0,Java,,2026-05-05T23:18:24Z,2026-05-06,True,Long Context
+1230425290,L-wenchao/SpringBoot-pikeqlmrlj-Sharing,基于微信小程序的客家菜餐馆点菜系统+ssm,https://github.com/L-wenchao/SpringBoot-pikeqlmrlj-Sharing,0,0,Java,,2026-05-06T01:40:34Z,2026-05-06,True,Long Context
+1230356635,x7yxpksk72-maker/maker-xhbwocrfvt-Coding,基于SSM的基于HTML5的交流论坛的设计与实现,https://github.com/x7yxpksk72-maker/maker-xhbwocrfvt-Coding,0,0,Java,,2026-05-05T23:21:55Z,2026-05-06,True,Long Context
+1230424142,L-wenchao/SpringBoot-mhnsphpvrh-Sharing,基于微信小程序的校园失物招领小程序ssm,https://github.com/L-wenchao/SpringBoot-mhnsphpvrh-Sharing,0,0,Java,,2026-05-06T01:38:29Z,2026-05-06,True,Long Context
+1230420515,L-wenchao/SpringBoot-dfloxmcicn-Sharing,基于微信小程序的学习自律养成小程序+ssm,https://github.com/L-wenchao/SpringBoot-dfloxmcicn-Sharing,0,0,Java,,2026-05-06T01:31:35Z,2026-05-06,True,Long Context
+1230422841,L-wenchao/SpringBoot-jzafskqoru-Sharing,基于微信小程序的微信点餐系统小程序+ssm,https://github.com/L-wenchao/SpringBoot-jzafskqoru-Sharing,0,0,Java,,2026-05-06T01:36:01Z,2026-05-06,True,Long Context
+1230426410,L-wenchao/SpringBoot-uuhfmdssba-Sharing,基于微信小程序的课程答疑微信小程序+ssm,https://github.com/L-wenchao/SpringBoot-uuhfmdssba-Sharing,0,0,Java,,2026-05-06T01:42:39Z,2026-05-06,True,Long Context
+1230425085,sdfshddd1/JAVA-retqfxmekd-Code,基于微信小程序的助农扶贫微信小程序+ssm,https://github.com/sdfshddd1/JAVA-retqfxmekd-Code,0,0,Java,,2026-05-06T01:40:12Z,2026-05-06,True,Long Context
+1230424552,L-wenchao/SpringBoot-ooxmgrujdj-Sharing,基于微信小程序的家庭大厨微信小程序+ssm,https://github.com/L-wenchao/SpringBoot-ooxmgrujdj-Sharing,0,0,Java,,2026-05-06T01:39:11Z,2026-05-06,True,Long Context
+1230425333,sdfshddd1/JAVA-sijyfnvtpo-Code,基于微信小程序的在线课堂微信小程序+ssm,https://github.com/sdfshddd1/JAVA-sijyfnvtpo-Code,0,0,Java,,2026-05-06T01:40:38Z,2026-05-06,True,Long Context
+1230426878,L-wenchao/SpringBoot-wnqtlechlw-Sharing,基于微信小程序的在线课堂微信小程序+ssm,https://github.com/L-wenchao/SpringBoot-wnqtlechlw-Sharing,0,0,Java,,2026-05-06T01:43:33Z,2026-05-06,True,Long Context
+1230354508,x7yxpksk72-maker/maker-tfgdxogglu-Coding,基于SSM的疫情防控管理系统设计与实现+vue,https://github.com/x7yxpksk72-maker/maker-tfgdxogglu-Coding,0,0,Java,,2026-05-05T23:17:23Z,2026-05-06,True,Long Context
+1230357110,x7yxpksk72-maker/maker-zdqnrnljvj-Coding,基于SSM的无纸化学习平台的设计与实现+vue,https://github.com/x7yxpksk72-maker/maker-zdqnrnljvj-Coding,0,0,Java,,2026-05-05T23:22:54Z,2026-05-06,True,Long Context
+1230423750,sdfshddd1/JAVA-nvjkfudhnn-Code,基于微信小程序的智能社区服务小程序+ssm,https://github.com/sdfshddd1/JAVA-nvjkfudhnn-Code,0,0,Java,,2026-05-06T01:37:45Z,2026-05-06,True,Long Context
+1230353101,x7yxpksk72-maker/maker-rchchksvud-Coding,基于SSM的基于JAVA的驾校信息管理系统设计,https://github.com/x7yxpksk72-maker/maker-rchchksvud-Coding,0,0,Java,,2026-05-05T23:14:30Z,2026-05-06,True,Long Context
+1230346248,x7yxpksk72-maker/maker-hgljihefrf-Coding,基于SSM的vue的音乐播放器的设计与实现+vue,https://github.com/x7yxpksk72-maker/maker-hgljihefrf-Coding,0,0,Java,,2026-05-05T23:00:20Z,2026-05-06,True,Long Context
+1230423201,sdfshddd1/JAVA-mgitwksryu-Code,基于微信小程序的微信阅读网站小程序+ssm,https://github.com/sdfshddd1/JAVA-mgitwksryu-Code,0,0,Java,,2026-05-06T01:36:40Z,2026-05-06,True,Long Context
+1230351703,x7yxpksk72-maker/maker-paleosadcs-Coding,基于SSM的echarts的基金交易网站的设计与实现,https://github.com/x7yxpksk72-maker/maker-paleosadcs-Coding,0,0,Java,,2026-05-05T23:11:31Z,2026-05-06,True,Long Context
+1230425510,sdfshddd1/JAVA-teinglrwdc-Code,基于微信小程序的微信小程序考试系统+ssm,https://github.com/sdfshddd1/JAVA-teinglrwdc-Code,0,0,Java,,2026-05-06T01:40:59Z,2026-05-06,True,Long Context
+1230350454,x7yxpksk72-maker/maker-moonrkftny-Coding,基于SSM的vue.js的购物商场的设计与实现+vue,https://github.com/x7yxpksk72-maker/maker-moonrkftny-Coding,0,0,Java,,2026-05-05T23:08:57Z,2026-05-06,True,Long Context
+1230424546,sdfshddd1/JAVA-qcjwlwbbtz-Code,基于微信小程序的健身房私教预约系统+ssm,https://github.com/sdfshddd1/JAVA-qcjwlwbbtz-Code,0,0,Java,,2026-05-06T01:39:10Z,2026-05-06,True,Long Context
+1230419554,sdfshddd1/JAVA-drlxpcjwby-Code,基于微信小程序的高校体育场管理系统+ssm,https://github.com/sdfshddd1/JAVA-drlxpcjwby-Code,0,0,Java,,2026-05-06T01:29:49Z,2026-05-06,True,Long Context
+1230352959,x7yxpksk72-maker/maker-rbxjzrdmcb-Coding,基于SSM的基于Vue的健身房会员管理系统+vue,https://github.com/x7yxpksk72-maker/maker-rbxjzrdmcb-Coding,0,0,Java,,2026-05-05T23:14:12Z,2026-05-06,True,Long Context
+1230427565,L-wenchao/SpringBoot-zbblymyhtr-Sharing,基于微信小程序的实验室管理微信小程序+ssm,https://github.com/L-wenchao/SpringBoot-zbblymyhtr-Sharing,0,0,Java,,2026-05-06T01:44:55Z,2026-05-06,True,Long Context
+1230347231,x7yxpksk72-maker/maker-hwpttqxden-Coding,基于SSM的校园线上订餐系统的设计与实现+vue,https://github.com/x7yxpksk72-maker/maker-hwpttqxden-Coding,0,0,Java,,2026-05-05T23:02:20Z,2026-05-06,True,Long Context
+1230347413,x7yxpksk72-maker/maker-hzhwidpguz-Coding,基于SSM的仓库在线管理系统的设计与实现+vue,https://github.com/x7yxpksk72-maker/maker-hzhwidpguz-Coding,0,0,Java,,2026-05-05T23:02:41Z,2026-05-06,True,Long Context
+1230355407,x7yxpksk72-maker/maker-upighchjhe-Coding,基于SSM的基于vue的视频播放器的设计与实现,https://github.com/x7yxpksk72-maker/maker-upighchjhe-Coding,0,0,Java,,2026-05-05T23:19:23Z,2026-05-06,True,Long Context
+1230354675,x7yxpksk72-maker/maker-tldaporlvm-Coding,基于SSM的大学生社团管理系统的设计与实现,https://github.com/x7yxpksk72-maker/maker-tldaporlvm-Coding,0,0,Java,,2026-05-05T23:17:45Z,2026-05-06,True,Long Context
+1230422107,L-wenchao/SpringBoot-hlwhilbupo-Sharing,基于微信小程序的微信小程序打印室预约+ssm,https://github.com/L-wenchao/SpringBoot-hlwhilbupo-Sharing,0,0,Java,,2026-05-06T01:34:43Z,2026-05-06,True,Long Context
+1230346795,x7yxpksk72-maker/maker-hjzpqpzlue-Coding,基于SSM的高校智能培训管理系统分析与设计,https://github.com/x7yxpksk72-maker/maker-hjzpqpzlue-Coding,0,0,Java,,2026-05-05T23:01:24Z,2026-05-06,True,Long Context
+1230350117,x7yxpksk72-maker/maker-luonoiaokp-Coding,基于SSM的汽车客运订票系统的设计与实现+vue,https://github.com/x7yxpksk72-maker/maker-luonoiaokp-Coding,0,0,Java,,2026-05-05T23:08:12Z,2026-05-06,True,Long Context
+1230341676,x7yxpksk72-maker/maker-aqvulfifbf-Coding,基于SSM的网络游戏交易系统的设计与实现+jsp,https://github.com/x7yxpksk72-maker/maker-aqvulfifbf-Coding,0,0,Java,,2026-05-05T22:50:52Z,2026-05-06,True,Long Context
+1230352632,x7yxpksk72-maker/maker-qqtzlcjxbl-Coding,基于SSM的高校班级同学录网站设计与实现+jsp,https://github.com/x7yxpksk72-maker/maker-qqtzlcjxbl-Coding,0,0,Java,,2026-05-05T23:13:29Z,2026-05-06,True,Long Context
+1230427309,sdfshddd1/JAVA-zrndtnsypu-Code,基于微信小程序的基于微信的追星小程序+ssm,https://github.com/sdfshddd1/JAVA-zrndtnsypu-Code,0,0,Java,,2026-05-06T01:44:22Z,2026-05-06,True,Long Context
+1230350592,x7yxpksk72-maker/maker-nbkqtjdsnc-Coding,基于SSM的基于BS架构的法律咨询系统的分析,https://github.com/x7yxpksk72-maker/maker-nbkqtjdsnc-Coding,0,0,Java,,2026-05-05T23:09:14Z,2026-05-06,True,Long Context
+1230426560,L-wenchao/SpringBoot-vqoxpdycga-Sharing,基于微信小程序的综合文化信息管理系统+ssm,https://github.com/L-wenchao/SpringBoot-vqoxpdycga-Sharing,0,0,Java,,2026-05-06T01:42:55Z,2026-05-06,True,Long Context
+1230423040,sdfshddd1/JAVA-lzzeqnrkeo-Code,基于微信小程序的电子竞技信息交流平台+ssm,https://github.com/sdfshddd1/JAVA-lzzeqnrkeo-Code,0,0,Java,,2026-05-06T01:36:22Z,2026-05-06,True,Long Context
+1230421528,sdfshddd1/JAVA-jvotdpvqds-Code,基于微信小程序的电影院订票选座小程序+ssm,https://github.com/sdfshddd1/JAVA-jvotdpvqds-Code,0,0,Java,,2026-05-06T01:33:35Z,2026-05-06,True,Long Context
+1230343091,x7yxpksk72-maker/maker-crucffypyc-Coding,基于SSM的大湾区旅游推荐系统的设计与实现,https://github.com/x7yxpksk72-maker/maker-crucffypyc-Coding,0,0,Java,,2026-05-05T22:53:43Z,2026-05-06,True,Long Context
+1230421718,L-wenchao/SpringBoot-gimvkwxbxq-Sharing,基于微信小程序的高校学生事务管理系统ssm,https://github.com/L-wenchao/SpringBoot-gimvkwxbxq-Sharing,0,0,Java,,2026-05-06T01:33:55Z,2026-05-06,True,Long Context
+1230347112,x7yxpksk72-maker/maker-hohxarzsfl-Coding,基于SSM的物流配送管理系统的设计与实现+vue,https://github.com/x7yxpksk72-maker/maker-hohxarzsfl-Coding,0,0,Java,,2026-05-05T23:02:04Z,2026-05-06,True,Long Context
+1230355115,x7yxpksk72-maker/maker-ucefyyiyuq-Coding,基于SSM的快餐店点餐结算系统的设计与实现,https://github.com/x7yxpksk72-maker/maker-ucefyyiyuq-Coding,0,0,Java,,2026-05-05T23:18:45Z,2026-05-06,True,Long Context
+1230422999,L-wenchao/SpringBoot-kejqohswuq-Sharing,基于微信小程序的高质量阅读微信小程序+ssm,https://github.com/L-wenchao/SpringBoot-kejqohswuq-Sharing,0,0,Java,,2026-05-06T01:36:18Z,2026-05-06,True,Long Context
+1230419036,L-wenchao/SpringBoot-bcztifwuiq-Sharing,基于微信小程序的外卖点餐的设计与实现+ssm,https://github.com/L-wenchao/SpringBoot-bcztifwuiq-Sharing,0,0,Java,,2026-05-06T01:28:54Z,2026-05-06,True,Long Context
+1230345528,x7yxpksk72-maker/maker-fthxzazowb-Coding,基于SSM的家政公司服务平台的设计与实现+vue,https://github.com/x7yxpksk72-maker/maker-fthxzazowb-Coding,0,0,Java,,2026-05-05T22:58:51Z,2026-05-06,True,Long Context
+1230352498,x7yxpksk72-maker/maker-qhedtvrqsd-Coding,基于SSM的校园二手交易平台的设计与开发+vue,https://github.com/x7yxpksk72-maker/maker-qhedtvrqsd-Coding,0,0,Java,,2026-05-05T23:13:08Z,2026-05-06,True,Long Context
+1230424758,L-wenchao/SpringBoot-pdjqxpzxis-Sharing,基于微信小程序的公交信息在线查询系统+ssm,https://github.com/L-wenchao/SpringBoot-pdjqxpzxis-Sharing,0,0,Java,,2026-05-06T01:39:32Z,2026-05-06,True,Long Context
+1230419716,sdfshddd1/JAVA-ejuqkolnaa-Code,基于微信小程序的微信小程序电影订票系统+ssm,https://github.com/sdfshddd1/JAVA-ejuqkolnaa-Code,0,0,Java,,2026-05-06T01:30:07Z,2026-05-06,True,Long Context
+1230424926,L-wenchao/SpringBoot-pdsjsgcfbx-Sharing,基于微信小程序的家庭事务管理微信小程序+ssm,https://github.com/L-wenchao/SpringBoot-pdsjsgcfbx-Sharing,0,0,Java,,2026-05-06T01:39:53Z,2026-05-06,True,Long Context
+1230418798,sdfshddd1/JAVA-awyktsjndt-Code,基于微信小程序的外籍人员管理系统小程序+ssm,https://github.com/sdfshddd1/JAVA-awyktsjndt-Code,0,0,Java,,2026-05-06T01:28:30Z,2026-05-06,True,Long Context
+1230419381,sdfshddd1/JAVA-ceokgphzwd-Code,基于微信小程序的一次性环保餐具销售系统+ssm,https://github.com/sdfshddd1/JAVA-ceokgphzwd-Code,0,0,Java,,2026-05-06T01:29:29Z,2026-05-06,True,Long Context
+1230350295,x7yxpksk72-maker/maker-luvmsrbdeq-Coding,基于SSM的校内信息服务发布系统的设计与实现,https://github.com/x7yxpksk72-maker/maker-luvmsrbdeq-Coding,0,0,Java,,2026-05-05T23:08:37Z,2026-05-06,True,Long Context
+1230352373,x7yxpksk72-maker/maker-puixiqmujf-Coding,基于SSM的常见小儿疾病中医护理系统的设计+jsp,https://github.com/x7yxpksk72-maker/maker-puixiqmujf-Coding,0,0,Java,,2026-05-05T23:12:51Z,2026-05-06,True,Long Context
+1230427761,L-wenchao/SpringBoot-znrigvlufo-Sharing,基于微信小程序的医院挂号系统设计与实现+ssm,https://github.com/L-wenchao/SpringBoot-znrigvlufo-Sharing,0,0,Java,,2026-05-06T01:45:15Z,2026-05-06,True,Long Context
+1230344873,x7yxpksk72-maker/maker-eyegkxenqn-Coding,基于SSM的机票管理系统设计与实现（带沙箱支付）,https://github.com/x7yxpksk72-maker/maker-eyegkxenqn-Coding,0,0,Java,,2026-05-05T22:57:30Z,2026-05-06,True,Long Context
+1230424143,sdfshddd1/JAVA-oranbncldr-Code,基于微信小程序的小区租拼车管理信息系统+ssm,https://github.com/sdfshddd1/JAVA-oranbncldr-Code,0,0,Java,,2026-05-06T01:38:29Z,2026-05-06,True,Long Context
+1230422716,sdfshddd1/JAVA-lnctrpeilm-Code,基于微信小程序的英语学习交流平台小程序+ssm,https://github.com/sdfshddd1/JAVA-lnctrpeilm-Code,0,0,Java,,2026-05-06T01:35:45Z,2026-05-06,True,Long Context
+1230422707,L-wenchao/SpringBoot-ihquewvblm-Sharing,基于微信小程序的二手交易网站设计与实现+ssm,https://github.com/L-wenchao/SpringBoot-ihquewvblm-Sharing,0,0,Java,,2026-05-06T01:35:44Z,2026-05-06,True,Long Context
+1230342959,x7yxpksk72-maker/maker-cfeggkidpp-Coding,基于SSM的个性化旅游攻略定制系统设计与实现,https://github.com/x7yxpksk72-maker/maker-cfeggkidpp-Coding,0,0,Java,,2026-05-05T22:53:26Z,2026-05-06,True,Long Context
+1230341878,x7yxpksk72-maker/maker-aqwylzqgka-Coding,基于SSM的一家运动鞋店的产品推广网站的设计,https://github.com/x7yxpksk72-maker/maker-aqwylzqgka-Coding,0,0,Java,,2026-05-05T22:51:14Z,2026-05-06,True,Long Context
+1230422873,sdfshddd1/JAVA-lsfnnnpbal-Code,基于微信小程序的校园外卖平台设计与实现+ssm,https://github.com/sdfshddd1/JAVA-lsfnnnpbal-Code,0,0,Java,,2026-05-06T01:36:06Z,2026-05-06,True,Long Context
+1230353985,x7yxpksk72-maker/maker-sofjewczga-Coding,基于SSM的儿童影楼拍摄管理系统的设计与实现,https://github.com/x7yxpksk72-maker/maker-sofjewczga-Coding,0,0,Java,,2026-05-05T23:16:17Z,2026-05-06,True,Long Context
+1230355755,x7yxpksk72-maker/maker-vnnulxyhps-Coding,基于SSM的中小型医院管理系统的设计与实现+jsp,https://github.com/x7yxpksk72-maker/maker-vnnulxyhps-Coding,0,0,Java,,2026-05-05T23:20:06Z,2026-05-06,True,Long Context
+1230354323,x7yxpksk72-maker/maker-stpoypwlzy-Coding,基于SSM的明水县苹果网吧计费管理系统的设计,https://github.com/x7yxpksk72-maker/maker-stpoypwlzy-Coding,0,0,Java,,2026-05-05T23:17:01Z,2026-05-06,True,Long Context
+1230419791,L-wenchao/SpringBoot-chwuzjivmo-Sharing,基于微信小程序的未知小程序的设计与实现+ssm,https://github.com/L-wenchao/SpringBoot-chwuzjivmo-Sharing,0,0,Java,,2026-05-06T01:30:16Z,2026-05-06,True,Long Context
+1230351862,x7yxpksk72-maker/maker-plctsajfft-Coding,基于SSM的城投公司企业人事管理系统设计与实现,https://github.com/x7yxpksk72-maker/maker-plctsajfft-Coding,0,0,Java,,2026-05-05T23:11:51Z,2026-05-06,True,Long Context
+1230345868,x7yxpksk72-maker/maker-gzxhflfegi-Coding,基于SSM的协同过滤技术的网上书城的开发与研究,https://github.com/x7yxpksk72-maker/maker-gzxhflfegi-Coding,0,0,Java,,2026-05-05T22:59:30Z,2026-05-06,True,Long Context
+1230420809,sdfshddd1/JAVA-gdxmcswoyf-Code,基于微信小程序的基于微信小程序的商品展示+ssm,https://github.com/sdfshddd1/JAVA-gdxmcswoyf-Code,0,0,Java,,2026-05-06T01:32:12Z,2026-05-06,True,Long Context
+1230418566,sdfshddd1/JAVA-arjzxgmuvk-Code,基于微信小程序的马拉松报名系统微信小程序+ssm,https://github.com/sdfshddd1/JAVA-arjzxgmuvk-Code,0,0,Java,,2026-05-06T01:28:09Z,2026-05-06,True,Long Context
+1230421383,sdfshddd1/JAVA-jsfryfscnm-Code,基于微信小程序的消防隐患在线举报系统开发+ssm,https://github.com/sdfshddd1/JAVA-jsfryfscnm-Code,0,0,Java,,2026-05-06T01:33:18Z,2026-05-06,True,Long Context
+1230426989,sdfshddd1/JAVA-yibqvxvydn-Code,基于微信小程序的基于微信的乐室预约小程序+ssm,https://github.com/sdfshddd1/JAVA-yibqvxvydn-Code,0,0,Java,,2026-05-06T01:43:44Z,2026-05-06,True,Long Context
+1230424893,sdfshddd1/JAVA-rdzepceviy-Code,基于微信小程序的移动学习平台的设计与实现+ssm,https://github.com/sdfshddd1/JAVA-rdzepceviy-Code,0,0,Java,,2026-05-06T01:39:50Z,2026-05-06,True,Long Context
+1230355573,x7yxpksk72-maker/maker-vfpeliqgiv-Coding,基于SSM的明嘉新材料公司仓库管理的设计和实现,https://github.com/x7yxpksk72-maker/maker-vfpeliqgiv-Coding,0,0,Java,,2026-05-05T23:19:44Z,2026-05-06,True,Long Context
+1230355900,x7yxpksk72-maker/maker-vrpcemicgy-Coding,基于SSM的物流配送人员车辆调度管理系统的设计,https://github.com/x7yxpksk72-maker/maker-vrpcemicgy-Coding,0,0,Java,,2026-05-05T23:20:24Z,2026-05-06,True,Long Context
+1230427139,sdfshddd1/JAVA-yvsewnjqxe-Code,基于微信小程序的基于微信的乐室预约小程序+ssm,https://github.com/sdfshddd1/JAVA-yvsewnjqxe-Code,0,0,Java,,2026-05-06T01:44:04Z,2026-05-06,True,Long Context
+1230344713,x7yxpksk72-maker/maker-evcbigzunb-Coding,基于SSM的企业人才管理与测评系统的设计与实现,https://github.com/x7yxpksk72-maker/maker-evcbigzunb-Coding,0,0,Java,,2026-05-05T22:57:10Z,2026-05-06,True,Long Context
+1230343525,x7yxpksk72-maker/maker-dgiwodnwxi-Coding,基于SSM的双减后初小教育课外学习生活活动平台,https://github.com/x7yxpksk72-maker/maker-dgiwodnwxi-Coding,0,0,Java,,2026-05-05T22:54:37Z,2026-05-06,True,Long Context
+1230427065,L-wenchao/SpringBoot-xklksiwznn-Sharing,基于微信小程序的外卖商城平台的微信小程序+ssm,https://github.com/L-wenchao/SpringBoot-xklksiwznn-Sharing,0,0,Java,,2026-05-06T01:43:54Z,2026-05-06,True,Long Context
+1230423411,L-wenchao/SpringBoot-kvaxcpxegs-Sharing,基于微信小程序的民大食堂用餐综合服务平台+ssm,https://github.com/L-wenchao/SpringBoot-kvaxcpxegs-Sharing,0,0,Java,,2026-05-06T01:37:06Z,2026-05-06,True,Long Context
+1230348082,x7yxpksk72-maker/maker-iznfocsswu-Coding,基于SSM的网络游戏交易平台信息管理系统的设计,https://github.com/x7yxpksk72-maker/maker-iznfocsswu-Coding,0,0,Java,,2026-05-05T23:04:02Z,2026-05-06,True,Long Context
+1230421722,sdfshddd1/JAVA-kidrncajfk-Code,基于微信小程序的基于微信小程序的网上商城+ssm,https://github.com/sdfshddd1/JAVA-kidrncajfk-Code,0,0,Java,,2026-05-06T01:33:56Z,2026-05-06,True,Long Context
+1230426258,sdfshddd1/JAVA-vveqzkirbs-Code,基于微信小程序的智慧旅游平台开发微信小程序+ssm,https://github.com/sdfshddd1/JAVA-vveqzkirbs-Code,0,0,Java,,2026-05-06T01:42:22Z,2026-05-06,True,Long Context
+1230419859,sdfshddd1/JAVA-eqofzdlnyi-Code,基于微信小程序的微信外卖小程序+ssm(没有演示视频),https://github.com/sdfshddd1/JAVA-eqofzdlnyi-Code,0,0,Java,,2026-05-06T01:30:23Z,2026-05-06,True,Long Context
+1230427476,sdfshddd1/JAVA-zsotbnnfne-Code,基于微信小程序的基于微信小程序的四六级词汇+ssm,https://github.com/sdfshddd1/JAVA-zsotbnnfne-Code,0,0,Java,,2026-05-06T01:44:43Z,2026-05-06,True,Long Context
+1230424315,sdfshddd1/JAVA-paxyjtrjzg-Code,基于微信小程序的计算机实验室排课与查询系统+ssm,https://github.com/sdfshddd1/JAVA-paxyjtrjzg-Code,0,0,Java,,2026-05-06T01:38:49Z,2026-05-06,True,Long Context
+1230419235,sdfshddd1/JAVA-bqfasrkdrq-Code,基于微信小程序的培训机构客户管理系统的设计+ssm,https://github.com/sdfshddd1/JAVA-bqfasrkdrq-Code,0,0,Java,,2026-05-06T01:29:13Z,2026-05-06,True,Long Context
+1230422543,sdfshddd1/JAVA-laiptftyyj-Code,基于微信小程序的互助学习小程序的设计与实现+ssm,https://github.com/sdfshddd1/JAVA-laiptftyyj-Code,0,0,Java,,2026-05-06T01:35:27Z,2026-05-06,True,Long Context
+1230204149,GarimaSharma29-coder/Sale-Data-Analysis-PowerBI,Sales Data analysis project using Power BI and SQL | Kaggle Dataset | Data Cleaning | Data Visualisation | Power Query | Model | DAX | SQL Data Analysis | SSMS,https://github.com/GarimaSharma29-coder/Sale-Data-Analysis-PowerBI,0,0,,,2026-05-05T19:24:24Z,2026-05-06,True,Long Context
+1230420144,L-wenchao/SpringBoot-daafimgbtr-Sharing,基于微信小程序的家庭财务管理系统的设计与实现+ssm,https://github.com/L-wenchao/SpringBoot-daafimgbtr-Sharing,0,0,Java,,2026-05-06T01:30:55Z,2026-05-06,True,Long Context
+1230421194,L-wenchao/SpringBoot-eospcbfkiy-Sharing,基于微信小程序的基于微信小程序的小区疫情防控ssm,https://github.com/L-wenchao/SpringBoot-eospcbfkiy-Sharing,0,0,Java,,2026-05-06T01:32:55Z,2026-05-06,True,Long Context
+1230420637,sdfshddd1/JAVA-gbnkrjxysb-Code,基于微信小程序的电子商城购物平台的设计与开发+ssm,https://github.com/sdfshddd1/JAVA-gbnkrjxysb-Code,0,0,Java,,2026-05-06T01:31:49Z,2026-05-06,True,Long Context
+1230425845,L-wenchao/SpringBoot-tmwelbzzja-Sharing,基于微信小程序的房屋租赁管理系统的设计与实现+ssm,https://github.com/L-wenchao/SpringBoot-tmwelbzzja-Sharing,0,0,Java,,2026-05-06T01:41:37Z,2026-05-06,True,Long Context
+1230421004,L-wenchao/SpringBoot-eigsqqihyu-Sharing,基于微信小程序的个人日程安排微信小程序的实现+ssm,https://github.com/L-wenchao/SpringBoot-eigsqqihyu-Sharing,0,0,Java,,2026-05-06T01:32:35Z,2026-05-06,True,Long Context
+1230421557,L-wenchao/SpringBoot-fdzcfdsyga-Sharing,基于微信小程序的健身达人微信小程序的设计与实现ssm,https://github.com/L-wenchao/SpringBoot-fdzcfdsyga-Sharing,0,0,Java,,2026-05-06T01:33:38Z,2026-05-06,True,Long Context
+1230425701,sdfshddd1/JAVA-tihkvqmgeg-Code,基于微信小程序的会议发布与预约系统的设计与开发+ssm,https://github.com/sdfshddd1/JAVA-tihkvqmgeg-Code,0,0,Java,,2026-05-06T01:41:21Z,2026-05-06,True,Long Context
+1230426074,sdfshddd1/JAVA-vffgbipbrl-Code,基于微信小程序的基于微信小程序的4S店客户管理系统+ssm,https://github.com/sdfshddd1/JAVA-vffgbipbrl-Code,0,0,Java,,2026-05-06T01:42:01Z,2026-05-06,True,Long Context
+1230423586,L-wenchao/SpringBoot-lefgvqfcku-Sharing,基于微信小程序的阳光电脑公司的维修服务微信小程序+ssm,https://github.com/L-wenchao/SpringBoot-lefgvqfcku-Sharing,0,0,Java,,2026-05-06T01:37:27Z,2026-05-06,True,Long Context
+1230420841,L-wenchao/SpringBoot-dqnnfxsngf-Sharing,基于微信小程序的个人健康数据管理系统的设计与实现+ssm,https://github.com/L-wenchao/SpringBoot-dqnnfxsngf-Sharing,0,0,Java,,2026-05-06T01:32:15Z,2026-05-06,True,Long Context
+1230422303,L-wenchao/SpringBoot-hyvsgnapky-Sharing,基于微信小程序的基于微信小程序的教学质量评价系统ssm,https://github.com/L-wenchao/SpringBoot-hyvsgnapky-Sharing,0,0,Java,,2026-05-06T01:35:02Z,2026-05-06,True,Long Context
+1230419604,L-wenchao/SpringBoot-cdtsafgxcs-Sharing,基于微信小程序的校园反诈骗微信小程序的设计与开发ssm,https://github.com/L-wenchao/SpringBoot-cdtsafgxcs-Sharing,0,0,Java,,2026-05-06T01:29:55Z,2026-05-06,True,Long Context
+1230426720,L-wenchao/SpringBoot-vvytiffjqv-Sharing,基于微信小程序的基于微信小程序的电影院订票选座系统ssm,https://github.com/L-wenchao/SpringBoot-vvytiffjqv-Sharing,0,0,Java,,2026-05-06T01:43:15Z,2026-05-06,True,Long Context
+1230422124,sdfshddd1/JAVA-kwmvehibmq-Code,基于微信小程序的校园二手平台的设计与实现+ssm(没有演示视频),https://github.com/sdfshddd1/JAVA-kwmvehibmq-Code,0,0,Java,,2026-05-06T01:34:45Z,2026-05-06,True,Long Context
+1230420450,sdfshddd1/JAVA-fyrnrfkyux-Code,基于微信小程序的校园二手交易平台的小程序+ssm(没有演示视频),https://github.com/sdfshddd1/JAVA-fyrnrfkyux-Code,0,0,Java,,2026-05-06T01:31:27Z,2026-05-06,True,Long Context
+1230421208,sdfshddd1/JAVA-ijvihvblpp-Code,基于微信小程序的基于微信的原创音乐小程序的设计与实现+ssm,https://github.com/sdfshddd1/JAVA-ijvihvblpp-Code,0,0,Java,,2026-05-06T01:32:56Z,2026-05-06,True,Long Context
+1230420654,L-wenchao/SpringBoot-dmqykyeawp-Sharing,基于微信小程序的基于H5的智慧消防微信小程序设计与开发+ssm,https://github.com/L-wenchao/SpringBoot-dmqykyeawp-Sharing,0,0,Java,,2026-05-06T01:31:51Z,2026-05-06,True,Long Context
+1230423774,L-wenchao/SpringBoot-lgpetmbkco-Sharing,基于微信小程序的校园资讯平台微信小程序+ssm（微信端有问题，暂时不卖）,https://github.com/L-wenchao/SpringBoot-lgpetmbkco-Sharing,0,0,Java,,2026-05-06T01:37:48Z,2026-05-06,True,Long Context
+1230426058,L-wenchao/SpringBoot-ukgxzfgjuj-Sharing,基于微信小程序的“返家乡”高校暑期社会实践微信小程序设计与开发ssm,https://github.com/L-wenchao/SpringBoot-ukgxzfgjuj-Sharing,0,0,Java,,2026-05-06T01:41:59Z,2026-05-06,True,Long Context
+1230427214,L-wenchao/SpringBoot-xseuuwavqi-Sharing,基于微信小程序的基于微信小程序的校园二手交易平台系统设计与开发ssm,https://github.com/L-wenchao/SpringBoot-xseuuwavqi-Sharing,0,0,Java,,2026-05-06T01:44:11Z,2026-05-06,True,Long Context
+1230420250,sdfshddd1/JAVA-fiqhjigkjf-Code,基于微信小程序的大学生闲置物品交易平台的分析与设计+ssm（微信端有问题，暂时不卖）,https://github.com/sdfshddd1/JAVA-fiqhjigkjf-Code,0,0,Java,,2026-05-06T01:31:06Z,2026-05-06,True,Long Context

@@ -1623,5 +1623,70 @@
     "url": "https://blog.google/innovation-and-ai/technology/developers-tools/event-driven-webhooks/",
     "tags": "",
     "created_at": "2026-05-05 04:57:56"
+  },
+  {
+    "id": "rss_https://openai.com/index/gpt-5-5-instant-system-card",
+    "company": "OpenAI",
+    "title": "GPT-5.5 Instant System Card",
+    "publish_date": "2026-05-05",
+    "type": "其他",
+    "open_source": "否",
+    "summary": "",
+    "details": "",
+    "url": "https://openai.com/index/gpt-5-5-instant-system-card",
+    "tags": "",
+    "created_at": "2026-05-06 05:24:00"
+  },
+  {
+    "id": "rss_https://openai.com/index/gpt-5-5-instant",
+    "company": "OpenAI",
+    "title": "GPT-5.5 Instant: smarter, clearer, and more personalized",
+    "publish_date": "2026-05-05",
+    "type": "其他",
+    "open_source": "否",
+    "summary": "GPT-5.5 Instant updates ChatGPT’s default model with smarter, more accurate answers, reduced hallucinations, and improved personalization controls.",
+    "details": "",
+    "url": "https://openai.com/index/gpt-5-5-instant",
+    "tags": "",
+    "created_at": "2026-05-06 05:24:00"
+  },
+  {
+    "id": "rss_https://openai.com/index/new-ways-to-buy-chatgpt-ads",
+    "company": "OpenAI",
+    "title": "New ways to buy ChatGPT ads",
+    "publish_date": "2026-05-05",
+    "type": "其他",
+    "open_source": "否",
+    "summary": "OpenAI expands ChatGPT ads with a beta self-serve Ads Manager, CPC bidding, and enhanced measurement tools—built to protect privacy and keep conversations separate from ads.",
+    "details": "",
+    "url": "https://openai.com/index/new-ways-to-buy-chatgpt-ads",
+    "tags": "",
+    "created_at": "2026-05-06 05:24:00"
+  },
+  {
+    "id": "rss_https://simonwillison.net/2026/May/5/datasette-referrer-policy/#atom-everything",
+    "company": "Simon Willison",
+    "title": "datasette-referrer-policy 0.1",
+    "publish_date": "2026-05-05",
+    "type": "其他",
+    "open_source": "否",
+    "summary": "<p><strong>Release:</strong> <a href=\"https://github.com/datasette/datasette-referrer-policy/releases/tag/0.1\">datasette-referrer-policy 0.1</a></p>\n        <p>The OpenStreetMap tiles on the Datasette",
+    "details": "",
+    "url": "https://simonwillison.net/2026/May/5/datasette-referrer-policy/#atom-everything",
+    "tags": "",
+    "created_at": "2026-05-06 05:24:03"
+  },
+  {
+    "id": "rss_https://simonwillison.net/2026/May/5/datasette-llm/#atom-everything",
+    "company": "Simon Willison",
+    "title": "datasette-llm 0.1a7",
+    "publish_date": "2026-05-05",
+    "type": "其他",
+    "open_source": "否",
+    "summary": "<p><strong>Release:</strong> <a href=\"https://github.com/datasette/datasette-llm/releases/tag/0.1a7\">datasette-llm 0.1a7</a></p>\n        <blockquote>\n<ul>\n<li>Mechanism for <a href=\"https://github.com",
+    "details": "",
+    "url": "https://simonwillison.net/2026/May/5/datasette-llm/#atom-everything",
+    "tags": "",
+    "created_at": "2026-05-06 05:24:03"
   }
 ]
