@@ -1688,5 +1688,57 @@
     "url": "https://simonwillison.net/2026/May/5/datasette-llm/#atom-everything",
     "tags": "",
     "created_at": "2026-05-06 05:24:03"
+  },
+  {
+    "id": "rss_https://openai.com/index/introducing-chatgpt-futures-class-of-2026",
+    "company": "OpenAI",
+    "title": "Introducing ChatGPT Futures: Class of 2026",
+    "publish_date": "2026-05-06",
+    "type": "其他",
+    "open_source": "否",
+    "summary": "Meet the ChatGPT Futures Class of 2026—26 student innovators using AI to build, research, and drive real-world impact. Discover how this generation is redefining learning, creativity, and opportunity ",
+    "details": "",
+    "url": "https://openai.com/index/introducing-chatgpt-futures-class-of-2026",
+    "tags": "",
+    "created_at": "2026-05-07 05:27:02"
+  },
+  {
+    "id": "rss_https://openai.com/index/singular-bank",
+    "company": "OpenAI",
+    "title": "Singular Bank helps bankers move fast with ChatGPT and Codex",
+    "publish_date": "2026-05-06",
+    "type": "其他",
+    "open_source": "否",
+    "summary": "Singular Bank built Singularity, an internal assistant using ChatGPT and Codex to help bankers save 60–90 minutes daily on meeting prep, portfolio analysis, and follow-up.",
+    "details": "",
+    "url": "https://openai.com/index/singular-bank",
+    "tags": "",
+    "created_at": "2026-05-07 05:27:02"
+  },
+  {
+    "id": "rss_https://simonwillison.net/2026/May/6/code-w-claude-2026/#atom-everything",
+    "company": "Simon Willison",
+    "title": "Live blog: Code w/ Claude 2026",
+    "publish_date": "2026-05-06",
+    "type": "其他",
+    "open_source": "否",
+    "summary": "<p>I'm at Anthropic's Code w/ Claude event today. Here's my live blog of the morning keynote sessions.</p>\n    \n        <p>Tags: <a href=\"https://simonwillison.net/tags/ai\">ai</a>, <a href=\"https://si",
+    "details": "",
+    "url": "https://simonwillison.net/2026/May/6/code-w-claude-2026/#atom-everything",
+    "tags": "",
+    "created_at": "2026-05-07 05:27:06"
+  },
+  {
+    "id": "rss_https://simonwillison.net/2026/May/6/vibe-coding-and-agentic-engineering/#atom-everything",
+    "company": "Simon Willison",
+    "title": "Vibe coding and agentic engineering are getting closer than I'd like",
+    "publish_date": "2026-05-06",
+    "type": "其他",
+    "open_source": "否",
+    "summary": "<p>I recently talked with Joseph Ruscio about AI coding tools for Heavybit's High Leverage podcast: <a href=\"https://www.heavybit.com/library/podcasts/high-leverage/ep-9-the-ai-coding-paradigm-shift-w",
+    "details": "",
+    "url": "https://simonwillison.net/2026/May/6/vibe-coding-and-agentic-engineering/#atom-everything",
+    "tags": "",
+    "created_at": "2026-05-07 05:27:06"
   }
 ]
