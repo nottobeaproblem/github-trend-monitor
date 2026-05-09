@@ -1844,5 +1844,57 @@
     "url": "https://simonwillison.net/2026/May/7/firefox-claude-mythos/#atom-everything",
     "tags": "",
     "created_at": "2026-05-08 04:52:03"
+  },
+  {
+    "id": "rss_https://openai.com/index/how-chatgpt-protects-privacy",
+    "company": "OpenAI",
+    "title": "How ChatGPT learns about the world while protecting privacy",
+    "publish_date": "2026-05-06",
+    "type": "其他",
+    "open_source": "否",
+    "summary": "Learn how ChatGPT safeguards your privacy, reduces personal data in training, and gives you control over whether your conversations improve AI models.",
+    "details": "",
+    "url": "https://openai.com/index/how-chatgpt-protects-privacy",
+    "tags": "",
+    "created_at": "2026-05-09 05:04:26"
+  },
+  {
+    "id": "rss_https://huggingface.co/blog/lablab-ai-amd-developer-hackathon/cybersecqwen-4b",
+    "company": "Hugging Face",
+    "title": "CyberSecQwen-4B: Why Defensive Cyber Needs Small, Specialized, Locally-Runnable Models",
+    "publish_date": "2026-05-08",
+    "type": "其他",
+    "open_source": "否",
+    "summary": "",
+    "details": "",
+    "url": "https://huggingface.co/blog/lablab-ai-amd-developer-hackathon/cybersecqwen-4b",
+    "tags": "",
+    "created_at": "2026-05-09 05:04:27"
+  },
+  {
+    "id": "rss_https://www.microsoft.com/en-us/research/?p=1170857",
+    "company": "Microsoft Research",
+    "title": "Building realistic electric transmission grid dataset at scale: a pipeline from open dataset",
+    "publish_date": "2026-05-08",
+    "type": "其他",
+    "open_source": "否",
+    "summary": "<p>Microsoft Research is excited to release an open dataset of approximate transmission topology of the U.S. power grid derived from publicly available data. The ability to study transmission-level po",
+    "details": "",
+    "url": "https://www.microsoft.com/en-us/research/blog/building-realistic-electric-transmission-grid-dataset-at-scale-a-pipeline-from-open-dataset/",
+    "tags": "",
+    "created_at": "2026-05-09 05:04:29"
+  },
+  {
+    "id": "rss_https://simonwillison.net/2026/May/8/unreasonable-effectiveness-of-html/#atom-everything",
+    "company": "Simon Willison",
+    "title": "Using Claude Code: The Unreasonable Effectiveness of HTML",
+    "publish_date": "2026-05-08",
+    "type": "其他",
+    "open_source": "否",
+    "summary": "<p><strong><a href=\"https://twitter.com/trq212/status/2052809885763747935\">Using Claude Code: The Unreasonable Effectiveness of HTML</a></strong></p>\nThought-provoking piece by Thariq Shihipar (on the",
+    "details": "",
+    "url": "https://simonwillison.net/2026/May/8/unreasonable-effectiveness-of-html/#atom-everything",
+    "tags": "",
+    "created_at": "2026-05-09 05:04:30"
   }
 ]
