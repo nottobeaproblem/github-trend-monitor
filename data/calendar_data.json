@@ -1896,5 +1896,18 @@
     "url": "https://simonwillison.net/2026/May/8/unreasonable-effectiveness-of-html/#atom-everything",
     "tags": "",
     "created_at": "2026-05-09 05:04:30"
+  },
+  {
+    "id": "rss_https://huggingface.co/blog/lablab-ai-amd-developer-hackathon/oncoagent-official-paper",
+    "company": "Hugging Face",
+    "title": "\"OncoAgent: A Dual-Tier Multi-Agent Framework for Privacy-Preserving Oncology Clinical Decision Support\"",
+    "publish_date": "2026-05-09",
+    "type": "其他",
+    "open_source": "否",
+    "summary": "",
+    "details": "",
+    "url": "https://huggingface.co/blog/lablab-ai-amd-developer-hackathon/oncoagent-official-paper",
+    "tags": "",
+    "created_at": "2026-05-10 05:32:57"
   }
 ]
