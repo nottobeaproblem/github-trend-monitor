@@ -1909,5 +1909,18 @@
     "url": "https://huggingface.co/blog/lablab-ai-amd-developer-hackathon/oncoagent-official-paper",
     "tags": "",
     "created_at": "2026-05-10 05:32:57"
+  },
+  {
+    "id": "rss_https://huggingface.co/blog/lablab-ai-amd-developer-hackathon/machinacheck",
+    "company": "Hugging Face",
+    "title": "MachinaCheck: Building a Multi-Agent CNC Manufacturability System on AMD MI300X",
+    "publish_date": "2026-05-10",
+    "type": "其他",
+    "open_source": "否",
+    "summary": "",
+    "details": "",
+    "url": "https://huggingface.co/blog/lablab-ai-amd-developer-hackathon/machinacheck",
+    "tags": "",
+    "created_at": "2026-05-11 05:54:17"
   }
 ]
