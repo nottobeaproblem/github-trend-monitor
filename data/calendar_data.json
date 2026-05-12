@@ -1922,5 +1922,57 @@
     "url": "https://huggingface.co/blog/lablab-ai-amd-developer-hackathon/machinacheck",
     "tags": "",
     "created_at": "2026-05-11 05:54:17"
+  },
+  {
+    "id": "rss_https://openai.com/signals/research/2026q1-update",
+    "company": "OpenAI",
+    "title": "How ChatGPT adoption broadened in early 2026",
+    "publish_date": "2026-05-11",
+    "type": "其他",
+    "open_source": "否",
+    "summary": "ChatGPT adoption surged in Q1 2026, with fastest growth among users over 35 and more balanced gender usage, signaling broader mainstream AI adoption.",
+    "details": "",
+    "url": "https://openai.com/signals/research/2026q1-update",
+    "tags": "",
+    "created_at": "2026-05-12 05:35:03"
+  },
+  {
+    "id": "rss_https://openai.com/index/openai-launches-the-deployment-company",
+    "company": "OpenAI",
+    "title": "OpenAI launches DeployCo to help businesses build around intelligence",
+    "publish_date": "2026-05-11",
+    "type": "其他",
+    "open_source": "否",
+    "summary": "OpenAI launches DeployCo, a new enterprise deployment company built to help organizations bring frontier AI into production and turn it into measurable business impact.",
+    "details": "",
+    "url": "https://openai.com/index/openai-launches-the-deployment-company",
+    "tags": "",
+    "created_at": "2026-05-12 05:35:03"
+  },
+  {
+    "id": "rss_https://huggingface.co/blog/amazon/foundation-model-building-blocks",
+    "company": "Hugging Face",
+    "title": "Building Blocks for Foundation Model Training and Inference on AWS",
+    "publish_date": "2026-05-11",
+    "type": "其他",
+    "open_source": "否",
+    "summary": "",
+    "details": "",
+    "url": "https://huggingface.co/blog/amazon/foundation-model-building-blocks",
+    "tags": "",
+    "created_at": "2026-05-12 05:35:05"
+  },
+  {
+    "id": "rss_",
+    "company": "Microsoft Research",
+    "title": "SocialReasoning-Bench: Measuring whether AI agents act in users’ best interests",
+    "publish_date": "2026-05-11",
+    "type": "其他",
+    "open_source": "否",
+    "summary": "<p>Using SocialReasoning Bench, we observed a stable pattern across models—agents execute competently, but fail to consistently improve the user’s position, even with explicit instructions to optimize",
+    "details": "",
+    "url": "https://www.microsoft.com/en-us/research/blog/socialreasoning-bench-measuring-whether-ai-agents-act-in-users-best-interests/",
+    "tags": "",
+    "created_at": "2026-05-12 05:35:06"
   }
 ]
