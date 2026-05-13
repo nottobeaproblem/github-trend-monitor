@@ -1974,5 +1974,57 @@
     "url": "https://www.microsoft.com/en-us/research/blog/socialreasoning-bench-measuring-whether-ai-agents-act-in-users-best-interests/",
     "tags": "",
     "created_at": "2026-05-12 05:35:06"
+  },
+  {
+    "id": "rss_https://openai.com/index/nvidia",
+    "company": "OpenAI",
+    "title": "How NVIDIA engineers and researchers build with Codex",
+    "publish_date": "2026-05-12",
+    "type": "其他",
+    "open_source": "否",
+    "summary": "Teams use Codex with GPT-5.5 to ship production systems and turn research ideas into runnable experiments.",
+    "details": "",
+    "url": "https://openai.com/index/nvidia",
+    "tags": "",
+    "created_at": "2026-05-13 05:44:36"
+  },
+  {
+    "id": "rss_https://openai.com/index/what-parameter-golf-taught-us",
+    "company": "OpenAI",
+    "title": "What Parameter Golf taught us about AI-assisted research",
+    "publish_date": "2026-05-12",
+    "type": "其他",
+    "open_source": "否",
+    "summary": "Parameter Golf brought together 1,000+ participants and 2,000+ submissions to explore AI-assisted machine learning research, coding agents, quantization, and novel model design under strict constraint",
+    "details": "",
+    "url": "https://openai.com/index/what-parameter-golf-taught-us",
+    "tags": "",
+    "created_at": "2026-05-13 05:44:36"
+  },
+  {
+    "id": "rss_https://www.microsoft.com/en-us/research/?p=1171172",
+    "company": "Microsoft Research",
+    "title": "Advancing AI for materials with MatterSim: experimental synthesis, faster simulation, and multi-task models",
+    "publish_date": "2026-05-12",
+    "type": "其他",
+    "open_source": "否",
+    "summary": "<p>MatterSim is expanding what AI can do for materials science—from faster large-scale simulations to MatterSim-MT, a new multi-task model for simulating properties beyond potential energy surfaces al",
+    "details": "",
+    "url": "https://www.microsoft.com/en-us/research/blog/advancing-ai-for-materials-with-mattersim-experimental-synthesis-faster-simulation-and-multi-task-models/",
+    "tags": "",
+    "created_at": "2026-05-13 05:44:39"
+  },
+  {
+    "id": "rss_https://simonwillison.net/2026/May/12/datasette/#atom-everything",
+    "company": "Simon Willison",
+    "title": "datasette 1.0a29",
+    "publish_date": "2026-05-12",
+    "type": "其他",
+    "open_source": "否",
+    "summary": "<p><strong>Release:</strong> <a href=\"https://github.com/simonw/datasette/releases/tag/1.0a29\">datasette 1.0a29</a></p>\n        <blockquote>\n<ul>\n<li>New <code>TokenRestrictions.abbreviated(datasette)",
+    "details": "",
+    "url": "https://simonwillison.net/2026/May/12/datasette/#atom-everything",
+    "tags": "",
+    "created_at": "2026-05-13 05:44:39"
   }
 ]
