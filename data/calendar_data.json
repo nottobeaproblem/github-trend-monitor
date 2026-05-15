@@ -2052,5 +2052,44 @@
     "url": "https://simonwillison.net/2026/May/13/welcome-to-the-datasette-blog/#atom-everything",
     "tags": "",
     "created_at": "2026-05-14 05:43:56"
+  },
+  {
+    "id": "rss_https://openai.com/index/sea-david-chen",
+    "company": "OpenAI",
+    "title": "Sea's View on the Future of Agentic Software Development with Codex",
+    "publish_date": "2026-05-14",
+    "type": "其他",
+    "open_source": "否",
+    "summary": "Sea Limited's CPO explains why the company is deploying Codex across engineering teams to accelerate AI-native software development in Asia.",
+    "details": "",
+    "url": "https://openai.com/index/sea-david-chen",
+    "tags": "",
+    "created_at": "2026-05-15 05:50:08"
+  },
+  {
+    "id": "rss_https://openai.com/index/chatgpt-recognize-context-in-sensitive-conversations",
+    "company": "OpenAI",
+    "title": "Helping ChatGPT better recognize context in sensitive conversations",
+    "publish_date": "2026-05-14",
+    "type": "其他",
+    "open_source": "否",
+    "summary": "Learn how new ChatGPT safety updates improve context awareness in sensitive conversations, helping detect risk over time and respond more safely.",
+    "details": "",
+    "url": "https://openai.com/index/chatgpt-recognize-context-in-sensitive-conversations",
+    "tags": "",
+    "created_at": "2026-05-15 05:50:08"
+  },
+  {
+    "id": "rss_https://simonwillison.net/2026/May/14/datasette-ip-rate-limit/#atom-everything",
+    "company": "Simon Willison",
+    "title": "datasette-ip-rate-limit 0.1a0",
+    "publish_date": "2026-05-14",
+    "type": "其他",
+    "open_source": "否",
+    "summary": "<p><strong>Release:</strong> <a href=\"https://github.com/datasette/datasette-ip-rate-limit/releases/tag/0.1a0\">datasette-ip-rate-limit 0.1a0</a></p>\n        <p>The <a href=\"https://datasette.io/\">data",
+    "details": "",
+    "url": "https://simonwillison.net/2026/May/14/datasette-ip-rate-limit/#atom-everything",
+    "tags": "",
+    "created_at": "2026-05-15 05:50:11"
   }
 ]

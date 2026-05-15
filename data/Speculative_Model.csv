@@ -2794,3 +2794,53 @@ id,name,description,url,stars,forks,language,topics,created_at,first_seen,is_act
 1237406908,SrideviPrakash0528/6_weeks_social_eagle_AI,Its a 6v week AI Course,https://github.com/SrideviPrakash0528/6_weeks_social_eagle_AI,0,0,,,2026-05-13T06:44:52Z,2026-05-14,False,Speculative Model
 1237908517,TomatoCapcicum/Legal-Eagle-InLegalBERT-,,https://github.com/TomatoCapcicum/Legal-Eagle-InLegalBERT-,0,0,Python,,2026-05-13T16:13:59Z,2026-05-14,False,Speculative Model
 1237438382,GovindeZone/GenAI-ArchiTech,"This repository is Learning, experiment about Course on Gen AI Archi Tech with Social Eagle Community",https://github.com/GovindeZone/GenAI-ArchiTech,0,0,,,2026-05-13T07:24:16Z,2026-05-14,False,Speculative Model
+1239043341,poojithdevan4D/qwen-speculative-decoding,,https://github.com/poojithdevan4D/qwen-speculative-decoding,0,0,Python,,2026-05-14T17:49:56Z,2026-05-15,True,Speculative Model
+1239322971,anchitagarwal/speculative-decoding-benchmark,Benchmarking speculative decoding (Leviathan et al. 2023) vs autoregressive baseline across prompt categories,https://github.com/anchitagarwal/speculative-decoding-benchmark,0,0,Python,,2026-05-15T01:35:01Z,2026-05-15,True,Speculative Model
+1239294255,siddardhakumar2003/Speculative-Decoding-for-Hindi,,https://github.com/siddardhakumar2003/Speculative-Decoding-for-Hindi,0,0,Jupyter Notebook,,2026-05-15T00:38:44Z,2026-05-15,True,Speculative Model
+1239047864,aaravraina3/speculative-diffusion-pusht-robot-diffusion,Speculative decoding (vLLM/Medusa/EAGLE) ported to robot diffusion policies. ~2x projected inference speedup on lerobot/diffusion_pusht while hitting the 10 Hz control deadline.,https://github.com/aaravraina3/speculative-diffusion-pusht-robot-diffusion,0,0,Python,,2026-05-14T17:55:34Z,2026-05-15,True,Speculative Model
+1239428137,jkenner111/dsv4-blackwell-mtp,"MTP speculative decoding for DeepSeek V4 Flash on NVIDIA Blackwell (GB10/SM121) — CUDA port of antirez/ds4's MTP server, built on Fringe210's llama.cpp fork. Tested on DGX Spark",https://github.com/jkenner111/dsv4-blackwell-mtp,0,0,Python,,2026-05-15T04:48:23Z,2026-05-15,True,Speculative Model
+1239149531,srmenon02/nba-draft-model,,https://github.com/srmenon02/nba-draft-model,0,0,Python,,2026-05-14T20:10:50Z,2026-05-15,True,Speculative Model
+1239147575,srmenon02/suraj-nba-draft-model,,https://github.com/srmenon02/suraj-nba-draft-model,0,0,Python,,2026-05-14T20:07:55Z,2026-05-15,True,Speculative Model
+1238862423,Uttam2007110/NBA-Draft-Model-Dashboard,create a plotly dashboard for the draft model results,https://github.com/Uttam2007110/NBA-Draft-Model-Dashboard,1,0,Python,,2026-05-14T14:23:19Z,2026-05-15,True,Speculative Model
+1239287669,adel-the/medusa,,https://github.com/adel-the/medusa,0,0,,,2026-05-15T00:24:35Z,2026-05-15,True,Speculative Model
+1238733758,chenxuan89/medusaa,,https://github.com/chenxuan89/medusaa,0,0,Python,,2026-05-14T11:58:45Z,2026-05-15,True,Speculative Model
+1238770921,webmastervafgroup/kokamar-medusajs,,https://github.com/webmastervafgroup/kokamar-medusajs,0,0,TypeScript,,2026-05-14T12:43:45Z,2026-05-15,True,Speculative Model
+1238469459,mowkdev/dabasberns-medusa-storefront,,https://github.com/mowkdev/dabasberns-medusa-storefront,0,0,CSS,,2026-05-14T06:37:42Z,2026-05-15,True,Speculative Model
+1239369957,bloblems/medusa-payment-fortis,Fortis payment provider for MedusaJS 2.x,https://github.com/bloblems/medusa-payment-fortis,0,0,TypeScript,,2026-05-15T03:03:51Z,2026-05-15,True,Speculative Model
+1238724120,gmnhussain/test-medusa-quickmart,,https://github.com/gmnhussain/test-medusa-quickmart,0,0,TypeScript,,2026-05-14T11:46:38Z,2026-05-15,True,Speculative Model
+1239304514,Pnwcomputers/DNS_Hijack_Remediation,JWrapper & Weaponized ScreenConnect Remediation Tool (Medusa IAB Variant),https://github.com/Pnwcomputers/DNS_Hijack_Remediation,1,0,PowerShell,,2026-05-15T00:59:24Z,2026-05-15,True,Speculative Model
+1238613341,lakbita-khadija/LAB12SEC_Medusa,,https://github.com/lakbita-khadija/LAB12SEC_Medusa,0,0,,,2026-05-14T09:30:14Z,2026-05-15,True,Speculative Model
+1239051189,DaveUgalde/E-commerce_Medusa_study,,https://github.com/DaveUgalde/E-commerce_Medusa_study,0,0,,,2026-05-14T17:59:31Z,2026-05-15,True,Speculative Model
+1238722227,gmnhussain/test-my-medusa-store,,https://github.com/gmnhussain/test-my-medusa-store,0,0,TypeScript,,2026-05-14T11:44:15Z,2026-05-15,True,Speculative Model
+1239354310,panda12332145/Medusa-Brute-Force-Lab,"Projeto pratico para o desafio da DIO: simulacao controlada de ataques de forca bruta com Kali Linux, Medusa, Metasploitable 2 e DVWA.",https://github.com/panda12332145/Medusa-Brute-Force-Lab,0,0,Shell,,2026-05-15T02:33:12Z,2026-05-15,True,Speculative Model
+1239178047,sigurdarson/medusajs-2.0-for-railway-boilerplate,,https://github.com/sigurdarson/medusajs-2.0-for-railway-boilerplate,0,0,TypeScript,,2026-05-14T20:54:11Z,2026-05-15,True,Speculative Model
+1238613725,NadunRathuwithana/medusajs-2.0-for-railway-boilerplate,,https://github.com/NadunRathuwithana/medusajs-2.0-for-railway-boilerplate,0,0,TypeScript,,2026-05-14T09:30:45Z,2026-05-15,True,Speculative Model
+1239201349,viet-commits/ringsidesports-next,Ringside Sports headless commerce rebuild — Medusa v2 + Next.js 15 monorepo,https://github.com/viet-commits/ringsidesports-next,0,0,HTML,,2026-05-14T21:32:20Z,2026-05-15,True,Speculative Model
+1239185767,Hansi233/kesmiris-webshop,Kesmiris Webshop — Klima/Wärmepumpen Dropshipping GR→DE. Medusa 2.0 + Next.js 15.,https://github.com/Hansi233/kesmiris-webshop,0,0,TypeScript,,2026-05-14T21:06:58Z,2026-05-15,True,Speculative Model
+1239038215,pkhav/CRM-MVP,"Multiple Vertical Model for a CRM software for Medusas, boutique gyms and single personal trainers",https://github.com/pkhav/CRM-MVP,0,0,,,2026-05-14T17:43:39Z,2026-05-15,True,Speculative Model
+1238775348,Rutuvik/EagleEye,Marketing Analysis,https://github.com/Rutuvik/EagleEye,0,0,TypeScript,,2026-05-14T12:48:50Z,2026-05-15,True,Speculative Model
+1239061404,hwzhang74/EagleEye,EagleEye system,https://github.com/hwzhang74/EagleEye,0,0,Java,,2026-05-14T18:12:31Z,2026-05-15,True,Speculative Model
+1238992328,rangerjeshuawastaken1/eaglertest5555,,https://github.com/rangerjeshuawastaken1/eaglertest5555,0,0,HTML,,2026-05-14T16:48:58Z,2026-05-15,True,Speculative Model
+1238847541,Goofykings/EaglercraftZ-1.20.4,Minecraft 1.20.4 for school chromebooks!,https://github.com/Goofykings/EaglercraftZ-1.20.4,0,0,,,2026-05-14T14:07:40Z,2026-05-15,True,Speculative Model
+1238692553,poojasawant-ui/-Summits-Birthday-special-,Happy birthday to leagal eagle ,https://github.com/poojasawant-ui/-Summits-Birthday-special-,0,0,HTML,,2026-05-14T11:07:35Z,2026-05-15,True,Speculative Model
+1239236235,SpyderSammy-jpg/TopEaglerServers.com-EAGLER.HOST,,https://github.com/SpyderSammy-jpg/TopEaglerServers.com-EAGLER.HOST,0,0,,,2026-05-14T22:35:34Z,2026-05-15,True,Speculative Model
+1238713498,poojasawant-ui/-,Birthday special wishes to leagal eagle ,https://github.com/poojasawant-ui/-,0,0,,,2026-05-14T11:33:43Z,2026-05-15,True,Speculative Model
+1239195077,emanuel-eagle/eagle-ear,,https://github.com/emanuel-eagle/eagle-ear,0,0,Python,,2026-05-14T21:21:57Z,2026-05-15,True,Speculative Model
+1238421828,MingziFu9/chrono-eagle,"Cloud-based Python Training Platform with Docker isolation, VS Code Server IDE & AI Assistant",https://github.com/MingziFu9/chrono-eagle,0,0,JavaScript,,2026-05-14T05:31:17Z,2026-05-15,True,Speculative Model
+1238480284,tengxiong02-lgtm/Eagle-Study,,https://github.com/tengxiong02-lgtm/Eagle-Study,0,0,JavaScript,,2026-05-14T06:49:51Z,2026-05-15,True,Speculative Model
+1238874827,Priyadharsini987/eagle-entertainment,,https://github.com/Priyadharsini987/eagle-entertainment,0,0,JavaScript,,2026-05-14T14:36:21Z,2026-05-15,True,Speculative Model
+1238990317,Amadalis2430/eaglefit-site,,https://github.com/Amadalis2430/eaglefit-site,0,0,,,2026-05-14T16:46:32Z,2026-05-15,True,Speculative Model
+1238696572,Webito2851/eaglercraft-client,jbhbi,https://github.com/Webito2851/eaglercraft-client,0,0,,,2026-05-14T11:12:36Z,2026-05-15,True,Speculative Model
+1238705262,poojasawant-ui/Its-Summits-Birthday-,Happiest Birthday to the leagal eagle. 💖,https://github.com/poojasawant-ui/Its-Summits-Birthday-,0,0,,,2026-05-14T11:23:21Z,2026-05-15,True,Speculative Model
+1238497773,iraklisp98/eagle_mail_agent,,https://github.com/iraklisp98/eagle_mail_agent,0,0,Python,,2026-05-14T07:09:19Z,2026-05-15,True,Speculative Model
+1238600951,hellorichard15-png/eaglerctaft.github.io,,https://github.com/hellorichard15-png/eaglerctaft.github.io,0,0,,,2026-05-14T09:15:39Z,2026-05-15,True,Speculative Model
+1238720958,AceCoder0/eagle_testdata_gen,,https://github.com/AceCoder0/eagle_testdata_gen,0,0,Python,,2026-05-14T11:42:42Z,2026-05-15,True,Speculative Model
+1239434854,12liurunze/eagle-point-eval,,https://github.com/12liurunze/eagle-point-eval,0,0,,,2026-05-15T05:00:30Z,2026-05-15,True,Speculative Model
+1239219740,EGHO-LUCKY/eagle-mfb-client,,https://github.com/EGHO-LUCKY/eagle-mfb-client,0,0,,,2026-05-14T22:04:46Z,2026-05-15,True,Speculative Model
+1238607816,meowmi0122/Eaglercraft-Offline-Game,,https://github.com/meowmi0122/Eaglercraft-Offline-Game,0,0,HTML,,2026-05-14T09:23:52Z,2026-05-15,True,Speculative Model
+1239172261,BredLeGoober/Eaglercraft-Modding-Tool,"I spent months on this, please star this repo.",https://github.com/BredLeGoober/Eaglercraft-Modding-Tool,0,0,HTML,,2026-05-14T20:45:15Z,2026-05-15,True,Speculative Model
+1239288862,elizabethpnw139-creator/silver-eagle-price-page,Static GitHub Pages site for silver eagle price page,https://github.com/elizabethpnw139-creator/silver-eagle-price-page,0,0,HTML,,2026-05-15T00:27:24Z,2026-05-15,True,Speculative Model
+1238971949,Emefa21/Eagle-Academy-School-website,This is the beginning of creating a school website with seamless features.,https://github.com/Emefa21/Eagle-Academy-School-website,0,0,HTML,,2026-05-14T16:24:46Z,2026-05-15,True,Speculative Model
+1238455600,crystalwebster1/Silver-Eagles-as-Gifts-Why-They-Work-for-Every-Occasion-and-Every-Budget,Silver Eagles as Gifts: Why They Work for Every Occasion and Every Budget,https://github.com/crystalwebster1/Silver-Eagles-as-Gifts-Why-They-Work-for-Every-Occasion-and-Every-Budget,0,0,,,2026-05-14T06:19:21Z,2026-05-15,True,Speculative Model
+1238901483,johnnyimm/E-Claw,专为 Eagle 开发的智能素材整理插件,https://github.com/johnnyimm/E-Claw,0,0,,,2026-05-14T15:04:47Z,2026-05-15,True,Speculative Model
+1239226622,julesat22/ECFF,"Inaugural marketing site for the Eagle Cap Film Festival — Joseph, Oregon, November 5–7, 2026. Astro 5 + React 18 + Tailwind v4.",https://github.com/julesat22/ECFF,0,0,Astro,,2026-05-14T22:17:17Z,2026-05-15,True,Speculative Model
