@@ -2091,5 +2091,57 @@
     "url": "https://simonwillison.net/2026/May/14/datasette-ip-rate-limit/#atom-everything",
     "tags": "",
     "created_at": "2026-05-15 05:50:11"
+  },
+  {
+    "id": "rss_https://openai.com/index/personal-finance-chatgpt",
+    "company": "OpenAI",
+    "title": "A new personal finance experience in ChatGPT",
+    "publish_date": "2026-05-15",
+    "type": "其他",
+    "open_source": "否",
+    "summary": "Preview a new personal finance experience in ChatGPT for Pro users in the U.S. Securely connect your financial accounts and get AI-powered insights and guidance grounded in your financial context, goa",
+    "details": "",
+    "url": "https://openai.com/index/personal-finance-chatgpt",
+    "tags": "",
+    "created_at": "2026-05-16 05:23:44"
+  },
+  {
+    "id": "rss_https://openai.com/index/databricks",
+    "company": "OpenAI",
+    "title": "Databricks brings GPT-5.5 to enterprise agent workflows",
+    "publish_date": "2026-05-15",
+    "type": "其他",
+    "open_source": "否",
+    "summary": "Databricks uses GPT-5.5 for enterprise agent workflows after the model set a new state of the art on the OfficeQA Pro benchmark.",
+    "details": "",
+    "url": "https://openai.com/index/databricks",
+    "tags": "",
+    "created_at": "2026-05-16 05:23:44"
+  },
+  {
+    "id": "rss_https://www.microsoft.com/en-us/research/?p=1172154",
+    "company": "Microsoft Research",
+    "title": "Further Notes on Our Recent Research on AI Delegation and Long-Horizon Reliability",
+    "publish_date": "2026-05-15",
+    "type": "其他",
+    "open_source": "否",
+    "summary": "<p>Our recent paper, “LLMs Corrupt Your Documents When You Delegate”, has generated discussion about the reliability of AI systems in delegated workflows. We appreciate the interest in this work and w",
+    "details": "",
+    "url": "https://www.microsoft.com/en-us/research/blog/further-notes-on-our-recent-research-on-ai-delegation-and-long-horizon-reliability/",
+    "tags": "",
+    "created_at": "2026-05-16 05:23:48"
+  },
+  {
+    "id": "rss_https://simonwillison.net/2026/May/15/datasette-llm-limits/#atom-everything",
+    "company": "Simon Willison",
+    "title": "datasette-llm-limits 0.1a0",
+    "publish_date": "2026-05-15",
+    "type": "其他",
+    "open_source": "否",
+    "summary": "<p><strong>Release:</strong> <a href=\"https://github.com/datasette/datasette-llm-limits/releases/tag/0.1a0\">datasette-llm-limits 0.1a0</a></p>\n        <p>This plugin works in conjunction with <a href=",
+    "details": "",
+    "url": "https://simonwillison.net/2026/May/15/datasette-llm-limits/#atom-everything",
+    "tags": "",
+    "created_at": "2026-05-16 05:23:48"
   }
 ]
