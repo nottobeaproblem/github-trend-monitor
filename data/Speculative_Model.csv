@@ -2889,3 +2889,38 @@ id,name,description,url,stars,forks,language,topics,created_at,first_seen,is_act
 1239844997,yushimatenjin/eagle-chroma-key-,,https://github.com/yushimatenjin/eagle-chroma-key-,0,0,,,2026-05-15T13:56:44Z,2026-05-16,False,Speculative Model
 1240199852,theeagler1234/eagler-velocity-template,my velocity and limbo server running on Code anywhere.com (its a freeVPS0,https://github.com/theeagler1234/eagler-velocity-template,0,0,HTML,"eaglercraft,minecraft,minecraft-server,minecraft-server-plugin,nanolimbo,server,velocity",2026-05-15T21:47:25Z,2026-05-16,False,Speculative Model
 1239870583,codeByAjju/CloudEagleTask,,https://github.com/codeByAjju/CloudEagleTask,0,0,TypeScript,,2026-05-15T14:26:23Z,2026-05-16,False,Speculative Model
+1240506018,Karmeston/speculative_decoding_repro,A simple experiment to reproduce speculative decoding on consumer-grade hardware.,https://github.com/Karmeston/speculative_decoding_repro,0,0,Python,,2026-05-16T08:02:16Z,2026-05-17,True,Speculative Model
+1241181852,evanly-gh/Speculative-Decoding-per-Hardware,,https://github.com/evanly-gh/Speculative-Decoding-per-Hardware,0,0,,,2026-05-17T03:57:55Z,2026-05-17,True,Speculative Model
+1240913722,NandoRoG/Specscript_a_DSL_for_Batch_Speculative_Decoding,,https://github.com/NandoRoG/Specscript_a_DSL_for_Batch_Speculative_Decoding,0,0,Jupyter Notebook,,2026-05-16T18:18:44Z,2026-05-17,True,Speculative Model
+1240465113,lucasacchiricciardi/llama-dflash-rocm,"Run DFlash speculative decoding (llama.cpp PR #22105) on AMD Radeon RX 7900 XTX via ROCm. 2.62x speedup measured on Qwen3-8B Q4_K_M, 93.75% draft acceptance.",https://github.com/lucasacchiricciardi/llama-dflash-rocm,0,0,Shell,,2026-05-16T06:53:27Z,2026-05-17,True,Speculative Model
+1240537421,ZZYOSCAR/Draft_model,,https://github.com/ZZYOSCAR/Draft_model,0,0,Python,,2026-05-16T08:53:12Z,2026-05-17,True,Speculative Model
+1241115779,joaogorila/medusa-storefront,Medusa Next.js Storefront,https://github.com/joaogorila/medusa-storefront,0,0,TypeScript,,2026-05-17T01:19:34Z,2026-05-17,True,Speculative Model
+1240767777,Waleed636/Medusa-KELVS,,https://github.com/Waleed636/Medusa-KELVS,0,0,,,2026-05-16T14:45:42Z,2026-05-17,True,Speculative Model
+1240437728,boxprobe/scout-medusa,"Reproducible scout demo against real Medusa. Two pinned versions, 15 admin scenarios, one HTML diff report.",https://github.com/boxprobe/scout-medusa,0,0,Python,,2026-05-16T06:06:23Z,2026-05-17,True,Speculative Model
+1240817598,pdechario/instrumented-medusa,Opensource repository Medusa enhanced with OTel metrics.,https://github.com/pdechario/instrumented-medusa,0,0,,,2026-05-16T15:55:05Z,2026-05-17,True,Speculative Model
+1240511921,wdabek85/zahakowani-medusa,,https://github.com/wdabek85/zahakowani-medusa,0,0,TypeScript,,2026-05-16T08:12:18Z,2026-05-17,True,Speculative Model
+1240733097,VincentFrias/medusa-cli,,https://github.com/VincentFrias/medusa-cli,0,0,Python,,2026-05-16T13:56:26Z,2026-05-17,True,Speculative Model
+1240356561,mabobj/yuxian-paper-art,A custom Next.js + Medusa commerce platform for Yuxian paper-cut heritage art cross-border ecommerce.,https://github.com/mabobj/yuxian-paper-art,0,0,TypeScript,,2026-05-16T03:35:55Z,2026-05-17,True,Speculative Model
+1240551544,Ke1nny/Eagles,Eagles academy,https://github.com/Ke1nny/Eagles,0,0,HTML,,2026-05-16T09:16:20Z,2026-05-17,True,Speculative Model
+1240651456,MildredGaddafi/Agent_Miller,The Eagles Nest!,https://github.com/MildredGaddafi/Agent_Miller,0,0,,,2026-05-16T11:54:22Z,2026-05-17,True,Speculative Model
+1240804219,hasiebyousuf/EagleEye,Automated business startup,https://github.com/hasiebyousuf/EagleEye,0,0,,,2026-05-16T15:36:24Z,2026-05-17,True,Speculative Model
+1240880642,womilola5-arch/Eagle-,,https://github.com/womilola5-arch/Eagle-,0,0,HTML,,2026-05-16T17:27:11Z,2026-05-17,True,Speculative Model
+1241058512,shalominattii-us/EagleShieldUnity,,https://github.com/shalominattii-us/EagleShieldUnity,0,0,,,2026-05-16T22:58:04Z,2026-05-17,True,Speculative Model
+1241024216,EaglerLauncher/EaglerLauncher.github.io,A minecraft-themed launcher for eaglercraft,https://github.com/EaglerLauncher/EaglerLauncher.github.io,0,0,,,2026-05-16T21:40:31Z,2026-05-17,True,Speculative Model
+1240532448,mucunsazhen959-png/Eagler,,https://github.com/mucunsazhen959-png/Eagler,0,0,,,2026-05-16T08:45:21Z,2026-05-17,True,Speculative Model
+1240749412,eagletn00-crypto/eagle-server,,https://github.com/eagletn00-crypto/eagle-server,0,0,TypeScript,,2026-05-16T14:20:17Z,2026-05-17,True,Speculative Model
+1241013468,sriharimsbi79-cpu/Eaglestocks_checker,,https://github.com/sriharimsbi79-cpu/Eaglestocks_checker,0,0,HTML,,2026-05-16T21:18:01Z,2026-05-17,True,Speculative Model
+1240529514,guillee-sg/eagler-guilleee,,https://github.com/guillee-sg/eagler-guilleee,0,0,Dockerfile,,2026-05-16T08:40:55Z,2026-05-17,True,Speculative Model
+1240772945,KennyAzodo/eagles-ai,,https://github.com/KennyAzodo/eagles-ai,0,0,HTML,,2026-05-16T14:52:50Z,2026-05-17,True,Speculative Model
+1240686944,eaglecapital2025/eagle-capital-form,https://www.facebook.com/eaglecapital2025,https://github.com/eaglecapital2025/eagle-capital-form,0,0,Python,,2026-05-16T12:49:05Z,2026-05-17,True,Speculative Model
+1241106804,diego123456780/TopEaglerServers,BEST EAGLERCRAFT HOSTING WEBSITES FOR FREE,https://github.com/diego123456780/TopEaglerServers,0,0,,,2026-05-17T00:57:08Z,2026-05-17,True,Speculative Model
+1240566429,yujianting666/eagle-sfx-analyzer,🎵 Eagle音效分析助手 - AI驱动的音效自动分类与标签生成工具,https://github.com/yujianting666/eagle-sfx-analyzer,1,0,,,2026-05-16T09:40:31Z,2026-05-17,True,Speculative Model
+1240984149,jimmortel/eagle-golden-chest,,https://github.com/jimmortel/eagle-golden-chest,0,0,HTML,,2026-05-16T20:21:09Z,2026-05-17,True,Speculative Model
+1240752921,lemonnnnp/eagle-quant-master,,https://github.com/lemonnnnp/eagle-quant-master,0,0,Python,,2026-05-16T14:25:17Z,2026-05-17,True,Speculative Model
+1241036392,wisdomikechukwuchibuikefx-png/lion-and-eagles.whixz,,https://github.com/wisdomikechukwuchibuikefx-png/lion-and-eagles.whixz,0,0,HTML,,2026-05-16T22:06:41Z,2026-05-17,True,Speculative Model
+1240876878,zynq-platform/eaglercraft-hrn-client-1-8-8,,https://github.com/zynq-platform/eaglercraft-hrn-client-1-8-8,0,0,JavaScript,,2026-05-16T17:21:25Z,2026-05-17,True,Speculative Model
+1241100573,michellethompson-design/curbside-copilot,Semi-automated Giant Eagle Curbside Express assistant built on Claude Cowork mode.,https://github.com/michellethompson-design/curbside-copilot,0,0,,,2026-05-17T00:41:05Z,2026-05-17,True,Speculative Model
+1240482593,thedealerprd/thedealer,"The mascot is a robotic eagle and dragon fighting over a glowing microchip. A Sleek Prediction Market Web App. You spin up a clean, high contrast landing page where users connect their wallets to bet on the actual fallout of the meeting. Markets could include micro bets. It turns global diplomacy into a degen betting slip.",https://github.com/thedealerprd/thedealer,0,0,JavaScript,,2026-05-16T07:23:09Z,2026-05-17,True,Speculative Model
+1241188548,tiger-amit/LLM-FAST-INFERENCE,,https://github.com/tiger-amit/LLM-FAST-INFERENCE,0,0,,,2026-05-17T04:12:34Z,2026-05-17,True,Speculative Model
+1241076287,Athithya-Sakthivel/fastembed-inference-helm,,https://github.com/Athithya-Sakthivel/fastembed-inference-helm,0,0,Python,,2026-05-16T23:41:32Z,2026-05-17,True,Speculative Model
+1240642828,AVC2-UESTC/T-Cache,T-Cache: Fast inference for Masked Generative Transformer-based TTS via prompt-aware feature caching.,https://github.com/AVC2-UESTC/T-Cache,1,0,Python,,2026-05-16T11:40:58Z,2026-05-17,True,Speculative Model

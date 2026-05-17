@@ -2143,5 +2143,18 @@
     "url": "https://simonwillison.net/2026/May/15/datasette-llm-limits/#atom-everything",
     "tags": "",
     "created_at": "2026-05-16 05:23:48"
+  },
+  {
+    "id": "rss_https://openai.com/index/malta-chatgpt-plus-partnership",
+    "company": "OpenAI",
+    "title": "OpenAI and Malta partner to bring ChatGPT Plus to all citizens",
+    "publish_date": "2026-05-16",
+    "type": "其他",
+    "open_source": "否",
+    "summary": "OpenAI and Malta partner to expand AI access, offering ChatGPT Plus and training to help citizens build practical AI skills and use AI responsibly.",
+    "details": "",
+    "url": "https://openai.com/index/malta-chatgpt-plus-partnership",
+    "tags": "",
+    "created_at": "2026-05-17 05:44:17"
   }
 ]
