@@ -2924,3 +2924,47 @@ id,name,description,url,stars,forks,language,topics,created_at,first_seen,is_act
 1241188548,tiger-amit/LLM-FAST-INFERENCE,,https://github.com/tiger-amit/LLM-FAST-INFERENCE,0,0,,,2026-05-17T04:12:34Z,2026-05-17,False,Speculative Model
 1241076287,Athithya-Sakthivel/fastembed-inference-helm,,https://github.com/Athithya-Sakthivel/fastembed-inference-helm,0,0,Python,,2026-05-16T23:41:32Z,2026-05-17,False,Speculative Model
 1240642828,AVC2-UESTC/T-Cache,T-Cache: Fast inference for Masked Generative Transformer-based TTS via prompt-aware feature caching.,https://github.com/AVC2-UESTC/T-Cache,1,0,Python,,2026-05-16T11:40:58Z,2026-05-17,False,Speculative Model
+1241750341,alicankiraz1/Gemma-4-31B-MTP-vLLM-Server,A production-minded FastAPI sidecar for serving Gemma 4 31B on vLLM with Gemma 4 Multi-Token Prediction (MTP) speculative decoding.,https://github.com/alicankiraz1/Gemma-4-31B-MTP-vLLM-Server,11,1,Python,,2026-05-17T19:13:50Z,2026-05-18,True,Speculative Model
+1241828528,sustainabilities/lp-affective-diffusion,Multiple Futures MTP Engine (Apple Speculative Decoding),https://github.com/sustainabilities/lp-affective-diffusion,0,0,Rust,,2026-05-17T21:35:43Z,2026-05-18,True,Speculative Model
+1241948326,shaunliew/qwen3vl-speculative-decoding-dgx-spark,,https://github.com/shaunliew/qwen3vl-speculative-decoding-dgx-spark,0,0,Python,,2026-05-18T01:54:23Z,2026-05-18,True,Speculative Model
+1242045254,SeanDolan/MedusaV2Pi,Pi driven version of the Medusa puzzle in Pirate's Cove at Escape Academy Cairns,https://github.com/SeanDolan/MedusaV2Pi,0,0,Python,,2026-05-18T04:44:40Z,2026-05-18,True,Speculative Model
+1241306712,rufatazizzade/Medusa,,https://github.com/rufatazizzade/Medusa,0,0,JavaScript,,2026-05-17T08:03:39Z,2026-05-18,True,Speculative Model
+1241500292,Red-X1/medusa-payment-paykeeper,Paykeeper payment provider for Medusa v2,https://github.com/Red-X1/medusa-payment-paykeeper,0,0,TypeScript,,2026-05-17T13:20:19Z,2026-05-18,True,Speculative Model
+1242073557,poojaj09/Medusa-C2-Framework,This is modular medusa C2 Framework,https://github.com/poojaj09/Medusa-C2-Framework,0,0,HTML,,2026-05-18T05:31:09Z,2026-05-18,True,Speculative Model
+1241290716,anshulbansal02/medusa-store,,https://github.com/anshulbansal02/medusa-store,0,0,JavaScript,,2026-05-17T07:34:39Z,2026-05-18,True,Speculative Model
+1241636900,edgemarketplace/Edge-Medusa,,https://github.com/edgemarketplace/Edge-Medusa,0,0,TypeScript,,2026-05-17T16:26:35Z,2026-05-18,True,Speculative Model
+1241832611,jayjay353/medusa-messenger,Encrypted Messenger Frontend,https://github.com/jayjay353/medusa-messenger,0,0,HTML,,2026-05-17T21:43:48Z,2026-05-18,True,Speculative Model
+1241383253,C0MP453D/Ai-medusa,,https://github.com/C0MP453D/Ai-medusa,0,0,HTML,,2026-05-17T10:17:04Z,2026-05-18,True,Speculative Model
+1241448400,saswat555/shreem-medusa-backend,,https://github.com/saswat555/shreem-medusa-backend,0,0,TypeScript,,2026-05-17T12:03:01Z,2026-05-18,True,Speculative Model
+1242095601,have-her/haveher-medusa-backend,,https://github.com/have-her/haveher-medusa-backend,0,0,TypeScript,,2026-05-18T06:03:15Z,2026-05-18,True,Speculative Model
+1242096645,have-her/haveher-medusa-frontend,,https://github.com/have-her/haveher-medusa-frontend,0,0,TypeScript,,2026-05-18T06:04:45Z,2026-05-18,True,Speculative Model
+1241569864,HimanM/medusa-tattoo-studio,Tattoo Studio Medusa - A premium gothic tattoo studio landing page. Vibe coded with Google Gemini.,https://github.com/HimanM/medusa-tattoo-studio,0,0,TypeScript,"gemini,nextjs,tailwindcss,typescript,vibe-coded",2026-05-17T14:56:32Z,2026-05-18,True,Speculative Model
+1242061122,rmonroymtz/my-medusa-store,,https://github.com/rmonroymtz/my-medusa-store,0,0,TypeScript,,2026-05-18T05:11:32Z,2026-05-18,True,Speculative Model
+1241763199,Oumaymaa659/LAB-12-Bypass-de-la-D-tection-de-Root-Android-avec-Medusa,,https://github.com/Oumaymaa659/LAB-12-Bypass-de-la-D-tection-de-Root-Android-avec-Medusa,0,0,,,2026-05-17T19:34:52Z,2026-05-18,True,Speculative Model
+1241383421,BadrDr03/LAB-12-Bypass-de-la-D-tection-de-Root-Android-avec-Medusa,,https://github.com/BadrDr03/LAB-12-Bypass-de-la-D-tection-de-Root-Android-avec-Medusa,0,0,,,2026-05-17T10:17:22Z,2026-05-18,True,Speculative Model
+1241966478,liam8282828-creator/eagle,,https://github.com/liam8282828-creator/eagle,0,0,,,2026-05-18T02:28:06Z,2026-05-18,True,Speculative Model
+1241774156,JamesCFu/eagle,,https://github.com/JamesCFu/eagle,0,0,HTML,,2026-05-17T19:53:09Z,2026-05-18,True,Speculative Model
+1241799451,DominumNetwork/EaglercraftZ,All assets and stuffs belong to the EaglercraftZ Devs. Go visit them :D https://dsc.gg/eaglercraftz,https://github.com/DominumNetwork/EaglercraftZ,0,0,HTML,,2026-05-17T20:39:10Z,2026-05-18,True,Speculative Model
+1241757628,eagledev200/EagleDev,,https://github.com/eagledev200/EagleDev,0,0,,,2026-05-17T19:25:47Z,2026-05-18,True,Speculative Model
+1242013504,matthieuhuguet/EagleAnthropicFont,Inject Anthropic Sans/Serif/Mono into Eagle (image manager) with a live toggle plugin. Documents all 8 iterations needed to bypass Eagle's tamper defenses.,https://github.com/matthieuhuguet/EagleAnthropicFont,0,0,JavaScript,,2026-05-18T03:50:51Z,2026-05-18,True,Speculative Model
+1241346476,eaglexcompany-a11y/eaglexai,,https://github.com/eaglexcompany-a11y/eaglexai,0,0,,,2026-05-17T09:14:06Z,2026-05-18,True,Speculative Model
+1241910178,userredbirbhah2/eaglercrafthtml,,https://github.com/userredbirbhah2/eaglercrafthtml,0,0,HTML,,2026-05-18T00:42:27Z,2026-05-18,True,Speculative Model
+1241371565,fromelicks/eaglemode,"A zoomable user interface (ZUI) with file manager, file viewers, games, and more.",https://github.com/fromelicks/eaglemode,0,0,C++,,2026-05-17T09:57:06Z,2026-05-18,True,Speculative Model
+1241261528,Drak332/Eaglercraft,,https://github.com/Drak332/Eaglercraft,0,0,HTML,,2026-05-17T06:48:25Z,2026-05-18,True,Speculative Model
+1241380666,Khanh-tech-pi/game-eaglercraft,a distro minecraft,https://github.com/Khanh-tech-pi/game-eaglercraft,0,0,HTML,,2026-05-17T10:12:38Z,2026-05-18,True,Speculative Model
+1241521643,leon31342/eagleye-website,,https://github.com/leon31342/eagleye-website,0,0,TypeScript,,2026-05-17T13:50:30Z,2026-05-18,True,Speculative Model
+1241340702,eaglexcompany-a11y/Eaglex-ai,,https://github.com/eaglexcompany-a11y/Eaglex-ai,0,0,,,2026-05-17T09:03:59Z,2026-05-18,True,Speculative Model
+1241878912,marklou1982-afk/Eagle-Eye,,https://github.com/marklou1982-afk/Eagle-Eye,0,0,,,2026-05-17T23:29:52Z,2026-05-18,True,Speculative Model
+1241477513,Matganu77/BLUE-EAGLE,,https://github.com/Matganu77/BLUE-EAGLE,0,0,,,2026-05-17T12:47:42Z,2026-05-18,True,Speculative Model
+1241284975,Linoy-Sahar/eagle-pathfinder,,https://github.com/Linoy-Sahar/eagle-pathfinder,0,0,C,,2026-05-17T07:25:50Z,2026-05-18,True,Speculative Model
+1241384967,apvlv/eagle-runware,,https://github.com/apvlv/eagle-runware,0,0,TypeScript,,2026-05-17T10:19:59Z,2026-05-18,True,Speculative Model
+1241600177,Rbienvenue/Eagle-courier,,https://github.com/Rbienvenue/Eagle-courier,0,0,TypeScript,,2026-05-17T15:36:42Z,2026-05-18,True,Speculative Model
+1241562731,hussainkhanop/awesome-eagle-852,Deploy your app to Render,https://github.com/hussainkhanop/awesome-eagle-852,0,0,Dockerfile,,2026-05-17T14:47:00Z,2026-05-18,True,Speculative Model
+1241599463,saqlainsenior21-creator/eagle-dash-backend,,https://github.com/saqlainsenior21-creator/eagle-dash-backend,0,0,JavaScript,,2026-05-17T15:35:46Z,2026-05-18,True,Speculative Model
+1241593875,idiotgpt314/eaglercraft-launcher-improved,,https://github.com/idiotgpt314/eaglercraft-launcher-improved,0,0,HTML,,2026-05-17T15:28:16Z,2026-05-18,True,Speculative Model
+1241579529,ruchikagoel115/eagle-bank-poc,A spring boot REST API for a fictional banking system,https://github.com/ruchikagoel115/eagle-bank-poc,0,0,Java,,2026-05-17T15:09:24Z,2026-05-18,True,Speculative Model
+1241710687,saqlainsenior21-creator/eagle-dash-game,,https://github.com/saqlainsenior21-creator/eagle-dash-game,0,0,TypeScript,,2026-05-17T18:11:31Z,2026-05-18,True,Speculative Model
+1241239270,bimalc/eagle-trail-estate,"Luxury vacation rental website for 1414 Eagle Trail, Copperas Cove TX",https://github.com/bimalc/eagle-trail-estate,0,0,TypeScript,,2026-05-17T06:05:41Z,2026-05-18,True,Speculative Model
+1241093836,eagletn00-crypto/the-eagle-tn-app,,https://github.com/eagletn00-crypto/the-eagle-tn-app,0,0,TypeScript,,2026-05-17T00:25:14Z,2026-05-18,True,Speculative Model
+1241461394,tarwaniamit-source/CloudEagle-Integration-Builder,CloudEagle AI Integration Builder Prototype,https://github.com/tarwaniamit-source/CloudEagle-Integration-Builder,0,0,HTML,,2026-05-17T12:23:11Z,2026-05-18,True,Speculative Model
+1241337848,PatrickSowinski/Open3dRenderDemo,An example of processing the Eagle demo data from Open3d and rendering it,https://github.com/PatrickSowinski/Open3dRenderDemo,0,0,,,2026-05-17T08:59:04Z,2026-05-18,True,Speculative Model
