@@ -2968,3 +2968,58 @@ id,name,description,url,stars,forks,language,topics,created_at,first_seen,is_act
 1241093836,eagletn00-crypto/the-eagle-tn-app,,https://github.com/eagletn00-crypto/the-eagle-tn-app,0,0,TypeScript,,2026-05-17T00:25:14Z,2026-05-18,False,Speculative Model
 1241461394,tarwaniamit-source/CloudEagle-Integration-Builder,CloudEagle AI Integration Builder Prototype,https://github.com/tarwaniamit-source/CloudEagle-Integration-Builder,0,0,HTML,,2026-05-17T12:23:11Z,2026-05-18,False,Speculative Model
 1241337848,PatrickSowinski/Open3dRenderDemo,An example of processing the Eagle demo data from Open3d and rendering it,https://github.com/PatrickSowinski/Open3dRenderDemo,0,0,,,2026-05-17T08:59:04Z,2026-05-18,False,Speculative Model
+1242482973,abhizz11/Speculative-Decoding,Running experiments on Speculative Decoding,https://github.com/abhizz11/Speculative-Decoding,0,0,Python,,2026-05-18T13:18:16Z,2026-05-19,True,Speculative Model
+1243059314,myers-dev/spark-speculative-decoding,,https://github.com/myers-dev/spark-speculative-decoding,0,0,Shell,,2026-05-19T02:33:53Z,2026-05-19,True,Speculative Model
+1242162537,venkatakesavvenna/tiny-infer,"Minimal LLM inference engine in CUDA/C++ — Flash Attention, paged KV cache, speculative decoding, INT8 quantization. Built from scratch.",https://github.com/venkatakesavvenna/tiny-infer,0,0,,,2026-05-18T07:21:04Z,2026-05-19,True,Speculative Model
+1243062038,RayhanAfifi/DraftModelTA,,https://github.com/RayhanAfifi/DraftModelTA,0,0,Jupyter Notebook,,2026-05-19T02:38:15Z,2026-05-19,True,Speculative Model
+1242215376,rob0pup/medusa-pos-app,Cross-platform Point of Sale desktop app built on Medusa and Tauri 2,https://github.com/rob0pup/medusa-pos-app,3,0,TypeScript,,2026-05-18T08:19:11Z,2026-05-19,True,Speculative Model
+1242225606,benson0715/AMD_MEDUSA_APP,AMD_MEDUSA_APP code,https://github.com/benson0715/AMD_MEDUSA_APP,0,0,C,,2026-05-18T08:30:12Z,2026-05-19,True,Speculative Model
+1242288269,AmirSabourii/medusa,,https://github.com/AmirSabourii/medusa,0,0,TypeScript,,2026-05-18T09:39:59Z,2026-05-19,True,Speculative Model
+1242913701,rouviour-german/medusa-spa,Building blocks for digital commerce.,https://github.com/rouviour-german/medusa-spa,0,0,TypeScript,,2026-05-18T21:58:43Z,2026-05-19,True,Speculative Model
+1243147836,OneQuy/medusajs-test,,https://github.com/OneQuy/medusajs-test,0,0,TypeScript,,2026-05-19T05:01:25Z,2026-05-19,True,Speculative Model
+1242515942,aiueodevs/yoorasarah-medusa,,https://github.com/aiueodevs/yoorasarah-medusa,0,0,TypeScript,,2026-05-18T13:51:35Z,2026-05-19,True,Speculative Model
+1242208654,benson0715/AMD_MEDUSA_KERNEL,AMD_MEDUSA_KERNEL with 3.7.1,https://github.com/benson0715/AMD_MEDUSA_KERNEL,0,0,C,,2026-05-18T08:11:15Z,2026-05-19,True,Speculative Model
+1242725935,saulorfsantos/bunker81-medusa,,https://github.com/saulorfsantos/bunker81-medusa,0,0,TypeScript,,2026-05-18T17:38:17Z,2026-05-19,True,Speculative Model
+1242240491,adii1619/my-medusa-store,,https://github.com/adii1619/my-medusa-store,0,0,TypeScript,,2026-05-18T08:46:46Z,2026-05-19,True,Speculative Model
+1242898060,Mounir-mk/medusa-cj-importer,,https://github.com/Mounir-mk/medusa-cj-importer,0,0,TypeScript,,2026-05-18T21:31:14Z,2026-05-19,True,Speculative Model
+1242197715,have-her/haveher-medusa-backend,,https://github.com/have-her/haveher-medusa-backend,0,0,TypeScript,,2026-05-18T07:58:43Z,2026-05-19,True,Speculative Model
+1242198197,have-her/haveher-medusa-frontend,,https://github.com/have-her/haveher-medusa-frontend,0,0,TypeScript,,2026-05-18T07:59:16Z,2026-05-19,True,Speculative Model
+1242448872,l999os1k/medusa-plugin-smart-collection,,https://github.com/l999os1k/medusa-plugin-smart-collection,0,0,TypeScript,,2026-05-18T12:43:12Z,2026-05-19,True,Speculative Model
+1242298873,Qlerify/ecommerce-demo,"Medusa Cart bounded context demo, generated from a Qlerify domain model (Fastify + Drizzle + PGlite + React)",https://github.com/Qlerify/ecommerce-demo,0,0,TypeScript,,2026-05-18T09:51:59Z,2026-05-19,True,Speculative Model
+1242349269,maepans/maykayclothing,"E-commerce storefront for MayKay Clothing - built with Medusa.js 2.0, Next.js 15 & Tailwind CSS. Self-hosted on Railway + Vercel. Developed by Digital Ramp Pty Ltd.",https://github.com/maepans/maykayclothing,0,0,TypeScript,,2026-05-18T10:50:29Z,2026-05-19,True,Speculative Model
+1242732496,frunken123/EagleLauncher,A simple multiuse minecraft launcher,https://github.com/frunken123/EagleLauncher,0,0,,,2026-05-18T17:46:11Z,2026-05-19,True,Speculative Model
+1243096952,HiddenProto/EaglecraftXmk2,,https://github.com/HiddenProto/EaglecraftXmk2,0,0,HTML,,2026-05-19T03:36:03Z,2026-05-19,True,Speculative Model
+1242540700,bigueiraa/Scripts-EagleTech,Ferramenta de manutenção .bat para executar em PowerShell com 10 funcionalidades básicas.,https://github.com/bigueiraa/Scripts-EagleTech,0,0,PowerShell,,2026-05-18T14:16:23Z,2026-05-19,True,Speculative Model
+1242523666,JRP2011/EaglerCraftAlpha,,https://github.com/JRP2011/EaglerCraftAlpha,0,0,,,2026-05-18T13:59:14Z,2026-05-19,True,Speculative Model
+1242960348,matthieuhuguet/EagleMarkdownViewer,"Minimal Eagle plugin for .md preview — vanilla JS, no build step, AnthropicFont compatible",https://github.com/matthieuhuguet/EagleMarkdownViewer,0,0,HTML,"eagle,eagle-plugin,electron,macos,markdown,markdown-viewer,no-build,vanilla-js",2026-05-18T23:30:17Z,2026-05-19,True,Speculative Model
+1243044585,machinelearning444352-crypto/Eaglercraft1.21.1,,https://github.com/machinelearning444352-crypto/Eaglercraft1.21.1,0,0,,,2026-05-19T02:09:32Z,2026-05-19,True,Speculative Model
+1242315182,safianali/eaglebank,,https://github.com/safianali/eaglebank,0,0,Go,,2026-05-18T10:10:33Z,2026-05-19,True,Speculative Model
+1242854924,Persomn2/eaglercraft,,https://github.com/Persomn2/eaglercraft,0,0,,,2026-05-18T20:24:20Z,2026-05-19,True,Speculative Model
+1242873216,kenny80i46-debug/eaglercrafthtml,,https://github.com/kenny80i46-debug/eaglercrafthtml,0,0,HTML,,2026-05-18T20:50:59Z,2026-05-19,True,Speculative Model
+1242937513,puffin-code/detect_eagles,CV to detect eagles on buildings,https://github.com/puffin-code/detect_eagles,0,0,Python,,2026-05-18T22:43:47Z,2026-05-19,True,Speculative Model
+1243100547,pwenchious/eaglecraft,,https://github.com/pwenchious/eaglecraft,0,0,HTML,,2026-05-19T03:42:05Z,2026-05-19,True,Speculative Model
+1242349654,DrabornEagle/DrabornEagle,,https://github.com/DrabornEagle/DrabornEagle,0,0,,,2026-05-18T10:50:58Z,2026-05-19,True,Speculative Model
+1242598373,lax1duds/eaglercraftx-server,,https://github.com/lax1duds/eaglercraftx-server,0,0,HTML,,2026-05-18T15:15:31Z,2026-05-19,True,Speculative Model
+1242669612,lohannb683-alt/Eagle-Monitor,Eagle Monitor is a monitor for your web security and analyze your webflow for detect if a suspicious program lunch in background !,https://github.com/lohannb683-alt/Eagle-Monitor,0,0,,,2026-05-18T16:32:52Z,2026-05-19,True,Speculative Model
+1242492387,SoapyScripter/Space-Eagle,,https://github.com/SoapyScripter/Space-Eagle,0,0,C#,,2026-05-18T13:27:42Z,2026-05-19,True,Speculative Model
+1242241531,Ibsuhaib/Detailing-Eagles,,https://github.com/Ibsuhaib/Detailing-Eagles,0,0,HTML,,2026-05-18T08:47:59Z,2026-05-19,True,Speculative Model
+1242607591,lax1duds/eaglercraftx-play,Play EaglercraftX in your browser,https://github.com/lax1duds/eaglercraftx-play,0,0,HTML,,2026-05-18T15:25:18Z,2026-05-19,True,Speculative Model
+1242313482,Derrick-189/eagle-pharmacy,,https://github.com/Derrick-189/eagle-pharmacy,0,0,HTML,,2026-05-18T10:08:31Z,2026-05-19,True,Speculative Model
+1242685932,jennifermartinez-cmyk/eagle-county-fair-openclass,Eagle County Fair Open Class Registration Form,https://github.com/jennifermartinez-cmyk/eagle-county-fair-openclass,0,0,HTML,,2026-05-18T16:51:32Z,2026-05-19,True,Speculative Model
+1243104569,Mango-Muncher/eagler-server,,https://github.com/Mango-Muncher/eagler-server,0,0,HTML,,2026-05-19T03:48:49Z,2026-05-19,True,Speculative Model
+1243015930,aaban5860-commits/Eaglercraft-11,In the name,https://github.com/aaban5860-commits/Eaglercraft-11,0,0,,,2026-05-19T01:18:11Z,2026-05-19,True,Speculative Model
+1242957476,URIELFMO/pothole_eagle,Potholes in GDL,https://github.com/URIELFMO/pothole_eagle,1,0,Python,,2026-05-18T23:23:58Z,2026-05-19,True,Speculative Model
+1242399567,The-Peregrine-Fund/Philippine-Eagle-Monitoring,Using hierarchical hexagonal cells and preferential sampling to monitor a Critically Endangered species,https://github.com/The-Peregrine-Fund/Philippine-Eagle-Monitoring,0,0,R,,2026-05-18T11:48:36Z,2026-05-19,True,Speculative Model
+1242878721,ajeagle991/eagle-secure-app,,https://github.com/ajeagle991/eagle-secure-app,0,0,HTML,,2026-05-18T20:59:36Z,2026-05-19,True,Speculative Model
+1243181305,leejtxivmuajyeej/eagle-boutique-site,,https://github.com/leejtxivmuajyeej/eagle-boutique-site,0,0,JavaScript,,2026-05-19T05:52:34Z,2026-05-19,True,Speculative Model
+1242664563,webKrafters/vue-eagleeye.js,,https://github.com/webKrafters/vue-eagleeye.js,0,0,,,2026-05-18T16:27:15Z,2026-05-19,True,Speculative Model
+1242198869,weiliao001211/eagle-eye-vue,,https://github.com/weiliao001211/eagle-eye-vue,0,0,,,2026-05-18T08:00:08Z,2026-05-19,True,Speculative Model
+1242567752,jcryan10001/eagle-bank-api,,https://github.com/jcryan10001/eagle-bank-api,0,0,C#,,2026-05-18T14:43:37Z,2026-05-19,True,Speculative Model
+1242989046,Founditmarketing/eagle-ridge-subdivision,,https://github.com/Founditmarketing/eagle-ridge-subdivision,0,0,PHP,,2026-05-19T00:29:03Z,2026-05-19,True,Speculative Model
+1242723990,shahin6362/PhaseCurvNetX-EAGLE,,https://github.com/shahin6362/PhaseCurvNetX-EAGLE,0,0,Jupyter Notebook,,2026-05-18T17:36:02Z,2026-05-19,True,Speculative Model
+1242150836,ajiaxi666/image-to-prompt-eagle-saver,,https://github.com/ajiaxi666/image-to-prompt-eagle-saver,0,0,JavaScript,,2026-05-18T07:09:04Z,2026-05-19,True,Speculative Model
+1243001266,freegamestore-online/tanks,"Battle City tanks: defend the eagle, destroy 8 enemy tanks. Bricks crumble, steel doesn't.",https://github.com/freegamestore-online/tanks,0,0,TypeScript,,2026-05-19T00:51:54Z,2026-05-19,True,Speculative Model
+1242822901,aeriox/jveagle-site,Pitch site for JV Eagle Roofing & Waterproofing — Next.js demo with client-facing theme/layout/typography/logo customizer,https://github.com/aeriox/jveagle-site,0,0,TypeScript,,2026-05-18T19:40:55Z,2026-05-19,True,Speculative Model
+1243145434,nimeshpagi/Local_Qwen_Chatbot,"A powerful, fully local Qwen chatbot that runs offline on your machine. Fast inference, beautiful UI, and complete privacy.",https://github.com/nimeshpagi/Local_Qwen_Chatbot,0,0,,,2026-05-19T04:57:43Z,2026-05-19,True,Speculative Model
+1242223063,btw-saanvi/Jinxed-network-assignment,"GenStudio is a full-stack, responsive web application for creating stunning AI-generated imagery. It leverages fal.ai for lightning-fast inference on Flux models and Supabase for persistent, real-time generation tracking, featuring an integrated image editor and robust iteration tools.",https://github.com/btw-saanvi/Jinxed-network-assignment,0,0,TypeScript,,2026-05-18T08:27:23Z,2026-05-19,True,Speculative Model
+1242453700,Methura/.Eco-Sentry-AI--Real-Time-Road-Safety-Wildlife-Detection-System, Developed a real-time animal detection system using Java 17 and OpenCV for road safety. Integrated YOLOv8 via Deep Java Library and ONNX Runtime for fast inference. Built a modular video pipeline detecting collision risks with sub-second latency. Designed a Java Swing dashboard with live alerts and threat indicators,https://github.com/Methura/.Eco-Sentry-AI--Real-Time-Road-Safety-Wildlife-Detection-System,0,0,,,2026-05-18T12:48:16Z,2026-05-19,True,Speculative Model

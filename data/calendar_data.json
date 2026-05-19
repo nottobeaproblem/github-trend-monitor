@@ -2169,5 +2169,18 @@
     "url": "https://simonwillison.net/2026/May/17/gds-weighs-in/#atom-everything",
     "tags": "",
     "created_at": "2026-05-18 06:07:21"
+  },
+  {
+    "id": "rss_https://huggingface.co/blog/ibm-research/open-agent-leaderboard",
+    "company": "Hugging Face",
+    "title": "The Open Agent Leaderboard",
+    "publish_date": "2026-05-18",
+    "type": "其他",
+    "open_source": "否",
+    "summary": "",
+    "details": "",
+    "url": "https://huggingface.co/blog/ibm-research/open-agent-leaderboard",
+    "tags": "",
+    "created_at": "2026-05-19 06:02:03"
   }
 ]
