@@ -3066,51 +3066,51 @@ id,name,description,url,stars,forks,language,topics,created_at,first_seen,is_act
 1243821128,electricalhog/20v-buck-converter,Eagle PCB design for a 20V buck converter (v1–v6),https://github.com/electricalhog/20v-buck-converter,0,0,,,2026-05-19T17:41:00Z,2026-05-20,False,Speculative Model
 1244019700,CrochetCrafting/Eagler-Server-1.8-maybe-it-might-not-work-its-a-test,Attempt for making a private server,https://github.com/CrochetCrafting/Eagler-Server-1.8-maybe-it-might-not-work-its-a-test,0,0,,,2026-05-19T22:22:07Z,2026-05-20,False,Speculative Model
 1243191050,sukeshd007/Zentrix-AI,"Zentrix AI combines speed, intelligence, and futuristic design into one powerful AI platform. Featuring Zentrix ultra-fast inference, multi-model support, secure Firebase authentication, and a premium chat experience.",https://github.com/sukeshd007/Zentrix-AI,0,0,,,2026-05-19T06:06:45Z,2026-05-20,False,Speculative Model
-1244400396,1WanSicheng/fixed-mpfr-speculative-decoding,Optimized fixed MPFR implementation and profiler for speculative decoding,https://github.com/1WanSicheng/fixed-mpfr-speculative-decoding,0,0,Python,"llm-inference,mpfr,profiling,pytorch,speculative-decoding,watermarking",2026-05-20T08:25:28Z,2026-05-21,True,Speculative Model
-1244298646,maanas1234/Speculative-Decoding,,https://github.com/maanas1234/Speculative-Decoding,0,0,,,2026-05-20T06:24:10Z,2026-05-21,True,Speculative Model
-1244813429,arapora/chronokairo-labs,"Experimental research for AI on legacy hardware (FlashAttention, Speculative Decoding).",https://github.com/arapora/chronokairo-labs,0,0,,,2026-05-20T16:12:19Z,2026-05-21,True,Speculative Model
-1245271946,bchap1n/beellama_launcher,PowerShell launch scripts for beellama.cpp - Qwen3.6-27B with DFlash/MTP speculative decoding,https://github.com/bchap1n/beellama_launcher,0,0,,,2026-05-21T04:26:45Z,2026-05-21,True,Speculative Model
-1245260186,KennethJefferson/ccg_app_python_EagleSpecDecode,EAGLE-2 speculative decoder: Triton tree-attention verify + 1-layer draft head for TinyLlama 1.1B int4 on Turing sm_75,https://github.com/KennethJefferson/ccg_app_python_EagleSpecDecode,0,0,Python,,2026-05-21T04:04:37Z,2026-05-21,True,Speculative Model
-1245068824,sangelgt/Medusa,medusa,https://github.com/sangelgt/Medusa,0,0,HTML,,2026-05-20T22:02:21Z,2026-05-21,True,Speculative Model
-1244653130,MedusaLYY/MedusaLYY,,https://github.com/MedusaLYY/MedusaLYY,0,0,,,2026-05-20T13:18:49Z,2026-05-21,True,Speculative Model
-1245251411,HareemHaider217/Medusa,,https://github.com/HareemHaider217/Medusa,0,0,,,2026-05-21T03:48:54Z,2026-05-21,True,Speculative Model
-1244615201,gisioraelvis/medusajs-containerized-starter,Medusa JS Containerized DTC starter.,https://github.com/gisioraelvis/medusajs-containerized-starter,0,0,TypeScript,"docker,medusajs",2026-05-20T12:37:28Z,2026-05-21,True,Speculative Model
-1244616376,benson0715/AMD_MEDUSA_CODE,AMD_MEDUSA_CODE (APP+KERNEL),https://github.com/benson0715/AMD_MEDUSA_CODE,0,0,,,2026-05-20T12:38:45Z,2026-05-21,True,Speculative Model
-1244778420,sparktone/medusapictures,,https://github.com/sparktone/medusapictures,0,0,,,2026-05-20T15:32:28Z,2026-05-21,True,Speculative Model
-1244831710,YassineSalihi/medusa-we-avoid,medusa is a frida like tool,https://github.com/YassineSalihi/medusa-we-avoid,0,0,,,2026-05-20T16:33:59Z,2026-05-21,True,Speculative Model
-1245077166,saulorfsantos/bunker81-medusa-backend,Backend Medusa do projeto Bunker 81,https://github.com/saulorfsantos/bunker81-medusa-backend,0,0,TypeScript,,2026-05-20T22:18:17Z,2026-05-21,True,Speculative Model
-1245205285,TheLazyAI/MEDUSA_app,,https://github.com/TheLazyAI/MEDUSA_app,0,0,,,2026-05-21T02:29:29Z,2026-05-21,True,Speculative Model
-1245048724,ndakoda/medusa-bar-grill,,https://github.com/ndakoda/medusa-bar-grill,0,0,JavaScript,,2026-05-20T21:25:57Z,2026-05-21,True,Speculative Model
-1245192021,diegowalhernandes/kali-medusa-lab,,https://github.com/diegowalhernandes/kali-medusa-lab,0,0,,,2026-05-21T02:06:34Z,2026-05-21,True,Speculative Model
-1244502025,NathalyLopes/kali_linux_medusa,,https://github.com/NathalyLopes/kali_linux_medusa,0,0,,,2026-05-20T10:22:54Z,2026-05-21,True,Speculative Model
-1245075974,M4l1k40/LAB-12-Bypass-de-la-D-tection-de-Root-Android-avec-Medusa,,https://github.com/M4l1k40/LAB-12-Bypass-de-la-D-tection-de-Root-Android-avec-Medusa,0,0,JavaScript,,2026-05-20T22:16:12Z,2026-05-21,True,Speculative Model
-1245279451,Eagle7M/Eagle,Graphic Design and Marketing,https://github.com/Eagle7M/Eagle,0,0,HTML,,2026-05-21T04:39:41Z,2026-05-21,True,Speculative Model
-1244394315,msaadarshad98/eagle-bank-api,Eagle Bank Api,https://github.com/msaadarshad98/eagle-bank-api,0,0,JavaScript,,2026-05-20T08:17:55Z,2026-05-21,True,Speculative Model
-1245119375,vegashassan/eagleeyenews,eagle eye news,https://github.com/vegashassan/eagleeyenews,0,0,,,2026-05-20T23:44:26Z,2026-05-21,True,Speculative Model
-1244955230,EaglerZLeaker/EaglercraftZ-SRC-Old,,https://github.com/EaglerZLeaker/EaglercraftZ-SRC-Old,0,0,HTML,,2026-05-20T19:08:03Z,2026-05-21,True,Speculative Model
-1244948038,EaglerZLeaker/EaglercraftZ-SRC-Leaked,,https://github.com/EaglerZLeaker/EaglercraftZ-SRC-Leaked,0,0,HTML,,2026-05-20T18:58:16Z,2026-05-21,True,Speculative Model
-1244958052,EaglerZLeaker/EaglercraftZ-SRC-0.0.7,,https://github.com/EaglerZLeaker/EaglercraftZ-SRC-0.0.7,0,0,HTML,,2026-05-20T19:11:53Z,2026-05-21,True,Speculative Model
-1244359454,wangyan1112/eagleeye,A股智能投研系统 - 赛博众森观察仓 + 2560战法 + 机构级分析,https://github.com/wangyan1112/eagleeye,0,0,Python,,2026-05-20T07:35:58Z,2026-05-21,True,Speculative Model
-1245182614,pxdns/eaglerclient,millers point,https://github.com/pxdns/eaglerclient,0,0,,,2026-05-21T01:49:25Z,2026-05-21,True,Speculative Model
-1244344026,FillipdotS/eaglebank,,https://github.com/FillipdotS/eaglebank,0,0,TypeScript,,2026-05-20T07:17:57Z,2026-05-21,True,Speculative Model
-1244685912,flamingosavings4258/Eaglercraft,Pls,https://github.com/flamingosavings4258/Eaglercraft,0,0,,,2026-05-20T13:53:26Z,2026-05-21,True,Speculative Model
-1244604089,Kissuq/eaglercrafthtml,,https://github.com/Kissuq/eaglercrafthtml,0,0,HTML,,2026-05-20T12:24:37Z,2026-05-21,True,Speculative Model
-1244868261,bellaade299-spec/eagles_backend,,https://github.com/bellaade299-spec/eagles_backend,0,0,Python,,2026-05-20T17:18:23Z,2026-05-21,True,Speculative Model
-1244704102,flamingosavings4258/Eaglercraft-HTML,Eaglercraft in web ^_^,https://github.com/flamingosavings4258/Eaglercraft-HTML,0,0,,,2026-05-20T14:12:08Z,2026-05-21,True,Speculative Model
-1244655528,cantstopmegoguardian/eaglercraftv.1,,https://github.com/cantstopmegoguardian/eaglercraftv.1,0,0,HTML,,2026-05-20T13:21:24Z,2026-05-21,True,Speculative Model
-1245015539,jimmortel/eagle-protector,"The decentralized trust layer for the Web3 ecosystem. Real-time security scanning, link verification, and the official Eagle Protector certification badge.",https://github.com/jimmortel/eagle-protector,0,0,,,2026-05-20T20:33:04Z,2026-05-21,True,Speculative Model
-1245215741,eunyoung0120choi-cpu/eagles-day,,https://github.com/eunyoung0120choi-cpu/eagles-day,0,0,HTML,,2026-05-21T02:47:31Z,2026-05-21,True,Speculative Model
-1244310978,khadijahShah/Eagle-Security-protection,,https://github.com/khadijahShah/Eagle-Security-protection,1,0,,,2026-05-20T06:40:08Z,2026-05-21,True,Speculative Model
-1245153666,HenryKing2014/lost-eagle-store,LostEagle-Store - Premium digital products website,https://github.com/HenryKing2014/lost-eagle-store,0,0,TypeScript,,2026-05-21T00:55:46Z,2026-05-21,True,Speculative Model
-1244735175,mohdshakeel/eagle_express_new,A parcel delivery and tracking servies app. ,https://github.com/mohdshakeel/eagle_express_new,0,0,,,2026-05-20T14:45:27Z,2026-05-21,True,Speculative Model
-1244994610,sandeeppinnamaraju/eagle-deploy-testing,,https://github.com/sandeeppinnamaraju/eagle-deploy-testing,0,0,TypeScript,,2026-05-20T20:02:51Z,2026-05-21,True,Speculative Model
-1244653337,eagleschariotautoplus-Yann/Eagles-Chariot-site,,https://github.com/eagleschariotautoplus-Yann/Eagles-Chariot-site,0,0,HTML,,2026-05-20T13:19:02Z,2026-05-21,True,Speculative Model
-1244483940,hsom00/eagle-smart-folder-export,Eagle plugin for exporting Smart Folders as regular Finder folder hierarchies,https://github.com/hsom00/eagle-smart-folder-export,0,0,JavaScript,,2026-05-20T10:00:45Z,2026-05-21,True,Speculative Model
-1244775612,JJminecraftguy/Eaglercraft-Beta-1.3,,https://github.com/JJminecraftguy/Eaglercraft-Beta-1.3,0,0,HTML,,2026-05-20T15:29:16Z,2026-05-21,True,Speculative Model
-1244839001,MaxGuill8883/Eaglercraft-1.16.5-WASM,A web port of Minecraft 1.16.5 in your browser - Original Project Eaglercraft by Lax1dude,https://github.com/MaxGuill8883/Eaglercraft-1.16.5-WASM,0,0,,,2026-05-20T16:42:25Z,2026-05-21,True,Speculative Model
-1244605013,Kissuq/eaglercrafthtml-1af4e,,https://github.com/Kissuq/eaglercrafthtml-1af4e,0,0,HTML,,2026-05-20T12:25:44Z,2026-05-21,True,Speculative Model
-1245148042,hysm2ybxmh-hub/Eaglercraft-client-1.12.2,idki,https://github.com/hysm2ybxmh-hub/Eaglercraft-client-1.12.2,0,0,HTML,,2026-05-21T00:44:38Z,2026-05-21,True,Speculative Model
-1245048109,AngelMoralesChazari/Vision_Eagle_FutBotMX,,https://github.com/AngelMoralesChazari/Vision_Eagle_FutBotMX,0,0,Python,,2026-05-20T21:24:51Z,2026-05-21,True,Speculative Model
-1244695832,He-lne/Eaglercraft-version-HeL.N.E.-,"This is a version ""HeL.N.E."" of Eaglercraft, suitable for my server (hgmc.qzz.io).",https://github.com/He-lne/Eaglercraft-version-HeL.N.E.-,0,0,HTML,,2026-05-20T14:03:47Z,2026-05-21,True,Speculative Model
-1245170981,rayanabdulgafoor/eagle-sam-d11c-development-board,The Eagle SAM D11C Development Board was designed and developed as a custom PCB to meet specific project requirements.,https://github.com/rayanabdulgafoor/eagle-sam-d11c-development-board,0,0,HTML,,2026-05-21T01:28:26Z,2026-05-21,True,Speculative Model
-1244985420,MagODIN98/CopaFutBotMX_-Capi-tuloVisi-nPorComputadora-_Eagle-Visi-n,Proyecto desarrollado para la Copa FutBotMX (Capítulo Visión por Computadora) utilizando el modelo SAM 3 de Meta para la segmentación y rastreo en partidos de fútbol robótico.,https://github.com/MagODIN98/CopaFutBotMX_-Capi-tuloVisi-nPorComputadora-_Eagle-Visi-n,1,0,,,2026-05-20T19:49:36Z,2026-05-21,True,Speculative Model
+1244400396,1WanSicheng/fixed-mpfr-speculative-decoding,Optimized fixed MPFR implementation and profiler for speculative decoding,https://github.com/1WanSicheng/fixed-mpfr-speculative-decoding,0,0,Python,"llm-inference,mpfr,profiling,pytorch,speculative-decoding,watermarking",2026-05-20T08:25:28Z,2026-05-21,False,Speculative Model
+1244298646,maanas1234/Speculative-Decoding,,https://github.com/maanas1234/Speculative-Decoding,0,0,,,2026-05-20T06:24:10Z,2026-05-21,False,Speculative Model
+1244813429,arapora/chronokairo-labs,"Experimental research for AI on legacy hardware (FlashAttention, Speculative Decoding).",https://github.com/arapora/chronokairo-labs,0,0,,,2026-05-20T16:12:19Z,2026-05-21,False,Speculative Model
+1245271946,bchap1n/beellama_launcher,PowerShell launch scripts for beellama.cpp - Qwen3.6-27B with DFlash/MTP speculative decoding,https://github.com/bchap1n/beellama_launcher,0,0,,,2026-05-21T04:26:45Z,2026-05-21,False,Speculative Model
+1245260186,KennethJefferson/ccg_app_python_EagleSpecDecode,EAGLE-2 speculative decoder: Triton tree-attention verify + 1-layer draft head for TinyLlama 1.1B int4 on Turing sm_75,https://github.com/KennethJefferson/ccg_app_python_EagleSpecDecode,0,0,Python,,2026-05-21T04:04:37Z,2026-05-21,False,Speculative Model
+1245068824,sangelgt/Medusa,medusa,https://github.com/sangelgt/Medusa,0,0,HTML,,2026-05-20T22:02:21Z,2026-05-21,False,Speculative Model
+1244653130,MedusaLYY/MedusaLYY,,https://github.com/MedusaLYY/MedusaLYY,0,0,,,2026-05-20T13:18:49Z,2026-05-21,False,Speculative Model
+1245251411,HareemHaider217/Medusa,,https://github.com/HareemHaider217/Medusa,0,0,,,2026-05-21T03:48:54Z,2026-05-21,False,Speculative Model
+1244615201,gisioraelvis/medusajs-containerized-starter,Medusa JS Containerized DTC starter.,https://github.com/gisioraelvis/medusajs-containerized-starter,0,0,TypeScript,"docker,medusajs",2026-05-20T12:37:28Z,2026-05-21,False,Speculative Model
+1244616376,benson0715/AMD_MEDUSA_CODE,AMD_MEDUSA_CODE (APP+KERNEL),https://github.com/benson0715/AMD_MEDUSA_CODE,0,0,,,2026-05-20T12:38:45Z,2026-05-21,False,Speculative Model
+1244778420,sparktone/medusapictures,,https://github.com/sparktone/medusapictures,0,0,,,2026-05-20T15:32:28Z,2026-05-21,False,Speculative Model
+1244831710,YassineSalihi/medusa-we-avoid,medusa is a frida like tool,https://github.com/YassineSalihi/medusa-we-avoid,0,0,,,2026-05-20T16:33:59Z,2026-05-21,False,Speculative Model
+1245077166,saulorfsantos/bunker81-medusa-backend,Backend Medusa do projeto Bunker 81,https://github.com/saulorfsantos/bunker81-medusa-backend,0,0,TypeScript,,2026-05-20T22:18:17Z,2026-05-21,False,Speculative Model
+1245205285,TheLazyAI/MEDUSA_app,,https://github.com/TheLazyAI/MEDUSA_app,0,0,,,2026-05-21T02:29:29Z,2026-05-21,False,Speculative Model
+1245048724,ndakoda/medusa-bar-grill,,https://github.com/ndakoda/medusa-bar-grill,0,0,JavaScript,,2026-05-20T21:25:57Z,2026-05-21,False,Speculative Model
+1245192021,diegowalhernandes/kali-medusa-lab,,https://github.com/diegowalhernandes/kali-medusa-lab,0,0,,,2026-05-21T02:06:34Z,2026-05-21,False,Speculative Model
+1244502025,NathalyLopes/kali_linux_medusa,,https://github.com/NathalyLopes/kali_linux_medusa,0,0,,,2026-05-20T10:22:54Z,2026-05-21,False,Speculative Model
+1245075974,M4l1k40/LAB-12-Bypass-de-la-D-tection-de-Root-Android-avec-Medusa,,https://github.com/M4l1k40/LAB-12-Bypass-de-la-D-tection-de-Root-Android-avec-Medusa,0,0,JavaScript,,2026-05-20T22:16:12Z,2026-05-21,False,Speculative Model
+1245279451,Eagle7M/Eagle,Graphic Design and Marketing,https://github.com/Eagle7M/Eagle,0,0,HTML,,2026-05-21T04:39:41Z,2026-05-21,False,Speculative Model
+1244394315,msaadarshad98/eagle-bank-api,Eagle Bank Api,https://github.com/msaadarshad98/eagle-bank-api,0,0,JavaScript,,2026-05-20T08:17:55Z,2026-05-21,False,Speculative Model
+1245119375,vegashassan/eagleeyenews,eagle eye news,https://github.com/vegashassan/eagleeyenews,0,0,,,2026-05-20T23:44:26Z,2026-05-21,False,Speculative Model
+1244955230,EaglerZLeaker/EaglercraftZ-SRC-Old,,https://github.com/EaglerZLeaker/EaglercraftZ-SRC-Old,0,0,HTML,,2026-05-20T19:08:03Z,2026-05-21,False,Speculative Model
+1244948038,EaglerZLeaker/EaglercraftZ-SRC-Leaked,,https://github.com/EaglerZLeaker/EaglercraftZ-SRC-Leaked,0,0,HTML,,2026-05-20T18:58:16Z,2026-05-21,False,Speculative Model
+1244958052,EaglerZLeaker/EaglercraftZ-SRC-0.0.7,,https://github.com/EaglerZLeaker/EaglercraftZ-SRC-0.0.7,0,0,HTML,,2026-05-20T19:11:53Z,2026-05-21,False,Speculative Model
+1244359454,wangyan1112/eagleeye,A股智能投研系统 - 赛博众森观察仓 + 2560战法 + 机构级分析,https://github.com/wangyan1112/eagleeye,0,0,Python,,2026-05-20T07:35:58Z,2026-05-21,False,Speculative Model
+1245182614,pxdns/eaglerclient,millers point,https://github.com/pxdns/eaglerclient,0,0,,,2026-05-21T01:49:25Z,2026-05-21,False,Speculative Model
+1244344026,FillipdotS/eaglebank,,https://github.com/FillipdotS/eaglebank,0,0,TypeScript,,2026-05-20T07:17:57Z,2026-05-21,False,Speculative Model
+1244685912,flamingosavings4258/Eaglercraft,Pls,https://github.com/flamingosavings4258/Eaglercraft,0,0,,,2026-05-20T13:53:26Z,2026-05-21,False,Speculative Model
+1244604089,Kissuq/eaglercrafthtml,,https://github.com/Kissuq/eaglercrafthtml,0,0,HTML,,2026-05-20T12:24:37Z,2026-05-21,False,Speculative Model
+1244868261,bellaade299-spec/eagles_backend,,https://github.com/bellaade299-spec/eagles_backend,0,0,Python,,2026-05-20T17:18:23Z,2026-05-21,False,Speculative Model
+1244704102,flamingosavings4258/Eaglercraft-HTML,Eaglercraft in web ^_^,https://github.com/flamingosavings4258/Eaglercraft-HTML,0,0,,,2026-05-20T14:12:08Z,2026-05-21,False,Speculative Model
+1244655528,cantstopmegoguardian/eaglercraftv.1,,https://github.com/cantstopmegoguardian/eaglercraftv.1,0,0,HTML,,2026-05-20T13:21:24Z,2026-05-21,False,Speculative Model
+1245015539,jimmortel/eagle-protector,"The decentralized trust layer for the Web3 ecosystem. Real-time security scanning, link verification, and the official Eagle Protector certification badge.",https://github.com/jimmortel/eagle-protector,0,0,,,2026-05-20T20:33:04Z,2026-05-21,False,Speculative Model
+1245215741,eunyoung0120choi-cpu/eagles-day,,https://github.com/eunyoung0120choi-cpu/eagles-day,0,0,HTML,,2026-05-21T02:47:31Z,2026-05-21,False,Speculative Model
+1244310978,khadijahShah/Eagle-Security-protection,,https://github.com/khadijahShah/Eagle-Security-protection,1,0,,,2026-05-20T06:40:08Z,2026-05-21,False,Speculative Model
+1245153666,HenryKing2014/lost-eagle-store,LostEagle-Store - Premium digital products website,https://github.com/HenryKing2014/lost-eagle-store,0,0,TypeScript,,2026-05-21T00:55:46Z,2026-05-21,False,Speculative Model
+1244735175,mohdshakeel/eagle_express_new,A parcel delivery and tracking servies app. ,https://github.com/mohdshakeel/eagle_express_new,0,0,,,2026-05-20T14:45:27Z,2026-05-21,False,Speculative Model
+1244994610,sandeeppinnamaraju/eagle-deploy-testing,,https://github.com/sandeeppinnamaraju/eagle-deploy-testing,0,0,TypeScript,,2026-05-20T20:02:51Z,2026-05-21,False,Speculative Model
+1244653337,eagleschariotautoplus-Yann/Eagles-Chariot-site,,https://github.com/eagleschariotautoplus-Yann/Eagles-Chariot-site,0,0,HTML,,2026-05-20T13:19:02Z,2026-05-21,False,Speculative Model
+1244483940,hsom00/eagle-smart-folder-export,Eagle plugin for exporting Smart Folders as regular Finder folder hierarchies,https://github.com/hsom00/eagle-smart-folder-export,0,0,JavaScript,,2026-05-20T10:00:45Z,2026-05-21,False,Speculative Model
+1244775612,JJminecraftguy/Eaglercraft-Beta-1.3,,https://github.com/JJminecraftguy/Eaglercraft-Beta-1.3,0,0,HTML,,2026-05-20T15:29:16Z,2026-05-21,False,Speculative Model
+1244839001,MaxGuill8883/Eaglercraft-1.16.5-WASM,A web port of Minecraft 1.16.5 in your browser - Original Project Eaglercraft by Lax1dude,https://github.com/MaxGuill8883/Eaglercraft-1.16.5-WASM,0,0,,,2026-05-20T16:42:25Z,2026-05-21,False,Speculative Model
+1244605013,Kissuq/eaglercrafthtml-1af4e,,https://github.com/Kissuq/eaglercrafthtml-1af4e,0,0,HTML,,2026-05-20T12:25:44Z,2026-05-21,False,Speculative Model
+1245148042,hysm2ybxmh-hub/Eaglercraft-client-1.12.2,idki,https://github.com/hysm2ybxmh-hub/Eaglercraft-client-1.12.2,0,0,HTML,,2026-05-21T00:44:38Z,2026-05-21,False,Speculative Model
+1245048109,AngelMoralesChazari/Vision_Eagle_FutBotMX,,https://github.com/AngelMoralesChazari/Vision_Eagle_FutBotMX,0,0,Python,,2026-05-20T21:24:51Z,2026-05-21,False,Speculative Model
+1244695832,He-lne/Eaglercraft-version-HeL.N.E.-,"This is a version ""HeL.N.E."" of Eaglercraft, suitable for my server (hgmc.qzz.io).",https://github.com/He-lne/Eaglercraft-version-HeL.N.E.-,0,0,HTML,,2026-05-20T14:03:47Z,2026-05-21,False,Speculative Model
+1245170981,rayanabdulgafoor/eagle-sam-d11c-development-board,The Eagle SAM D11C Development Board was designed and developed as a custom PCB to meet specific project requirements.,https://github.com/rayanabdulgafoor/eagle-sam-d11c-development-board,0,0,HTML,,2026-05-21T01:28:26Z,2026-05-21,False,Speculative Model
+1244985420,MagODIN98/CopaFutBotMX_-Capi-tuloVisi-nPorComputadora-_Eagle-Visi-n,Proyecto desarrollado para la Copa FutBotMX (Capítulo Visión por Computadora) utilizando el modelo SAM 3 de Meta para la segmentación y rastreo en partidos de fútbol robótico.,https://github.com/MagODIN98/CopaFutBotMX_-Capi-tuloVisi-nPorComputadora-_Eagle-Visi-n,1,0,,,2026-05-20T19:49:36Z,2026-05-21,False,Speculative Model
