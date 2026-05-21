@@ -2351,5 +2351,57 @@
     "url": "https://simonwillison.net/2026/May/19/datasette-llm/#atom-everything",
     "tags": "",
     "created_at": "2026-05-20 06:01:39"
+  },
+  {
+    "id": "rss_https://openai.com/index/model-disproves-discrete-geometry-conjecture",
+    "company": "OpenAI",
+    "title": "An OpenAI model has disproved a central conjecture in discrete geometry",
+    "publish_date": "2026-05-20",
+    "type": "其他",
+    "open_source": "否",
+    "summary": "An OpenAI model solved the 80-year-old unit distance problem, disproving a major conjecture in discrete geometry and marking a milestone in AI-driven mathematics.",
+    "details": "",
+    "url": "https://openai.com/index/model-disproves-discrete-geometry-conjecture",
+    "tags": "",
+    "created_at": "2026-05-21 06:05:16"
+  },
+  {
+    "id": "rss_https://blog.google/innovation-and-ai/infrastructure-and-cloud/global-network/missouri-programs/",
+    "company": "Google AI",
+    "title": "We’re announcing new community investments in Missouri.",
+    "publish_date": "2026-05-20",
+    "type": "其他",
+    "open_source": "否",
+    "summary": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/MissouriSocial.max-600x600.format-webp.webp\" />We’re helping build the state’s next-generation workforce and investing in ener",
+    "details": "",
+    "url": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/global-network/missouri-programs/",
+    "tags": "",
+    "created_at": "2026-05-21 06:05:16"
+  },
+  {
+    "id": "rss_https://huggingface.co/blog/allenai/olmoearth-v1-1",
+    "company": "Hugging Face",
+    "title": "OlmoEarth v1.1: A more efficient family of Earth observation models",
+    "publish_date": "2026-05-19",
+    "type": "其他",
+    "open_source": "否",
+    "summary": "",
+    "details": "",
+    "url": "https://huggingface.co/blog/allenai/olmoearth-v1-1",
+    "tags": "",
+    "created_at": "2026-05-21 06:05:17"
+  },
+  {
+    "id": "rss_https://simonwillison.net/2026/May/20/google-io/#atom-everything",
+    "company": "Simon Willison",
+    "title": "Google I/O, Gemini Spark, Antigravity",
+    "publish_date": "2026-05-20",
+    "type": "其他",
+    "open_source": "否",
+    "summary": "<p>It's hard to find much to write about Google I/O this year because I have a policy of not writing about anything that I can't try out myself, and a lot of the big announcements are \"coming soon\".</",
+    "details": "",
+    "url": "https://simonwillison.net/2026/May/20/google-io/#atom-everything",
+    "tags": "",
+    "created_at": "2026-05-21 06:05:19"
   }
 ]
