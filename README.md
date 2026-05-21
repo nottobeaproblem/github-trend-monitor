@@ -1,6 +1,6 @@
 # GitHub Trend Monitor
 
-**AI 趋势周报 **
+** AI 趋势周报 **
 
 [![GitHub Actions](https://github.com/nottobeaproblem/github-trend-monitor/actions/workflows/daily_scraper.yml/badge.svg)](https://github.com/nottobeaproblem/github-trend-monitor/actions)
 [![Python Version](https://img.shields.io/badge/python-3.9%2B-blue)](https://www.python.org/)
