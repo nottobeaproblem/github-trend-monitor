@@ -2494,5 +2494,31 @@
     "url": "https://simonwillison.net/2026/May/20/datasette-agent-charts/#atom-everything",
     "tags": "",
     "created_at": "2026-05-22 06:01:31"
+  },
+  {
+    "id": "rss_https://openai.com/index/gartner-2026-agentic-coding-leader",
+    "company": "OpenAI",
+    "title": "OpenAI named a Leader in enterprise coding agents by Gartner",
+    "publish_date": "2026-05-22",
+    "type": "其他",
+    "open_source": "否",
+    "summary": "OpenAI is named a leader in the 2026 Gartner Magic Quadrant for Enterprise AI Coding Agents, with Codex recognized for innovation and enterprise-scale deployment.",
+    "details": "",
+    "url": "https://openai.com/index/gartner-2026-agentic-coding-leader",
+    "tags": "",
+    "created_at": "2026-05-23 05:36:27"
+  },
+  {
+    "id": "rss_https://huggingface.co/blog/nvidia/nemotron-labs-diffusion",
+    "company": "Hugging Face",
+    "title": "Towards Speed-of-Light Text Generation with Nemotron-Labs Diffusion Language Models",
+    "publish_date": "2026-05-23",
+    "type": "其他",
+    "open_source": "否",
+    "summary": "",
+    "details": "",
+    "url": "https://huggingface.co/blog/nvidia/nemotron-labs-diffusion",
+    "tags": "",
+    "created_at": "2026-05-23 05:36:28"
   }
 ]
