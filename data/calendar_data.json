@@ -2559,5 +2559,18 @@
     "url": "https://simonwillison.net/2026/May/24/datasette-fixtures/#atom-everything",
     "tags": "",
     "created_at": "2026-05-25 06:20:39"
+  },
+  {
+    "id": "rss_https://huggingface.co/blog/agent-glossary",
+    "company": "Hugging Face",
+    "title": "Harness, Scaffold, and the AI Agent Terms Worth Getting Right",
+    "publish_date": "2026-05-25",
+    "type": "其他",
+    "open_source": "否",
+    "summary": "",
+    "details": "",
+    "url": "https://huggingface.co/blog/agent-glossary",
+    "tags": "",
+    "created_at": "2026-05-26 06:02:07"
   }
 ]
