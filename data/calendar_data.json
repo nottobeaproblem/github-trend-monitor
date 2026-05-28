@@ -2572,5 +2572,57 @@
     "url": "https://huggingface.co/blog/agent-glossary",
     "tags": "",
     "created_at": "2026-05-26 06:02:07"
+  },
+  {
+    "id": "rss_https://openai.com/index/building-self-improving-tax-agents-with-codex",
+    "company": "OpenAI",
+    "title": "Building self-improving tax agents with Codex",
+    "publish_date": "2026-05-27",
+    "type": "其他",
+    "open_source": "否",
+    "summary": "See how OpenAI, Thrive, and Crete built a self-improving tax agent with Codex, automating filings, improving accuracy, and accelerating workflows.",
+    "details": "",
+    "url": "https://openai.com/index/building-self-improving-tax-agents-with-codex",
+    "tags": "",
+    "created_at": "2026-05-28 06:05:26"
+  },
+  {
+    "id": "rss_https://openai.com/index/warp",
+    "company": "OpenAI",
+    "title": "Warp’s big bet on building open source with GPT-5.5",
+    "publish_date": "2026-05-27",
+    "type": "其他",
+    "open_source": "否",
+    "summary": "Warp uses GPT-5.5 and OpenAI models to coordinate coding agents across local, cloud, and open-source development workflows.",
+    "details": "",
+    "url": "https://openai.com/index/warp",
+    "tags": "",
+    "created_at": "2026-05-28 06:05:26"
+  },
+  {
+    "id": "rss_https://huggingface.co/blog/ibm-research/itbench-aa",
+    "company": "Hugging Face",
+    "title": "ITBench-AA: Frontier Models Score Below 50% on the First Benchmark for Agentic Enterprise IT Tasks — by Artificial Analysis and IBM",
+    "publish_date": "2026-05-27",
+    "type": "其他",
+    "open_source": "否",
+    "summary": "",
+    "details": "",
+    "url": "https://huggingface.co/blog/ibm-research/itbench-aa",
+    "tags": "",
+    "created_at": "2026-05-28 06:05:28"
+  },
+  {
+    "id": "rss_https://simonwillison.net/2026/May/27/sqlite-agents/#atom-everything",
+    "company": "Simon Willison",
+    "title": "sqlite AGENTS.md",
+    "publish_date": "2026-05-27",
+    "type": "其他",
+    "open_source": "否",
+    "summary": "<p><strong><a href=\"https://github.com/sqlite/sqlite/blob/master/AGENTS.md\">sqlite AGENTS.md</a></strong></p>\nSQLite gained an AGENTS.md file <a href=\"https://github.com/sqlite/sqlite/commit/a1e577888",
+    "details": "",
+    "url": "https://simonwillison.net/2026/May/27/sqlite-agents/#atom-everything",
+    "tags": "",
+    "created_at": "2026-05-28 06:05:30"
   }
 ]
