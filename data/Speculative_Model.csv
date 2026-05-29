@@ -3467,3 +3467,55 @@ id,name,description,url,stars,forks,language,topics,created_at,first_seen,is_act
 1251698871,kiowagrains/KiowagrainsPhotography.github.io,"Professional Photographer based out of Eagle River, AK. Specializes in 35mm fully manual/analog film cameras. Prints for sale, and booking available.",https://github.com/kiowagrains/KiowagrainsPhotography.github.io,0,0,HTML,,2026-05-27T20:41:56Z,2026-05-28,False,Speculative Model
 1251128156,Venkat-Sai-Charan-Saragani/Large-Language-Model--Chat-Bot,An intelligent programming assistant leveraging Groq's ultra-fast inference and Meta's Llama 3.3 70B to deliver real-time coding guidance via a Streamlit web interface.,https://github.com/Venkat-Sai-Charan-Saragani/Large-Language-Model--Chat-Bot,1,0,Python,,2026-05-27T09:13:52Z,2026-05-28,False,Speculative Model
 1251178708,Shubhamrautela838/Agentic-ChatBot-using-Langchain,An intelligent agentic chatbot application built with LangChain and LangGraph that leverages the Groq LLM for fast inference combined with Tavily web search capabilities. Features a conversational CLI interface with persistent memory to maintain conversation state and context across multiple sessions.,https://github.com/Shubhamrautela838/Agentic-ChatBot-using-Langchain,0,0,JavaScript,,2026-05-27T10:16:11Z,2026-05-28,False,Speculative Model
+1253012674,yuyijiong/speculative_pipeline_decoding,a new speculative decoding paradigm,https://github.com/yuyijiong/speculative_pipeline_decoding,0,0,Python,,2026-05-29T04:40:53Z,2026-05-29,True,Speculative Model
+1252083978,platformxlab/vegas,Self-Speculative Decoding with Verification-Guided Sparse Attention,https://github.com/platformxlab/vegas,0,0,,,2026-05-28T07:09:36Z,2026-05-29,True,Speculative Model
+1252965734,leiquanzheng/LEAP,[ICML 2026] LEAP: Zone-Aware MCTS for LLM Self-Speculative Decoding,https://github.com/leiquanzheng/LEAP,0,0,,,2026-05-29T03:29:00Z,2026-05-29,True,Speculative Model
+1252491587,brookwillow/diff-spec,Diffusion-Guided Speculative Decoding: A Hybrid Approach for Accelerating Tool-Calling in Automotive Assistants,https://github.com/brookwillow/diff-spec,0,0,Python,,2026-05-28T15:15:41Z,2026-05-29,True,Speculative Model
+1252709937,Amiraez20/Medusa,,https://github.com/Amiraez20/Medusa,0,0,,,2026-05-28T19:42:57Z,2026-05-29,True,Speculative Model
+1252791411,midasark46-spec/medusa,,https://github.com/midasark46-spec/medusa,0,0,,,2026-05-28T21:55:00Z,2026-05-29,True,Speculative Model
+1252182834,ChristianL-O/medusa-mcp,,https://github.com/ChristianL-O/medusa-mcp,0,0,TypeScript,,2026-05-28T09:13:06Z,2026-05-29,True,Speculative Model
+1252428149,Ole1ksandrap/juego_medusa,,https://github.com/Ole1ksandrap/juego_medusa,0,0,,,2026-05-28T14:06:53Z,2026-05-29,True,Speculative Model
+1252997501,RadarsofthouseDev/medusa-plugin-frisbii-pay,,https://github.com/RadarsofthouseDev/medusa-plugin-frisbii-pay,0,0,TypeScript,,2026-05-29T04:17:36Z,2026-05-29,True,Speculative Model
+1252472084,dotJasonRoehm/medusajs-2.0-for-railway-boilerplate,,https://github.com/dotJasonRoehm/medusajs-2.0-for-railway-boilerplate,0,0,TypeScript,,2026-05-28T14:54:08Z,2026-05-29,True,Speculative Model
+1252548055,saleh-mw83/eagle-city,eagle-city,https://github.com/saleh-mw83/eagle-city,0,0,,,2026-05-28T16:22:10Z,2026-05-29,True,Speculative Model
+1252944588,talalahmed11/Eagle,,https://github.com/talalahmed11/Eagle,0,0,HTML,,2026-05-29T02:53:02Z,2026-05-29,True,Speculative Model
+1252504689,Quitetall/Eagle,OpenHuman Eagle: LamQuant validation + benchmarking suite. Reproduces every numerical claim in the IEEE TBioCAS 2026 paper.,https://github.com/Quitetall/Eagle,1,0,Python,,2026-05-28T15:30:33Z,2026-05-29,True,Speculative Model
+1253039791,thaylorbot/Eagle,,https://github.com/thaylorbot/Eagle,0,0,,,2026-05-29T05:22:01Z,2026-05-29,True,Speculative Model
+1252549420,saleh-mw83/eagle-city-police,eagle city police,https://github.com/saleh-mw83/eagle-city-police,0,0,HTML,,2026-05-28T16:23:53Z,2026-05-29,True,Speculative Model
+1252806937,saleh-mw83/police-eagle-city1,police eagle city1,https://github.com/saleh-mw83/police-eagle-city1,0,0,HTML,,2026-05-28T22:23:28Z,2026-05-29,True,Speculative Model
+1253049660,thaylorbot/Eagle2,,https://github.com/thaylorbot/Eagle2,0,0,,,2026-05-29T05:37:10Z,2026-05-29,True,Speculative Model
+1252723892,DavutcanJ/EagleCollector,collecting information from ethernet to monitor the truth of it,https://github.com/DavutcanJ/EagleCollector,0,0,TypeScript,,2026-05-28T20:03:10Z,2026-05-29,True,Speculative Model
+1252511481,george8888/EagleEye,鹰眼．不良资产洞察平台,https://github.com/george8888/EagleEye,0,0,,,2026-05-28T15:38:34Z,2026-05-29,True,Speculative Model
+1252620812,Richard-Pentecost/eagle-bank-fe,Eagle bank front end,https://github.com/Richard-Pentecost/eagle-bank-fe,0,0,TypeScript,,2026-05-28T17:49:06Z,2026-05-29,True,Speculative Model
+1252289131,thisshouldntbeneeded-glitch/EagleHeatingandPlumbing,website for eagle heating,https://github.com/thisshouldntbeneeded-glitch/EagleHeatingandPlumbing,0,0,HTML,,2026-05-28T11:25:08Z,2026-05-29,True,Speculative Model
+1252856729,leiwu0812/gpt_oss_eagle3_bench,,https://github.com/leiwu0812/gpt_oss_eagle3_bench,0,0,Python,,2026-05-29T00:08:57Z,2026-05-29,True,Speculative Model
+1252164644,leiwu0812/gpt-oss-eagle3-b200,,https://github.com/leiwu0812/gpt-oss-eagle3-b200,0,0,Shell,,2026-05-28T08:51:21Z,2026-05-29,True,Speculative Model
+1252340718,ABELMATHIOS/eagleglow,,https://github.com/ABELMATHIOS/eagleglow,0,0,TypeScript,,2026-05-28T12:26:53Z,2026-05-29,True,Speculative Model
+1252586520,Raysianese/eaglercrafthtml,,https://github.com/Raysianese/eaglercrafthtml,0,0,HTML,,2026-05-28T17:06:26Z,2026-05-29,True,Speculative Model
+1252655314,bobbbobbbb/eaglercrafthtml,,https://github.com/bobbbobbbb/eaglercrafthtml,0,0,HTML,,2026-05-28T18:33:50Z,2026-05-29,True,Speculative Model
+1252648438,xenrivehub/eagleqr,,https://github.com/xenrivehub/eagleqr,0,0,TypeScript,,2026-05-28T18:24:49Z,2026-05-29,True,Speculative Model
+1252761754,alexanderjosephhuang-bot/eaglercraft-site,,https://github.com/alexanderjosephhuang-bot/eaglercraft-site,0,0,HTML,,2026-05-28T21:02:08Z,2026-05-29,True,Speculative Model
+1252619284,vishwasenterprise2018/eagle-safe,,https://github.com/vishwasenterprise2018/eagle-safe,0,0,HTML,,2026-05-28T17:47:15Z,2026-05-29,True,Speculative Model
+1252341948,demo-gg/noisy-eagle,,https://github.com/demo-gg/noisy-eagle,0,0,Ruby,,2026-05-28T12:28:13Z,2026-05-29,True,Speculative Model
+1252323350,ankit8131/Cloud-Eagle,,https://github.com/ankit8131/Cloud-Eagle,0,0,TypeScript,,2026-05-28T12:05:18Z,2026-05-29,True,Speculative Model
+1252848394,pndshch/eagle-1969,,https://github.com/pndshch/eagle-1969,0,0,HTML,,2026-05-28T23:50:06Z,2026-05-29,True,Speculative Model
+1252878701,keiTsuji/Eagle-kai,,https://github.com/keiTsuji/Eagle-kai,0,0,Python,,2026-05-29T00:53:35Z,2026-05-29,True,Speculative Model
+1253044677,thaylorbot/Logo-Eagle,,https://github.com/thaylorbot/Logo-Eagle,0,0,,,2026-05-29T05:29:32Z,2026-05-29,True,Speculative Model
+1252762524,alexanderjosephhuang-bot/eaglercraft-sitea,,https://github.com/alexanderjosephhuang-bot/eaglercraft-sitea,0,0,,,2026-05-28T21:03:23Z,2026-05-29,True,Speculative Model
+1252751847,nithink55/eagle-pms,,https://github.com/nithink55/eagle-pms,0,0,,,2026-05-28T20:46:25Z,2026-05-29,True,Speculative Model
+1252523988,tasneemaldernawi-oss/legal-eagle,,https://github.com/tasneemaldernawi-oss/legal-eagle,0,0,Python,,2026-05-28T15:53:10Z,2026-05-29,True,Speculative Model
+1252069352,cc-code-examples/healthy-eagle-941228,Rust code example for the Shell challenge,https://github.com/cc-code-examples/healthy-eagle-941228,0,0,Rust,,2026-05-28T06:52:50Z,2026-05-29,True,Speculative Model
+1252053616,vivek-singh27/BrownEagleLogistics,,https://github.com/vivek-singh27/BrownEagleLogistics,0,0,CSS,,2026-05-28T06:35:12Z,2026-05-29,True,Speculative Model
+1252233910,joewst99-cyber/Eagle-Inteligence895,,https://github.com/joewst99-cyber/Eagle-Inteligence895,0,0,HTML,,2026-05-28T10:15:25Z,2026-05-29,True,Speculative Model
+1253035080,garlapati3105-cmd/Eagle_box_cricket,,https://github.com/garlapati3105-cmd/Eagle_box_cricket,0,0,TypeScript,,2026-05-29T05:14:28Z,2026-05-29,True,Speculative Model
+1252902850,Ehsan1436/eagle-eyes-studio,,https://github.com/Ehsan1436/eagle-eyes-studio,0,0,,,2026-05-29T01:39:09Z,2026-05-29,True,Speculative Model
+1252340764,pradeepyadavpullagura-droid/eagle-box-cricket,,https://github.com/pradeepyadavpullagura-droid/eagle-box-cricket,0,0,JavaScript,,2026-05-28T12:26:56Z,2026-05-29,True,Speculative Model
+1252612767,sadeepnimsara555-del/BlackEagleLK,"BlackEagleLK is a modern movie streaming and discovery web application built with React and Vite using the TMDB API. It features a premium dark-themed UI where users can browse trending movies, search titles, view cinematic movie details, watch embedded content, manage subtitles, and explore cast information and related recommendations.",https://github.com/sadeepnimsara555-del/BlackEagleLK,0,0,JavaScript,,2026-05-28T17:38:59Z,2026-05-29,True,Speculative Model
+1252834252,eagleeyesecuresolutions/eagle-eye-security,,https://github.com/eagleeyesecuresolutions/eagle-eye-security,0,0,HTML,,2026-05-28T23:18:39Z,2026-05-29,True,Speculative Model
+1252260881,the-eagle-29/EAGLE-LIKE-TGBOT,,https://github.com/the-eagle-29/EAGLE-LIKE-TGBOT,0,0,Python,,2026-05-28T10:48:37Z,2026-05-29,True,Speculative Model
+1252411650,ankur-kesari/CloudEagle-DevOps-Assignment,CloudEagle - DevOps Assignment,https://github.com/ankur-kesari/CloudEagle-DevOps-Assignment,0,0,,,2026-05-28T13:48:53Z,2026-05-29,True,Speculative Model
+1252474476,AGATWTest/Flight-of-the-Eagle-COP,,https://github.com/AGATWTest/Flight-of-the-Eagle-COP,0,0,,,2026-05-28T14:56:46Z,2026-05-29,True,Speculative Model
+1252942570,ToxicEagle420/ToxicEagle-Studios.-Gemini-AI-Studios-,App made through Gemini AI Google Studios ,https://github.com/ToxicEagle420/ToxicEagle-Studios.-Gemini-AI-Studios-,1,0,,,2026-05-29T02:49:26Z,2026-05-29,True,Speculative Model
+1252581853,abidkoko/Line-Follower-Analog,Sekilas tentang Schematic dan Design Auto Desk Eagle for Line Follower Analog,https://github.com/abidkoko/Line-Follower-Analog,0,0,,,2026-05-28T17:00:49Z,2026-05-29,True,Speculative Model
+1253019302,boxcode59-source/Stable-and-Secure-Grid-Integrated-Renewable-Energy-Systems,Hybrid Fuzzy Multi-Granularity Deep Learning with Super Eagle Optimization for Stable and Secure Grid-Integrated Renewable Energy Systems,https://github.com/boxcode59-source/Stable-and-Secure-Grid-Integrated-Renewable-Energy-Systems,0,0,Python,,2026-05-29T04:50:55Z,2026-05-29,True,Speculative Model
+1252441829,championwang00/tiantianquan,甜甜圈：本地优先的 Chrome 剪藏分发插件，确认后同步网页素材到 Eagle、Bear 和 Obsidian,https://github.com/championwang00/tiantianquan,0,0,JavaScript,,2026-05-28T14:21:45Z,2026-05-29,True,Speculative Model
