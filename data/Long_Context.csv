@@ -17691,134 +17691,134 @@ id,name,description,url,stars,forks,language,topics,created_at,first_seen,is_act
 1252256240,Jyotsna2006/Grocery-Sales-SQL-Analysis-,"Exploratory Data Analysis (EDA) of retail grocery sales and inventory volume using Microsoft SQL Server (SSMS). Implements data cleaning, matrix pivots, and window functions to extract business intelligence.",https://github.com/Jyotsna2006/Grocery-Sales-SQL-Analysis-,1,0,,,2026-05-28T10:43:11Z,2026-05-29,False,Long Context
 1252111388,8prabhat/msh_jepa,"Multi-Scale Hierarchical JEPA trading model for BANKNIFTY intraday futures/options — self-supervised SSM encoder, supervised direction head, and IQL offline RL action policy with walk-forward CV and conformal calibration.",https://github.com/8prabhat/msh_jepa,0,0,Python,,2026-05-28T07:44:12Z,2026-05-29,False,Long Context
 1252173992,AlexanderOJS29/BRaMSS,An emotion classification state space model with temporal context induced as mood.,https://github.com/AlexanderOJS29/BRaMSS,0,0,Python,,2026-05-28T09:02:51Z,2026-05-29,False,Long Context
-1254005396,ekuznetsov139/long-context-benchmark,Simple long-context vLLM benchmark,https://github.com/ekuznetsov139/long-context-benchmark,0,0,Python,,2026-05-30T03:14:52Z,2026-05-30,True,Long Context
-1253241654,ruufaayl/LCMVRSI,"Long-Context Memory, Verifiable Reasoning, and Scalable Intelligence",https://github.com/ruufaayl/LCMVRSI,0,0,Python,,2026-05-29T09:19:18Z,2026-05-30,True,Long Context
-1254075048,LeoHoW6/MambaPulse,MambaPulse：An Effective Feature-Query Framework for Small Object Detection from Drone View,https://github.com/LeoHoW6/MambaPulse,0,0,,,2026-05-30T05:41:58Z,2026-05-30,True,Long Context
-1253494615,devalab/MambaDDI,,https://github.com/devalab/MambaDDI,0,0,,,2026-05-29T14:19:10Z,2026-05-30,True,Long Context
-1253723705,Luocaca28/MambaJSCC,MambaJSCC_downstream_task,https://github.com/Luocaca28/MambaJSCC,0,0,,,2026-05-29T18:48:22Z,2026-05-30,True,Long Context
-1253369799,zhongliu633-hub/mamba,,https://github.com/zhongliu633-hub/mamba,0,0,,,2026-05-29T11:47:51Z,2026-05-30,True,Long Context
-1253532911,noname2333333/mambamaj,天凤牢大语音包,https://github.com/noname2333333/mambamaj,0,0,,,2026-05-29T15:03:08Z,2026-05-30,True,Long Context
-1253255025,ningyuding499-afk/Mambate-AI,,https://github.com/ningyuding499-afk/Mambate-AI,0,0,TypeScript,,2026-05-29T09:34:08Z,2026-05-30,True,Long Context
-1253528898,yzaishandsome/Wind-mamba,,https://github.com/yzaishandsome/Wind-mamba,0,0,Python,,2026-05-29T14:58:17Z,2026-05-30,True,Long Context
-1253315540,nebulaHZH/mamba_daisy,,https://github.com/nebulaHZH/mamba_daisy,1,0,Python,,2026-05-29T10:43:38Z,2026-05-30,True,Long Context
-1253466349,imhoangt/WaveConvMamba,,https://github.com/imhoangt/WaveConvMamba,0,0,Python,,2026-05-29T13:45:33Z,2026-05-30,True,Long Context
-1253307718,swatish434/SF-MAMBA-CD,This repository contains code files and documentation to the paper SF-MAMBA-CD !,https://github.com/swatish434/SF-MAMBA-CD,1,0,Python,,2026-05-29T10:34:04Z,2026-05-30,True,Long Context
-1253589535,HoveyQAQ/LF-EPI-Mamba-SASR,,https://github.com/HoveyQAQ/LF-EPI-Mamba-SASR,0,0,Python,,2026-05-29T16:07:46Z,2026-05-30,True,Long Context
-1253647391,paulbai/scarlet-lounge-menu,"Scarlet Lounge digital drinks menu — Mamba Point Hotel, Freetown",https://github.com/paulbai/scarlet-lounge-menu,0,0,HTML,,2026-05-29T17:15:52Z,2026-05-30,True,Long Context
-1253523554,hinanohart/polewright,Compile classical analog-filter specs into constructively-stable complex-diagonal init weights for SSM / linear-RNN layers (S4D / Mamba / FLA).,https://github.com/hinanohart/polewright,0,0,Python,"filter-design,initialization,linear-attention,mamba,pole-placement,pytorch,s4d,signal-processing,ssm,state-space-models",2026-05-29T14:52:08Z,2026-05-30,True,Long Context
-1253413980,bytemonkk/hyperspectral-image-classification,MF-HSINet is a lightweight dual-branch hyperspectral image classification framework that independently learns spectral and spatial features and fuses them using a Mamba-Enhanced Attention Fusion module. It captures long-range dependencies efficiently while reducing computational cost for real-time HSI analysis.,https://github.com/bytemonkk/hyperspectral-image-classification,0,0,Python,,2026-05-29T12:42:21Z,2026-05-30,True,Long Context
-1253742622,ipatovdatascience-alt/transcrib_ssm,transcrib_ssm,https://github.com/ipatovdatascience-alt/transcrib_ssm,0,1,Python,,2026-05-29T19:13:20Z,2026-05-30,True,Long Context
-1253366485,lyw-xz/JAVA-fburmzozzw-Python,基于SSM的ssm基于SSM的旅游管理系统+jsp,https://github.com/lyw-xz/JAVA-fburmzozzw-Python,0,0,Java,,2026-05-29T11:43:49Z,2026-05-30,True,Long Context
-1253365325,lyw-xz/JAVA-eilwgdwuuz-Python,基于SSM的ssm物业管理+jsp,https://github.com/lyw-xz/JAVA-eilwgdwuuz-Python,0,0,Java,,2026-05-29T11:42:25Z,2026-05-30,True,Long Context
-1253201553,rebecca2005-s3/ssmzzc,,https://github.com/rebecca2005-s3/ssmzzc,0,0,,,2026-05-29T08:34:58Z,2026-05-30,True,Long Context
-1253981221,brace2frid/ssmury,,https://github.com/brace2frid/ssmury,0,0,,,2026-05-30T02:23:45Z,2026-05-30,True,Long Context
-1253499851,hopemidgevalve/ssmmumzl,,https://github.com/hopemidgevalve/ssmmumzl,0,0,,,2026-05-29T14:25:27Z,2026-05-30,True,Long Context
-1253892368,edvyszrdime/ssmezj,,https://github.com/edvyszrdime/ssmezj,0,0,,,2026-05-29T23:18:44Z,2026-05-30,True,Long Context
-1253952912,bgowownik/ssmxrs,,https://github.com/bgowownik/ssmxrs,0,0,,,2026-05-30T01:22:49Z,2026-05-30,True,Long Context
-1253969734,bwhitehous/ssmkmw,,https://github.com/bwhitehous/ssmkmw,0,0,,,2026-05-30T01:59:27Z,2026-05-30,True,Long Context
-1253368851,lyw-xz/JAVA-hezqfctqxn-Python,基于SSM的ssm广告管理系统+vue,https://github.com/lyw-xz/JAVA-hezqfctqxn-Python,0,0,Java,,2026-05-29T11:46:42Z,2026-05-30,True,Long Context
-1253371142,lyw-xz/JAVA-kchsbvdgeh-Python,基于SSM的ssm课程管理系统+vue,https://github.com/lyw-xz/JAVA-kchsbvdgeh-Python,0,0,Java,,2026-05-29T11:49:36Z,2026-05-30,True,Long Context
-1253367031,lyw-xz/JAVA-fpyrsgkzqw-Python,基于SSM的ssm汽车租赁系统+jsp,https://github.com/lyw-xz/JAVA-fpyrsgkzqw-Python,0,0,Java,,2026-05-29T11:44:31Z,2026-05-30,True,Long Context
-1253364700,lyw-xz/JAVA-egjbswvqwf-Python,基于SSM的ssm楼房销售系统+jsp,https://github.com/lyw-xz/JAVA-egjbswvqwf-Python,0,0,Java,,2026-05-29T11:41:40Z,2026-05-30,True,Long Context
-1253358821,lyw-xz/JAVA-bcypnykgkg-Python,基于SSM的基于ssm的软考系统+vue,https://github.com/lyw-xz/JAVA-bcypnykgkg-Python,0,0,Java,,2026-05-29T11:34:58Z,2026-05-30,True,Long Context
-1253324972,Lanadya/bayesian-native-ssm, Credence-State Foundation Models — SPRIND NFAI 2026 Stage-1 reference skeleton (Apache 2.0),https://github.com/Lanadya/bayesian-native-ssm,0,0,Python,,2026-05-29T10:54:51Z,2026-05-30,True,Long Context
-1253151417,qi626/stu_pysical_ssm,,https://github.com/qi626/stu_pysical_ssm,0,0,Vue,,2026-05-29T07:39:55Z,2026-05-30,True,Long Context
-1253906091,varshinicb1/hyper-ssm-ultimate,"Hyper-SSM 2026 Ultimate — Production-grade Lorentzian State-Space Model with Liquid Experts, cuTile-inspired Tiled Compressor, and real cuda-oxide Rust kernels. Full hybrid architecture + world-class training infrastructure.",https://github.com/varshinicb1/hyper-ssm-ultimate,1,0,Python,,2026-05-29T23:46:54Z,2026-05-30,True,Long Context
-1253979024,SEMHAQ/ssm-adaptive-filter,,https://github.com/SEMHAQ/ssm-adaptive-filter,0,0,TeX,,2026-05-30T02:19:06Z,2026-05-30,True,Long Context
-1253358450,lyw-xz/JAVA-bcuqmabmco-Python,基于SSM的ssm宠物医院管理系统+vue,https://github.com/lyw-xz/JAVA-bcuqmabmco-Python,0,0,Java,,2026-05-29T11:34:31Z,2026-05-30,True,Long Context
-1253357554,lyw-xz/JAVA-apmtcmowif-Python,基于SSM的ssm酒店客房管理系统+jsp,https://github.com/lyw-xz/JAVA-apmtcmowif-Python,0,0,Java,,2026-05-29T11:33:28Z,2026-05-30,True,Long Context
-1253370935,lyw-xz/JAVA-jqmhbtkkza-Python,基于SSM的ssm新生报道管理系统+jsp,https://github.com/lyw-xz/JAVA-jqmhbtkkza-Python,0,0,Java,,2026-05-29T11:49:18Z,2026-05-30,True,Long Context
-1253357825,lyw-xz/JAVA-atzrbcboew-Python,基于SSM的ssm社区生鲜电商平台+vue,https://github.com/lyw-xz/JAVA-atzrbcboew-Python,0,0,Java,,2026-05-29T11:33:47Z,2026-05-30,True,Long Context
-1253362366,lyw-xz/JAVA-czmhuhumog-Python,基于SSM的ssm图书管理借阅系统+jsp,https://github.com/lyw-xz/JAVA-czmhuhumog-Python,0,0,Java,,2026-05-29T11:39:02Z,2026-05-30,True,Long Context
-1253366797,lyw-xz/JAVA-flmwrtbfnq-Python,基于SSM的ssm本科生导师指导平台+vue,https://github.com/lyw-xz/JAVA-flmwrtbfnq-Python,0,0,Java,,2026-05-29T11:44:13Z,2026-05-30,True,Long Context
-1253964572,snighsbwang/Graduation-wjquoaucav-Project,基于SSM+Vue的基于SSM的酒店管理系统,https://github.com/snighsbwang/Graduation-wjquoaucav-Project,0,0,Java,,2026-05-30T01:47:46Z,2026-05-30,True,Long Context
-1253364969,lyw-xz/JAVA-ehapcncaml-Python,基于SSM的ssm作业提交与查收系统+jsp,https://github.com/lyw-xz/JAVA-ehapcncaml-Python,0,0,Java,,2026-05-29T11:42:00Z,2026-05-30,True,Long Context
-1253357313,lyw-xz/JAVA-aniaszgmen-Python,基于SSM的ssm毕业生交流学习平台+vue,https://github.com/lyw-xz/JAVA-aniaszgmen-Python,0,0,Java,,2026-05-29T11:33:10Z,2026-05-30,True,Long Context
-1253196927,Jeff146354/capstone-ssmi-ruang-rapat,Projek Capstone tentang Aplikasi Peminjaman Ruang SSMI,https://github.com/Jeff146354/capstone-ssmi-ruang-rapat,0,0,PHP,,2026-05-29T08:30:00Z,2026-05-30,True,Long Context
-1253359137,lyw-xz/JAVA-befbpailrg-Python,基于SSM的ssm考研图书电子商务平台+vue,https://github.com/lyw-xz/JAVA-befbpailrg-Python,0,0,Java,,2026-05-29T11:35:20Z,2026-05-30,True,Long Context
-1253363706,lyw-xz/JAVA-dqoohzhdbg-Python,基于SSM的ssm超市库存商品管理系统+jsp,https://github.com/lyw-xz/JAVA-dqoohzhdbg-Python,0,0,Java,,2026-05-29T11:40:35Z,2026-05-30,True,Long Context
-1253364397,lyw-xz/JAVA-eetidiwmei-Python,基于SSM的ssm流浪动物领养系统网站+jsp,https://github.com/lyw-xz/JAVA-eetidiwmei-Python,0,0,Java,,2026-05-29T11:41:19Z,2026-05-30,True,Long Context
-1253362705,lyw-xz/JAVA-dihefbqqkn-Python,基于SSM的ssm办公自动化管理系统java+vue,https://github.com/lyw-xz/JAVA-dihefbqqkn-Python,0,0,Java,,2026-05-29T11:39:25Z,2026-05-30,True,Long Context
-1253361429,lyw-xz/JAVA-cpvknqfrhs-Python,基于SSM的ssm个人网站的设计与实现+vue,https://github.com/lyw-xz/JAVA-cpvknqfrhs-Python,0,0,Java,,2026-05-29T11:37:56Z,2026-05-30,True,Long Context
-1253365670,lyw-xz/JAVA-engxptiaro-Python,基于SSM的ssm基于jsp的网络书店系统+jsp,https://github.com/lyw-xz/JAVA-engxptiaro-Python,0,0,Java,,2026-05-29T11:42:46Z,2026-05-30,True,Long Context
-1253962859,snighsbwang/Graduation-uuyqbsonjv-Project,基于SSM+Vue的基于SSM的淘宝屋购物商城,https://github.com/snighsbwang/Graduation-uuyqbsonjv-Project,0,0,Java,,2026-05-30T01:43:56Z,2026-05-30,True,Long Context
-1253369144,lyw-xz/JAVA-hhnyygmrox-Python,基于SSM的ssm电脑公司财务管理系统+vue,https://github.com/lyw-xz/JAVA-hhnyygmrox-Python,0,0,Java,,2026-05-29T11:47:03Z,2026-05-30,True,Long Context
-1253957176,azizbek-coderdev/auto-repo-1450-1780104697609-ssme,Auto-generated #1450,https://github.com/azizbek-coderdev/auto-repo-1450-1780104697609-ssme,0,0,,,2026-05-30T01:31:39Z,2026-05-30,True,Long Context
-1253777257,JoysonPrince/ssms-exploratory-data-analysis-EDA,This is a must-do act for any data analyst before asking the business queries,https://github.com/JoysonPrince/ssms-exploratory-data-analysis-EDA,0,0,,,2026-05-29T20:02:17Z,2026-05-30,True,Long Context
-1253368511,lyw-xz/JAVA-heesponvcj-Python,基于SSM的基于SSM的药店药品销售系统+vue,https://github.com/lyw-xz/JAVA-heesponvcj-Python,0,0,Java,,2026-05-29T11:46:20Z,2026-05-30,True,Long Context
-1253365949,lyw-xz/JAVA-erqzfzvwwt-Python,基于SSM的ssm社区智慧养老监护管理平台+vue,https://github.com/lyw-xz/JAVA-erqzfzvwwt-Python,0,0,Java,,2026-05-29T11:43:08Z,2026-05-30,True,Long Context
-1253371774,lyw-xz/JAVA-ktjraunoqb-Python,基于SSM的基于SSM框架的高校试题管理系统,https://github.com/lyw-xz/JAVA-ktjraunoqb-Python,0,0,Java,,2026-05-29T11:50:25Z,2026-05-30,True,Long Context
-1253196703,NicuIvanHSE/NicuIvanHSE,Health Safety & Enviroment Consultancy SSM PSI Mediu Consultanta ,https://github.com/NicuIvanHSE/NicuIvanHSE,0,0,,,2026-05-29T08:29:44Z,2026-05-30,True,Long Context
-1253826788,actions-marketplace-validations/mutex-loom_chamber-aws-ssm-parameter-store,,https://github.com/actions-marketplace-validations/mutex-loom_chamber-aws-ssm-parameter-store,0,0,JavaScript,,2026-05-29T21:17:40Z,2026-05-30,True,Long Context
-1253326132,ruchijuyalrj-byte/Important-SQL-code-MySQL-and-SSMS-,,https://github.com/ruchijuyalrj-byte/Important-SQL-code-MySQL-and-SSMS-,0,0,,,2026-05-29T10:56:09Z,2026-05-30,True,Long Context
-1253209929,NicuIvanHSE/NicuIvan,Health Safety & Enviroment Consultancy SSM PSI Mediu Consultanta ,https://github.com/NicuIvanHSE/NicuIvan,0,0,HTML,,2026-05-29T08:44:31Z,2026-05-30,True,Long Context
-1253951525,snighsbwang/Graduation-bubsboxala-Project,基于SSM+JSP的网上宠物店,https://github.com/snighsbwang/Graduation-bubsboxala-Project,0,0,Java,,2026-05-30T01:20:04Z,2026-05-30,True,Long Context
-1253959879,snighsbwang/Graduation-qjbvrwpodg-Project,基于SSM+JSP的专业实习网站,https://github.com/snighsbwang/Graduation-qjbvrwpodg-Project,0,0,Java,,2026-05-30T01:37:40Z,2026-05-30,True,Long Context
-1253958353,snighsbwang/Graduation-ojhlpztued-Project,基于SSM+Vue的家教服务平台,https://github.com/snighsbwang/Graduation-ojhlpztued-Project,0,0,Java,,2026-05-30T01:34:18Z,2026-05-30,True,Long Context
-1253962695,snighsbwang/Graduation-utmposfmep-Project,基于SSM+JSP的有机蔬菜商城,https://github.com/snighsbwang/Graduation-utmposfmep-Project,0,0,Java,,2026-05-30T01:43:35Z,2026-05-30,True,Long Context
-1253958532,snighsbwang/Graduation-okcwrkitnb-Project,基于SSM+JSP的电影购票系统,https://github.com/snighsbwang/Graduation-okcwrkitnb-Project,0,0,Java,,2026-05-30T01:34:41Z,2026-05-30,True,Long Context
-1253951138,snighsbwang/Graduation-auxiafjdhn-Project,基于SSM+JSP的在线图书管理,https://github.com/snighsbwang/Graduation-auxiafjdhn-Project,0,0,Java,,2026-05-30T01:19:20Z,2026-05-30,True,Long Context
-1253955670,snighsbwang/Graduation-jnylionhtm-Project,基于SSM+JSP的泉文化管理系统,https://github.com/snighsbwang/Graduation-jnylionhtm-Project,0,0,Java,,2026-05-30T01:28:24Z,2026-05-30,True,Long Context
-1253965067,snighsbwang/Graduation-xigxhzgafd-Project,基于SSM+JSP的企业仓储管理系统,https://github.com/snighsbwang/Graduation-xigxhzgafd-Project,0,0,Java,,2026-05-30T01:48:55Z,2026-05-30,True,Long Context
-1253956008,snighsbwang/Graduation-jvnwqazvzz-Project,基于SSM+JSP的古诗词数字化平台,https://github.com/snighsbwang/Graduation-jvnwqazvzz-Project,0,0,Java,,2026-05-30T01:29:08Z,2026-05-30,True,Long Context
-1253957441,snighsbwang/Graduation-mlffubxhgv-Project,基于SSM+JSP的游戏售卖网站(论文),https://github.com/snighsbwang/Graduation-mlffubxhgv-Project,0,0,Java,,2026-05-30T01:32:14Z,2026-05-30,True,Long Context
-1253965559,snighsbwang/Graduation-yinpdxzasx-Project,基于SSM+Vue的课程智能组卷系统,https://github.com/snighsbwang/Graduation-yinpdxzasx-Project,0,0,Java,,2026-05-30T01:49:56Z,2026-05-30,True,Long Context
-1253956768,snighsbwang/Graduation-kpkufezozk-Project,基于微信小程序(ssm)的ssm具有推荐功能的二手交易平台小程序设计与实现,https://github.com/snighsbwang/Graduation-kpkufezozk-Project,0,0,Java,,2026-05-30T01:30:51Z,2026-05-30,True,Long Context
-1253964918,snighsbwang/Graduation-wvlournwki-Project,基于SSM+JSP的计算机考试系统设计,https://github.com/snighsbwang/Graduation-wvlournwki-Project,0,0,Java,,2026-05-30T01:48:33Z,2026-05-30,True,Long Context
-1253957573,snighsbwang/Graduation-nfnvbbemax-Project,基于SSM+Vue的五台山景点购票系统,https://github.com/snighsbwang/Graduation-nfnvbbemax-Project,0,0,Java,,2026-05-30T01:32:35Z,2026-05-30,True,Long Context
-1253960719,snighsbwang/Graduation-qzjvuspvlc-Project,基于SSM+JSP的超市进销存管理系统,https://github.com/snighsbwang/Graduation-qzjvuspvlc-Project,0,0,Java,,2026-05-30T01:39:24Z,2026-05-30,True,Long Context
-1253962028,snighsbwang/Graduation-uaseesnngn-Project,基于SSM+JSP的java乾美美容院管理系统,https://github.com/snighsbwang/Graduation-uaseesnngn-Project,0,0,Java,,2026-05-30T01:42:13Z,2026-05-30,True,Long Context
-1253360018,lyw-xz/JAVA-bwwdjblkxd-Python,基于SSM的计算机office课程平台设计+vue,https://github.com/lyw-xz/JAVA-bwwdjblkxd-Python,0,0,Java,,2026-05-29T11:36:20Z,2026-05-30,True,Long Context
-1253953380,snighsbwang/Graduation-gdzwkpunyk-Project,基于SSM+JSP的高校校园招聘服务系统,https://github.com/snighsbwang/Graduation-gdzwkpunyk-Project,0,0,Java,,2026-05-30T01:23:47Z,2026-05-30,True,Long Context
-1253955857,snighsbwang/Graduation-jvbcppjfbz-Project,基于SSM+JSP的人体健康信息管理系统,https://github.com/snighsbwang/Graduation-jvbcppjfbz-Project,0,0,Java,,2026-05-30T01:28:48Z,2026-05-30,True,Long Context
-1253964427,snighsbwang/Graduation-vyxhxldzww-Project,基于微信小程序(ssm)的ssm基于微信小程序的大学校园失物招领系统的设计与实现,https://github.com/snighsbwang/Graduation-vyxhxldzww-Project,0,0,Java,,2026-05-30T01:47:29Z,2026-05-30,True,Long Context
-1253956447,snighsbwang/Graduation-jyfqhyrscr-Project,基于SSM+JSP的疫情防控志愿者管理系统,https://github.com/snighsbwang/Graduation-jyfqhyrscr-Project,0,0,Java,,2026-05-30T01:30:07Z,2026-05-30,True,Long Context
-1253356697,lyw-xz/JAVA-acbsmkrzmx-Python,基于SSM的在线教学质量评价系统的+vue,https://github.com/lyw-xz/JAVA-acbsmkrzmx-Python,0,0,Java,,2026-05-29T11:32:25Z,2026-05-30,True,Long Context
-1253361083,lyw-xz/JAVA-cojlraefxa-Python,基于SSM的基于vue和JAVA的生产管理系统,https://github.com/lyw-xz/JAVA-cojlraefxa-Python,0,0,Java,,2026-05-29T11:37:33Z,2026-05-30,True,Long Context
-1253965759,snighsbwang/Graduation-yjwddittyn-Project,基于SSM+Vue的基于Java的智能台球厅系统,https://github.com/snighsbwang/Graduation-yjwddittyn-Project,0,0,Java,,2026-05-30T01:50:22Z,2026-05-30,True,Long Context
-1253959297,snighsbwang/Graduation-pzmqnlhhrf-Project,基于SSM+JSP的校园网书店的设计与实现,https://github.com/snighsbwang/Graduation-pzmqnlhhrf-Project,0,0,Java,,2026-05-30T01:36:20Z,2026-05-30,True,Long Context
-1253964140,snighsbwang/Graduation-vtirotzbuh-Project,基于SSM+JSP的校园办公室报修管理系统,https://github.com/snighsbwang/Graduation-vtirotzbuh-Project,0,0,Java,,2026-05-30T01:46:50Z,2026-05-30,True,Long Context
-1253614340,pham0158/vpc-peering-lab,"Multi-VPC Kubernetes cluster on AWS using Terraform, kubeadm, and SSM — no bastion, no SSH keys",https://github.com/pham0158/vpc-peering-lab,0,0,HCL,,2026-05-29T16:36:21Z,2026-05-30,True,Long Context
-1253366214,lyw-xz/JAVA-eybihigzaj-Python,基于SSM的农业信息化服务平台的设计+vue,https://github.com/lyw-xz/JAVA-eybihigzaj-Python,0,0,Java,,2026-05-29T11:43:27Z,2026-05-30,True,Long Context
-1253961641,snighsbwang/Graduation-svlgmpimev-Project,基于SSM+Vue的基于Javaweb的物流管理系统(论文),https://github.com/snighsbwang/Graduation-svlgmpimev-Project,0,0,Java,,2026-05-30T01:41:19Z,2026-05-30,True,Long Context
-1253669981,Dileep0509/retail-sales-pipeline-analytics,"An end-to-end data engineering and analytics project using Python, Pandas, MS SQL Server, and SSMS",https://github.com/Dileep0509/retail-sales-pipeline-analytics,0,0,Jupyter Notebook,,2026-05-29T17:42:28Z,2026-05-30,True,Long Context
-1253733743,folk00/aws-tgw-segmentation-routing-lab,"AWS Transit Gateway segmentation routing lab with Terraform, TGW route tables, propagations, blackhole routes, and SSM validation.",https://github.com/folk00/aws-tgw-segmentation-routing-lab,0,0,HCL,"aws,cloud-networking,networking,ssm,terraform,tgw,transit-gateway",2026-05-29T19:01:11Z,2026-05-30,True,Long Context
-1253362040,lyw-xz/JAVA-crvnwaxmab-Python,基于SSM的WEB的开放性实验室管理系统+vue,https://github.com/lyw-xz/JAVA-crvnwaxmab-Python,0,0,Java,,2026-05-29T11:38:40Z,2026-05-30,True,Long Context
-1253359395,lyw-xz/JAVA-bpohgcxric-Python,基于SSM的vue框架技术的漫画网站系统+vue,https://github.com/lyw-xz/JAVA-bpohgcxric-Python,0,0,Java,,2026-05-29T11:35:38Z,2026-05-30,True,Long Context
-1253370077,lyw-xz/JAVA-ighdravkfq-Python,基于SSM的网页版电子商城设计与实现+vue,https://github.com/lyw-xz/JAVA-ighdravkfq-Python,0,0,Java,,2026-05-29T11:48:13Z,2026-05-30,True,Long Context
-1253371399,lyw-xz/JAVA-krfewykdap-Python,基于SSM的楚师师生健康管理系统设计+vue,https://github.com/lyw-xz/JAVA-krfewykdap-Python,0,0,Java,,2026-05-29T11:49:57Z,2026-05-30,True,Long Context
-1253363076,lyw-xz/JAVA-dkwgbyprix-Python,基于SSM的KTV包厢管理系统的设计与实现+vue,https://github.com/lyw-xz/JAVA-dkwgbyprix-Python,0,0,Java,,2026-05-29T11:39:51Z,2026-05-30,True,Long Context
-1253360698,lyw-xz/JAVA-cjczwlmsdc-Python,基于SSM的演唱会购票系统的设计与实现+vue,https://github.com/lyw-xz/JAVA-cjczwlmsdc-Python,0,0,Java,,2026-05-29T11:37:08Z,2026-05-30,True,Long Context
-1253367327,lyw-xz/JAVA-fyccukzcph-Python,基于SSM的汽车租赁系统业务管理子系统+vue,https://github.com/lyw-xz/JAVA-fyccukzcph-Python,0,0,Java,,2026-05-29T11:44:53Z,2026-05-30,True,Long Context
-1253369438,lyw-xz/JAVA-hrulnfzzxx-Python,基于SSM的校园二手交易网站设计与实现+vue,https://github.com/lyw-xz/JAVA-hrulnfzzxx-Python,0,0,Java,,2026-05-29T11:47:26Z,2026-05-30,True,Long Context
-1253959053,snighsbwang/Graduation-pfsxfmvnmx-Project,基于SSM+JSP的篮球系列网上商城设计与实现,https://github.com/snighsbwang/Graduation-pfsxfmvnmx-Project,0,0,Java,,2026-05-30T01:35:46Z,2026-05-30,True,Long Context
-1253368233,lyw-xz/JAVA-gwwgospakh-Python,基于SSM的国外摇滚乐队交流和周边售卖+vue,https://github.com/lyw-xz/JAVA-gwwgospakh-Python,0,0,Java,,2026-05-29T11:46:00Z,2026-05-30,True,Long Context
-1253956273,snighsbwang/Graduation-jwzzjpxddi-Project,基于SSM+JSP的毕业生生活用品出售网站系统,https://github.com/snighsbwang/Graduation-jwzzjpxddi-Project,0,0,Java,,2026-05-30T01:29:46Z,2026-05-30,True,Long Context
-1253360323,lyw-xz/JAVA-ccyzpbchkx-Python,基于SSM的防疫信息登记系统的设计与实现+jsp,https://github.com/lyw-xz/JAVA-ccyzpbchkx-Python,0,0,Java,,2026-05-29T11:36:42Z,2026-05-30,True,Long Context
-1253367934,lyw-xz/JAVA-godmrfntft-Python,基于SSM的模具制造企业订单跟踪管理系统+vue,https://github.com/lyw-xz/JAVA-godmrfntft-Python,0,0,Java,,2026-05-29T11:45:37Z,2026-05-30,True,Long Context
-1253367641,lyw-xz/JAVA-ggxspqqdmh-Python,基于SSM的学生学情预警系统的设计与实现+vue,https://github.com/lyw-xz/JAVA-ggxspqqdmh-Python,0,0,Java,,2026-05-29T11:45:14Z,2026-05-30,True,Long Context
-1253957316,snighsbwang/Graduation-lwrhlocsct-Project,基于SSM+JSP的在线商品管理系统的设计与实现,https://github.com/snighsbwang/Graduation-lwrhlocsct-Project,0,0,Java,,2026-05-30T01:31:56Z,2026-05-30,True,Long Context
-1253369808,lyw-xz/JAVA-idncmiaktu-Python,基于SSM的公务用车管理智慧云服务监管平台,https://github.com/lyw-xz/JAVA-idncmiaktu-Python,0,0,Java,,2026-05-29T11:47:52Z,2026-05-30,True,Long Context
-1253357012,lyw-xz/JAVA-anbulskdkw-Python,基于SSM的高校宿舍管理系统的设计与开发+jsp,https://github.com/lyw-xz/JAVA-anbulskdkw-Python,0,0,Java,,2026-05-29T11:32:47Z,2026-05-30,True,Long Context
-1253954662,snighsbwang/Graduation-hwztrleluy-Project,基于SSM+Vue的东风锻造有限公司点检管理系统,https://github.com/snighsbwang/Graduation-hwztrleluy-Project,0,0,Java,,2026-05-30T01:26:25Z,2026-05-30,True,Long Context
-1253361739,lyw-xz/JAVA-cqpzunjasj-Python,基于SSM的学生二手书籍交易平台的设计与实,https://github.com/lyw-xz/JAVA-cqpzunjasj-Python,0,0,Java,,2026-05-29T11:38:19Z,2026-05-30,True,Long Context
-1253359725,lyw-xz/JAVA-bwbqrzvnce-Python,基于SSM的“镜头人生”约拍网站的设计与开发+jsp,https://github.com/lyw-xz/JAVA-bwbqrzvnce-Python,0,0,Java,,2026-05-29T11:36:02Z,2026-05-30,True,Long Context
-1253966012,snighsbwang/Graduation-zpavopxszh-Project,基于微信小程序(ssm)的健康饮食管理微信小程序,https://github.com/snighsbwang/Graduation-zpavopxszh-Project,0,0,Java,,2026-05-30T01:51:03Z,2026-05-30,True,Long Context
-1253363391,lyw-xz/JAVA-dpejunehey-Python,基于SSM的计算机科学与技术学习网站的设计+jsp,https://github.com/lyw-xz/JAVA-dpejunehey-Python,0,0,Java,,2026-05-29T11:40:14Z,2026-05-30,True,Long Context
-1253370661,lyw-xz/JAVA-japxyieuem-Python,基于SSM的中学课内小说阅读与学习系统的设计,https://github.com/lyw-xz/JAVA-japxyieuem-Python,0,0,Java,,2026-05-29T11:48:56Z,2026-05-30,True,Long Context
-1253954159,snighsbwang/Graduation-hjaqstlxbj-Project,基于微信小程序(ssm)的小程序 旅游自助拼团系统,https://github.com/snighsbwang/Graduation-hjaqstlxbj-Project,0,0,Java,,2026-05-30T01:25:26Z,2026-05-30,True,Long Context
-1253364068,lyw-xz/JAVA-dtjoyltjvb-Python,基于SSM的电动车上牌管理系统的设计与实现+jsp,https://github.com/lyw-xz/JAVA-dtjoyltjvb-Python,0,0,Java,,2026-05-29T11:40:57Z,2026-05-30,True,Long Context
-1253358128,lyw-xz/JAVA-bbcehymjwi-Python,基于SSM的双星小区物业管理系统的设计与实现,https://github.com/lyw-xz/JAVA-bbcehymjwi-Python,0,0,Java,,2026-05-29T11:34:09Z,2026-05-30,True,Long Context
-1253370397,lyw-xz/JAVA-imbwzetjez-Python,基于SSM的青海大学昆仑学院学生档案管理系统,https://github.com/lyw-xz/JAVA-imbwzetjez-Python,0,0,Java,,2026-05-29T11:48:35Z,2026-05-30,True,Long Context
-1253953676,snighsbwang/Graduation-gxuvchksxr-Project,基于SSM+JSP的尤文图斯足球俱乐部网上商城系统,https://github.com/snighsbwang/Graduation-gxuvchksxr-Project,0,0,Java,,2026-05-30T01:24:26Z,2026-05-30,True,Long Context
-1253960039,snighsbwang/Graduation-qojgqqcsji-Project,基于SSM+JSP的基于JSP的人才招聘网站的设计与实现,https://github.com/snighsbwang/Graduation-qojgqqcsji-Project,0,0,Java,,2026-05-30T01:38:01Z,2026-05-30,True,Long Context
-1253966213,snighsbwang/Graduation-zwrwwtmmvu-Project,基于SSM+Vue的基于Java的“健康食谱”食材搭配管理系统,https://github.com/snighsbwang/Graduation-zwrwwtmmvu-Project,0,0,Java,,2026-05-30T01:51:27Z,2026-05-30,True,Long Context
-1253962529,snighsbwang/Graduation-ugskgbdhsa-Project,基于SSM+JSP的青少年体质健康数据管理与分析系统,https://github.com/snighsbwang/Graduation-ugskgbdhsa-Project,0,0,Java,,2026-05-30T01:43:16Z,2026-05-30,True,Long Context
-1253955143,snighsbwang/Graduation-iivwiefmcw-Project,基于微信小程序(ssm)的微信小程序的学生选课系统,https://github.com/snighsbwang/Graduation-iivwiefmcw-Project,0,0,Java,,2026-05-30T01:27:21Z,2026-05-30,True,Long Context
-1254061647,Expecto-Star/sky-take-out,跟着黑马程序员《苍穹外卖》项目实战，SpringBoot+SSM企业级项目,https://github.com/Expecto-Star/sky-take-out,0,0,,,2026-05-30T05:16:24Z,2026-05-30,True,Long Context
-1253953537,snighsbwang/Graduation-ghlynbjzui-Project,基于SSM+JSP的黄河交通学院教学质量评价系统的设计与实现,https://github.com/snighsbwang/Graduation-ghlynbjzui-Project,0,0,Java,,2026-05-30T01:24:08Z,2026-05-30,True,Long Context
-1253950227,mehongs/Covid-Deaths-and-Vaccinations-Analysis,"This project is done using Excel, SSMS, and Tableau to look at the different trends and rates of COVID infections and deaths. Credits to Alex the Analyst on YouTube.",https://github.com/mehongs/Covid-Deaths-and-Vaccinations-Analysis,0,0,,,2026-05-30T01:17:38Z,2026-05-30,True,Long Context
-1253960179,snighsbwang/Graduation-qscrewoghb-Project,基于微信小程序(ssm)的面向品牌会员的在线商城微信小程序微信端演示,https://github.com/snighsbwang/Graduation-qscrewoghb-Project,0,0,Java,,2026-05-30T01:38:19Z,2026-05-30,True,Long Context
-1253748621,prakulhiremath/parallelwatch,🧠 Real-time multivariate temporal correlation and anomaly detection primitive. Leverages structured state-space sequence modeling (SSMs) to map system failures across massive telemetry streams without O(M^2) cross-attention overhead.,https://github.com/prakulhiremath/parallelwatch,1,0,Python,,2026-05-29T19:21:26Z,2026-05-30,True,Long Context
-1254016260,hangdoanthu/xom-coffee-sql,"SQL case study on a specialty coffee chain (3 Manhattan locations) : 12 queries covering peak hours, slow days, MoM growth, cross-sell rate, and top SKUs per store. Written in SQL Server (SSMS).",https://github.com/hangdoanthu/xom-coffee-sql,0,0,,,2026-05-30T03:38:07Z,2026-05-30,True,Long Context
-1253094572,ilyesgouider/HSTN-Time-Series-Forecasting,"HSTN (Hybrid Seasonal-Trend Network) is a deep learning architecture designed for long-term time-series forecasting. The model combines seasonal-trend decomposition, Selective State Space Modeling (SSM), and multi-scale convolutional learning to capture both global temporal dependencies and local temporal patterns efficiently.",https://github.com/ilyesgouider/HSTN-Time-Series-Forecasting,0,0,,,2026-05-29T06:34:50Z,2026-05-30,True,Long Context
+1254005396,ekuznetsov139/long-context-benchmark,Simple long-context vLLM benchmark,https://github.com/ekuznetsov139/long-context-benchmark,0,0,Python,,2026-05-30T03:14:52Z,2026-05-30,False,Long Context
+1253241654,ruufaayl/LCMVRSI,"Long-Context Memory, Verifiable Reasoning, and Scalable Intelligence",https://github.com/ruufaayl/LCMVRSI,0,0,Python,,2026-05-29T09:19:18Z,2026-05-30,False,Long Context
+1254075048,LeoHoW6/MambaPulse,MambaPulse：An Effective Feature-Query Framework for Small Object Detection from Drone View,https://github.com/LeoHoW6/MambaPulse,0,0,,,2026-05-30T05:41:58Z,2026-05-30,False,Long Context
+1253494615,devalab/MambaDDI,,https://github.com/devalab/MambaDDI,0,0,,,2026-05-29T14:19:10Z,2026-05-30,False,Long Context
+1253723705,Luocaca28/MambaJSCC,MambaJSCC_downstream_task,https://github.com/Luocaca28/MambaJSCC,0,0,,,2026-05-29T18:48:22Z,2026-05-30,False,Long Context
+1253369799,zhongliu633-hub/mamba,,https://github.com/zhongliu633-hub/mamba,0,0,,,2026-05-29T11:47:51Z,2026-05-30,False,Long Context
+1253532911,noname2333333/mambamaj,天凤牢大语音包,https://github.com/noname2333333/mambamaj,0,0,,,2026-05-29T15:03:08Z,2026-05-30,False,Long Context
+1253255025,ningyuding499-afk/Mambate-AI,,https://github.com/ningyuding499-afk/Mambate-AI,0,0,TypeScript,,2026-05-29T09:34:08Z,2026-05-30,False,Long Context
+1253528898,yzaishandsome/Wind-mamba,,https://github.com/yzaishandsome/Wind-mamba,0,0,Python,,2026-05-29T14:58:17Z,2026-05-30,False,Long Context
+1253315540,nebulaHZH/mamba_daisy,,https://github.com/nebulaHZH/mamba_daisy,1,0,Python,,2026-05-29T10:43:38Z,2026-05-30,False,Long Context
+1253466349,imhoangt/WaveConvMamba,,https://github.com/imhoangt/WaveConvMamba,0,0,Python,,2026-05-29T13:45:33Z,2026-05-30,False,Long Context
+1253307718,swatish434/SF-MAMBA-CD,This repository contains code files and documentation to the paper SF-MAMBA-CD !,https://github.com/swatish434/SF-MAMBA-CD,1,0,Python,,2026-05-29T10:34:04Z,2026-05-30,False,Long Context
+1253589535,HoveyQAQ/LF-EPI-Mamba-SASR,,https://github.com/HoveyQAQ/LF-EPI-Mamba-SASR,0,0,Python,,2026-05-29T16:07:46Z,2026-05-30,False,Long Context
+1253647391,paulbai/scarlet-lounge-menu,"Scarlet Lounge digital drinks menu — Mamba Point Hotel, Freetown",https://github.com/paulbai/scarlet-lounge-menu,0,0,HTML,,2026-05-29T17:15:52Z,2026-05-30,False,Long Context
+1253523554,hinanohart/polewright,Compile classical analog-filter specs into constructively-stable complex-diagonal init weights for SSM / linear-RNN layers (S4D / Mamba / FLA).,https://github.com/hinanohart/polewright,0,0,Python,"filter-design,initialization,linear-attention,mamba,pole-placement,pytorch,s4d,signal-processing,ssm,state-space-models",2026-05-29T14:52:08Z,2026-05-30,False,Long Context
+1253413980,bytemonkk/hyperspectral-image-classification,MF-HSINet is a lightweight dual-branch hyperspectral image classification framework that independently learns spectral and spatial features and fuses them using a Mamba-Enhanced Attention Fusion module. It captures long-range dependencies efficiently while reducing computational cost for real-time HSI analysis.,https://github.com/bytemonkk/hyperspectral-image-classification,0,0,Python,,2026-05-29T12:42:21Z,2026-05-30,False,Long Context
+1253742622,ipatovdatascience-alt/transcrib_ssm,transcrib_ssm,https://github.com/ipatovdatascience-alt/transcrib_ssm,0,1,Python,,2026-05-29T19:13:20Z,2026-05-30,False,Long Context
+1253366485,lyw-xz/JAVA-fburmzozzw-Python,基于SSM的ssm基于SSM的旅游管理系统+jsp,https://github.com/lyw-xz/JAVA-fburmzozzw-Python,0,0,Java,,2026-05-29T11:43:49Z,2026-05-30,False,Long Context
+1253365325,lyw-xz/JAVA-eilwgdwuuz-Python,基于SSM的ssm物业管理+jsp,https://github.com/lyw-xz/JAVA-eilwgdwuuz-Python,0,0,Java,,2026-05-29T11:42:25Z,2026-05-30,False,Long Context
+1253201553,rebecca2005-s3/ssmzzc,,https://github.com/rebecca2005-s3/ssmzzc,0,0,,,2026-05-29T08:34:58Z,2026-05-30,False,Long Context
+1253981221,brace2frid/ssmury,,https://github.com/brace2frid/ssmury,0,0,,,2026-05-30T02:23:45Z,2026-05-30,False,Long Context
+1253499851,hopemidgevalve/ssmmumzl,,https://github.com/hopemidgevalve/ssmmumzl,0,0,,,2026-05-29T14:25:27Z,2026-05-30,False,Long Context
+1253892368,edvyszrdime/ssmezj,,https://github.com/edvyszrdime/ssmezj,0,0,,,2026-05-29T23:18:44Z,2026-05-30,False,Long Context
+1253952912,bgowownik/ssmxrs,,https://github.com/bgowownik/ssmxrs,0,0,,,2026-05-30T01:22:49Z,2026-05-30,False,Long Context
+1253969734,bwhitehous/ssmkmw,,https://github.com/bwhitehous/ssmkmw,0,0,,,2026-05-30T01:59:27Z,2026-05-30,False,Long Context
+1253368851,lyw-xz/JAVA-hezqfctqxn-Python,基于SSM的ssm广告管理系统+vue,https://github.com/lyw-xz/JAVA-hezqfctqxn-Python,0,0,Java,,2026-05-29T11:46:42Z,2026-05-30,False,Long Context
+1253371142,lyw-xz/JAVA-kchsbvdgeh-Python,基于SSM的ssm课程管理系统+vue,https://github.com/lyw-xz/JAVA-kchsbvdgeh-Python,0,0,Java,,2026-05-29T11:49:36Z,2026-05-30,False,Long Context
+1253367031,lyw-xz/JAVA-fpyrsgkzqw-Python,基于SSM的ssm汽车租赁系统+jsp,https://github.com/lyw-xz/JAVA-fpyrsgkzqw-Python,0,0,Java,,2026-05-29T11:44:31Z,2026-05-30,False,Long Context
+1253364700,lyw-xz/JAVA-egjbswvqwf-Python,基于SSM的ssm楼房销售系统+jsp,https://github.com/lyw-xz/JAVA-egjbswvqwf-Python,0,0,Java,,2026-05-29T11:41:40Z,2026-05-30,False,Long Context
+1253358821,lyw-xz/JAVA-bcypnykgkg-Python,基于SSM的基于ssm的软考系统+vue,https://github.com/lyw-xz/JAVA-bcypnykgkg-Python,0,0,Java,,2026-05-29T11:34:58Z,2026-05-30,False,Long Context
+1253324972,Lanadya/bayesian-native-ssm, Credence-State Foundation Models — SPRIND NFAI 2026 Stage-1 reference skeleton (Apache 2.0),https://github.com/Lanadya/bayesian-native-ssm,0,0,Python,,2026-05-29T10:54:51Z,2026-05-30,False,Long Context
+1253151417,qi626/stu_pysical_ssm,,https://github.com/qi626/stu_pysical_ssm,0,0,Vue,,2026-05-29T07:39:55Z,2026-05-30,False,Long Context
+1253906091,varshinicb1/hyper-ssm-ultimate,"Hyper-SSM 2026 Ultimate — Production-grade Lorentzian State-Space Model with Liquid Experts, cuTile-inspired Tiled Compressor, and real cuda-oxide Rust kernels. Full hybrid architecture + world-class training infrastructure.",https://github.com/varshinicb1/hyper-ssm-ultimate,1,0,Python,,2026-05-29T23:46:54Z,2026-05-30,False,Long Context
+1253979024,SEMHAQ/ssm-adaptive-filter,,https://github.com/SEMHAQ/ssm-adaptive-filter,0,0,TeX,,2026-05-30T02:19:06Z,2026-05-30,False,Long Context
+1253358450,lyw-xz/JAVA-bcuqmabmco-Python,基于SSM的ssm宠物医院管理系统+vue,https://github.com/lyw-xz/JAVA-bcuqmabmco-Python,0,0,Java,,2026-05-29T11:34:31Z,2026-05-30,False,Long Context
+1253357554,lyw-xz/JAVA-apmtcmowif-Python,基于SSM的ssm酒店客房管理系统+jsp,https://github.com/lyw-xz/JAVA-apmtcmowif-Python,0,0,Java,,2026-05-29T11:33:28Z,2026-05-30,False,Long Context
+1253370935,lyw-xz/JAVA-jqmhbtkkza-Python,基于SSM的ssm新生报道管理系统+jsp,https://github.com/lyw-xz/JAVA-jqmhbtkkza-Python,0,0,Java,,2026-05-29T11:49:18Z,2026-05-30,False,Long Context
+1253357825,lyw-xz/JAVA-atzrbcboew-Python,基于SSM的ssm社区生鲜电商平台+vue,https://github.com/lyw-xz/JAVA-atzrbcboew-Python,0,0,Java,,2026-05-29T11:33:47Z,2026-05-30,False,Long Context
+1253362366,lyw-xz/JAVA-czmhuhumog-Python,基于SSM的ssm图书管理借阅系统+jsp,https://github.com/lyw-xz/JAVA-czmhuhumog-Python,0,0,Java,,2026-05-29T11:39:02Z,2026-05-30,False,Long Context
+1253366797,lyw-xz/JAVA-flmwrtbfnq-Python,基于SSM的ssm本科生导师指导平台+vue,https://github.com/lyw-xz/JAVA-flmwrtbfnq-Python,0,0,Java,,2026-05-29T11:44:13Z,2026-05-30,False,Long Context
+1253964572,snighsbwang/Graduation-wjquoaucav-Project,基于SSM+Vue的基于SSM的酒店管理系统,https://github.com/snighsbwang/Graduation-wjquoaucav-Project,0,0,Java,,2026-05-30T01:47:46Z,2026-05-30,False,Long Context
+1253364969,lyw-xz/JAVA-ehapcncaml-Python,基于SSM的ssm作业提交与查收系统+jsp,https://github.com/lyw-xz/JAVA-ehapcncaml-Python,0,0,Java,,2026-05-29T11:42:00Z,2026-05-30,False,Long Context
+1253357313,lyw-xz/JAVA-aniaszgmen-Python,基于SSM的ssm毕业生交流学习平台+vue,https://github.com/lyw-xz/JAVA-aniaszgmen-Python,0,0,Java,,2026-05-29T11:33:10Z,2026-05-30,False,Long Context
+1253196927,Jeff146354/capstone-ssmi-ruang-rapat,Projek Capstone tentang Aplikasi Peminjaman Ruang SSMI,https://github.com/Jeff146354/capstone-ssmi-ruang-rapat,0,0,PHP,,2026-05-29T08:30:00Z,2026-05-30,False,Long Context
+1253359137,lyw-xz/JAVA-befbpailrg-Python,基于SSM的ssm考研图书电子商务平台+vue,https://github.com/lyw-xz/JAVA-befbpailrg-Python,0,0,Java,,2026-05-29T11:35:20Z,2026-05-30,False,Long Context
+1253363706,lyw-xz/JAVA-dqoohzhdbg-Python,基于SSM的ssm超市库存商品管理系统+jsp,https://github.com/lyw-xz/JAVA-dqoohzhdbg-Python,0,0,Java,,2026-05-29T11:40:35Z,2026-05-30,False,Long Context
+1253364397,lyw-xz/JAVA-eetidiwmei-Python,基于SSM的ssm流浪动物领养系统网站+jsp,https://github.com/lyw-xz/JAVA-eetidiwmei-Python,0,0,Java,,2026-05-29T11:41:19Z,2026-05-30,False,Long Context
+1253362705,lyw-xz/JAVA-dihefbqqkn-Python,基于SSM的ssm办公自动化管理系统java+vue,https://github.com/lyw-xz/JAVA-dihefbqqkn-Python,0,0,Java,,2026-05-29T11:39:25Z,2026-05-30,False,Long Context
+1253361429,lyw-xz/JAVA-cpvknqfrhs-Python,基于SSM的ssm个人网站的设计与实现+vue,https://github.com/lyw-xz/JAVA-cpvknqfrhs-Python,0,0,Java,,2026-05-29T11:37:56Z,2026-05-30,False,Long Context
+1253365670,lyw-xz/JAVA-engxptiaro-Python,基于SSM的ssm基于jsp的网络书店系统+jsp,https://github.com/lyw-xz/JAVA-engxptiaro-Python,0,0,Java,,2026-05-29T11:42:46Z,2026-05-30,False,Long Context
+1253962859,snighsbwang/Graduation-uuyqbsonjv-Project,基于SSM+Vue的基于SSM的淘宝屋购物商城,https://github.com/snighsbwang/Graduation-uuyqbsonjv-Project,0,0,Java,,2026-05-30T01:43:56Z,2026-05-30,False,Long Context
+1253369144,lyw-xz/JAVA-hhnyygmrox-Python,基于SSM的ssm电脑公司财务管理系统+vue,https://github.com/lyw-xz/JAVA-hhnyygmrox-Python,0,0,Java,,2026-05-29T11:47:03Z,2026-05-30,False,Long Context
+1253957176,azizbek-coderdev/auto-repo-1450-1780104697609-ssme,Auto-generated #1450,https://github.com/azizbek-coderdev/auto-repo-1450-1780104697609-ssme,0,0,,,2026-05-30T01:31:39Z,2026-05-30,False,Long Context
+1253777257,JoysonPrince/ssms-exploratory-data-analysis-EDA,This is a must-do act for any data analyst before asking the business queries,https://github.com/JoysonPrince/ssms-exploratory-data-analysis-EDA,0,0,,,2026-05-29T20:02:17Z,2026-05-30,False,Long Context
+1253368511,lyw-xz/JAVA-heesponvcj-Python,基于SSM的基于SSM的药店药品销售系统+vue,https://github.com/lyw-xz/JAVA-heesponvcj-Python,0,0,Java,,2026-05-29T11:46:20Z,2026-05-30,False,Long Context
+1253365949,lyw-xz/JAVA-erqzfzvwwt-Python,基于SSM的ssm社区智慧养老监护管理平台+vue,https://github.com/lyw-xz/JAVA-erqzfzvwwt-Python,0,0,Java,,2026-05-29T11:43:08Z,2026-05-30,False,Long Context
+1253371774,lyw-xz/JAVA-ktjraunoqb-Python,基于SSM的基于SSM框架的高校试题管理系统,https://github.com/lyw-xz/JAVA-ktjraunoqb-Python,0,0,Java,,2026-05-29T11:50:25Z,2026-05-30,False,Long Context
+1253196703,NicuIvanHSE/NicuIvanHSE,Health Safety & Enviroment Consultancy SSM PSI Mediu Consultanta ,https://github.com/NicuIvanHSE/NicuIvanHSE,0,0,,,2026-05-29T08:29:44Z,2026-05-30,False,Long Context
+1253826788,actions-marketplace-validations/mutex-loom_chamber-aws-ssm-parameter-store,,https://github.com/actions-marketplace-validations/mutex-loom_chamber-aws-ssm-parameter-store,0,0,JavaScript,,2026-05-29T21:17:40Z,2026-05-30,False,Long Context
+1253326132,ruchijuyalrj-byte/Important-SQL-code-MySQL-and-SSMS-,,https://github.com/ruchijuyalrj-byte/Important-SQL-code-MySQL-and-SSMS-,0,0,,,2026-05-29T10:56:09Z,2026-05-30,False,Long Context
+1253209929,NicuIvanHSE/NicuIvan,Health Safety & Enviroment Consultancy SSM PSI Mediu Consultanta ,https://github.com/NicuIvanHSE/NicuIvan,0,0,HTML,,2026-05-29T08:44:31Z,2026-05-30,False,Long Context
+1253951525,snighsbwang/Graduation-bubsboxala-Project,基于SSM+JSP的网上宠物店,https://github.com/snighsbwang/Graduation-bubsboxala-Project,0,0,Java,,2026-05-30T01:20:04Z,2026-05-30,False,Long Context
+1253959879,snighsbwang/Graduation-qjbvrwpodg-Project,基于SSM+JSP的专业实习网站,https://github.com/snighsbwang/Graduation-qjbvrwpodg-Project,0,0,Java,,2026-05-30T01:37:40Z,2026-05-30,False,Long Context
+1253958353,snighsbwang/Graduation-ojhlpztued-Project,基于SSM+Vue的家教服务平台,https://github.com/snighsbwang/Graduation-ojhlpztued-Project,0,0,Java,,2026-05-30T01:34:18Z,2026-05-30,False,Long Context
+1253962695,snighsbwang/Graduation-utmposfmep-Project,基于SSM+JSP的有机蔬菜商城,https://github.com/snighsbwang/Graduation-utmposfmep-Project,0,0,Java,,2026-05-30T01:43:35Z,2026-05-30,False,Long Context
+1253958532,snighsbwang/Graduation-okcwrkitnb-Project,基于SSM+JSP的电影购票系统,https://github.com/snighsbwang/Graduation-okcwrkitnb-Project,0,0,Java,,2026-05-30T01:34:41Z,2026-05-30,False,Long Context
+1253951138,snighsbwang/Graduation-auxiafjdhn-Project,基于SSM+JSP的在线图书管理,https://github.com/snighsbwang/Graduation-auxiafjdhn-Project,0,0,Java,,2026-05-30T01:19:20Z,2026-05-30,False,Long Context
+1253955670,snighsbwang/Graduation-jnylionhtm-Project,基于SSM+JSP的泉文化管理系统,https://github.com/snighsbwang/Graduation-jnylionhtm-Project,0,0,Java,,2026-05-30T01:28:24Z,2026-05-30,False,Long Context
+1253965067,snighsbwang/Graduation-xigxhzgafd-Project,基于SSM+JSP的企业仓储管理系统,https://github.com/snighsbwang/Graduation-xigxhzgafd-Project,0,0,Java,,2026-05-30T01:48:55Z,2026-05-30,False,Long Context
+1253956008,snighsbwang/Graduation-jvnwqazvzz-Project,基于SSM+JSP的古诗词数字化平台,https://github.com/snighsbwang/Graduation-jvnwqazvzz-Project,0,0,Java,,2026-05-30T01:29:08Z,2026-05-30,False,Long Context
+1253957441,snighsbwang/Graduation-mlffubxhgv-Project,基于SSM+JSP的游戏售卖网站(论文),https://github.com/snighsbwang/Graduation-mlffubxhgv-Project,0,0,Java,,2026-05-30T01:32:14Z,2026-05-30,False,Long Context
+1253965559,snighsbwang/Graduation-yinpdxzasx-Project,基于SSM+Vue的课程智能组卷系统,https://github.com/snighsbwang/Graduation-yinpdxzasx-Project,0,0,Java,,2026-05-30T01:49:56Z,2026-05-30,False,Long Context
+1253956768,snighsbwang/Graduation-kpkufezozk-Project,基于微信小程序(ssm)的ssm具有推荐功能的二手交易平台小程序设计与实现,https://github.com/snighsbwang/Graduation-kpkufezozk-Project,0,0,Java,,2026-05-30T01:30:51Z,2026-05-30,False,Long Context
+1253964918,snighsbwang/Graduation-wvlournwki-Project,基于SSM+JSP的计算机考试系统设计,https://github.com/snighsbwang/Graduation-wvlournwki-Project,0,0,Java,,2026-05-30T01:48:33Z,2026-05-30,False,Long Context
+1253957573,snighsbwang/Graduation-nfnvbbemax-Project,基于SSM+Vue的五台山景点购票系统,https://github.com/snighsbwang/Graduation-nfnvbbemax-Project,0,0,Java,,2026-05-30T01:32:35Z,2026-05-30,False,Long Context
+1253960719,snighsbwang/Graduation-qzjvuspvlc-Project,基于SSM+JSP的超市进销存管理系统,https://github.com/snighsbwang/Graduation-qzjvuspvlc-Project,0,0,Java,,2026-05-30T01:39:24Z,2026-05-30,False,Long Context
+1253962028,snighsbwang/Graduation-uaseesnngn-Project,基于SSM+JSP的java乾美美容院管理系统,https://github.com/snighsbwang/Graduation-uaseesnngn-Project,0,0,Java,,2026-05-30T01:42:13Z,2026-05-30,False,Long Context
+1253360018,lyw-xz/JAVA-bwwdjblkxd-Python,基于SSM的计算机office课程平台设计+vue,https://github.com/lyw-xz/JAVA-bwwdjblkxd-Python,0,0,Java,,2026-05-29T11:36:20Z,2026-05-30,False,Long Context
+1253953380,snighsbwang/Graduation-gdzwkpunyk-Project,基于SSM+JSP的高校校园招聘服务系统,https://github.com/snighsbwang/Graduation-gdzwkpunyk-Project,0,0,Java,,2026-05-30T01:23:47Z,2026-05-30,False,Long Context
+1253955857,snighsbwang/Graduation-jvbcppjfbz-Project,基于SSM+JSP的人体健康信息管理系统,https://github.com/snighsbwang/Graduation-jvbcppjfbz-Project,0,0,Java,,2026-05-30T01:28:48Z,2026-05-30,False,Long Context
+1253964427,snighsbwang/Graduation-vyxhxldzww-Project,基于微信小程序(ssm)的ssm基于微信小程序的大学校园失物招领系统的设计与实现,https://github.com/snighsbwang/Graduation-vyxhxldzww-Project,0,0,Java,,2026-05-30T01:47:29Z,2026-05-30,False,Long Context
+1253956447,snighsbwang/Graduation-jyfqhyrscr-Project,基于SSM+JSP的疫情防控志愿者管理系统,https://github.com/snighsbwang/Graduation-jyfqhyrscr-Project,0,0,Java,,2026-05-30T01:30:07Z,2026-05-30,False,Long Context
+1253356697,lyw-xz/JAVA-acbsmkrzmx-Python,基于SSM的在线教学质量评价系统的+vue,https://github.com/lyw-xz/JAVA-acbsmkrzmx-Python,0,0,Java,,2026-05-29T11:32:25Z,2026-05-30,False,Long Context
+1253361083,lyw-xz/JAVA-cojlraefxa-Python,基于SSM的基于vue和JAVA的生产管理系统,https://github.com/lyw-xz/JAVA-cojlraefxa-Python,0,0,Java,,2026-05-29T11:37:33Z,2026-05-30,False,Long Context
+1253965759,snighsbwang/Graduation-yjwddittyn-Project,基于SSM+Vue的基于Java的智能台球厅系统,https://github.com/snighsbwang/Graduation-yjwddittyn-Project,0,0,Java,,2026-05-30T01:50:22Z,2026-05-30,False,Long Context
+1253959297,snighsbwang/Graduation-pzmqnlhhrf-Project,基于SSM+JSP的校园网书店的设计与实现,https://github.com/snighsbwang/Graduation-pzmqnlhhrf-Project,0,0,Java,,2026-05-30T01:36:20Z,2026-05-30,False,Long Context
+1253964140,snighsbwang/Graduation-vtirotzbuh-Project,基于SSM+JSP的校园办公室报修管理系统,https://github.com/snighsbwang/Graduation-vtirotzbuh-Project,0,0,Java,,2026-05-30T01:46:50Z,2026-05-30,False,Long Context
+1253614340,pham0158/vpc-peering-lab,"Multi-VPC Kubernetes cluster on AWS using Terraform, kubeadm, and SSM — no bastion, no SSH keys",https://github.com/pham0158/vpc-peering-lab,0,0,HCL,,2026-05-29T16:36:21Z,2026-05-30,False,Long Context
+1253366214,lyw-xz/JAVA-eybihigzaj-Python,基于SSM的农业信息化服务平台的设计+vue,https://github.com/lyw-xz/JAVA-eybihigzaj-Python,0,0,Java,,2026-05-29T11:43:27Z,2026-05-30,False,Long Context
+1253961641,snighsbwang/Graduation-svlgmpimev-Project,基于SSM+Vue的基于Javaweb的物流管理系统(论文),https://github.com/snighsbwang/Graduation-svlgmpimev-Project,0,0,Java,,2026-05-30T01:41:19Z,2026-05-30,False,Long Context
+1253669981,Dileep0509/retail-sales-pipeline-analytics,"An end-to-end data engineering and analytics project using Python, Pandas, MS SQL Server, and SSMS",https://github.com/Dileep0509/retail-sales-pipeline-analytics,0,0,Jupyter Notebook,,2026-05-29T17:42:28Z,2026-05-30,False,Long Context
+1253733743,folk00/aws-tgw-segmentation-routing-lab,"AWS Transit Gateway segmentation routing lab with Terraform, TGW route tables, propagations, blackhole routes, and SSM validation.",https://github.com/folk00/aws-tgw-segmentation-routing-lab,0,0,HCL,"aws,cloud-networking,networking,ssm,terraform,tgw,transit-gateway",2026-05-29T19:01:11Z,2026-05-30,False,Long Context
+1253362040,lyw-xz/JAVA-crvnwaxmab-Python,基于SSM的WEB的开放性实验室管理系统+vue,https://github.com/lyw-xz/JAVA-crvnwaxmab-Python,0,0,Java,,2026-05-29T11:38:40Z,2026-05-30,False,Long Context
+1253359395,lyw-xz/JAVA-bpohgcxric-Python,基于SSM的vue框架技术的漫画网站系统+vue,https://github.com/lyw-xz/JAVA-bpohgcxric-Python,0,0,Java,,2026-05-29T11:35:38Z,2026-05-30,False,Long Context
+1253370077,lyw-xz/JAVA-ighdravkfq-Python,基于SSM的网页版电子商城设计与实现+vue,https://github.com/lyw-xz/JAVA-ighdravkfq-Python,0,0,Java,,2026-05-29T11:48:13Z,2026-05-30,False,Long Context
+1253371399,lyw-xz/JAVA-krfewykdap-Python,基于SSM的楚师师生健康管理系统设计+vue,https://github.com/lyw-xz/JAVA-krfewykdap-Python,0,0,Java,,2026-05-29T11:49:57Z,2026-05-30,False,Long Context
+1253363076,lyw-xz/JAVA-dkwgbyprix-Python,基于SSM的KTV包厢管理系统的设计与实现+vue,https://github.com/lyw-xz/JAVA-dkwgbyprix-Python,0,0,Java,,2026-05-29T11:39:51Z,2026-05-30,False,Long Context
+1253360698,lyw-xz/JAVA-cjczwlmsdc-Python,基于SSM的演唱会购票系统的设计与实现+vue,https://github.com/lyw-xz/JAVA-cjczwlmsdc-Python,0,0,Java,,2026-05-29T11:37:08Z,2026-05-30,False,Long Context
+1253367327,lyw-xz/JAVA-fyccukzcph-Python,基于SSM的汽车租赁系统业务管理子系统+vue,https://github.com/lyw-xz/JAVA-fyccukzcph-Python,0,0,Java,,2026-05-29T11:44:53Z,2026-05-30,False,Long Context
+1253369438,lyw-xz/JAVA-hrulnfzzxx-Python,基于SSM的校园二手交易网站设计与实现+vue,https://github.com/lyw-xz/JAVA-hrulnfzzxx-Python,0,0,Java,,2026-05-29T11:47:26Z,2026-05-30,False,Long Context
+1253959053,snighsbwang/Graduation-pfsxfmvnmx-Project,基于SSM+JSP的篮球系列网上商城设计与实现,https://github.com/snighsbwang/Graduation-pfsxfmvnmx-Project,0,0,Java,,2026-05-30T01:35:46Z,2026-05-30,False,Long Context
+1253368233,lyw-xz/JAVA-gwwgospakh-Python,基于SSM的国外摇滚乐队交流和周边售卖+vue,https://github.com/lyw-xz/JAVA-gwwgospakh-Python,0,0,Java,,2026-05-29T11:46:00Z,2026-05-30,False,Long Context
+1253956273,snighsbwang/Graduation-jwzzjpxddi-Project,基于SSM+JSP的毕业生生活用品出售网站系统,https://github.com/snighsbwang/Graduation-jwzzjpxddi-Project,0,0,Java,,2026-05-30T01:29:46Z,2026-05-30,False,Long Context
+1253360323,lyw-xz/JAVA-ccyzpbchkx-Python,基于SSM的防疫信息登记系统的设计与实现+jsp,https://github.com/lyw-xz/JAVA-ccyzpbchkx-Python,0,0,Java,,2026-05-29T11:36:42Z,2026-05-30,False,Long Context
+1253367934,lyw-xz/JAVA-godmrfntft-Python,基于SSM的模具制造企业订单跟踪管理系统+vue,https://github.com/lyw-xz/JAVA-godmrfntft-Python,0,0,Java,,2026-05-29T11:45:37Z,2026-05-30,False,Long Context
+1253367641,lyw-xz/JAVA-ggxspqqdmh-Python,基于SSM的学生学情预警系统的设计与实现+vue,https://github.com/lyw-xz/JAVA-ggxspqqdmh-Python,0,0,Java,,2026-05-29T11:45:14Z,2026-05-30,False,Long Context
+1253957316,snighsbwang/Graduation-lwrhlocsct-Project,基于SSM+JSP的在线商品管理系统的设计与实现,https://github.com/snighsbwang/Graduation-lwrhlocsct-Project,0,0,Java,,2026-05-30T01:31:56Z,2026-05-30,False,Long Context
+1253369808,lyw-xz/JAVA-idncmiaktu-Python,基于SSM的公务用车管理智慧云服务监管平台,https://github.com/lyw-xz/JAVA-idncmiaktu-Python,0,0,Java,,2026-05-29T11:47:52Z,2026-05-30,False,Long Context
+1253357012,lyw-xz/JAVA-anbulskdkw-Python,基于SSM的高校宿舍管理系统的设计与开发+jsp,https://github.com/lyw-xz/JAVA-anbulskdkw-Python,0,0,Java,,2026-05-29T11:32:47Z,2026-05-30,False,Long Context
+1253954662,snighsbwang/Graduation-hwztrleluy-Project,基于SSM+Vue的东风锻造有限公司点检管理系统,https://github.com/snighsbwang/Graduation-hwztrleluy-Project,0,0,Java,,2026-05-30T01:26:25Z,2026-05-30,False,Long Context
+1253361739,lyw-xz/JAVA-cqpzunjasj-Python,基于SSM的学生二手书籍交易平台的设计与实,https://github.com/lyw-xz/JAVA-cqpzunjasj-Python,0,0,Java,,2026-05-29T11:38:19Z,2026-05-30,False,Long Context
+1253359725,lyw-xz/JAVA-bwbqrzvnce-Python,基于SSM的“镜头人生”约拍网站的设计与开发+jsp,https://github.com/lyw-xz/JAVA-bwbqrzvnce-Python,0,0,Java,,2026-05-29T11:36:02Z,2026-05-30,False,Long Context
+1253966012,snighsbwang/Graduation-zpavopxszh-Project,基于微信小程序(ssm)的健康饮食管理微信小程序,https://github.com/snighsbwang/Graduation-zpavopxszh-Project,0,0,Java,,2026-05-30T01:51:03Z,2026-05-30,False,Long Context
+1253363391,lyw-xz/JAVA-dpejunehey-Python,基于SSM的计算机科学与技术学习网站的设计+jsp,https://github.com/lyw-xz/JAVA-dpejunehey-Python,0,0,Java,,2026-05-29T11:40:14Z,2026-05-30,False,Long Context
+1253370661,lyw-xz/JAVA-japxyieuem-Python,基于SSM的中学课内小说阅读与学习系统的设计,https://github.com/lyw-xz/JAVA-japxyieuem-Python,0,0,Java,,2026-05-29T11:48:56Z,2026-05-30,False,Long Context
+1253954159,snighsbwang/Graduation-hjaqstlxbj-Project,基于微信小程序(ssm)的小程序 旅游自助拼团系统,https://github.com/snighsbwang/Graduation-hjaqstlxbj-Project,0,0,Java,,2026-05-30T01:25:26Z,2026-05-30,False,Long Context
+1253364068,lyw-xz/JAVA-dtjoyltjvb-Python,基于SSM的电动车上牌管理系统的设计与实现+jsp,https://github.com/lyw-xz/JAVA-dtjoyltjvb-Python,0,0,Java,,2026-05-29T11:40:57Z,2026-05-30,False,Long Context
+1253358128,lyw-xz/JAVA-bbcehymjwi-Python,基于SSM的双星小区物业管理系统的设计与实现,https://github.com/lyw-xz/JAVA-bbcehymjwi-Python,0,0,Java,,2026-05-29T11:34:09Z,2026-05-30,False,Long Context
+1253370397,lyw-xz/JAVA-imbwzetjez-Python,基于SSM的青海大学昆仑学院学生档案管理系统,https://github.com/lyw-xz/JAVA-imbwzetjez-Python,0,0,Java,,2026-05-29T11:48:35Z,2026-05-30,False,Long Context
+1253953676,snighsbwang/Graduation-gxuvchksxr-Project,基于SSM+JSP的尤文图斯足球俱乐部网上商城系统,https://github.com/snighsbwang/Graduation-gxuvchksxr-Project,0,0,Java,,2026-05-30T01:24:26Z,2026-05-30,False,Long Context
+1253960039,snighsbwang/Graduation-qojgqqcsji-Project,基于SSM+JSP的基于JSP的人才招聘网站的设计与实现,https://github.com/snighsbwang/Graduation-qojgqqcsji-Project,0,0,Java,,2026-05-30T01:38:01Z,2026-05-30,False,Long Context
+1253966213,snighsbwang/Graduation-zwrwwtmmvu-Project,基于SSM+Vue的基于Java的“健康食谱”食材搭配管理系统,https://github.com/snighsbwang/Graduation-zwrwwtmmvu-Project,0,0,Java,,2026-05-30T01:51:27Z,2026-05-30,False,Long Context
+1253962529,snighsbwang/Graduation-ugskgbdhsa-Project,基于SSM+JSP的青少年体质健康数据管理与分析系统,https://github.com/snighsbwang/Graduation-ugskgbdhsa-Project,0,0,Java,,2026-05-30T01:43:16Z,2026-05-30,False,Long Context
+1253955143,snighsbwang/Graduation-iivwiefmcw-Project,基于微信小程序(ssm)的微信小程序的学生选课系统,https://github.com/snighsbwang/Graduation-iivwiefmcw-Project,0,0,Java,,2026-05-30T01:27:21Z,2026-05-30,False,Long Context
+1254061647,Expecto-Star/sky-take-out,跟着黑马程序员《苍穹外卖》项目实战，SpringBoot+SSM企业级项目,https://github.com/Expecto-Star/sky-take-out,0,0,,,2026-05-30T05:16:24Z,2026-05-30,False,Long Context
+1253953537,snighsbwang/Graduation-ghlynbjzui-Project,基于SSM+JSP的黄河交通学院教学质量评价系统的设计与实现,https://github.com/snighsbwang/Graduation-ghlynbjzui-Project,0,0,Java,,2026-05-30T01:24:08Z,2026-05-30,False,Long Context
+1253950227,mehongs/Covid-Deaths-and-Vaccinations-Analysis,"This project is done using Excel, SSMS, and Tableau to look at the different trends and rates of COVID infections and deaths. Credits to Alex the Analyst on YouTube.",https://github.com/mehongs/Covid-Deaths-and-Vaccinations-Analysis,0,0,,,2026-05-30T01:17:38Z,2026-05-30,False,Long Context
+1253960179,snighsbwang/Graduation-qscrewoghb-Project,基于微信小程序(ssm)的面向品牌会员的在线商城微信小程序微信端演示,https://github.com/snighsbwang/Graduation-qscrewoghb-Project,0,0,Java,,2026-05-30T01:38:19Z,2026-05-30,False,Long Context
+1253748621,prakulhiremath/parallelwatch,🧠 Real-time multivariate temporal correlation and anomaly detection primitive. Leverages structured state-space sequence modeling (SSMs) to map system failures across massive telemetry streams without O(M^2) cross-attention overhead.,https://github.com/prakulhiremath/parallelwatch,1,0,Python,,2026-05-29T19:21:26Z,2026-05-30,False,Long Context
+1254016260,hangdoanthu/xom-coffee-sql,"SQL case study on a specialty coffee chain (3 Manhattan locations) : 12 queries covering peak hours, slow days, MoM growth, cross-sell rate, and top SKUs per store. Written in SQL Server (SSMS).",https://github.com/hangdoanthu/xom-coffee-sql,0,0,,,2026-05-30T03:38:07Z,2026-05-30,False,Long Context
+1253094572,ilyesgouider/HSTN-Time-Series-Forecasting,"HSTN (Hybrid Seasonal-Trend Network) is a deep learning architecture designed for long-term time-series forecasting. The model combines seasonal-trend decomposition, Selective State Space Modeling (SSM), and multi-scale convolutional learning to capture both global temporal dependencies and local temporal patterns efficiently.",https://github.com/ilyesgouider/HSTN-Time-Series-Forecasting,0,0,,,2026-05-29T06:34:50Z,2026-05-30,False,Long Context
