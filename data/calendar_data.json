@@ -2715,5 +2715,57 @@
     "url": "https://simonwillison.net/2026/May/31/datasette/#atom-everything",
     "tags": "",
     "created_at": "2026-06-01 06:49:06"
+  },
+  {
+    "id": "rss_https://openai.com/index/openai-frontier-models-and-codex-are-now-available-on-aws",
+    "company": "OpenAI",
+    "title": "OpenAI frontier models and Codex are now available on AWS",
+    "publish_date": "2026-06-01",
+    "type": "其他",
+    "open_source": "否",
+    "summary": "OpenAI frontier models and Codex are now generally available on AWS, giving enterprises a new path to build with OpenAI through the AWS environments, controls, and procurement workflows they already u",
+    "details": "",
+    "url": "https://openai.com/index/openai-frontier-models-and-codex-are-now-available-on-aws",
+    "tags": "",
+    "created_at": "2026-06-02 06:30:56"
+  },
+  {
+    "id": "rss_https://blog.google/innovation-and-ai/technology/ai/io-2026-google-ai/",
+    "company": "Google AI",
+    "title": "How we used Gemini to build Google I/O 2026",
+    "publish_date": "2026-06-01",
+    "type": "其他",
+    "open_source": "否",
+    "summary": "A collage of I/O-related images, including the Antigravity Coffee Co. pop-up, a colorful jellyfish and a still from the Timmy TPU video. The word AI repeats three times on the left of the image, and t",
+    "details": "",
+    "url": "https://blog.google/innovation-and-ai/technology/ai/io-2026-google-ai/",
+    "tags": "",
+    "created_at": "2026-06-02 06:30:57"
+  },
+  {
+    "id": "rss_https://huggingface.co/blog/JetBrains/mellum2-launch",
+    "company": "Hugging Face",
+    "title": "Introducing Mellum2: A 12B Mixture-of-Experts Model by JetBrains",
+    "publish_date": "2026-06-01",
+    "type": "其他",
+    "open_source": "否",
+    "summary": "",
+    "details": "",
+    "url": "https://huggingface.co/blog/JetBrains/mellum2-launch",
+    "tags": "",
+    "created_at": "2026-06-02 06:30:58"
+  },
+  {
+    "id": "rss_https://huggingface.co/blog/ibm-research/agent-logic-and-scalable-ai-adoption",
+    "company": "Hugging Face",
+    "title": "Beyond LLMs: Why Scalable Enterprise AI Adoption Depends on Agent Logic",
+    "publish_date": "2026-06-01",
+    "type": "其他",
+    "open_source": "否",
+    "summary": "",
+    "details": "",
+    "url": "https://huggingface.co/blog/ibm-research/agent-logic-and-scalable-ai-adoption",
+    "tags": "",
+    "created_at": "2026-06-02 06:30:58"
   }
 ]
