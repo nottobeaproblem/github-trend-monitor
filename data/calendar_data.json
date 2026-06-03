@@ -2767,5 +2767,70 @@
     "url": "https://huggingface.co/blog/ibm-research/agent-logic-and-scalable-ai-adoption",
     "tags": "",
     "created_at": "2026-06-02 06:30:58"
+  },
+  {
+    "id": "rss_https://openai.com/index/codex-for-every-role-tool-workflow",
+    "company": "OpenAI",
+    "title": "Codex for every role, tool, and workflow",
+    "publish_date": "2026-06-02",
+    "type": "其他",
+    "open_source": "否",
+    "summary": "Discover new Codex plugins, sites, and annotations that help analysts, marketers, designers, investors, and other teams get more done with AI.",
+    "details": "",
+    "url": "https://openai.com/index/codex-for-every-role-tool-workflow",
+    "tags": "",
+    "created_at": "2026-06-03 06:47:37"
+  },
+  {
+    "id": "rss_https://openai.com/index/codex-for-knowledge-work",
+    "company": "OpenAI",
+    "title": "Codex is becoming a productivity tool for everyone",
+    "publish_date": "2026-06-02",
+    "type": "其他",
+    "open_source": "否",
+    "summary": "The Next Era of Knowledge Work report explores how Codex is transforming productivity through AI-powered research, data analysis, workflow automation, and content creation.",
+    "details": "",
+    "url": "https://openai.com/index/codex-for-knowledge-work",
+    "tags": "",
+    "created_at": "2026-06-03 06:47:37"
+  },
+  {
+    "id": "rss_https://huggingface.co/blog/Hcompany/holo31",
+    "company": "Hugging Face",
+    "title": "Holo3.1: Fast & Local Computer Use Agents",
+    "publish_date": "2026-06-02",
+    "type": "其他",
+    "open_source": "否",
+    "summary": "",
+    "details": "",
+    "url": "https://huggingface.co/blog/Hcompany/holo31",
+    "tags": "",
+    "created_at": "2026-06-03 06:47:39"
+  },
+  {
+    "id": "rss_https://simonwillison.net/2026/Jun/2/microsofts-new-models/#atom-everything",
+    "company": "Simon Willison",
+    "title": "Microsoft's new MAI models",
+    "publish_date": "2026-06-02",
+    "type": "其他",
+    "open_source": "否",
+    "summary": "<p>Microsoft <a href=\"https://microsoft.ai/news/building-a-hillclimbing-machine-launching-seven-new-mai-models/\">announced two new text LLMs</a> this morning - <strong><a href=\"https://microsoft.ai/ne",
+    "details": "",
+    "url": "https://simonwillison.net/2026/Jun/2/microsofts-new-models/#atom-everything",
+    "tags": "",
+    "created_at": "2026-06-03 06:47:41"
+  },
+  {
+    "id": "rss_https://simonwillison.net/2026/Jun/2/datasette-agent-micropython/#atom-everything",
+    "company": "Simon Willison",
+    "title": "datasette-agent-micropython 0.1a0",
+    "publish_date": "2026-06-02",
+    "type": "其他",
+    "open_source": "否",
+    "summary": "<p><strong>Release:</strong> <a href=\"https://github.com/datasette/datasette-agent-micropython/releases/tag/0.1a0\">datasette-agent-micropython 0.1a0</a></p>\n        <p>I want <a href=\"https://agent.da",
+    "details": "",
+    "url": "https://simonwillison.net/2026/Jun/2/datasette-agent-micropython/#atom-everything",
+    "tags": "",
+    "created_at": "2026-06-03 06:47:41"
   }
 ]
