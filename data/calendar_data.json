@@ -2832,5 +2832,44 @@
     "url": "https://simonwillison.net/2026/Jun/2/datasette-agent-micropython/#atom-everything",
     "tags": "",
     "created_at": "2026-06-03 06:47:41"
+  },
+  {
+    "id": "rss_https://openai.com/index/introducing-new-capabilities-to-gpt-rosalind",
+    "company": "OpenAI",
+    "title": "Introducing new capabilities to GPT-Rosalind",
+    "publish_date": "2026-06-03",
+    "type": "其他",
+    "open_source": "否",
+    "summary": "GPT-Rosalind advances life sciences research with enhanced biological reasoning, medicinal chemistry expertise, genomics analysis, and experimental workflow capabilities.",
+    "details": "",
+    "url": "https://openai.com/index/introducing-new-capabilities-to-gpt-rosalind",
+    "tags": "",
+    "created_at": "2026-06-04 06:31:31"
+  },
+  {
+    "id": "rss_https://huggingface.co/blog/adding-mcp-tools-to-reachy-mini",
+    "company": "Hugging Face",
+    "title": "Adding MCP Tools to Reachy Mini",
+    "publish_date": "2026-06-03",
+    "type": "其他",
+    "open_source": "否",
+    "summary": "",
+    "details": "",
+    "url": "https://huggingface.co/blog/adding-mcp-tools-to-reachy-mini",
+    "tags": "",
+    "created_at": "2026-06-04 06:31:33"
+  },
+  {
+    "id": "rss_https://simonwillison.net/2026/Jun/3/uber-caps-usage/#atom-everything",
+    "company": "Simon Willison",
+    "title": "Uber Caps Usage of AI Tools Like Claude Code to Manage Costs",
+    "publish_date": "2026-06-03",
+    "type": "其他",
+    "open_source": "否",
+    "summary": "<p><strong><a href=\"https://www.bloomberg.com/news/articles/2026-06-02/uber-caps-usage-of-ai-tools-like-claude-code-to-cut-costs\">Uber Caps Usage of AI Tools Like Claude Code to Manage Costs</a></stro",
+    "details": "",
+    "url": "https://simonwillison.net/2026/Jun/3/uber-caps-usage/#atom-everything",
+    "tags": "",
+    "created_at": "2026-06-04 06:31:34"
   }
 ]
