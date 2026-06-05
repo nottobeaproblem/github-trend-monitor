@@ -2871,5 +2871,70 @@
     "url": "https://simonwillison.net/2026/Jun/3/uber-caps-usage/#atom-everything",
     "tags": "",
     "created_at": "2026-06-04 06:31:34"
+  },
+  {
+    "id": "rss_https://openai.com/index/endava-frontiers",
+    "company": "OpenAI",
+    "title": "How Endava is redesigning software delivery around AI agents",
+    "publish_date": "2026-06-04",
+    "type": "其他",
+    "open_source": "否",
+    "summary": "Learn how Endava is using AI agents, ChatGPT Enterprise, and Codex to accelerate software delivery, automate workflows, and build an AI-native culture across the enterprise.",
+    "details": "",
+    "url": "https://openai.com/index/endava-frontiers",
+    "tags": "",
+    "created_at": "2026-06-05 06:16:21"
+  },
+  {
+    "id": "rss_https://openai.com/index/chatgpt-memory-dreaming",
+    "company": "OpenAI",
+    "title": "Dreaming: Better memory for a more helpful ChatGPT",
+    "publish_date": "2026-06-04",
+    "type": "其他",
+    "open_source": "否",
+    "summary": "ChatGPT introduces a new memory system to better remember preferences, keeping context fresh and relevant across conversations.",
+    "details": "",
+    "url": "https://openai.com/index/chatgpt-memory-dreaming",
+    "tags": "",
+    "created_at": "2026-06-05 06:16:21"
+  },
+  {
+    "id": "rss_https://huggingface.co/blog/nvidia/nemotron-3-5-content-safety",
+    "company": "Hugging Face",
+    "title": "Nemotron 3.5 Content Safety: Customizable Multimodal Safety for Global Enterprise AI",
+    "publish_date": "2026-06-04",
+    "type": "其他",
+    "open_source": "否",
+    "summary": "",
+    "details": "",
+    "url": "https://huggingface.co/blog/nvidia/nemotron-3-5-content-safety",
+    "tags": "",
+    "created_at": "2026-06-05 06:16:23"
+  },
+  {
+    "id": "rss_https://huggingface.co/blog/ServiceNow-AI/eva-bench-data",
+    "company": "Hugging Face",
+    "title": "EVA-Bench Data 2.0: 3 Domains, 121 Tools, 213 Scenarios",
+    "publish_date": "2026-06-04",
+    "type": "其他",
+    "open_source": "否",
+    "summary": "",
+    "details": "",
+    "url": "https://huggingface.co/blog/ServiceNow-AI/eva-bench-data",
+    "tags": "",
+    "created_at": "2026-06-05 06:16:23"
+  },
+  {
+    "id": "rss_https://huggingface.co/blog/hf-cli-for-agents",
+    "company": "Hugging Face",
+    "title": "Designing the hf CLI as an agent-optimized way to work with the Hub",
+    "publish_date": "2026-06-04",
+    "type": "其他",
+    "open_source": "否",
+    "summary": "",
+    "details": "",
+    "url": "https://huggingface.co/blog/hf-cli-for-agents",
+    "tags": "",
+    "created_at": "2026-06-05 06:16:23"
   }
 ]
