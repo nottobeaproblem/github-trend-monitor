@@ -2949,5 +2949,18 @@
     "url": "https://huggingface.co/blog/build-small-hackathon/thousand-token-wood-sim",
     "tags": "",
     "created_at": "2026-06-06 05:49:43"
+  },
+  {
+    "id": "rss_https://huggingface.co/blog/build-small-hackathon/thousand-token-wood-sim-v2",
+    "company": "Hugging Face",
+    "title": "Five labs, five minds: building a multi-model finance drama on small models",
+    "publish_date": "2026-06-06",
+    "type": "其他",
+    "open_source": "否",
+    "summary": "",
+    "details": "",
+    "url": "https://huggingface.co/blog/build-small-hackathon/thousand-token-wood-sim-v2",
+    "tags": "",
+    "created_at": "2026-06-07 06:17:19"
   }
 ]
