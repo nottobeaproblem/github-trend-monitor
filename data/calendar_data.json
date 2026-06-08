@@ -2962,5 +2962,18 @@
     "url": "https://huggingface.co/blog/build-small-hackathon/thousand-token-wood-sim-v2",
     "tags": "",
     "created_at": "2026-06-07 06:17:19"
+  },
+  {
+    "id": "rss_https://simonwillison.net/2026/Jun/7/datasette-agent-edit/#atom-everything",
+    "company": "Simon Willison",
+    "title": "datasette-agent-edit 0.1a0",
+    "publish_date": "2026-06-07",
+    "type": "其他",
+    "open_source": "否",
+    "summary": "<p><strong>Release:</strong> <a href=\"https://github.com/datasette/datasette-agent-edit/releases/tag/0.1a0\">datasette-agent-edit 0.1a0</a></p>\n        <p>I'm planning several plugins for <a href=\"http",
+    "details": "",
+    "url": "https://simonwillison.net/2026/Jun/7/datasette-agent-edit/#atom-everything",
+    "tags": "",
+    "created_at": "2026-06-08 06:31:24"
   }
 ]
