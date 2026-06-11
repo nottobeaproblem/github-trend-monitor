@@ -3105,5 +3105,44 @@
     "url": "https://simonwillison.net/2026/Jun/9/agentsview-custom-model-price/#atom-everything",
     "tags": "",
     "created_at": "2026-06-10 06:16:59"
+  },
+  {
+    "id": "rss_https://openai.com/index/openai-on-oracle-cloud",
+    "company": "OpenAI",
+    "title": "Access OpenAI models and Codex through your Oracle cloud commitment",
+    "publish_date": "2026-06-10",
+    "type": "其他",
+    "open_source": "否",
+    "summary": "Access OpenAI models and Codex through Oracle Cloud, using existing commitments to build and deploy AI with enterprise security and governance.",
+    "details": "",
+    "url": "https://openai.com/index/openai-on-oracle-cloud",
+    "tags": "",
+    "created_at": "2026-06-11 06:43:29"
+  },
+  {
+    "id": "rss_https://simonwillison.net/2026/Jun/11/anthropic-walks-back-policy/#atom-everything",
+    "company": "Simon Willison",
+    "title": "Anthropic Walks Back Policy That Could Have ‘Sabotaged’ AI Researchers Using Claude",
+    "publish_date": "2026-06-11",
+    "type": "其他",
+    "open_source": "否",
+    "summary": "<p><strong><a href=\"https://www.wired.com/story/anthropic-responds-to-backlash-on-claudes-secret-sabotage-on-ai-research/\">Anthropic Walks Back Policy That Could Have ‘Sabotaged’ AI Researchers Using ",
+    "details": "",
+    "url": "https://simonwillison.net/2026/Jun/11/anthropic-walks-back-policy/#atom-everything",
+    "tags": "",
+    "created_at": "2026-06-11 06:43:33"
+  },
+  {
+    "id": "rss_https://simonwillison.net/2026/Jun/10/datasette-agent/#atom-everything",
+    "company": "Simon Willison",
+    "title": "datasette-agent 0.2a0",
+    "publish_date": "2026-06-10",
+    "type": "其他",
+    "open_source": "否",
+    "summary": "<p><strong>Release:</strong> <a href=\"https://github.com/datasette/datasette-agent/releases/tag/0.2a0\">datasette-agent 0.2a0</a></p>\n        <p>Highlights from the release notes:</p>\n<blockquote>\n<ul>",
+    "details": "",
+    "url": "https://simonwillison.net/2026/Jun/10/datasette-agent/#atom-everything",
+    "tags": "",
+    "created_at": "2026-06-11 06:43:33"
   }
 ]
