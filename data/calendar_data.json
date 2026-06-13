@@ -3183,5 +3183,18 @@
     "url": "https://simonwillison.net/2026/Jun/11/datasette/#atom-everything",
     "tags": "",
     "created_at": "2026-06-12 06:28:18"
+  },
+  {
+    "id": "rss_https://huggingface.co/blog/allenai/olmo-eval",
+    "company": "Hugging Face",
+    "title": "olmo-eval: An evaluation workbench for the model development loop",
+    "publish_date": "2026-06-12",
+    "type": "其他",
+    "open_source": "否",
+    "summary": "",
+    "details": "",
+    "url": "https://huggingface.co/blog/allenai/olmo-eval",
+    "tags": "",
+    "created_at": "2026-06-13 06:11:15"
   }
 ]
