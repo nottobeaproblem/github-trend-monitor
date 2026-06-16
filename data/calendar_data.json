@@ -3196,5 +3196,31 @@
     "url": "https://huggingface.co/blog/allenai/olmo-eval",
     "tags": "",
     "created_at": "2026-06-13 06:11:15"
+  },
+  {
+    "id": "rss_https://simonwillison.net/2026/Jun/15/datasette-agent/#atom-everything",
+    "company": "Simon Willison",
+    "title": "datasette-agent 0.3a0",
+    "publish_date": "2026-06-15",
+    "type": "其他",
+    "open_source": "否",
+    "summary": "<p><strong>Release:</strong> <a href=\"https://github.com/datasette/datasette-agent/releases/tag/0.3a0\">datasette-agent 0.3a0</a></p>\n        <blockquote>\n<ul>\n<li>New tool, <code>execute_write_sql</co",
+    "details": "",
+    "url": "https://simonwillison.net/2026/Jun/15/datasette-agent/#atom-everything",
+    "tags": "",
+    "created_at": "2026-06-16 07:17:37"
+  },
+  {
+    "id": "rss_https://simonwillison.net/2026/Jun/15/axios-clashes-anthropics/#atom-everything",
+    "company": "Simon Willison",
+    "title": "\"They screwed us\": Personality clashes sent Anthropic's models offline",
+    "publish_date": "2026-06-15",
+    "type": "其他",
+    "open_source": "否",
+    "summary": "<p><strong><a href=\"https://www.axios.com/2026/06/15/anthropic-white-house-fable-mythos\">&quot;They screwed us&quot;: Personality clashes sent Anthropic&#x27;s models offline</a></strong></p>\nLots of ",
+    "details": "",
+    "url": "https://simonwillison.net/2026/Jun/15/axios-clashes-anthropics/#atom-everything",
+    "tags": "",
+    "created_at": "2026-06-16 07:17:37"
   }
 ]

@@ -362,3 +362,9 @@ rss_https://simonwillison.net/2026/Jun/11/fable-is-relentlessly-proactive/#atom-
 rss_https://simonwillison.net/2026/Jun/11/datasette/#atom-everything,Simon Willison,datasette 1.0a33,2026-06-11,其他,否,"<p><strong>Release:</strong> <a href=""https://github.com/simonw/datasette/releases/tag/1.0a33"">datasette 1.0a33</a></p>
         <p>This alpha is a significant step on the road to a stable 1.0, finally",,https://simonwillison.net/2026/Jun/11/datasette/#atom-everything,,2026-06-12 06:28:18
 rss_https://huggingface.co/blog/allenai/olmo-eval,Hugging Face,olmo-eval: An evaluation workbench for the model development loop,2026-06-12,其他,否,,,https://huggingface.co/blog/allenai/olmo-eval,,2026-06-13 06:11:15
+rss_https://simonwillison.net/2026/Jun/15/datasette-agent/#atom-everything,Simon Willison,datasette-agent 0.3a0,2026-06-15,其他,否,"<p><strong>Release:</strong> <a href=""https://github.com/datasette/datasette-agent/releases/tag/0.3a0"">datasette-agent 0.3a0</a></p>
+        <blockquote>
+<ul>
+<li>New tool, <code>execute_write_sql</co",,https://simonwillison.net/2026/Jun/15/datasette-agent/#atom-everything,,2026-06-16 07:17:37
+rss_https://simonwillison.net/2026/Jun/15/axios-clashes-anthropics/#atom-everything,Simon Willison,"""They screwed us"": Personality clashes sent Anthropic's models offline",2026-06-15,其他,否,"<p><strong><a href=""https://www.axios.com/2026/06/15/anthropic-white-house-fable-mythos"">&quot;They screwed us&quot;: Personality clashes sent Anthropic&#x27;s models offline</a></strong></p>
+Lots of ",,https://simonwillison.net/2026/Jun/15/axios-clashes-anthropics/#atom-everything,,2026-06-16 07:17:37
