@@ -368,3 +368,10 @@ rss_https://simonwillison.net/2026/Jun/15/datasette-agent/#atom-everything,Simon
 <li>New tool, <code>execute_write_sql</co",,https://simonwillison.net/2026/Jun/15/datasette-agent/#atom-everything,,2026-06-16 07:17:37
 rss_https://simonwillison.net/2026/Jun/15/axios-clashes-anthropics/#atom-everything,Simon Willison,"""They screwed us"": Personality clashes sent Anthropic's models offline",2026-06-15,其他,否,"<p><strong><a href=""https://www.axios.com/2026/06/15/anthropic-white-house-fable-mythos"">&quot;They screwed us&quot;: Personality clashes sent Anthropic&#x27;s models offline</a></strong></p>
 Lots of ",,https://simonwillison.net/2026/Jun/15/axios-clashes-anthropics/#atom-everything,,2026-06-16 07:17:37
+rss_https://openai.com/index/deployment-simulation,OpenAI,Predicting model behavior before release by simulating deployment,2026-06-16,其他,否,"OpenAI introduces Deployment Simulation, a method to predict AI model behavior before deployment using real conversation data to improve safety and evaluation accuracy.",,https://openai.com/index/deployment-simulation,,2026-06-17 07:02:36
+rss_https://simonwillison.net/2026/Jun/16/datasette/#atom-everything,Simon Willison,datasette 1.0a34,2026-06-16,其他,否,"<p><strong>Release:</strong> <a href=""https://github.com/simonw/datasette/releases/tag/1.0a34"">datasette 1.0a34</a></p>
+        <p>Quoting the release notes:</p>
+<blockquote>
+<p>The big feature in thi",,https://simonwillison.net/2026/Jun/16/datasette/#atom-everything,,2026-06-17 07:02:39
+rss_https://simonwillison.net/2026/Jun/16/datasette-tailscale/#atom-everything,Simon Willison,datasette-tailscale 0.1a0,2026-06-16,其他,否,"<p><strong>Release:</strong> <a href=""https://github.com/datasette/datasette-tailscale/releases/tag/0.1a0"">datasette-tailscale 0.1a0</a></p>
+        <p>A very experimental alpha plugin which lets you ",,https://simonwillison.net/2026/Jun/16/datasette-tailscale/#atom-everything,,2026-06-17 07:02:39
