@@ -3261,5 +3261,44 @@
     "url": "https://simonwillison.net/2026/Jun/16/datasette-tailscale/#atom-everything",
     "tags": "",
     "created_at": "2026-06-17 07:02:39"
+  },
+  {
+    "id": "rss_https://blog.google/innovation-and-ai/models-and-research/google-research/amie-for-disease-management-in-nature/",
+    "company": "Google AI",
+    "title": "New research shows how AMIE, our medical AI, could help manage health conditions.",
+    "publish_date": "2026-06-17",
+    "type": "其他",
+    "open_source": "否",
+    "summary": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/AMIE_Mx_Nature_Social_Visual_Va.max-600x600.format-webp.webp\" />Research in “Nature” shows our conversational AI system matche",
+    "details": "",
+    "url": "https://blog.google/innovation-and-ai/models-and-research/google-research/amie-for-disease-management-in-nature/",
+    "tags": "",
+    "created_at": "2026-06-18 06:46:55"
+  },
+  {
+    "id": "rss_https://huggingface.co/blog/amazon/strands-lerobot-hub-to-hardware",
+    "company": "Hugging Face",
+    "title": "From the Hugging Face Hub to robot hardware with Strands Agents and LeRobot",
+    "publish_date": "2026-06-17",
+    "type": "其他",
+    "open_source": "否",
+    "summary": "",
+    "details": "",
+    "url": "https://huggingface.co/blog/amazon/strands-lerobot-hub-to-hardware",
+    "tags": "",
+    "created_at": "2026-06-18 06:46:56"
+  },
+  {
+    "id": "rss_https://huggingface.co/blog/agentic-resource-discovery-launch",
+    "company": "Hugging Face",
+    "title": "Agentic Resource Discovery: Let agents search",
+    "publish_date": "2026-06-17",
+    "type": "其他",
+    "open_source": "否",
+    "summary": "",
+    "details": "",
+    "url": "https://huggingface.co/blog/agentic-resource-discovery-launch",
+    "tags": "",
+    "created_at": "2026-06-18 06:46:56"
   }
 ]
