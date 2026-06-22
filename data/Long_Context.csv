@@ -20022,3 +20022,510 @@ id,name,description,url,stars,forks,language,topics,created_at,first_seen,is_act
 1275056270,hartlez022/qtNmsQlwNc,【Java计算机毕业设计分享】基于SSM的博师高中机房预约管理系统设计与实现，MySQL Java开发 毕业设计 实战项目【附源码、文档报告、代码讲解】,https://github.com/hartlez022/qtNmsQlwNc,1,0,,,2026-06-20T07:36:30Z,2026-06-21,False,Long Context
 1275101667,krishnashashanth-sks/state-space-models,"A modular, production-ready implementation of State-Space-Models.",https://github.com/krishnashashanth-sks/state-space-models,0,0,Python,,2026-06-20T08:51:44Z,2026-06-21,False,Long Context
 1275563323,parzi-val/all-routes-lead-to-collapse,"A cross-architecture study of routing concentration in transformers, state-space models, recurrent networks, and graphs.",https://github.com/parzi-val/all-routes-lead-to-collapse,0,0,Jupyter Notebook,,2026-06-20T21:26:20Z,2026-06-21,False,Long Context
+1276129531,NJUNLP/arXivLiveBench,arXivLiveBench: A Live Benchmark for Long-Context Modelling,https://github.com/NJUNLP/arXivLiveBench,0,0,Python,,2026-06-21T15:19:29Z,2026-06-22,True,Long Context
+1276059714,abtonmoy/SIEVE,query-conditioned span compression for long-context prompts,https://github.com/abtonmoy/SIEVE,0,0,Python,,2026-06-21T13:47:07Z,2026-06-22,True,Long Context
+1276182610,jonsmirl/ssa,"Subquadratic Sparse Attention (SSA): content-routed exact attention for long contexts — paper, theory, and reference implementations",https://github.com/jonsmirl/ssa,0,0,Python,,2026-06-21T16:37:49Z,2026-06-22,True,Long Context
+1276339738,X-ImLucky-X/SMART-Graph,SMART-Graph: Attention-Calibrated Graph Serialization and Soft-Match Alignment for Long-Context Data-to-Text Generation,https://github.com/X-ImLucky-X/SMART-Graph,0,0,Python,,2026-06-21T21:21:02Z,2026-06-22,True,Long Context
+1276252479,Abdulhadi446/RAG-as-a-Context-Extension-Mechanism-A-RULER-Inspired-Benchmark-Across-Three-Cloud-LLMs,"A RULER-inspired engineering benchmark investigating how Retrieval-Augmented Generation (RAG) affects long-context performance. Three cloud LLMs were evaluated on retrieval, reasoning, and aggregation tasks across context lengths ranging from 32K to 1M tokens.",https://github.com/Abdulhadi446/RAG-as-a-Context-Extension-Mechanism-A-RULER-Inspired-Benchmark-Across-Three-Cloud-LLMs,0,0,Python,,2026-06-21T18:29:42Z,2026-06-22,True,Long Context
+1276320543,JosephWoodall/uchi,"Uchi is a pure mathematical, streaming analytics engine. It continuously processes tabular data and text sequences row-by-row with infinite context, instantly adapting to real-world data shifts without needing to be taken offline.",https://github.com/JosephWoodall/uchi,1,0,Python,,2026-06-21T20:40:22Z,2026-06-22,True,Long Context
+1276131639,USCensusBureau-public-clone/MAMBA,,https://github.com/USCensusBureau-public-clone/MAMBA,0,0,Python,,2026-06-21T15:22:32Z,2026-06-22,True,Long Context
+1275886378,sjkncs/mamba3-finance-reproduction,Paper code reproduction from ai-papers-and-notes,https://github.com/sjkncs/mamba3-finance-reproduction,0,0,Python,,2026-06-21T09:04:08Z,2026-06-22,True,Long Context
+1276545158,erharsh237/DermoMamba,,https://github.com/erharsh237/DermoMamba,0,0,Jupyter Notebook,,2026-06-22T04:38:49Z,2026-06-22,True,Long Context
+1276639450,weisq2691/Build-Mamba,,https://github.com/weisq2691/Build-Mamba,0,0,,,2026-06-22T06:52:35Z,2026-06-22,True,Long Context
+1275957092,kukuruYuuk69/mamba-ekosistem,,https://github.com/kukuruYuuk69/mamba-ekosistem,0,0,,,2026-06-21T11:07:43Z,2026-06-22,True,Long Context
+1276537530,HassanSidd0946/Spatiotemporal-Riemannian-Mamba,Official PyTorch implementation of SpatiotemporalRiemannianMamba for Cognitive BCI and False Memory Decoding (IEEE Q1),https://github.com/HassanSidd0946/Spatiotemporal-Riemannian-Mamba,0,0,Python,,2026-06-22T04:25:40Z,2026-06-22,True,Long Context
+1276473149,yuanbin1224/RSCD_ReMamba_OpenSource,,https://github.com/yuanbin1224/RSCD_ReMamba_OpenSource,0,0,Python,,2026-06-22T02:33:04Z,2026-06-22,True,Long Context
+1276065256,sangjune20012-collab/sc-mambafew-input-representation-analysis,Input representation analysis for SC-MambaFew-based few-shot bearing fault diagnosis.,https://github.com/sangjune20012-collab/sc-mambafew-input-representation-analysis,1,0,Python,"bearing-fault-diagnosis,cwru-dataset,few-shot-learning,input-representation,mamba,sc-mambafew,time-series-to-image",2026-06-21T13:55:04Z,2026-06-22,True,Long Context
+1276377243,sotanengel/mamba-3-powered-by-qwen3-swallow,,https://github.com/sotanengel/mamba-3-powered-by-qwen3-swallow,0,0,Python,,2026-06-21T22:52:01Z,2026-06-22,True,Long Context
+1275882749,mambalabsdev/mcp-company-identity-resolver,"MCP server for the Mamba Labs Company Identity Resolver Apify actor: resolve name, domain, or LinkedIn into one canonical company identity with confidence scores.",https://github.com/mambalabsdev/mcp-company-identity-resolver,0,0,JavaScript,,2026-06-21T08:57:30Z,2026-06-22,True,Long Context
+1275807477,mambalabsdev/mcp-company-social-presence-mapper,"MCP server for the Mamba Labs Company Social Presence Mapper actor: company domain to official LinkedIn, X, Instagram, Facebook, and YouTube URLs plus follower counts. Clay-ready.",https://github.com/mambalabsdev/mcp-company-social-presence-mapper,0,0,JavaScript,,2026-06-21T06:46:04Z,2026-06-22,True,Long Context
+1276090095,mrudblank/ssmUVLJRwk,,https://github.com/mrudblank/ssmUVLJRwk,0,0,,,2026-06-21T14:27:51Z,2026-06-22,True,Long Context
+1275895461,sivakadalisk/ssm,student management system,https://github.com/sivakadalisk/ssm,0,0,,,2026-06-21T09:20:52Z,2026-06-22,True,Long Context
+1276427865,shuydids/JAVA-ahwpb-CODE,基于SSM的ssm基于SSM的咖啡销售系统+vue,https://github.com/shuydids/JAVA-ahwpb-CODE,0,0,Java,,2026-06-22T00:59:35Z,2026-06-22,True,Long Context
+1276567128,hlm2011/ssmoce,,https://github.com/hlm2011/ssmoce,0,0,,,2026-06-22T05:14:12Z,2026-06-22,True,Long Context
+1276411464,nelsonneme/ssmlpz,,https://github.com/nelsonneme/ssmlpz,0,0,,,2026-06-22T00:21:30Z,2026-06-22,True,Long Context
+1276007850,sabasaleji/ssmws,,https://github.com/sabasaleji/ssmws,0,0,TypeScript,,2026-06-21T12:28:46Z,2026-06-22,True,Long Context
+1276427664,shuydids/JAVA-aczmv-CODE,基于SSM的ssm会议管理系统,https://github.com/shuydids/JAVA-aczmv-CODE,0,0,Java,,2026-06-22T00:59:09Z,2026-06-22,True,Long Context
+1276441765,shuydids/JAVA-lfxls-CODE,基于SSM的ssm论文投稿系统+vue,https://github.com/shuydids/JAVA-lfxls-CODE,0,0,Java,,2026-06-22T01:30:16Z,2026-06-22,True,Long Context
+1276432692,shuydids/JAVA-ejkdm-CODE,基于SSM的ssm物流管理系统+vue,https://github.com/shuydids/JAVA-ejkdm-CODE,0,0,Java,,2026-06-22T01:10:47Z,2026-06-22,True,Long Context
+1276438923,shuydids/JAVA-jdspi-CODE,基于SSM的ssm会员管理系统+jsp,https://github.com/shuydids/JAVA-jdspi-CODE,0,0,Java,,2026-06-22T01:24:27Z,2026-06-22,True,Long Context
+1276443199,shuydids/JAVA-mjtis-CODE,基于SSM的ssm框架仓库系统+jsp,https://github.com/shuydids/JAVA-mjtis-CODE,0,0,Java,,2026-06-22T01:33:12Z,2026-06-22,True,Long Context
+1276438265,shuydids/JAVA-ihjcl-CODE,基于SSM的ssm学生宿舍管理+jsp,https://github.com/shuydids/JAVA-ihjcl-CODE,0,0,Java,,2026-06-22T01:22:54Z,2026-06-22,True,Long Context
+1276447174,shuydids/JAVA-qbzgg-CODE,基于SSM的ssm居家养老系统+vue,https://github.com/shuydids/JAVA-qbzgg-CODE,0,0,Java,,2026-06-22T01:41:25Z,2026-06-22,True,Long Context
+1276448463,shuydids/JAVA-rifky-CODE,基于SSM的ssm校园教务系统+vue,https://github.com/shuydids/JAVA-rifky-CODE,0,0,Java,,2026-06-22T01:44:21Z,2026-06-22,True,Long Context
+1276437866,shuydids/JAVA-iaqmd-CODE,基于SSM的ssm民宿管理系统+jsp,https://github.com/shuydids/JAVA-iaqmd-CODE,0,0,Java,,2026-06-22T01:22:05Z,2026-06-22,True,Long Context
+1276431753,shuydids/JAVA-ddwqd-CODE,基于SSM的ssm药品管理系统+vue,https://github.com/shuydids/JAVA-ddwqd-CODE,0,0,Java,,2026-06-22T01:08:38Z,2026-06-22,True,Long Context
+1276444730,shuydids/JAVA-okvyn-CODE,基于SSM的ssm宠物领养系统+vue,https://github.com/shuydids/JAVA-okvyn-CODE,0,0,Java,,2026-06-22T01:36:20Z,2026-06-22,True,Long Context
+1276450152,shuydids/JAVA-sqmbc-CODE,基于SSM的ssm点餐平台系统+vue,https://github.com/shuydids/JAVA-sqmbc-CODE,0,0,Java,,2026-06-22T01:47:50Z,2026-06-22,True,Long Context
+1276436895,shuydids/JAVA-hnlvx-CODE,基于SSM的ssm传统文化网站+vue,https://github.com/shuydids/JAVA-hnlvx-CODE,0,0,Java,,2026-06-22T01:19:52Z,2026-06-22,True,Long Context
+1276315542,tommyv34/backtest_ssmif,Backtesting strategy implementation,https://github.com/tommyv34/backtest_ssmif,0,0,Python,,2026-06-21T20:30:07Z,2026-06-22,True,Long Context
+1276253396,halaalhomie/SSMZ-Enterprise-,"Inventory management system with stock tracking, audits, supplier management, and barcode scanning. Built with FastAPI, PostgreSQL, Next.js, and Flutter.",https://github.com/halaalhomie/SSMZ-Enterprise-,0,0,TypeScript,,2026-06-21T18:31:15Z,2026-06-22,True,Long Context
+1276539925,OREWA907/frenzypediaSSM,,https://github.com/OREWA907/frenzypediaSSM,0,0,HTML,,2026-06-22T04:29:56Z,2026-06-22,True,Long Context
+1276439433,shuydids/JAVA-jfefv-CODE,基于SSM的ssm日用品网站设计+vue,https://github.com/shuydids/JAVA-jfefv-CODE,0,0,Java,,2026-06-22T01:25:29Z,2026-06-22,True,Long Context
+1276437086,shuydids/JAVA-hodzh-CODE,基于SSM的ssm电动车租赁网站+jsp,https://github.com/shuydids/JAVA-hodzh-CODE,0,0,Java,,2026-06-22T01:20:17Z,2026-06-22,True,Long Context
+1276529729,sajeedGIT/shrike_lite_ssm,,https://github.com/sajeedGIT/shrike_lite_ssm,0,0,Verilog,,2026-06-22T04:11:31Z,2026-06-22,True,Long Context
+1276434230,shuydids/JAVA-fzmtd-CODE,基于SSM的ssm校园活动管理平台+vue,https://github.com/shuydids/JAVA-fzmtd-CODE,0,0,Java,,2026-06-22T01:14:12Z,2026-06-22,True,Long Context
+1276345265,vipulSharma18/learn_some_ssm,,https://github.com/vipulSharma18/learn_some_ssm,0,0,Cuda,,2026-06-21T21:33:04Z,2026-06-22,True,Long Context
+1276446090,shuydids/JAVA-pkcid-CODE,基于SSM的ssm应急资源管理系统+jsp,https://github.com/shuydids/JAVA-pkcid-CODE,0,0,Java,,2026-06-22T01:39:04Z,2026-06-22,True,Long Context
+1276438780,shuydids/JAVA-jaigm-CODE,基于SSM的ssm共享客栈管理系统+jsp,https://github.com/shuydids/JAVA-jaigm-CODE,0,0,Java,,2026-06-22T01:24:07Z,2026-06-22,True,Long Context
+1276439070,shuydids/JAVA-jdxpg-CODE,基于SSM的ssm网上服装销售系统+jsp,https://github.com/shuydids/JAVA-jdxpg-CODE,0,0,Java,,2026-06-22T01:24:48Z,2026-06-22,True,Long Context
+1276432957,shuydids/JAVA-emxxq-CODE,基于SSM的ssm人力资源管理系统+vue,https://github.com/shuydids/JAVA-emxxq-CODE,0,0,Java,,2026-06-22T01:11:27Z,2026-06-22,True,Long Context
+1276449216,shuydids/JAVA-sbdgi-CODE,基于SSM的ssm餐厅点菜管理系统+vue,https://github.com/shuydids/JAVA-sbdgi-CODE,0,0,Java,,2026-06-22T01:46:10Z,2026-06-22,True,Long Context
+1276451021,shuydids/JAVA-tgitd-CODE,基于SSM的ssm乐购游戏商城系统+vue,https://github.com/shuydids/JAVA-tgitd-CODE,0,0,Java,,2026-06-22T01:49:32Z,2026-06-22,True,Long Context
+1276435146,shuydids/JAVA-glnks-CODE,基于SSM的ssm航班订票管理系统+jsp,https://github.com/shuydids/JAVA-glnks-CODE,0,0,Java,,2026-06-22T01:15:55Z,2026-06-22,True,Long Context
+1276436559,shuydids/JAVA-hiuex-CODE,基于SSM的ssm大学学术交流论坛+vue,https://github.com/shuydids/JAVA-hiuex-CODE,0,0,Java,,2026-06-22T01:18:56Z,2026-06-22,True,Long Context
+1276429859,shuydids/JAVA-btifc-CODE,基于SSM的ssm高校食堂订餐系统+jsp,https://github.com/shuydids/JAVA-btifc-CODE,0,0,Java,,2026-06-22T01:04:09Z,2026-06-22,True,Long Context
+1276448028,shuydids/JAVA-rfawz-CODE,基于SSM的ssm学生成绩管理系统+vue,https://github.com/shuydids/JAVA-rfawz-CODE,0,0,Java,,2026-06-22T01:43:21Z,2026-06-22,True,Long Context
+1276440156,shuydids/JAVA-krswi-CODE,基于SSM的ssm校园资讯推荐系统+jsp,https://github.com/shuydids/JAVA-krswi-CODE,0,0,Java,,2026-06-22T01:27:00Z,2026-06-22,True,Long Context
+1276429473,shuydids/JAVA-bkzwp-CODE,基于SSM的ssm罪犯信息管理系统+vue,https://github.com/shuydids/JAVA-bkzwp-CODE,0,0,Java,,2026-06-22T01:03:18Z,2026-06-22,True,Long Context
+1276428170,shuydids/JAVA-amcby-CODE,基于SSM的ssm人事管理信息系统+jsp,https://github.com/shuydids/JAVA-amcby-CODE,0,0,Java,,2026-06-22T01:00:15Z,2026-06-22,True,Long Context
+1276434955,shuydids/JAVA-gdmwp-CODE,基于SSM的ssm鲸落文化线上体验馆+vue,https://github.com/shuydids/JAVA-gdmwp-CODE,0,0,Java,,2026-06-22T01:15:35Z,2026-06-22,True,Long Context
+1276443395,shuydids/JAVA-mvkbt-CODE,基于SSM的基于SSM框架的微博系统+vue,https://github.com/shuydids/JAVA-mvkbt-CODE,0,0,Java,,2026-06-22T01:33:32Z,2026-06-22,True,Long Context
+1276430189,shuydids/JAVA-bxoeh-CODE,基于SSM的ssm个性化美食推荐系统+jsp,https://github.com/shuydids/JAVA-bxoeh-CODE,0,0,Java,,2026-06-22T01:04:52Z,2026-06-22,True,Long Context
+1276445912,shuydids/JAVA-pizyg-CODE,基于SSM的ssm基于HTML5的OA办公系统+vue,https://github.com/shuydids/JAVA-pizyg-CODE,0,0,Java,,2026-06-22T01:38:43Z,2026-06-22,True,Long Context
+1276434819,shuydids/JAVA-gblvp-CODE,基于SSM的ssm毕业生就业管理平台+jsp,https://github.com/shuydids/JAVA-gblvp-CODE,0,0,Java,,2026-06-22T01:15:18Z,2026-06-22,True,Long Context
+1276441478,shuydids/JAVA-ldhlz-CODE,基于SSM的ssm网上医院预约挂号系统+jsp,https://github.com/shuydids/JAVA-ldhlz-CODE,0,0,Java,,2026-06-22T01:29:40Z,2026-06-22,True,Long Context
+1276441606,shuydids/JAVA-lfkii-CODE,基于SSM的ssm培训学校教学管理平台+vue,https://github.com/shuydids/JAVA-lfkii-CODE,0,0,Java,,2026-06-22T01:29:55Z,2026-06-22,True,Long Context
+1276434394,shuydids/JAVA-gbcij-CODE,基于SSM的ssm基于Java的学习交流论坛+vue,https://github.com/shuydids/JAVA-gbcij-CODE,0,0,Java,,2026-06-22T01:14:30Z,2026-06-22,True,Long Context
+1276440295,shuydids/JAVA-ksbql-CODE,基于SSM的ssm基于jsp的网上手机商城+jsp,https://github.com/shuydids/JAVA-ksbql-CODE,0,0,Java,,2026-06-22T01:27:17Z,2026-06-22,True,Long Context
+1276447489,shuydids/JAVA-qgfaj-CODE,基于SSM的ssm工贸学生信息管理系统+jsp,https://github.com/shuydids/JAVA-qgfaj-CODE,0,0,Java,,2026-06-22T01:42:05Z,2026-06-22,True,Long Context
+1276442121,shuydids/JAVA-lqdsz-CODE,基于SSM的ssm品牌手机销售信息系统+jsp,https://github.com/shuydids/JAVA-lqdsz-CODE,0,0,Java,,2026-06-22T01:30:59Z,2026-06-22,True,Long Context
+1276434640,shuydids/JAVA-gbemn-CODE,基于SSM的ssm旅游景点管理系统设计+jsp,https://github.com/shuydids/JAVA-gbemn-CODE,0,0,Java,,2026-06-22T01:14:56Z,2026-06-22,True,Long Context
+1276446531,shuydids/JAVA-psfkr-CODE,基于SSM的ssm基于JAVA的校园电子商城+vue,https://github.com/shuydids/JAVA-psfkr-CODE,0,0,Java,,2026-06-22T01:40:04Z,2026-06-22,True,Long Context
+1276432806,shuydids/JAVA-elpmg-CODE,基于SSM的ssm端游账号销售管理系统+jsp,https://github.com/shuydids/JAVA-elpmg-CODE,0,0,Java,,2026-06-22T01:11:03Z,2026-06-22,True,Long Context
+1276448181,shuydids/JAVA-rfuqg-CODE,基于SSM的ssm连锁经营商业管理系统+jsp,https://github.com/shuydids/JAVA-rfuqg-CODE,0,0,Java,,2026-06-22T01:43:43Z,2026-06-22,True,Long Context
+1276430066,shuydids/JAVA-bwnzd-CODE,基于SSM的基于ssm+vue的外卖点餐系统+vue,https://github.com/shuydids/JAVA-bwnzd-CODE,0,0,Java,,2026-06-22T01:04:33Z,2026-06-22,True,Long Context
+1276449965,shuydids/JAVA-sqlqp-CODE,基于SSM的ssm基于Vue框架的订餐系统+vue,https://github.com/shuydids/JAVA-sqlqp-CODE,0,0,Java,,2026-06-22T01:47:30Z,2026-06-22,True,Long Context
+1276429598,shuydids/JAVA-bovqs-CODE,基于SSM的ssm珠宝首饰交易平台开发+jsp,https://github.com/shuydids/JAVA-bovqs-CODE,0,0,Java,,2026-06-22T01:03:36Z,2026-06-22,True,Long Context
+1276447869,shuydids/JAVA-qsfmp-CODE,基于SSM的ssm小区疫情防控管理系统+jsp,https://github.com/shuydids/JAVA-qsfmp-CODE,0,0,Java,,2026-06-22T01:43:01Z,2026-06-22,True,Long Context
+1276444981,shuydids/JAVA-okytq-CODE,基于SSM的ssm铁岭河医院医患管理系统+vue,https://github.com/shuydids/JAVA-okytq-CODE,0,0,Java,,2026-06-22T01:36:55Z,2026-06-22,True,Long Context
+1276444190,shuydids/JAVA-nytzd-CODE,基于SSM的ssm开放式教学评价管理系统+vue,https://github.com/shuydids/JAVA-nytzd-CODE,0,0,Java,,2026-06-22T01:35:11Z,2026-06-22,True,Long Context
+1276431263,shuydids/JAVA-ctmqp-CODE,基于SSM的ssm校园快递一站式服务系统+jsp,https://github.com/shuydids/JAVA-ctmqp-CODE,0,0,Java,,2026-06-22T01:07:29Z,2026-06-22,True,Long Context
+1275909163,MR-HACKER-777/trao-fs-ass3ssment,,https://github.com/MR-HACKER-777/trao-fs-ass3ssment,0,0,TypeScript,,2026-06-21T09:45:17Z,2026-06-22,True,Long Context
+1276447588,shuydids/JAVA-qizon-CODE,基于SSM的SSM的高校共享单车管理系统+vue,https://github.com/shuydids/JAVA-qizon-CODE,0,0,Java,,2026-06-22T01:42:23Z,2026-06-22,True,Long Context
+1276446996,shuydids/JAVA-qbhgk-CODE,基于SSM的ssm医用物理学实验考核系统+jsp,https://github.com/shuydids/JAVA-qbhgk-CODE,0,0,Java,,2026-06-22T01:41:04Z,2026-06-22,True,Long Context
+1276451302,shuydids/JAVA-tirxz-CODE,基于SSM的SSM的校园二手物品交易平台+vue,https://github.com/shuydids/JAVA-tirxz-CODE,0,0,Java,,2026-06-22T01:50:05Z,2026-06-22,True,Long Context
+1276449366,shuydids/JAVA-skaxt-CODE,基于SSM的ssm的大型商场会员管理系统+jsp,https://github.com/shuydids/JAVA-skaxt-CODE,0,0,Java,,2026-06-22T01:46:27Z,2026-06-22,True,Long Context
+1276434059,shuydids/JAVA-fzfvd-CODE,基于SSM的基于ssm的疫情物质管理系统+jsp,https://github.com/shuydids/JAVA-fzfvd-CODE,0,0,Java,,2026-06-22T01:13:52Z,2026-06-22,True,Long Context
+1276442767,shuydids/JAVA-luqkg-CODE,基于SSM的ssm大学生就业信息管理系统+jsp,https://github.com/shuydids/JAVA-luqkg-CODE,0,0,Java,,2026-06-22T01:32:12Z,2026-06-22,True,Long Context
+1276430440,shuydids/JAVA-cikbe-CODE,基于SSM的ssm的“游侠”旅游信息管理系统+jsp,https://github.com/shuydids/JAVA-cikbe-CODE,0,0,Java,,2026-06-22T01:05:29Z,2026-06-22,True,Long Context
+1276439845,shuydids/JAVA-kdbjx-CODE,基于SSM的基于ssm的线上课程管理系统+jsp,https://github.com/shuydids/JAVA-kdbjx-CODE,0,0,Java,,2026-06-22T01:26:23Z,2026-06-22,True,Long Context
+1276433943,shuydids/JAVA-fibmj-CODE,基于SSM的基于SSM框架的安全教育平台+vue,https://github.com/shuydids/JAVA-fibmj-CODE,0,0,Java,,2026-06-22T01:13:34Z,2026-06-22,True,Long Context
+1276441309,shuydids/JAVA-lbkfr-CODE,基于SSM的ssm视频点播系统设计与实现+vue,https://github.com/shuydids/JAVA-lbkfr-CODE,0,0,Java,,2026-06-22T01:29:21Z,2026-06-22,True,Long Context
+1276442960,shuydids/JAVA-maajb-CODE,基于SSM的ssm国学文化网站的设计与制作+jsp,https://github.com/shuydids/JAVA-maajb-CODE,0,0,Java,,2026-06-22T01:32:36Z,2026-06-22,True,Long Context
+1276436652,shuydids/JAVA-hlxwz-CODE,基于SSM的ssm游戏攻略网站的设计与实现+vue,https://github.com/shuydids/JAVA-hlxwz-CODE,0,0,Java,,2026-06-22T01:19:12Z,2026-06-22,True,Long Context
+1276429030,shuydids/JAVA-baege-CODE,基于SSM的SSM视频播放系统的设计与实现+vue,https://github.com/shuydids/JAVA-baege-CODE,0,0,Java,,2026-06-22T01:02:12Z,2026-06-22,True,Long Context
+1276443090,shuydids/JAVA-mbgbi-CODE,基于SSM的SSM在线教育网站的设计与实现+vue,https://github.com/shuydids/JAVA-mbgbi-CODE,0,0,Java,,2026-06-22T01:32:54Z,2026-06-22,True,Long Context
+1276442276,shuydids/JAVA-lrawg-CODE,基于SSM的SSM的高校学生综合素质评价系统,https://github.com/shuydids/JAVA-lrawg-CODE,0,0,Java,,2026-06-22T01:31:17Z,2026-06-22,True,Long Context
+1276433130,shuydids/JAVA-eslai-CODE,基于SSM的ssm流浪动物领养信息系统设计+jsp,https://github.com/shuydids/JAVA-eslai-CODE,0,0,Java,,2026-06-22T01:11:51Z,2026-06-22,True,Long Context
+1276441115,shuydids/JAVA-lakrz-CODE,基于SSM的ssm图书商城网站的设计和开发+vue,https://github.com/shuydids/JAVA-lakrz-CODE,0,0,Java,,2026-06-22T01:28:57Z,2026-06-22,True,Long Context
+1276447734,shuydids/JAVA-qrdai-CODE,基于SSM的ssm框架的大学生就业信息平台+jsp,https://github.com/shuydids/JAVA-qrdai-CODE,0,0,Java,,2026-06-22T01:42:43Z,2026-06-22,True,Long Context
+1276442492,shuydids/JAVA-ltxkp-CODE,基于SSM的ssm会员卡管理系统的设计与实现+jsp,https://github.com/shuydids/JAVA-ltxkp-CODE,0,0,Java,,2026-06-22T01:31:38Z,2026-06-22,True,Long Context
+1276435976,shuydids/JAVA-halhq-CODE,基于SSM的ssm班主任助理系统的设计与实现+jsp,https://github.com/shuydids/JAVA-halhq-CODE,0,0,Java,,2026-06-22T01:17:39Z,2026-06-22,True,Long Context
+1276445738,shuydids/JAVA-pgkqr-CODE,基于SSM的ssm旅行社管理系统的设计与实现+jsp,https://github.com/shuydids/JAVA-pgkqr-CODE,0,0,Java,,2026-06-22T01:38:20Z,2026-06-22,True,Long Context
+1276438664,shuydids/JAVA-isjdw-CODE,基于SSM的ssm电子竞技管理平台设计与实现+jsp,https://github.com/shuydids/JAVA-isjdw-CODE,0,0,Java,,2026-06-22T01:23:50Z,2026-06-22,True,Long Context
+1276435824,shuydids/JAVA-hadax-CODE,基于SSM的ssm家庭财务管理系统设计与实现+jsp,https://github.com/shuydids/JAVA-hadax-CODE,0,0,Java,,2026-06-22T01:17:17Z,2026-06-22,True,Long Context
+1276444343,shuydids/JAVA-nzhtx-CODE,基于SSM的ssm省出口基地公共信息服务平台+jsp,https://github.com/shuydids/JAVA-nzhtx-CODE,0,0,Java,,2026-06-22T01:35:33Z,2026-06-22,True,Long Context
+1276532344,Alejandrx08/Mercadito-,a universitary proyect based in c# and ssms,https://github.com/Alejandrx08/Mercadito-,0,0,C#,,2026-06-22T04:16:07Z,2026-06-22,True,Long Context
+1276436420,shuydids/JAVA-hgrzr-CODE,基于SSM的小区物业管理系统,https://github.com/shuydids/JAVA-hgrzr-CODE,0,0,Java,,2026-06-22T01:18:35Z,2026-06-22,True,Long Context
+1276431417,shuydids/JAVA-cvewl-CODE,基于SSM的高校实验室管理系统+vue,https://github.com/shuydids/JAVA-cvewl-CODE,0,0,Java,,2026-06-22T01:07:50Z,2026-06-22,True,Long Context
+1276446700,shuydids/JAVA-pvqtk-CODE,基于SSM的理发店会员管理系统+vue,https://github.com/shuydids/JAVA-pvqtk-CODE,0,0,Java,,2026-06-22T01:40:27Z,2026-06-22,True,Long Context
+1276432233,shuydids/JAVA-ectiu-CODE,基于SSM的基于JAVA的汽车售票网站+vue,https://github.com/shuydids/JAVA-ectiu-CODE,0,0,Java,,2026-06-22T01:09:47Z,2026-06-22,True,Long Context
+1276450471,shuydids/JAVA-tbupr-CODE,基于SSM的学生公寓管理中心系统+jsp,https://github.com/shuydids/JAVA-tbupr-CODE,0,0,Java,,2026-06-22T01:48:26Z,2026-06-22,True,Long Context
+1276431922,shuydids/JAVA-dqiya-CODE,基于SSM的医院在线挂号预约系统+jsp,https://github.com/shuydids/JAVA-dqiya-CODE,0,0,Java,,2026-06-22T01:09:02Z,2026-06-22,True,Long Context
+1276430564,shuydids/JAVA-cizzz-CODE,基于SSM的语言校园快递代取系统+jsp,https://github.com/shuydids/JAVA-cizzz-CODE,0,0,Java,,2026-06-22T01:05:51Z,2026-06-22,True,Long Context
+1276450639,shuydids/JAVA-tchmc-CODE,基于SSM的毕业生就业状况管理系统+jsp,https://github.com/shuydids/JAVA-tchmc-CODE,0,0,Java,,2026-06-22T01:48:47Z,2026-06-22,True,Long Context
+1276444030,shuydids/JAVA-nmmzf-CODE,基于SSM的大健康综合咨询问诊平台+jsp,https://github.com/shuydids/JAVA-nmmzf-CODE,0,0,Java,,2026-06-22T01:34:49Z,2026-06-22,True,Long Context
+1276447353,shuydids/JAVA-qcrba-CODE,基于SSM的Vue汽车服务商城系统设计+vue,https://github.com/shuydids/JAVA-qcrba-CODE,0,0,Java,,2026-06-22T01:41:47Z,2026-06-22,True,Long Context
+1276437239,shuydids/JAVA-hrtuj-CODE,基于SSM的削面快餐店点餐服务系统+jsp,https://github.com/shuydids/JAVA-hrtuj-CODE,0,0,Java,,2026-06-22T01:20:38Z,2026-06-22,True,Long Context
+1276439707,shuydids/JAVA-kbsxc-CODE,基于SSM的斗车交易系统设计与实现+vue,https://github.com/shuydids/JAVA-kbsxc-CODE,0,0,Java,,2026-06-22T01:26:06Z,2026-06-22,True,Long Context
+1276429349,shuydids/JAVA-bifip-CODE,基于SSM的田径运动会成绩管理系统+vue,https://github.com/shuydids/JAVA-bifip-CODE,0,0,Java,,2026-06-22T01:02:57Z,2026-06-22,True,Long Context
+1276433312,shuydids/JAVA-ettru-CODE,基于SSM的JAVAEE技术校园车辆管理系统+jsp,https://github.com/shuydids/JAVA-ettru-CODE,0,0,Java,,2026-06-22T01:12:12Z,2026-06-22,True,Long Context
+1276449543,shuydids/JAVA-skmvs-CODE,基于SSM的电子相册系统设计与实现+jsp,https://github.com/shuydids/JAVA-skmvs-CODE,0,0,Java,,2026-06-22T01:46:47Z,2026-06-22,True,Long Context
+1276437718,shuydids/JAVA-iaitm-CODE,基于SSM的计算机公共基础课程mooc教学+vue,https://github.com/shuydids/JAVA-iaitm-CODE,0,0,Java,,2026-06-22T01:21:44Z,2026-06-22,True,Long Context
+1276429723,shuydids/JAVA-brbcj-CODE,基于SSM的选课排课系统的设计与开发+vue,https://github.com/shuydids/JAVA-brbcj-CODE,0,0,Java,,2026-06-22T01:03:52Z,2026-06-22,True,Long Context
+1276431588,shuydids/JAVA-czpii-CODE,基于SSM的网络教学平台的设计与实现+vue,https://github.com/shuydids/JAVA-czpii-CODE,0,0,Java,,2026-06-22T01:08:13Z,2026-06-22,True,Long Context
+1276448808,shuydids/JAVA-rtscq-CODE,基于SSM的java的电脑硬件库存管理系统+jsp,https://github.com/shuydids/JAVA-rtscq-CODE,0,0,Java,,2026-06-22T01:45:11Z,2026-06-22,True,Long Context
+1276450819,shuydids/JAVA-tfrct-CODE,基于SSM的网上拍卖系统的设计与实现+vue,https://github.com/shuydids/JAVA-tfrct-CODE,0,0,Java,,2026-06-22T01:49:08Z,2026-06-22,True,Long Context
+1276435475,shuydids/JAVA-gyhwa-CODE,基于SSM的基于java的小型超市管理系统+vue,https://github.com/shuydids/JAVA-gyhwa-CODE,0,0,Java,,2026-06-22T01:16:34Z,2026-06-22,True,Long Context
+1276451469,shuydids/JAVA-trwfu-CODE,基于SSM的学院学生论坛的设计与实现+vue,https://github.com/shuydids/JAVA-trwfu-CODE,0,0,Java,,2026-06-22T01:50:25Z,2026-06-22,True,Long Context
+1276438099,shuydids/JAVA-idxdd-CODE,基于SSM的酒店预约及管理系统的设计+vue,https://github.com/shuydids/JAVA-idxdd-CODE,0,0,Java,,2026-06-22T01:22:33Z,2026-06-22,True,Long Context
+1276446845,shuydids/JAVA-pyypj-CODE,基于SSM的医院住院综合服务管理系统+vue,https://github.com/shuydids/JAVA-pyypj-CODE,0,0,Java,,2026-06-22T01:40:43Z,2026-06-22,True,Long Context
+1276444512,shuydids/JAVA-obwsr-CODE,基于SSM的亿互游在线平台设计与开发+vue,https://github.com/shuydids/JAVA-obwsr-CODE,0,0,Java,,2026-06-22T01:35:53Z,2026-06-22,True,Long Context
+1276443916,shuydids/JAVA-njpix-CODE,基于SSM的框架的校园招聘系统的设计+vue,https://github.com/shuydids/JAVA-njpix-CODE,0,0,Java,,2026-06-22T01:34:33Z,2026-06-22,True,Long Context
+1276433795,shuydids/JAVA-fccrg-CODE,基于SSM的高校教师科研信息展示网站+jsp,https://github.com/shuydids/JAVA-fccrg-CODE,0,0,Java,,2026-06-22T01:13:13Z,2026-06-22,True,Long Context
+1276446250,shuydids/JAVA-pnykp-CODE,基于SSM的Tomcat技术的车库智能管理平台+jsp,https://github.com/shuydids/JAVA-pnykp-CODE,0,0,Java,,2026-06-22T01:39:25Z,2026-06-22,True,Long Context
+1276443751,shuydids/JAVA-myrdj-CODE,基于SSM的企业博客网站的设计与实现+vue,https://github.com/shuydids/JAVA-myrdj-CODE,0,0,Java,,2026-06-22T01:34:14Z,2026-06-22,True,Long Context
+1276435667,shuydids/JAVA-gzqnf-CODE,基于SSM的药房药品采购集中管理系统+vue,https://github.com/shuydids/JAVA-gzqnf-CODE,0,0,Java,,2026-06-22T01:16:56Z,2026-06-22,True,Long Context
+1276438556,shuydids/JAVA-irmks-CODE,基于SSM的基于JAVA的网上药品售卖系统+jsp,https://github.com/shuydids/JAVA-irmks-CODE,0,0,Java,,2026-06-22T01:23:34Z,2026-06-22,True,Long Context
+1276445276,shuydids/JAVA-olgcr-CODE,基于SSM的个人博客网站的设计与实现+vue,https://github.com/shuydids/JAVA-olgcr-CODE,0,0,Java,,2026-06-22T01:37:27Z,2026-06-22,True,Long Context
+1276440632,shuydids/JAVA-kwqeh-CODE,基于SSM的金鱼销售平台的开发和实现+jsp,https://github.com/shuydids/JAVA-kwqeh-CODE,0,0,Java,,2026-06-22T01:27:59Z,2026-06-22,True,Long Context
+1276440959,shuydids/JAVA-lagly-CODE,基于SSM的疫情期间社区出入管理系统+vue,https://github.com/shuydids/JAVA-lagly-CODE,0,0,Java,,2026-06-22T01:28:39Z,2026-06-22,True,Long Context
+1276439984,shuydids/JAVA-kopvi-CODE,基于SSM的网上书城系统的设计与实现+vue,https://github.com/shuydids/JAVA-kopvi-CODE,0,0,Java,,2026-06-22T01:26:39Z,2026-06-22,True,Long Context
+1276446382,shuydids/JAVA-prmaj-CODE,基于SSM的高校教学业绩信息管理系统+jsp,https://github.com/shuydids/JAVA-prmaj-CODE,0,0,Java,,2026-06-22T01:39:44Z,2026-06-22,True,Long Context
+1276448679,shuydids/JAVA-rqcat-CODE,基于SSM的在线电影评价系统设计与实现+jsp,https://github.com/shuydids/JAVA-rqcat-CODE,0,0,Java,,2026-06-22T01:44:54Z,2026-06-22,True,Long Context
+1276428357,shuydids/JAVA-amisb-CODE,基于SSM的农家乐信息平台的设计与实现+vue,https://github.com/shuydids/JAVA-amisb-CODE,0,0,Java,,2026-06-22T01:00:36Z,2026-06-22,True,Long Context
+1276591475,saftab4-arch/AWS-Transit-Gateway-Hub-and-Spoke-Architecture-,"AWS Transit Gateway Hub-and-Spoke Architecture with Private EC2, SSM, Centralized NAT, ALB, Route53, ACM and Cloudflare",https://github.com/saftab4-arch/AWS-Transit-Gateway-Hub-and-Spoke-Architecture-,0,0,,,2026-06-22T05:50:23Z,2026-06-22,True,Long Context
+1276449100,shuydids/JAVA-rzmpj-CODE,基于SSM的奶茶店管理系统的设计与实现+jsp,https://github.com/shuydids/JAVA-rzmpj-CODE,0,0,Java,,2026-06-22T01:45:55Z,2026-06-22,True,Long Context
+1276437360,shuydids/JAVA-hukxx-CODE,基于SSM的Java的在线教育平台设计与实现+jsp,https://github.com/shuydids/JAVA-hukxx-CODE,0,0,Java,,2026-06-22T01:20:57Z,2026-06-22,True,Long Context
+1276440816,shuydids/JAVA-kyuxy-CODE,基于SSM的高校疫情管理系统设计与实现+vue,https://github.com/shuydids/JAVA-kyuxy-CODE,0,0,Java,,2026-06-22T01:28:21Z,2026-06-22,True,Long Context
+1276448972,shuydids/JAVA-rzelt-CODE,基于SSM的公司项目管理系统设计与实现+jsp,https://github.com/shuydids/JAVA-rzelt-CODE,0,0,Java,,2026-06-22T01:45:35Z,2026-06-22,True,Long Context
+1276433653,shuydids/JAVA-fbuuo-CODE,基于SSM的生活缴费系统及相关安全技术+jsp,https://github.com/shuydids/JAVA-fbuuo-CODE,0,0,Java,,2026-06-22T01:12:56Z,2026-06-22,True,Long Context
+1276439287,shuydids/JAVA-jelyr-CODE,基于SSM的保险业务管理系统设计与实现+jsp,https://github.com/shuydids/JAVA-jelyr-CODE,0,0,Java,,2026-06-22T01:25:10Z,2026-06-22,True,Long Context
+1276431122,shuydids/JAVA-cthmn-CODE,基于SSM的葛溪乡留守儿童信息管理系统+vue,https://github.com/shuydids/JAVA-cthmn-CODE,0,0,Java,,2026-06-22T01:07:08Z,2026-06-22,True,Long Context
+1276429206,shuydids/JAVA-bbstn-CODE,基于SSM的失物招领信息交互平台的设计+vue,https://github.com/shuydids/JAVA-bbstn-CODE,0,0,Java,,2026-06-22T01:02:34Z,2026-06-22,True,Long Context
+1276442631,shuydids/JAVA-ltzpf-CODE,基于SSM的办公用品管理系统开发与设计+jsp,https://github.com/shuydids/JAVA-ltzpf-CODE,0,0,Java,,2026-06-22T01:31:55Z,2026-06-22,True,Long Context
+1276436794,shuydids/JAVA-hlztl-CODE,基于SSM的基于jsp的快递管理系统的开发+jsp,https://github.com/shuydids/JAVA-hlztl-CODE,0,0,Java,,2026-06-22T01:19:34Z,2026-06-22,True,Long Context
+1276436224,shuydids/JAVA-helhv-CODE,基于SSM的养老院老人健康监护平台设计+vue,https://github.com/shuydids/JAVA-helhv-CODE,0,0,Java,,2026-06-22T01:18:13Z,2026-06-22,True,Long Context
+1276432091,shuydids/JAVA-dxqao-CODE,基于SSM的基于Java的学生选课系统的实现+jsp,https://github.com/shuydids/JAVA-dxqao-CODE,0,0,Java,,2026-06-22T01:09:24Z,2026-06-22,True,Long Context
+1276448562,shuydids/JAVA-rqaxh-CODE,基于SSM的影视企业全渠道会员管理系统+vue,https://github.com/shuydids/JAVA-rqaxh-CODE,0,0,Java,,2026-06-22T01:44:38Z,2026-06-22,True,Long Context
+1276428708,shuydids/JAVA-aroya-CODE,基于SSM的web的资源共享平台的共享与开发+jsp,https://github.com/shuydids/JAVA-aroya-CODE,0,0,Java,,2026-06-22T01:01:23Z,2026-06-22,True,Long Context
+1276433487,shuydids/JAVA-evgmg-CODE,基于SSM的校园自助洗衣系统的分析与设计+jsp,https://github.com/shuydids/JAVA-evgmg-CODE,0,0,Java,,2026-06-22T01:12:34Z,2026-06-22,True,Long Context
+1276436094,shuydids/JAVA-hbqgm-CODE,基于SSM的金旗帜文化培训学校网站的设计+vue,https://github.com/shuydids/JAVA-hbqgm-CODE,0,0,Java,,2026-06-22T01:17:57Z,2026-06-22,True,Long Context
+1276438392,shuydids/JAVA-ikwra-CODE,基于SSM的实验室考勤管理系统网页的设计+jsp,https://github.com/shuydids/JAVA-ikwra-CODE,0,0,Java,,2026-06-22T01:23:12Z,2026-06-22,True,Long Context
+1276450308,shuydids/JAVA-tbfbx-CODE,基于SSM的在线作业管理系统的设计与实现+vue,https://github.com/shuydids/JAVA-tbfbx-CODE,0,0,Java,,2026-06-22T01:48:05Z,2026-06-22,True,Long Context
+1276443545,shuydids/JAVA-mxzmj-CODE,基于SSM的电脑配件销售系统的设计与实现+jsp,https://github.com/shuydids/JAVA-mxzmj-CODE,0,0,Java,,2026-06-22T01:33:50Z,2026-06-22,True,Long Context
+1276445527,shuydids/JAVA-oqeuz-CODE,基于SSM的疫情期间高校师生外出请假系统+vue,https://github.com/shuydids/JAVA-oqeuz-CODE,0,0,Java,,2026-06-22T01:37:58Z,2026-06-22,True,Long Context
+1276441934,shuydids/JAVA-lkrst-CODE,基于SSM的北京集联软件科技有限公司信息+jsp,https://github.com/shuydids/JAVA-lkrst-CODE,0,0,Java,,2026-06-22T01:30:37Z,2026-06-22,True,Long Context
+1276440479,shuydids/JAVA-kwmxo-CODE,基于SSM的电子设备销售网站的设计与实现+vue,https://github.com/shuydids/JAVA-kwmxo-CODE,0,0,Java,,2026-06-22T01:27:38Z,2026-06-22,True,Long Context
+1276430967,shuydids/JAVA-cpbps-CODE,基于SSM的社区物业管理系统的设计与实现+vue,https://github.com/shuydids/JAVA-cpbps-CODE,0,0,Java,,2026-06-22T01:06:45Z,2026-06-22,True,Long Context
+1276428034,shuydids/JAVA-ajnzx-CODE,基于SSM的医院住院管理系统的设计与实现+jsp,https://github.com/shuydids/JAVA-ajnzx-CODE,0,0,Java,,2026-06-22T00:59:57Z,2026-06-22,True,Long Context
+1276449741,shuydids/JAVA-snbvm-CODE,基于SSM的毕业生跟踪调查反馈系统的设计+vue,https://github.com/shuydids/JAVA-snbvm-CODE,0,0,Java,,2026-06-22T01:47:08Z,2026-06-22,True,Long Context
+1276432554,shuydids/JAVA-efntp-CODE,基于SSM的缪斯乐器购物网站的设计与实现+jsp,https://github.com/shuydids/JAVA-efntp-CODE,0,0,Java,,2026-06-22T01:10:30Z,2026-06-22,True,Long Context
+1276451157,shuydids/JAVA-tgpyv-CODE,基于SSM的“魅力”繁峙宣传网站的设计与实现+vue,https://github.com/shuydids/JAVA-tgpyv-CODE,0,0,Java,,2026-06-22T01:49:48Z,2026-06-22,True,Long Context
+1276437521,shuydids/JAVA-hwamd-CODE,基于SSM的彩妆小样售卖商城的设计与实现+jsp,https://github.com/shuydids/JAVA-hwamd-CODE,0,0,Java,,2026-06-22T01:21:18Z,2026-06-22,True,Long Context
+1276435293,shuydids/JAVA-gntwj-CODE,基于SSM的农业视频实时发布管理系统设计+jsp,https://github.com/shuydids/JAVA-gntwj-CODE,0,0,Java,,2026-06-22T01:16:14Z,2026-06-22,True,Long Context
+1276428835,shuydids/JAVA-asjuw-CODE,基于SSM的学生信息管理系统的设计与实现+jsp,https://github.com/shuydids/JAVA-asjuw-CODE,0,0,Java,,2026-06-22T01:01:42Z,2026-06-22,True,Long Context
+1276439552,shuydids/JAVA-jzuvj-CODE,基于SSM的基于Java的公务员培训机构管理系统,https://github.com/shuydids/JAVA-jzuvj-CODE,0,0,Java,,2026-06-22T01:25:45Z,2026-06-22,True,Long Context
+1276430783,shuydids/JAVA-cofah-CODE,基于SSM的汽车站车辆运管系统开发与设计+vue,https://github.com/shuydids/JAVA-cofah-CODE,0,0,Java,,2026-06-22T01:06:21Z,2026-06-22,True,Long Context
+1276428502,shuydids/JAVA-aocpi-CODE,基于SSM的企业人事管理系统的设计与实现+jsp,https://github.com/shuydids/JAVA-aocpi-CODE,0,0,Java,,2026-06-22T01:00:57Z,2026-06-22,True,Long Context
+1276432414,shuydids/JAVA-eeaww-CODE,基于SSM的高校工会提案管理信息系统的设计+jsp,https://github.com/shuydids/JAVA-eeaww-CODE,0,0,Java,,2026-06-22T01:10:12Z,2026-06-22,True,Long Context
+1276430305,shuydids/JAVA-ccyvp-CODE,基于SSM的大学生创新创业平台竞赛管理系统+jsp,https://github.com/shuydids/JAVA-ccyvp-CODE,0,0,Java,,2026-06-22T01:05:09Z,2026-06-22,True,Long Context
+1276448346,shuydids/JAVA-rheiz-CODE,基于SSM的基于面向对象的学生事务处理系统+jsp,https://github.com/shuydids/JAVA-rheiz-CODE,0,0,Java,,2026-06-22T01:44:05Z,2026-06-22,True,Long Context
+1276300282,Olufunmilorla/AnalystLab-Africa-chinook-and-sales-data-,"Business-focused SQL projects showcasing data exploration, advanced querying, customer insights, revenue analysis, and decision-making support using SQL Server Management Studio (SSMS).",https://github.com/Olufunmilorla/AnalystLab-Africa-chinook-and-sales-data-,0,0,TSQL,,2026-06-21T19:58:45Z,2026-06-22,True,Long Context
+1276598703,ValerioDolci/tiny-reasoner,"Tiny reasoning micro-lab: from-scratch models (Mac M4, PyTorch/MPS). Includes a closed, honest negative study on bounded-state + in-loop tool-folding vs full attention (reproduction of known results) and a vectorized SSM scan.",https://github.com/ValerioDolci/tiny-reasoner,0,0,Python,,2026-06-22T06:00:22Z,2026-06-22,True,Long Context
+1276653082,eyebite4/ZgApuhHIcn,【Java计算机毕业设计分享】基于SSM的物流管理系统，MySQL Java开发 毕业设计 实战项目【附源码、文档报告、代码讲解】,https://github.com/eyebite4/ZgApuhHIcn,0,0,,,2026-06-22T07:09:02Z,2026-06-22,True,Long Context
+1276188910,ijabyregra/YuPChjdXEF,【Java计算机毕业设计分享】基于SSM的停车管理系统，MySQL Java开发 毕业设计 实战项目【附源码、文档报告、代码讲解】,https://github.com/ijabyregra/YuPChjdXEF,1,0,,,2026-06-21T16:46:34Z,2026-06-22,True,Long Context
+1276638975,jahnfrens/mcozAbakvi,【Java计算机毕业设计分享】基于SSM的旅游管理系统，MySQL Java开发 毕业设计 实战项目【附源码、文档报告、代码讲解】,https://github.com/jahnfrens/mcozAbakvi,1,0,,,2026-06-22T06:51:58Z,2026-06-22,True,Long Context
+1276361608,cauwen/fkDdaNGMTu,【Java计算机毕业设计分享】基于SSM教材管理平台，MySQL Java开发 毕业设计 实战项目【附源码、文档报告、代码讲解】,https://github.com/cauwen/fkDdaNGMTu,1,0,,,2026-06-21T22:12:00Z,2026-06-22,True,Long Context
+1276383530,xiaomezhig/pqKdgnXCcv,【Java计算机毕业设计分享】基于SSM的社区管理系统，MySQL Java开发 毕业设计 实战项目【附源码、文档报告、代码讲解】,https://github.com/xiaomezhig/pqKdgnXCcv,1,0,,,2026-06-21T23:08:44Z,2026-06-22,True,Long Context
+1276396605,joshkrebst/TIFiPcxlap,【Java计算机毕业设计分享】基于SSM的财务管理系统，MySQL Java开发 毕业设计 实战项目【附源码、文档报告、代码讲解】,https://github.com/joshkrebst/TIFiPcxlap,1,0,,,2026-06-21T23:42:52Z,2026-06-22,True,Long Context
+1275839707,ijabyregra/BbAUvMosai,【Java计算机毕业设计分享】基于SSM的校园预约系统，MySQL Java开发 毕业设计 实战项目【附源码、文档报告、代码讲解】,https://github.com/ijabyregra/BbAUvMosai,1,0,,,2026-06-21T07:44:32Z,2026-06-22,True,Long Context
+1276602958,ramariyata/JTWRXDTimC,【Java计算机毕业设计分享】基于SSM的电脑测评系统，MySQL Java开发 毕业设计 实战项目【附源码、文档报告、代码讲解】,https://github.com/ramariyata/JTWRXDTimC,0,0,,,2026-06-22T06:06:22Z,2026-06-22,True,Long Context
+1276603923,ramariyata/WpRgUDeKyb,【Java计算机毕业设计分享】基于SSM的电脑测评系统，MySQL Java开发 毕业设计 实战项目【附源码、文档报告、代码讲解】,https://github.com/ramariyata/WpRgUDeKyb,0,0,,,2026-06-22T06:07:45Z,2026-06-22,True,Long Context
+1276195452,ijabyregra/DFbuwDTjrO,【Java计算机毕业设计分享】基于SSM的订餐管理系统，MySQL Java开发 毕业设计 实战项目【附源码、文档报告、代码讲解】,https://github.com/ijabyregra/DFbuwDTjrO,1,0,,,2026-06-21T16:56:52Z,2026-06-22,True,Long Context
+1276365723,cauwen/wDJLBwWLxh,【Java计算机毕业设计分享】基于SSM的博客管理系统，MySQL Java开发 毕业设计 实战项目【附源码、文档报告、代码讲解】,https://github.com/cauwen/wDJLBwWLxh,1,0,,,2026-06-21T22:22:21Z,2026-06-22,True,Long Context
+1276345535,doomispawd/xrYnKfrvsO,【Java计算机毕业设计分享】基于SSM的宠物领养系统，MySQL Java开发 毕业设计 实战项目【附源码、文档报告、代码讲解】,https://github.com/doomispawd/xrYnKfrvsO,1,0,,,2026-06-21T21:33:40Z,2026-06-22,True,Long Context
+1275837323,hartlez022/gjsSYndilK,【Java计算机毕业设计分享】基于SSM的电商培训系统，MySQL Java开发 毕业设计 实战项目【附源码、文档报告、代码讲解】,https://github.com/hartlez022/gjsSYndilK,1,0,,,2026-06-21T07:40:13Z,2026-06-22,True,Long Context
+1276380140,ijabyregra/pDdyqELjrA,【Java计算机毕业设计分享】基于SSM的招聘管理系统，MySQL Java开发 毕业设计 实战项目【附源码、文档报告、代码讲解】,https://github.com/ijabyregra/pDdyqELjrA,1,0,,,2026-06-21T22:59:24Z,2026-06-22,True,Long Context
+1276169816,cauwen/cUWGitDFAc,【Java计算机毕业设计分享】基于SSM的摊位管理系统，MySQL Java开发 毕业设计 实战项目【附源码、文档报告、代码讲解】,https://github.com/cauwen/cUWGitDFAc,1,0,,,2026-06-21T16:19:33Z,2026-06-22,True,Long Context
+1276382424,xiaomezhig/xaYctdIVdR,【Java计算机毕业设计分享】基于SSM的选课管理系统，MySQL Java开发 毕业设计 实战项目【附源码、文档报告、代码讲解】,https://github.com/xiaomezhig/xaYctdIVdR,1,0,,,2026-06-21T23:05:39Z,2026-06-22,True,Long Context
+1276574796,mrudblank/hiArmmaWbw,【Java计算机毕业设计分享】基于SSM的会议管理系统，MySQL Java开发 毕业设计 实战项目【附源码、文档报告、代码讲解】,https://github.com/mrudblank/hiArmmaWbw,0,0,,,2026-06-22T05:26:41Z,2026-06-22,True,Long Context
+1275840354,ijabyregra/qFqycsRxJu,【Java计算机毕业设计分享】基于SSM的电商培训系统，MySQL Java开发 毕业设计 实战项目【附源码、文档报告、代码讲解】,https://github.com/ijabyregra/qFqycsRxJu,1,0,,,2026-06-21T07:45:34Z,2026-06-22,True,Long Context
+1275884146,ibislon/eXgbjsQXBi,【Java计算机毕业设计分享】基于SSM的电影评论系统，MySQL Java开发 毕业设计 实战项目【附源码、文档报告、代码讲解】,https://github.com/ibislon/eXgbjsQXBi,1,0,,,2026-06-21T09:00:09Z,2026-06-22,True,Long Context
+1276352044,jahnfrens/rYoieBLwjT,【Java计算机毕业设计分享】基于SSM的二手交易平台，MySQL Java开发 毕业设计 实战项目【附源码、文档报告、代码讲解】,https://github.com/jahnfrens/rYoieBLwjT,1,0,,,2026-06-21T21:49:15Z,2026-06-22,True,Long Context
+1275836738,hartlez022/eEnUqPlpOD,【Java计算机毕业设计分享】基于SSM的校园预约系统，MySQL Java开发 毕业设计 实战项目【附源码、文档报告、代码讲解】,https://github.com/hartlez022/eEnUqPlpOD,1,0,,,2026-06-21T07:39:09Z,2026-06-22,True,Long Context
+1276243240,wood2kite/XakrxHBslW,【Java计算机毕业设计分享】基于SSM的学籍管理系统，MySQL Java开发 毕业设计 实战项目【附源码、文档报告、代码讲解】,https://github.com/wood2kite/XakrxHBslW,1,0,,,2026-06-21T18:13:38Z,2026-06-22,True,Long Context
+1276372779,hartlez022/XzgvmYLwVD,【Java计算机毕业设计分享】基于SSM的文档管理系统，MySQL Java开发 毕业设计 实战项目【附源码、文档报告、代码讲解】,https://github.com/hartlez022/XzgvmYLwVD,1,0,,,2026-06-21T22:39:56Z,2026-06-22,True,Long Context
+1276627568,doomispawd/NeWxhPsSDP,【Java计算机毕业设计分享】基于SSM的仓库管理系统，MySQL Java开发 毕业设计 实战项目【附源码、文档报告、代码讲解】,https://github.com/doomispawd/NeWxhPsSDP,1,0,,,2026-06-22T06:38:09Z,2026-06-22,True,Long Context
+1276642688,eyebite4/VxMJmFsyUy,【Java计算机毕业设计分享】基于SSM的微博系统及Vue平台，MySQL Java开发 毕业设计 实战项目【附源码、文档报告、代码讲解】,https://github.com/eyebite4/VxMJmFsyUy,0,0,,,2026-06-22T06:56:23Z,2026-06-22,True,Long Context
+1276639157,eyebite4/tFfVgZrpoc,【Java计算机毕业设计分享】基于SSM的汽车租赁管理系统，MySQL Java开发 毕业设计 实战项目【附源码、文档报告、代码讲解】,https://github.com/eyebite4/tFfVgZrpoc,0,0,,,2026-06-22T06:52:12Z,2026-06-22,True,Long Context
+1276637349,jahnfrens/tIznbptsaB,【Java计算机毕业设计分享】基于SSM的汽车租赁管理系统，MySQL Java开发 毕业设计 实战项目【附源码、文档报告、代码讲解】,https://github.com/jahnfrens/tIznbptsaB,1,0,,,2026-06-22T06:49:51Z,2026-06-22,True,Long Context
+1276379239,ijabyregra/wZLpIojNOQ,【Java计算机毕业设计分享】基于SSM的Web新闻流媒体平台，MySQL Java开发 毕业设计 实战项目【附源码、文档报告、代码讲解】,https://github.com/ijabyregra/wZLpIojNOQ,1,0,,,2026-06-21T22:57:21Z,2026-06-22,True,Long Context
+1276350387,jahnfrens/bGJKJyPZJM,【Java计算机毕业设计分享】基于SSM的药店销售管理系统，MySQL Java开发 毕业设计 实战项目【附源码、文档报告、代码讲解】,https://github.com/jahnfrens/bGJKJyPZJM,1,0,,,2026-06-21T21:45:03Z,2026-06-22,True,Long Context
+1276633790,jahnfrens/WgIuBhAiqy,【Java计算机毕业设计分享】基于SSM的线上课程管理系统，MySQL Java开发 毕业设计 实战项目【附源码、文档报告、代码讲解】,https://github.com/jahnfrens/WgIuBhAiqy,1,0,,,2026-06-22T06:45:40Z,2026-06-22,True,Long Context
+1276173866,hartlez022/zLwExCpknb,【Java计算机毕业设计分享】基于SSM的个人时间管理系统，MySQL Java开发 毕业设计 实战项目【附源码、文档报告、代码讲解】,https://github.com/hartlez022/zLwExCpknb,1,0,,,2026-06-21T16:25:55Z,2026-06-22,True,Long Context
+1276171204,cauwen/jJRxFwVLyo,【Java计算机毕业设计分享】基于SSM的校医务管理系统，MySQL Java开发 毕业设计 实战项目【附源码、文档报告、代码讲解】,https://github.com/cauwen/jJRxFwVLyo,1,0,,,2026-06-21T16:21:38Z,2026-06-22,True,Long Context
+1276191534,ijabyregra/eIlPAXgwjx,【Java计算机毕业设计分享】基于SSM的教室信息管理系统，MySQL Java开发 毕业设计 实战项目【附源码、文档报告、代码讲解】,https://github.com/ijabyregra/eIlPAXgwjx,1,0,,,2026-06-21T16:50:44Z,2026-06-22,True,Long Context
+1276652137,cauwen/vSrZzkaHcf,【Java计算机毕业设计分享】基于SSM的小说阅读器小程序，MySQL Java开发 毕业设计 实战项目【附源码、文档报告、代码讲解】,https://github.com/cauwen/vSrZzkaHcf,1,0,,,2026-06-22T07:07:44Z,2026-06-22,True,Long Context
+1276181451,hartlez022/wLfQgGyAYd,【Java计算机毕业设计分享】基于SSM的班级事务管理系统，MySQL Java开发 毕业设计 实战项目【附源码、文档报告、代码讲解】,https://github.com/hartlez022/wLfQgGyAYd,1,0,,,2026-06-21T16:36:11Z,2026-06-22,True,Long Context
+1276249690,wood2kite/AKpdRfwBJP,【Java计算机毕业设计分享】基于SSM的怀旧唱片售卖平台，MySQL Java开发 毕业设计 实战项目【附源码、文档报告、代码讲解】,https://github.com/wood2kite/AKpdRfwBJP,1,0,,,2026-06-21T18:24:55Z,2026-06-22,True,Long Context
+1276250870,wood2kite/aqKbTnNxOD,【Java计算机毕业设计分享】基于SSM的商城设计与实现，MySQL Java开发 毕业设计 实战项目【附源码、文档报告、代码讲解】,https://github.com/wood2kite/aqKbTnNxOD,1,0,,,2026-06-21T18:26:58Z,2026-06-22,True,Long Context
+1276370808,hartlez022/QQnHeFptAO,【Java计算机毕业设计分享】基于SSM的Web电影购票系统，MySQL Java开发 毕业设计 实战项目【附源码、文档报告、代码讲解】,https://github.com/hartlez022/QQnHeFptAO,1,0,,,2026-06-21T22:34:45Z,2026-06-22,True,Long Context
+1276614831,rayabeciga/LRrSsrSGpG,【Java计算机毕业设计分享】基于SSM框架的购物商城系统，MySQL Java开发 毕业设计 实战项目【附源码、文档报告、代码讲解】,https://github.com/rayabeciga/LRrSsrSGpG,0,0,,,2026-06-22T06:22:06Z,2026-06-22,True,Long Context
+1276646330,eyebite4/OlWIHzjIbQ,【Java计算机毕业设计分享】基于SSM的医院住院管理系统，MySQL Java开发 毕业设计 实战项目【附源码、文档报告、代码讲解】,https://github.com/eyebite4/OlWIHzjIbQ,0,0,,,2026-06-22T07:00:34Z,2026-06-22,True,Long Context
+1276176145,hartlez022/jNKlvelytz,【Java计算机毕业设计分享】基于SSM的学生在线考试平台，MySQL Java开发 毕业设计 实战项目【附源码、文档报告、代码讲解】,https://github.com/hartlez022/jNKlvelytz,1,0,,,2026-06-21T16:29:02Z,2026-06-22,True,Long Context
+1276347390,doomispawd/WLAoxXxAqh,【Java计算机毕业设计分享】基于SSM的新生报道管理系统，MySQL Java开发 毕业设计 实战项目【附源码、文档报告、代码讲解】,https://github.com/doomispawd/WLAoxXxAqh,1,0,,,2026-06-21T21:37:48Z,2026-06-22,True,Long Context
+1276340815,doomispawd/GPaarrkbnZ,【Java计算机毕业设计分享】基于SSM的KTV包厢管理系统，MySQL Java开发 毕业设计 实战项目【附源码、文档报告、代码讲解】,https://github.com/doomispawd/GPaarrkbnZ,1,0,,,2026-06-21T21:23:23Z,2026-06-22,True,Long Context
+1276368686,hartlez022/knWYXCLgiO,【Java计算机毕业设计分享】基于SSM的车辆出租管理系统，MySQL Java开发 毕业设计 实战项目【附源码、文档报告、代码讲解】,https://github.com/hartlez022/knWYXCLgiO,1,0,,,2026-06-21T22:29:36Z,2026-06-22,True,Long Context
+1276391674,joshkrebst/TPAheaRvwt,【Java计算机毕业设计分享】基于SSM剧本杀预约管理系统，MySQL Java开发 毕业设计 实战项目【附源码、文档报告、代码讲解】,https://github.com/joshkrebst/TPAheaRvwt,1,0,,,2026-06-21T23:29:37Z,2026-06-22,True,Long Context
+1276172512,hartlez022/JqhzABfLPH,【Java计算机毕业设计分享】基于SSM的小区物业管理系统，MySQL Java开发 毕业设计 实战项目【附源码、文档报告、代码讲解】,https://github.com/hartlez022/JqhzABfLPH,1,0,,,2026-06-21T16:23:50Z,2026-06-22,True,Long Context
+1276374345,ijabyregra/lMLHLnjdZB,【Java计算机毕业设计分享】基于SSM的个人财务管理系统，MySQL Java开发 毕业设计 实战项目【附源码、文档报告、代码讲解】,https://github.com/ijabyregra/lMLHLnjdZB,1,0,,,2026-06-21T22:44:13Z,2026-06-22,True,Long Context
+1276378090,ijabyregra/bOuxYZyhkE,【Java计算机毕业设计分享】基于SSM的“花鸣”B2C电商平台，MySQL Java开发 毕业设计 实战项目【附源码、文档报告、代码讲解】,https://github.com/ijabyregra/bOuxYZyhkE,1,0,,,2026-06-21T22:54:17Z,2026-06-22,True,Long Context
+1276581032,mrudblank/JPDBqxeBqu,【Java计算机毕业设计分享】基于SSM的舞蹈网站管理系统，MySQL Java开发 毕业设计 实战项目【附源码、文档报告、代码讲解】,https://github.com/mrudblank/JPDBqxeBqu,0,0,,,2026-06-22T05:36:22Z,2026-06-22,True,Long Context
+1276584090,mrudblank/BLjEjqOKra,【Java计算机毕业设计分享】基于SSM的车库智能管理平台，MySQL Java开发 毕业设计 实战项目【附源码、文档报告、代码讲解】,https://github.com/mrudblank/BLjEjqOKra,0,0,,,2026-06-22T05:40:37Z,2026-06-22,True,Long Context
+1276622625,rayabeciga/otXaBtQgHD,【Java计算机毕业设计分享】基于SSM的学生作业管理系统，MySQL Java开发 毕业设计 实战项目【附源码、文档报告、代码讲解】,https://github.com/rayabeciga/otXaBtQgHD,0,0,,,2026-06-22T06:32:20Z,2026-06-22,True,Long Context
+1276597825,ramariyata/ukMsmnbVWQ,【Java计算机毕业设计分享】基于SSM的酒店客房管理系统，MySQL Java开发 毕业设计 实战项目【附源码、文档报告、代码讲解】,https://github.com/ramariyata/ukMsmnbVWQ,0,0,,,2026-06-22T05:59:03Z,2026-06-22,True,Long Context
+1276646013,jahnfrens/cGrhPEOAEy,【Java计算机毕业设计分享】基于SSM的网上商城管理系统，MySQL Java开发 毕业设计 实战项目【附源码、文档报告、代码讲解】,https://github.com/jahnfrens/cGrhPEOAEy,1,0,,,2026-06-22T07:00:14Z,2026-06-22,True,Long Context
+1276185896,hartlez022/NIXqeOMQNn,【Java计算机毕业设计分享】基于SSM的毕业设计选题系统，MySQL Java开发 毕业设计 实战项目【附源码、文档报告、代码讲解】,https://github.com/hartlez022/NIXqeOMQNn,1,0,,,2026-06-21T16:42:20Z,2026-06-22,True,Long Context
+1276635648,eyebite4/NYOeFlTwDp,【Java计算机毕业设计分享】基于SSM的楼房销售管理系统，MySQL Java开发 毕业设计 实战项目【附源码、文档报告、代码讲解】,https://github.com/eyebite4/NYOeFlTwDp,0,0,,,2026-06-22T06:47:53Z,2026-06-22,True,Long Context
+1276179985,hartlez022/mOQOgtenkr,【Java计算机毕业设计分享】基于SSM的滁艺咖啡销售平台，MySQL Java开发 毕业设计 实战项目【附源码、文档报告、代码讲解】,https://github.com/hartlez022/mOQOgtenkr,1,0,,,2026-06-21T16:34:09Z,2026-06-22,True,Long Context
+1276394700,joshkrebst/mQZkqGTcvP,【Java计算机毕业设计分享】基于SSM的校内互助交易平台，MySQL Java开发 毕业设计 实战项目【附源码、文档报告、代码讲解】,https://github.com/joshkrebst/mQZkqGTcvP,1,0,,,2026-06-21T23:37:47Z,2026-06-22,True,Long Context
+1276373921,hartlez022/BWCNzQnwYl,【Java计算机毕业设计分享】基于SSM的游泳会员管理系统，MySQL Java开发 毕业设计 实战项目【附源码、文档报告、代码讲解】,https://github.com/hartlez022/BWCNzQnwYl,1,0,,,2026-06-21T22:43:02Z,2026-06-22,True,Long Context
+1276599858,ramariyata/KoxGZFHtwP,【Java计算机毕业设计分享】基于SSM学院党员管理系统，MySQL Java开发 毕业设计 实战项目【附源码、文档报告、代码讲解】,https://github.com/ramariyata/KoxGZFHtwP,0,0,,,2026-06-22T06:01:59Z,2026-06-22,True,Long Context
+1276588171,mrudblank/JSdSPsfLaS,【Java计算机毕业设计分享】基于SSM的学生宿舍管理系统，MySQL Java开发 毕业设计 实战项目【附源码、文档报告、代码讲解】,https://github.com/mrudblank/JSdSPsfLaS,0,0,,,2026-06-22T05:46:05Z,2026-06-22,True,Long Context
+1276194169,ijabyregra/xGnUOEKQbd,【Java计算机毕业设计分享】基于SSM学生档案管理系统，MySQL Java开发 毕业设计 实战项目【附源码、文档报告、代码讲解】,https://github.com/ijabyregra/xGnUOEKQbd,1,0,,,2026-06-21T16:54:50Z,2026-06-22,True,Long Context
+1276394338,joshkrebst/NAGhWXccEm,【Java计算机毕业设计分享】基于SSM的在线视频点播系统，MySQL Java开发 毕业设计 实战项目【附源码、文档报告、代码讲解】,https://github.com/joshkrebst/NAGhWXccEm,1,0,,,2026-06-21T23:36:43Z,2026-06-22,True,Long Context
+1276390553,joshkrebst/jQrNEjuGAR,【Java计算机毕业设计分享】基于SSM的医院交互管理系统，MySQL Java开发 毕业设计 实战项目【附源码、文档报告、代码讲解】,https://github.com/joshkrebst/jQrNEjuGAR,1,0,,,2026-06-21T23:26:33Z,2026-06-22,True,Long Context
+1276140694,doomispawd/StBuvhalnx,【Java计算机毕业设计分享】基于SSM的课程在线学习平台，MySQL Java开发 毕业设计 实战项目【附源码、文档报告、代码讲解】,https://github.com/doomispawd/StBuvhalnx,1,0,,,2026-06-21T15:35:51Z,2026-06-22,True,Long Context
+1275897212,wood2kite/drrTmVeLXZ,【Java计算机毕业设计分享】基于SSM的医院管理系统（平台），MySQL Java开发 毕业设计 实战项目【附源码、文档报告、代码讲解】,https://github.com/wood2kite/drrTmVeLXZ,1,0,,,2026-06-21T09:24:04Z,2026-06-22,True,Long Context
+1276341643,doomispawd/aIotdMguZe,【Java计算机毕业设计分享】基于SSM的高校试题管理系统，MySQL Java开发 毕业设计 实战项目【附源码、文档报告、代码讲解】,https://github.com/doomispawd/aIotdMguZe,1,0,,,2026-06-21T21:25:24Z,2026-06-22,True,Long Context
+1276582046,mrudblank/SIecGcdNBT,【Java计算机毕业设计分享】基于SSM的宠物医院管理系统，MySQL Java开发 毕业设计 实战项目【附源码、文档报告、代码讲解】,https://github.com/mrudblank/SIecGcdNBT,0,0,,,2026-06-22T05:37:50Z,2026-06-22,True,Long Context
+1276600858,ramariyata/fiaHGkdgZr,【Java计算机毕业设计分享】基于SSM的网上书城管理系统，MySQL Java开发 毕业设计 实战项目【附源码、文档报告、代码讲解】,https://github.com/ramariyata/fiaHGkdgZr,0,0,,,2026-06-22T06:03:24Z,2026-06-22,True,Long Context
+1276170516,cauwen/qWPBVDgDCI,【Java计算机毕业设计分享】基于SSM的鲜花商城管理系统，MySQL Java开发 毕业设计 实战项目【附源码、文档报告、代码讲解】,https://github.com/cauwen/qWPBVDgDCI,1,0,,,2026-06-21T16:20:34Z,2026-06-22,True,Long Context
+1276359878,cauwen/rznpuzqqVq,【Java计算机毕业设计分享】基于SSM的政府项目管理平台，MySQL Java开发 毕业设计 实战项目【附源码、文档报告、代码讲解】,https://github.com/cauwen/rznpuzqqVq,1,0,,,2026-06-21T22:07:49Z,2026-06-22,True,Long Context
+1276612559,rayabeciga/bQjLbXdHCk,【Java计算机毕业设计分享】基于SSM的新生报到管理系统，MySQL Java开发 毕业设计 实战项目【附源码、文档报告、代码讲解】,https://github.com/rayabeciga/bQjLbXdHCk,0,0,,,2026-06-22T06:19:15Z,2026-06-22,True,Long Context
+1276349198,jahnfrens/ArPXFRYinV,【Java计算机毕业设计分享】基于SSM的猎头公司管理系统，MySQL Java开发 毕业设计 实战项目【附源码、文档报告、代码讲解】,https://github.com/jahnfrens/ArPXFRYinV,1,0,,,2026-06-21T21:41:59Z,2026-06-22,True,Long Context
+1276373578,hartlez022/QmKDNqIuLS,【Java计算机毕业设计分享】基于SSM的高校防控系统平台，MySQL Java开发 毕业设计 实战项目【附源码、文档报告、代码讲解】,https://github.com/hartlez022/QmKDNqIuLS,1,0,,,2026-06-21T22:42:00Z,2026-06-22,True,Long Context
+1276375807,ijabyregra/qigJSXOsgD,【Java计算机毕业设计分享】基于SSM的食品安全追溯系统，MySQL Java开发 毕业设计 实战项目【附源码、文档报告、代码讲解】,https://github.com/ijabyregra/qigJSXOsgD,1,0,,,2026-06-21T22:48:11Z,2026-06-22,True,Long Context
+1276363240,cauwen/wJYmvVEkeK,【Java计算机毕业设计分享】基于SSM的疫情信息管理系统，MySQL Java开发 毕业设计 实战项目【附源码、文档报告、代码讲解】,https://github.com/cauwen/wJYmvVEkeK,1,0,,,2026-06-21T22:16:08Z,2026-06-22,True,Long Context
+1276388463,xiaomezhig/PFHDDsuygf,【Java计算机毕业设计分享】基于SSM的学生考勤管理系统，MySQL Java开发 毕业设计 实战项目【附源码、文档报告、代码讲解】,https://github.com/xiaomezhig/PFHDDsuygf,1,0,,,2026-06-21T23:21:12Z,2026-06-22,True,Long Context
+1276333568,brentberli/gOUElKZHaw,【Java计算机毕业设计分享】基于SSM的学生就业管理系统，MySQL Java开发 毕业设计 实战项目【附源码、文档报告、代码讲解】,https://github.com/brentberli/gOUElKZHaw,1,0,,,2026-06-21T21:07:42Z,2026-06-22,True,Long Context
+1275892818,wood2kite/wZTJTGMDkM,【Java计算机毕业设计分享】基于SSM的学生信息管理系统，MySQL Java开发 毕业设计 实战项目【附源码、文档报告、代码讲解】,https://github.com/wood2kite/wZTJTGMDkM,1,0,,,2026-06-21T09:15:49Z,2026-06-22,True,Long Context
+1276384364,xiaomezhig/iykxAEZzSQ,【Java计算机毕业设计分享】基于SSM奖助学金管理系统（Vue），MySQL Java开发 毕业设计 实战项目【附源码、文档报告、代码讲解】,https://github.com/xiaomezhig/iykxAEZzSQ,1,0,,,2026-06-21T23:10:45Z,2026-06-22,True,Long Context
+1276376137,ijabyregra/NQZqXoDYfN,【Java计算机毕业设计分享】基于SSM的物资物流管理系统，MySQL Java开发 毕业设计 实战项目【附源码、文档报告、代码讲解】,https://github.com/ijabyregra/NQZqXoDYfN,1,0,,,2026-06-21T22:49:12Z,2026-06-22,True,Long Context
+1276398854,ibislon/QGyXUsqBby,【Java计算机毕业设计分享】基于SSM的游戏资源管理系统，MySQL Java开发 毕业设计 实战项目【附源码、文档报告、代码讲解】,https://github.com/ibislon/QGyXUsqBby,1,0,,,2026-06-21T23:49:18Z,2026-06-22,True,Long Context
+1276593695,ramariyata/QqDcZKuPdS,【Java计算机毕业设计分享】基于SSM的人力资源管理系统，MySQL Java开发 毕业设计 实战项目【附源码、文档报告、代码讲解】,https://github.com/ramariyata/QqDcZKuPdS,0,0,,,2026-06-22T05:53:22Z,2026-06-22,True,Long Context
+1276359466,cauwen/zMyoZVRrjr,【Java计算机毕业设计分享】基于SSM的员工信息管理系统，MySQL Java开发 毕业设计 实战项目【附源码、文档报告、代码讲解】,https://github.com/cauwen/zMyoZVRrjr,1,0,,,2026-06-21T22:06:48Z,2026-06-22,True,Long Context
+1276396965,joshkrebst/DUYtGLwtGh,【Java计算机毕业设计分享】基于SSM的校友录管理系统，MySQL Java开发 毕业设计 实战项目【附源码、文档报告、代码讲解】,https://github.com/joshkrebst/DUYtGLwtGh,1,0,,,2026-06-21T23:43:54Z,2026-06-22,True,Long Context
+1276184404,hartlez022/jqIzAYtdLu,【Java计算机毕业设计分享】基于SSM的网上购物平台设计，MySQL Java开发 毕业设计 实战项目【附源码、文档报告、代码讲解】,https://github.com/hartlez022/jqIzAYtdLu,1,0,,,2026-06-21T16:40:19Z,2026-06-22,True,Long Context
+1276235042,ibislon/KiyFRyOLHD,【Java计算机毕业设计分享】基于SSM的政务预约系统平台，MySQL Java开发 毕业设计 实战项目【附源码、文档报告、代码讲解】,https://github.com/ibislon/KiyFRyOLHD,1,0,,,2026-06-21T17:59:59Z,2026-06-22,True,Long Context
+1276237192,ibislon/lFgXiUXHDM,【Java计算机毕业设计分享】基于SSM网络办公系统设计，MySQL Java开发 毕业设计 实战项目【附源码、文档报告、代码讲解】,https://github.com/ibislon/lFgXiUXHDM,1,0,,,2026-06-21T18:03:08Z,2026-06-22,True,Long Context
+1276169147,cauwen/VzbsrrTuoc,【Java计算机毕业设计分享】基于SSM的二手商品交易平台，MySQL Java开发 毕业设计 实战项目【附源码、文档报告、代码讲解】,https://github.com/cauwen/VzbsrrTuoc,1,0,,,2026-06-21T16:18:32Z,2026-06-22,True,Long Context
+1276352882,jahnfrens/WJaJxfnOpg,【Java计算机毕业设计分享】基于SSM的航空票务推荐系统，MySQL Java开发 毕业设计 实战项目【附源码、文档报告、代码讲解】,https://github.com/jahnfrens/WJaJxfnOpg,1,0,,,2026-06-21T21:51:18Z,2026-06-22,True,Long Context
+1276384797,xiaomezhig/ZUqLgwaRUn,【Java计算机毕业设计分享】基于SSM的壁纸网站管理系统，MySQL Java开发 毕业设计 实战项目【附源码、文档报告、代码讲解】,https://github.com/xiaomezhig/ZUqLgwaRUn,1,0,,,2026-06-21T23:11:47Z,2026-06-22,True,Long Context
+1276655440,cauwen/IeIjkBYLTz,【Java计算机毕业设计分享】基于SSM校园二手交易平台，MySQL Java开发 毕业设计 实战项目【附源码、文档报告、代码讲解】,https://github.com/cauwen/IeIjkBYLTz,1,0,,,2026-06-22T07:11:58Z,2026-06-22,True,Long Context
+1276655370,eyebite4/lZigHjInYm,【Java计算机毕业设计分享】基于SSM的线上点餐系统（Vue），MySQL Java开发 毕业设计 实战项目【附源码、文档报告、代码讲解】,https://github.com/eyebite4/lZigHjInYm,0,0,,,2026-06-22T07:11:53Z,2026-06-22,True,Long Context
+1276351643,jahnfrens/VWovdzOUUX,【Java计算机毕业设计分享】基于SSM的仓库管理系统（含Vue），MySQL Java开发 毕业设计 实战项目【附源码、文档报告、代码讲解】,https://github.com/jahnfrens/VWovdzOUUX,1,0,,,2026-06-21T21:48:12Z,2026-06-22,True,Long Context
+1276364451,cauwen/OhxbpIjOlB,【Java计算机毕业设计分享】基于SSM的实验室排课系统，MySQL Java开发 毕业设计 实战项目【附源码、文档报告、代码讲解】,https://github.com/cauwen/OhxbpIjOlB,1,0,,,2026-06-21T22:19:14Z,2026-06-22,True,Long Context
+1276617958,rayabeciga/IgUXqWhFQQ,【Java计算机毕业设计分享】基于SSM的少儿编程报名系统，MySQL Java开发 毕业设计 实战项目【附源码、文档报告、代码讲解】,https://github.com/rayabeciga/IgUXqWhFQQ,0,0,,,2026-06-22T06:26:31Z,2026-06-22,True,Long Context
+1276182904,hartlez022/YJNjrzVMQB,【Java计算机毕业设计分享】基于SSM的素材网设计与实现，MySQL Java开发 毕业设计 实战项目【附源码、文档报告、代码讲解】,https://github.com/hartlez022/YJNjrzVMQB,1,0,,,2026-06-21T16:38:13Z,2026-06-22,True,Long Context
+1276221312,joshkrebst/EkkzoppSQV,【Java计算机毕业设计分享】基于SSM的琴房预约管理系统，MySQL Java开发 毕业设计 实战项目【附源码、文档报告、代码讲解】,https://github.com/joshkrebst/EkkzoppSQV,1,0,,,2026-06-21T17:38:13Z,2026-06-22,True,Long Context
+1276385550,xiaomezhig/gTbboyGxns,【Java计算机毕业设计分享】基于SSM的在线测试管理系统，MySQL Java开发 毕业设计 实战项目【附源码、文档报告、代码讲解】,https://github.com/xiaomezhig/gTbboyGxns,1,0,,,2026-06-21T23:13:52Z,2026-06-22,True,Long Context
+1276624929,rayabeciga/JKdkaEvBxm,【Java计算机毕业设计分享】基于SSM的保险业务管理系统，MySQL Java开发 毕业设计 实战项目【附源码、文档报告、代码讲解】,https://github.com/rayabeciga/JKdkaEvBxm,0,0,,,2026-06-22T06:35:06Z,2026-06-22,True,Long Context
+1276621444,rayabeciga/bpnOXUkpuO,【Java计算机毕业设计分享】基于SSM的在线交友系统平台，MySQL Java开发 毕业设计 实战项目【附源码、文档报告、代码讲解】,https://github.com/rayabeciga/bpnOXUkpuO,0,0,,,2026-06-22T06:30:50Z,2026-06-22,True,Long Context
+1276183654,hartlez022/vCwvcaeriO,【Java计算机毕业设计分享】基于SSM驾校预约管理系统，MySQL Java开发 毕业设计 实战项目【附源码、文档报告、代码讲解】,https://github.com/hartlez022/vCwvcaeriO,1,0,,,2026-06-21T16:39:17Z,2026-06-22,True,Long Context
+1276354582,jahnfrens/XFhzGGfLXx,【Java计算机毕业设计分享】基于SSM的餐馆点餐系统设计，MySQL Java开发 毕业设计 实战项目【附源码、文档报告、代码讲解】,https://github.com/jahnfrens/XFhzGGfLXx,1,0,,,2026-06-21T21:55:22Z,2026-06-22,True,Long Context
+1276362807,cauwen/rfbjeYJtqo,【Java计算机毕业设计分享】基于SSM的理财通管理系统，MySQL Java开发 毕业设计 实战项目【附源码、文档报告、代码讲解】,https://github.com/cauwen/rfbjeYJtqo,1,0,,,2026-06-21T22:15:04Z,2026-06-22,True,Long Context
+1276402209,ibislon/NyijdDqFxX,【Java计算机毕业设计分享】基于SSM的电商购物网站平台，MySQL Java开发 毕业设计 实战项目【附源码、文档报告、代码讲解】,https://github.com/ibislon/NyijdDqFxX,1,0,,,2026-06-21T23:58:33Z,2026-06-22,True,Long Context
+1276628426,rayabeciga/sfbMFJZJgN,【Java计算机毕业设计分享】基于SSM的294广告管理系统，MySQL Java开发 毕业设计 实战项目【附源码、文档报告、代码讲解】,https://github.com/rayabeciga/sfbMFJZJgN,0,0,,,2026-06-22T06:39:13Z,2026-06-22,True,Long Context
+1276652056,eyebite4/COSYiMkORM,【Java计算机毕业设计分享】基于SSM的餐厅点菜管理系统，MySQL Java开发 毕业设计 实战项目【附源码、文档报告、代码讲解】,https://github.com/eyebite4/COSYiMkORM,0,0,,,2026-06-22T07:07:39Z,2026-06-22,True,Long Context
+1276346449,doomispawd/HVxcDNYRmV,【Java计算机毕业设计分享】基于SSM的物流信息管理系统，MySQL Java开发 毕业设计 实战项目【附源码、文档报告、代码讲解】,https://github.com/doomispawd/HVxcDNYRmV,1,0,,,2026-06-21T21:35:43Z,2026-06-22,True,Long Context
+1276349982,jahnfrens/OemsFjhMFQ,【Java计算机毕业设计分享】基于SSM的企业人事管理系统，MySQL Java开发 毕业设计 实战项目【附源码、文档报告、代码讲解】,https://github.com/jahnfrens/OemsFjhMFQ,1,0,,,2026-06-21T21:44:00Z,2026-06-22,True,Long Context
+1276634434,eyebite4/swtqAhjmcG,【Java计算机毕业设计分享】基于SSM的学生信息管理系统，MySQL Java开发 毕业设计 实战项目【附源码、文档报告、代码讲解】,https://github.com/eyebite4/swtqAhjmcG,0,0,,,2026-06-22T06:46:30Z,2026-06-22,True,Long Context
+1276153875,jahnfrens/YXWaGykzdp,【Java计算机毕业设计分享】基于SSM的财务管理系统（平台），MySQL Java开发 毕业设计 实战项目【附源码、文档报告、代码讲解】,https://github.com/jahnfrens/YXWaGykzdp,1,0,,,2026-06-21T15:55:36Z,2026-06-22,True,Long Context
+1276247299,wood2kite/OqIFSbSRHU,【Java计算机毕业设计分享】基于SSM的322课程管理系统，MySQL Java开发 毕业设计 实战项目【附源码、文档报告、代码讲解】,https://github.com/wood2kite/OqIFSbSRHU,1,0,,,2026-06-21T18:20:50Z,2026-06-22,True,Long Context
+1276190855,ijabyregra/FYHJUpNtmt,【Java计算机毕业设计分享】基于SSM的杂志在线阅读平台，MySQL Java开发 毕业设计 实战项目【附源码、文档报告、代码讲解】,https://github.com/ijabyregra/FYHJUpNtmt,1,0,,,2026-06-21T16:49:41Z,2026-06-22,True,Long Context
+1276400707,ibislon/ImorgIdkWA,【Java计算机毕业设计分享】基于SSM的酒店预订管理系统，MySQL Java开发 毕业设计 实战项目【附源码、文档报告、代码讲解】,https://github.com/ibislon/ImorgIdkWA,1,0,,,2026-06-21T23:54:26Z,2026-06-22,True,Long Context
+1276366562,hartlez022/wekvvKskDE,【Java计算机毕业设计分享】基于SSM的资产管理信息系统，MySQL Java开发 毕业设计 实战项目【附源码、文档报告、代码讲解】,https://github.com/hartlez022/wekvvKskDE,1,0,,,2026-06-21T22:24:29Z,2026-06-22,True,Long Context
+1276389344,xiaomezhig/ETegGQJjhZ,【Java计算机毕业设计分享】基于SSM的670课程管理系统，MySQL Java开发 毕业设计 实战项目【附源码、文档报告、代码讲解】,https://github.com/xiaomezhig/ETegGQJjhZ,1,0,,,2026-06-21T23:23:18Z,2026-06-22,True,Long Context
+1276413034,wood2kite/FjWrQYBMwD,【Java计算机毕业设计分享】基于SSM婚纱拍摄网管理系统，MySQL Java开发 毕业设计 实战项目【附源码、文档报告、代码讲解】,https://github.com/wood2kite/FjWrQYBMwD,1,0,,,2026-06-22T00:25:24Z,2026-06-22,True,Long Context
+1276249091,wood2kite/GUldauLqSt,【Java计算机毕业设计分享】基于SSM的电子病历管理系统，MySQL Java开发 毕业设计 实战项目【附源码、文档报告、代码讲解】,https://github.com/wood2kite/GUldauLqSt,1,0,,,2026-06-21T18:23:55Z,2026-06-22,True,Long Context
+1276639821,jahnfrens/LjsPFPKlZX,【Java计算机毕业设计分享】基于SSM校园综合服务小程序，MySQL Java开发 毕业设计 实战项目【附源码、文档报告、代码讲解】,https://github.com/jahnfrens/LjsPFPKlZX,1,0,,,2026-06-22T06:53:01Z,2026-06-22,True,Long Context
+1276333091,brentberli/PlxWkTPEei,【Java计算机毕业设计分享】基于SSM的学生社团管理系统，MySQL Java开发 毕业设计 实战项目【附源码、文档报告、代码讲解】,https://github.com/brentberli/PlxWkTPEei,1,0,,,2026-06-21T21:06:39Z,2026-06-22,True,Long Context
+1276393270,joshkrebst/VzEUezTdIQ,【Java计算机毕业设计分享】基于SSM的生鲜商城管理系统，MySQL Java开发 毕业设计 实战项目【附源码、文档报告、代码讲解】,https://github.com/joshkrebst/VzEUezTdIQ,1,0,,,2026-06-21T23:33:42Z,2026-06-22,True,Long Context
+1276177732,hartlez022/qWkNlhqnZy,【Java计算机毕业设计分享】基于SSM的手机官网管理系统，MySQL Java开发 毕业设计 实战项目【附源码、文档报告、代码讲解】,https://github.com/hartlez022/qWkNlhqnZy,1,0,,,2026-06-21T16:31:05Z,2026-06-22,True,Long Context
+1276363616,cauwen/iUyrjNtqBh,【Java计算机毕业设计分享】基于SSM的网上手机销售平台，MySQL Java开发 毕业设计 实战项目【附源码、文档报告、代码讲解】,https://github.com/cauwen/iUyrjNtqBh,1,0,,,2026-06-21T22:17:10Z,2026-06-22,True,Long Context
+1276374727,ijabyregra/RoEhFayMkY,【Java计算机毕业设计分享】基于SSM的个人财务管理系统，MySQL Java开发 毕业设计 实战项目【附源码、文档报告、代码讲解】,https://github.com/ijabyregra/RoEhFayMkY,1,0,,,2026-06-21T22:45:13Z,2026-06-22,True,Long Context
+1276388926,xiaomezhig/jcRehfoWdN,【Java计算机毕业设计分享】基于SSM的524教师上课系统，MySQL Java开发 毕业设计 实战项目【附源码、文档报告、代码讲解】,https://github.com/xiaomezhig/jcRehfoWdN,1,0,,,2026-06-21T23:22:15Z,2026-06-22,True,Long Context
+1276623822,rayabeciga/ebbiLdrlsU,【Java计算机毕业设计分享】基于SSM的生鲜配送管理系统，MySQL Java开发 毕业设计 实战项目【附源码、文档报告、代码讲解】,https://github.com/rayabeciga/ebbiLdrlsU,0,0,,,2026-06-22T06:33:46Z,2026-06-22,True,Long Context
+1276376537,ijabyregra/NqbQbkHMCp,【Java计算机毕业设计分享】基于SSM的网上花店管理系统，MySQL Java开发 毕业设计 实战项目【附源码、文档报告、代码讲解】,https://github.com/ijabyregra/NqbQbkHMCp,1,0,,,2026-06-21T22:50:13Z,2026-06-22,True,Long Context
+1276650891,eyebite4/gDfVgxMwDI,【Java计算机毕业设计分享】基于SSM的餐厅点菜管理系统，MySQL Java开发 毕业设计 实战项目【附源码、文档报告、代码讲解】,https://github.com/eyebite4/gDfVgxMwDI,0,0,,,2026-06-22T07:06:14Z,2026-06-22,True,Long Context
+1276330599,brentberli/NDxQHAHIOG,【Java计算机毕业设计分享】基于SSM的房屋租售信息管理系统，MySQL Java开发 毕业设计 实战项目【附源码、文档报告、代码讲解】,https://github.com/brentberli/NDxQHAHIOG,1,0,,,2026-06-21T21:01:24Z,2026-06-22,True,Long Context
+1276576656,mrudblank/dcyVSaohmt,【Java计算机毕业设计分享】基于SSM的网上手机商城管理系统，MySQL Java开发 毕业设计 实战项目【附源码、文档报告、代码讲解】,https://github.com/mrudblank/dcyVSaohmt,0,0,,,2026-06-22T05:29:31Z,2026-06-22,True,Long Context
+1276608276,ramariyata/yaMOwnQmNL,【Java计算机毕业设计分享】基于SSM的高校宿舍管理系统开发，MySQL Java开发 毕业设计 实战项目【附源码、文档报告、代码讲解】,https://github.com/ramariyata/yaMOwnQmNL,0,0,,,2026-06-22T06:13:32Z,2026-06-22,True,Long Context
+1276638150,jahnfrens/igYigJBVci,【Java计算机毕业设计分享】基于SSM的在线教育平台设计实现，MySQL Java开发 毕业设计 实战项目【附源码、文档报告、代码讲解】,https://github.com/jahnfrens/igYigJBVci,1,0,,,2026-06-22T06:50:53Z,2026-06-22,True,Long Context
+1276389735,xiaomezhig/RgeujnKasD,【Java计算机毕业设计分享】基于SSM的SSM381课程辅助教学平台，MySQL Java开发 毕业设计 实战项目【附源码、文档报告、代码讲解】,https://github.com/xiaomezhig/RgeujnKasD,1,0,,,2026-06-21T23:24:19Z,2026-06-22,True,Long Context
+1276359039,cauwen/HLNediAMvU,【Java计算机毕业设计分享】基于SSM的中医养老服务平台设计，MySQL Java开发 毕业设计 实战项目【附源码、文档报告、代码讲解】,https://github.com/cauwen/HLNediAMvU,1,0,,,2026-06-21T22:05:47Z,2026-06-22,True,Long Context
+1276382849,xiaomezhig/jxgXGRxfZS,【Java计算机毕业设计分享】基于SSM教务信息平台设计与实现，MySQL Java开发 毕业设计 实战项目【附源码、文档报告、代码讲解】,https://github.com/xiaomezhig/jxgXGRxfZS,1,0,,,2026-06-21T23:06:41Z,2026-06-22,True,Long Context
+1276596725,ramariyata/aVcRJVttuV,【Java计算机毕业设计分享】基于SSM的高校专业信息管理系统，MySQL Java开发 毕业设计 实战项目【附源码、文档报告、代码讲解】,https://github.com/ramariyata/aVcRJVttuV,0,0,,,2026-06-22T05:57:33Z,2026-06-22,True,Long Context
+1276189595,ijabyregra/UWWeukccYi,【Java计算机毕业设计分享】基于SSM校园二手交易管理系统，MySQL Java开发 毕业设计 实战项目【附源码、文档报告、代码讲解】,https://github.com/ijabyregra/UWWeukccYi,1,0,,,2026-06-21T16:47:36Z,2026-06-22,True,Long Context
+1276391312,joshkrebst/hCrjOpPdHc,【Java计算机毕业设计分享】基于SSM的网盘管理系统（或平台），MySQL Java开发 毕业设计 实战项目【附源码、文档报告、代码讲解】,https://github.com/joshkrebst/hCrjOpPdHc,1,0,,,2026-06-21T23:28:35Z,2026-06-22,True,Long Context
+1276379670,ijabyregra/XNXTfkoFqj,【Java计算机毕业设计分享】基于SSM的少儿编程在线培训平台，MySQL Java开发 毕业设计 实战项目【附源码、文档报告、代码讲解】,https://github.com/ijabyregra/XNXTfkoFqj,1,0,,,2026-06-21T22:58:23Z,2026-06-22,True,Long Context
+1276377329,ijabyregra/RlOZaOYTUF,【Java计算机毕业设计分享】基于SSM的网上奶茶店管理系统，MySQL Java开发 毕业设计 实战项目【附源码、文档报告、代码讲解】,https://github.com/ijabyregra/RlOZaOYTUF,1,0,,,2026-06-21T22:52:15Z,2026-06-22,True,Long Context
+1276397748,ibislon/FlsLmoIxno,【Java计算机毕业设计分享】基于SSM的济南旅游网站管理系统，MySQL Java开发 毕业设计 实战项目【附源码、文档报告、代码讲解】,https://github.com/ibislon/FlsLmoIxno,1,0,,,2026-06-21T23:46:13Z,2026-06-22,True,Long Context
+1276239599,wood2kite/hSpeSbKZQv,【Java计算机毕业设计分享】基于SSM的众惠商城设计与实现，MySQL Java开发 毕业设计 实战项目【附源码、文档报告、代码讲解】,https://github.com/wood2kite/hSpeSbKZQv,1,0,,,2026-06-21T18:07:24Z,2026-06-22,True,Long Context
+1276342078,doomispawd/tBEwhwnWFw,【Java计算机毕业设计分享】基于SSM的城投公司人事管理系统，MySQL Java开发 毕业设计 实战项目【附源码、文档报告、代码讲解】,https://github.com/doomispawd/tBEwhwnWFw,1,0,,,2026-06-21T21:26:27Z,2026-06-22,True,Long Context
+1276358603,cauwen/DukrZjiOrZ,【Java计算机毕业设计分享】基于SSM生鲜在线销售管理系统，MySQL Java开发 毕业设计 实战项目【附源码、文档报告、代码讲解】,https://github.com/cauwen/DukrZjiOrZ,1,0,,,2026-06-21T22:04:46Z,2026-06-22,True,Long Context
+1276361997,cauwen/wZkyPbtygP,【Java计算机毕业设计分享】基于SSM的景海中学教学管理系统，MySQL Java开发 毕业设计 实战项目【附源码、文档报告、代码讲解】,https://github.com/cauwen/wZkyPbtygP,1,0,,,2026-06-21T22:13:01Z,2026-06-22,True,Long Context
+1276632159,jahnfrens/QeNEomfWiG,【Java计算机毕业设计分享】基于SSM的创新创业竞赛管理平台，MySQL Java开发 毕业设计 实战项目【附源码、文档报告、代码讲解】,https://github.com/jahnfrens/QeNEomfWiG,1,0,,,2026-06-22T06:43:34Z,2026-06-22,True,Long Context
+1276124886,brentberli/kZWFmebNHX,【Java计算机毕业设计分享】基于SSM的个人健康管理系统设计，MySQL Java开发 毕业设计 实战项目【附源码、文档报告、代码讲解】,https://github.com/brentberli/kZWFmebNHX,1,0,,,2026-06-21T15:12:52Z,2026-06-22,True,Long Context
+1276648549,eyebite4/rwbuKLrmPT,【Java计算机毕业设计分享】基于SSM的小区疫情防控管理系统，MySQL Java开发 毕业设计 实战项目【附源码、文档报告、代码讲解】,https://github.com/eyebite4/rwbuKLrmPT,0,0,,,2026-06-22T07:03:21Z,2026-06-22,True,Long Context
+1275817246,cauwen/HfYjIxWnGS,【Java计算机毕业设计分享】基于SSM的校园招聘一点通系统，MySQL Java开发 毕业设计 实战项目【附源码、文档报告、代码讲解】,https://github.com/cauwen/HfYjIxWnGS,1,0,,,2026-06-21T07:02:36Z,2026-06-22,True,Long Context
+1276168551,cauwen/zMqZoKqoWB,【Java计算机毕业设计分享】基于SSM的乐购游戏商城管理系统，MySQL Java开发 毕业设计 实战项目【附源码、文档报告、代码讲解】,https://github.com/cauwen/zMqZoKqoWB,1,0,,,2026-06-21T16:17:34Z,2026-06-22,True,Long Context
+1276590406,ramariyata/oQSYFhtbHt,【Java计算机毕业设计分享】基于SSM的互游在线平台管理系统，MySQL Java开发 毕业设计 实战项目【附源码、文档报告、代码讲解】,https://github.com/ramariyata/oQSYFhtbHt,0,0,,,2026-06-22T05:49:02Z,2026-06-22,True,Long Context
+1276246710,wood2kite/bWtWOskGnj,【Java计算机毕业设计分享】基于SSM的校园闲置物品交易平台，MySQL Java开发 毕业设计 实战项目【附源码、文档报告、代码讲解】,https://github.com/wood2kite/bWtWOskGnj,1,0,,,2026-06-21T18:19:50Z,2026-06-22,True,Long Context
+1276237792,ibislon/BpWyaeBUlo,【Java计算机毕业设计分享】基于SSM的水果商城设计与实现，MySQL Java开发 毕业设计 实战项目【附源码、文档报告、代码讲解】,https://github.com/ibislon/BpWyaeBUlo,1,0,,,2026-06-21T18:04:10Z,2026-06-22,True,Long Context
+1276580156,mrudblank/DQuhgGhFCH,【Java计算机毕业设计分享】基于SSM的办公自动化管理系统，MySQL Java开发 毕业设计 实战项目【附源码、文档报告、代码讲解】,https://github.com/mrudblank/DQuhgGhFCH,0,0,,,2026-06-22T05:35:01Z,2026-06-22,True,Long Context
+1276198156,ijabyregra/gGiUFTSkqK,【Java计算机毕业设计分享】基于SSM的校园闲置物品交易平台，MySQL Java开发 毕业设计 实战项目【附源码、文档报告、代码讲解】,https://github.com/ijabyregra/gGiUFTSkqK,1,0,,,2026-06-21T17:00:58Z,2026-06-22,True,Long Context
+1276353691,jahnfrens/RkTqxUOXAl,【Java计算机毕业设计分享】基于SSM的校园停车场管理系统，MySQL Java开发 毕业设计 实战项目【附源码、文档报告、代码讲解】,https://github.com/jahnfrens/RkTqxUOXAl,1,0,,,2026-06-21T21:53:18Z,2026-06-22,True,Long Context
+1276651272,cauwen/PkvCLMwABW,【Java计算机毕业设计分享】基于SSM的高校学生事务管理系统，MySQL Java开发 毕业设计 实战项目【附源码、文档报告、代码讲解】,https://github.com/cauwen/PkvCLMwABW,1,0,,,2026-06-22T07:06:40Z,2026-06-22,True,Long Context
+1276339852,doomispawd/NkcIwPHbDu,【Java计算机毕业设计分享】基于SSM的微博网站设计与实现，MySQL Java开发 毕业设计 实战项目【附源码、文档报告、代码讲解】,https://github.com/doomispawd/NkcIwPHbDu,1,0,,,2026-06-21T21:21:16Z,2026-06-22,True,Long Context
+1276334080,brentberli/IgHDuSIgoL,【Java计算机毕业设计分享】基于SSM的图书馆书库管理系统，MySQL Java开发 毕业设计 实战项目【附源码、文档报告、代码讲解】,https://github.com/brentberli/IgHDuSIgoL,1,0,,,2026-06-21T21:08:44Z,2026-06-22,True,Long Context
+1276381622,ijabyregra/rAdgfHNcAW,【Java计算机毕业设计分享】基于SSM的数字家庭网站管理系统，MySQL Java开发 毕业设计 实战项目【附源码、文档报告、代码讲解】,https://github.com/ijabyregra/rAdgfHNcAW,1,0,,,2026-06-21T23:03:27Z,2026-06-22,True,Long Context
+1276573850,mrudblank/GAvykwfghh,【Java计算机毕业设计分享】基于SSM的鲸落文化线上体验馆，MySQL Java开发 毕业设计 实战项目【附源码、文档报告、代码讲解】,https://github.com/mrudblank/GAvykwfghh,0,0,,,2026-06-22T05:25:17Z,2026-06-22,True,Long Context
+1276134525,doomispawd/GOliSGOmrQ,【Java计算机毕业设计分享】基于SSM的出租车管理系统（平台），MySQL Java开发 毕业设计 实战项目【附源码、文档报告、代码讲解】,https://github.com/doomispawd/GOliSGOmrQ,1,0,,,2026-06-21T15:26:35Z,2026-06-22,True,Long Context
+1276337443,brentberli/zYLvdMrBDv,【Java计算机毕业设计分享】基于SSM的房源管理系统（或平台），MySQL Java开发 毕业设计 实战项目【附源码、文档报告、代码讲解】,https://github.com/brentberli/zYLvdMrBDv,1,0,,,2026-06-21T21:15:58Z,2026-06-22,True,Long Context
+1276383934,xiaomezhig/FJLjkIvbCv,【Java计算机毕业设计分享】基于SSM的焦作旅游协会管理系统，MySQL Java开发 毕业设计 实战项目【附源码、文档报告、代码讲解】,https://github.com/xiaomezhig/FJLjkIvbCv,1,0,,,2026-06-21T23:09:44Z,2026-06-22,True,Long Context
+1276352482,jahnfrens/eEjZSvBPcb,【Java计算机毕业设计分享】基于SSM的校园二手交易市场平台，MySQL Java开发 毕业设计 实战项目【附源码、文档报告、代码讲解】,https://github.com/jahnfrens/eEjZSvBPcb,1,0,,,2026-06-21T21:50:18Z,2026-06-22,True,Long Context
+1276155278,jahnfrens/SgNzETPHHq,【Java计算机毕业设计分享】基于SSM的程序语言之家管理系统，MySQL Java开发 毕业设计 实战项目【附源码、文档报告、代码讲解】,https://github.com/jahnfrens/SgNzETPHHq,1,0,,,2026-06-21T15:57:41Z,2026-06-22,True,Long Context
+1276339337,brentberli/yljCRNAgiu,【Java计算机毕业设计分享】基于SSM的网上书城开发与应用，MySQL Java开发 毕业设计 实战项目【附源码、文档报告、代码讲解】,https://github.com/brentberli/yljCRNAgiu,1,0,,,2026-06-21T21:20:05Z,2026-06-22,True,Long Context
+1276336978,brentberli/KDWbVwvqjp,【Java计算机毕业设计分享】基于SSM超市库存商品管理系统，MySQL Java开发 毕业设计 实战项目【附源码、文档报告、代码讲解】,https://github.com/brentberli/KDWbVwvqjp,1,0,,,2026-06-21T21:14:55Z,2026-06-22,True,Long Context
+1276575724,mrudblank/ijhShucpLW,【Java计算机毕业设计分享】基于SSM的汽车售票网站管理系统，MySQL Java开发 毕业设计 实战项目【附源码、文档报告、代码讲解】,https://github.com/mrudblank/ijhShucpLW,0,0,,,2026-06-22T05:28:09Z,2026-06-22,True,Long Context
+1276632048,rayabeciga/wONylLoSUu,【Java计算机毕业设计分享】基于SSM的医院门诊挂号管理系统，MySQL Java开发 毕业设计 实战项目【附源码、文档报告、代码讲解】,https://github.com/rayabeciga/wONylLoSUu,0,0,,,2026-06-22T06:43:25Z,2026-06-22,True,Long Context
+1276346059,doomispawd/FMwWWjoFqM,【Java计算机毕业设计分享】基于SSM的供电所档案管理系统，MySQL Java开发 毕业设计 实战项目【附源码、文档报告、代码讲解】,https://github.com/doomispawd/FMwWWjoFqM,1,0,,,2026-06-21T21:34:42Z,2026-06-22,True,Long Context
+1276611573,rayabeciga/MkaOCvwGyh,【Java计算机毕业设计分享】基于SSM的大学生艺术节管理系统，MySQL Java开发 毕业设计 实战项目【附源码、文档报告、代码讲解】,https://github.com/rayabeciga/MkaOCvwGyh,0,0,,,2026-06-22T06:17:53Z,2026-06-22,True,Long Context
+1276582983,mrudblank/lnUegczIFi,【Java计算机毕业设计分享】基于SSM框架的购物网站管理系统，MySQL Java开发 毕业设计 实战项目【附源码、文档报告、代码讲解】,https://github.com/mrudblank/lnUegczIFi,0,0,,,2026-06-22T05:39:15Z,2026-06-22,True,Long Context
+1276635537,jahnfrens/gVBWicMxiS,【Java计算机毕业设计分享】基于SSM的校园电子商城管理系统，MySQL Java开发 毕业设计 实战项目【附源码、文档报告、代码讲解】,https://github.com/jahnfrens/gVBWicMxiS,1,0,,,2026-06-22T06:47:46Z,2026-06-22,True,Long Context
+1276246115,wood2kite/ZmWTruuJJm,【Java计算机毕业设计分享】基于SSM的软考系统（含Vue）管理平台，MySQL Java开发 毕业设计 实战项目【附源码、文档报告、代码讲解】,https://github.com/wood2kite/ZmWTruuJJm,1,0,,,2026-06-21T18:18:48Z,2026-06-22,True,Long Context
+1276175343,hartlez022/iRUdwbiPxY,【Java计算机毕业设计分享】基于SSM的4S店预约保养系统（平台），MySQL Java开发 毕业设计 实战项目【附源码、文档报告、代码讲解】,https://github.com/hartlez022/iRUdwbiPxY,1,0,,,2026-06-21T16:28:01Z,2026-06-22,True,Long Context
+1276349608,jahnfrens/oQiRkgiKPx,【Java计算机毕业设计分享】基于SSM的学生资助管理系统（含Vue），MySQL Java开发 毕业设计 实战项目【附源码、文档报告、代码讲解】,https://github.com/jahnfrens/oQiRkgiKPx,1,0,,,2026-06-21T21:43:00Z,2026-06-22,True,Long Context
+1276355044,jahnfrens/HkadJETIxR,【Java计算机毕业设计分享】基于SSM的校园服务平台管理系统，MySQL Java开发 毕业设计 实战项目【附源码、文档报告、代码讲解】,https://github.com/jahnfrens/HkadJETIxR,1,0,,,2026-06-21T21:56:23Z,2026-06-22,True,Long Context
+1276392084,joshkrebst/NTOqeQMIey,【Java计算机毕业设计分享】基于SSM的实验室排课管理系统，MySQL Java开发 毕业设计 实战项目【附源码、文档报告、代码讲解】,https://github.com/joshkrebst/NTOqeQMIey,1,0,,,2026-06-21T23:30:37Z,2026-06-22,True,Long Context
+1276644001,eyebite4/nxcXqOfmvB,【Java计算机毕业设计分享】基于SSM的日用品网站设计系统，MySQL Java开发 毕业设计 实战项目【附源码、文档报告、代码讲解】,https://github.com/eyebite4/nxcXqOfmvB,0,0,,,2026-06-22T06:57:49Z,2026-06-22,True,Long Context
+1276344015,doomispawd/qGxzGPBGwQ,【Java计算机毕业设计分享】基于SSM的QQ村旅游网站管理系统，MySQL Java开发 毕业设计 实战项目【附源码、文档报告、代码讲解】,https://github.com/doomispawd/qGxzGPBGwQ,1,0,,,2026-06-21T21:30:33Z,2026-06-22,True,Long Context
+1275865493,joshkrebst/MWlmSZAdFG,【Java计算机毕业设计分享】基于Vue/SSM的汽车租赁管理系统，MySQL Java开发 毕业设计 实战项目【附源码、文档报告、代码讲解】,https://github.com/joshkrebst/MWlmSZAdFG,1,0,,,2026-06-21T08:29:11Z,2026-06-22,True,Long Context
+1276347876,doomispawd/fMgrGljNKX,【Java计算机毕业设计分享】基于SSM的文学网设计与实现平台，MySQL Java开发 毕业设计 实战项目【附源码、文档报告、代码讲解】,https://github.com/doomispawd/fMgrGljNKX,1,0,,,2026-06-21T21:38:49Z,2026-06-22,True,Long Context
+1276644269,jahnfrens/AUncnDIhwV,【Java计算机毕业设计分享】基于SSM的微信奶茶点餐小程序，MySQL Java开发 毕业设计 实战项目【附源码、文档报告、代码讲解】,https://github.com/jahnfrens/AUncnDIhwV,1,0,,,2026-06-22T06:58:10Z,2026-06-22,True,Long Context
+1275892270,wood2kite/QOJyLkDGWo,【Java计算机毕业设计分享】基于SSM的学生实习信息管理系统，MySQL Java开发 毕业设计 实战项目【附源码、文档报告、代码讲解】,https://github.com/wood2kite/QOJyLkDGWo,1,0,,,2026-06-21T09:14:48Z,2026-06-22,True,Long Context
+1276357323,jahnfrens/zoSNgmlrMs,【Java计算机毕业设计分享】基于SSM的高校智能培训管理系统，MySQL Java开发 毕业设计 实战项目【附源码、文档报告、代码讲解】,https://github.com/jahnfrens/zoSNgmlrMs,1,0,,,2026-06-21T22:01:34Z,2026-06-22,True,Long Context
+1276361225,cauwen/EdDkiXeOvN,【Java计算机毕业设计分享】基于SSM的孩童收养信息管理系统，MySQL Java开发 毕业设计 实战项目【附源码、文档报告、代码讲解】,https://github.com/cauwen/EdDkiXeOvN,1,0,,,2026-06-21T22:10:59Z,2026-06-22,True,Long Context
+1276613713,rayabeciga/jHEbvyyheg,【Java计算机毕业设计分享】基于SSM的电脑公司财务管理系统，MySQL Java开发 毕业设计 实战项目【附源码、文档报告、代码讲解】,https://github.com/rayabeciga/jHEbvyyheg,0,0,,,2026-06-22T06:20:43Z,2026-06-22,True,Long Context
+1276247837,wood2kite/UzfrFXBpUO,【Java计算机毕业设计分享】基于SSM的社区医疗保健监控系统，MySQL Java开发 毕业设计 实战项目【附源码、文档报告、代码讲解】,https://github.com/wood2kite/UzfrFXBpUO,1,0,,,2026-06-21T18:21:50Z,2026-06-22,True,Long Context
+1276656296,cauwen/VZHDfJhTcE,【Java计算机毕业设计分享】基于SSM的在线课堂微信小程序，MySQL Java开发 毕业设计 实战项目【附源码、文档报告、代码讲解】,https://github.com/cauwen/VZHDfJhTcE,1,0,,,2026-06-22T07:13:01Z,2026-06-22,True,Long Context
+1276336502,brentberli/VEPuZRDUTL,【Java计算机毕业设计分享】基于SSM的JSP网络游戏交易系统，MySQL Java开发 毕业设计 实战项目【附源码、文档报告、代码讲解】,https://github.com/brentberli/VEPuZRDUTL,1,0,,,2026-06-21T21:13:56Z,2026-06-22,True,Long Context
+1276338392,brentberli/cLrGLoQbVV,【Java计算机毕业设计分享】基于SSM的购物商场设计与实现，MySQL Java开发 毕业设计 实战项目【附源码、文档报告、代码讲解】,https://github.com/brentberli/cLrGLoQbVV,1,0,,,2026-06-21T21:18:00Z,2026-06-22,True,Long Context
+1276241374,wood2kite/TTrgqtpJia,【Java计算机毕业设计分享】基于SSM的中学小说阅读学习平台，MySQL Java开发 毕业设计 实战项目【附源码、文档报告、代码讲解】,https://github.com/wood2kite/TTrgqtpJia,1,0,,,2026-06-21T18:10:31Z,2026-06-22,True,Long Context
+1276192217,ijabyregra/JnylpmLrSI,【Java计算机毕业设计分享】基于SSM的公交车信息管理系统，MySQL Java开发 毕业设计 实战项目【附源码、文档报告、代码讲解】,https://github.com/ijabyregra/JnylpmLrSI,1,0,,,2026-06-21T16:51:47Z,2026-06-22,True,Long Context
+1276250288,wood2kite/DJqjzkBphM,【Java计算机毕业设计分享】基于SSM的企业人事信息管理系统，MySQL Java开发 毕业设计 实战项目【附源码、文档报告、代码讲解】,https://github.com/wood2kite/DJqjzkBphM,1,0,,,2026-06-21T18:25:57Z,2026-06-22,True,Long Context
+1276372400,hartlez022/ymmJlplzHQ,【Java计算机毕业设计分享】基于SSM的老年公寓信息管理系统，MySQL Java开发 毕业设计 实战项目【附源码、文档报告、代码讲解】,https://github.com/hartlez022/ymmJlplzHQ,1,0,,,2026-06-21T22:38:54Z,2026-06-22,True,Long Context
+1276587134,mrudblank/YwXGXWgilB,【Java计算机毕业设计分享】基于SSM的大学生成长系管理系统，MySQL Java开发 毕业设计 实战项目【附源码、文档报告、代码讲解】,https://github.com/mrudblank/YwXGXWgilB,0,0,,,2026-06-22T05:44:47Z,2026-06-22,True,Long Context
+1276591538,ramariyata/RgwEndhGRd,【Java计算机毕业设计分享】基于SSM的高校科研信息展示平台，MySQL Java开发 毕业设计 实战项目【附源码、文档报告、代码讲解】,https://github.com/ramariyata/RgwEndhGRd,0,0,,,2026-06-22T05:50:28Z,2026-06-22,True,Long Context
+1276190250,ijabyregra/lUAppqTPMg,【Java计算机毕业设计分享】基于SSM校园线上订餐管理系统，MySQL Java开发 毕业设计 实战项目【附源码、文档报告、代码讲解】,https://github.com/ijabyregra/lUAppqTPMg,1,0,,,2026-06-21T16:48:40Z,2026-06-22,True,Long Context
+1276594711,ramariyata/cqaWoaaOhi,【Java计算机毕业设计分享】基于SSM的在线教学质量评价系统，MySQL Java开发 毕业设计 实战项目【附源码、文档报告、代码讲解】,https://github.com/ramariyata/cqaWoaaOhi,0,0,,,2026-06-22T05:54:48Z,2026-06-22,True,Long Context
+1276619165,rayabeciga/VaPWpTDcTv,【Java计算机毕业设计分享】基于SSM的婚恋网站设计与实现，MySQL Java开发 毕业设计 实战项目【附源码、文档报告、代码讲解】,https://github.com/rayabeciga/VaPWpTDcTv,0,0,,,2026-06-22T06:28:00Z,2026-06-22,True,Long Context
+1276116809,brentberli/CqnXVmPmeb,【Java计算机毕业设计分享】基于SSM的大学生兼职管理系统，MySQL Java开发 毕业设计 实战项目【附源码、文档报告、代码讲解】,https://github.com/brentberli/CqnXVmPmeb,1,0,,,2026-06-21T15:02:35Z,2026-06-22,True,Long Context
+1276232418,ibislon/JvLaaIznZQ,【Java计算机毕业设计分享】基于SSM的奶茶店网站管理系统，MySQL Java开发 毕业设计 实战项目【附源码、文档报告、代码讲解】,https://github.com/ibislon/JvLaaIznZQ,1,0,,,2026-06-21T17:55:53Z,2026-06-22,True,Long Context
+1276337914,brentberli/oDjnPLVXpM,【Java计算机毕业设计分享】基于SSM的电子商城设计与实现，MySQL Java开发 毕业设计 实战项目【附源码、文档报告、代码讲解】,https://github.com/brentberli/oDjnPLVXpM,1,0,,,2026-06-21T21:17:00Z,2026-06-22,True,Long Context
+1276376910,ijabyregra/YBDEufoyDm,【Java计算机毕业设计分享】基于SSM的星火电影小说网站设计，MySQL Java开发 毕业设计 实战项目【附源码、文档报告、代码讲解】,https://github.com/ijabyregra/YBDEufoyDm,1,0,,,2026-06-21T22:51:15Z,2026-06-22,True,Long Context
+1276188284,ijabyregra/UowbBGdNmg,【Java计算机毕业设计分享】基于SSM的566企业员工管理系统，MySQL Java开发 毕业设计 实战项目【附源码、文档报告、代码讲解】,https://github.com/ijabyregra/UowbBGdNmg,1,0,,,2026-06-21T16:45:34Z,2026-06-22,True,Long Context
+1276345053,doomispawd/LnmBZaYLzE,【Java计算机毕业设计分享】基于SSM运动鞋店推广网站设计，MySQL Java开发 毕业设计 实战项目【附源码、文档报告、代码讲解】,https://github.com/doomispawd/LnmBZaYLzE,1,0,,,2026-06-21T21:32:39Z,2026-06-22,True,Long Context
+1276641553,eyebite4/RfiFRciGhH,【Java计算机毕业设计分享】基于SSM的线上旅行信息管理系统，MySQL Java开发 毕业设计 实战项目【附源码、文档报告、代码讲解】,https://github.com/eyebite4/RfiFRciGhH,0,0,,,2026-06-22T06:54:59Z,2026-06-22,True,Long Context
+1276219374,joshkrebst/VIwwhEblMd,【Java计算机毕业设计分享】基于SSM的OA办公流程审批平台，MySQL Java开发 毕业设计 实战项目【附源码、文档报告、代码讲解】,https://github.com/joshkrebst/VIwwhEblMd,1,0,,,2026-06-21T17:35:07Z,2026-06-22,True,Long Context
+1276401831,ibislon/LLmzlcIJZi,【Java计算机毕业设计分享】基于SSM的中小企业财务管理平台，MySQL Java开发 毕业设计 实战项目【附源码、文档报告、代码讲解】,https://github.com/ibislon/LLmzlcIJZi,1,0,,,2026-06-21T23:57:32Z,2026-06-22,True,Long Context
+1276395121,joshkrebst/iudwafDeFU,【Java计算机毕业设计分享】基于SSM的项目设计实践管理系统，MySQL Java开发 毕业设计 实战项目【附源码、文档报告、代码讲解】,https://github.com/joshkrebst/iudwafDeFU,1,0,,,2026-06-21T23:38:49Z,2026-06-22,True,Long Context
+1276238929,ibislon/WppwZIzJbb,【Java计算机毕业设计分享】基于SSM的学生公寓管理系统开发，MySQL Java开发 毕业设计 实战项目【附源码、文档报告、代码讲解】,https://github.com/ibislon/WppwZIzJbb,1,0,,,2026-06-21T18:06:13Z,2026-06-22,True,Long Context
+1276245007,wood2kite/plIIOWWfaw,【Java计算机毕业设计分享】基于SSM的毕业生就业管理系统，MySQL Java开发 毕业设计 实战项目【附源码、文档报告、代码讲解】,https://github.com/wood2kite/plIIOWWfaw,1,0,,,2026-06-21T18:16:45Z,2026-06-22,True,Long Context
+1276338866,brentberli/CSCMlzwjFr,【Java计算机毕业设计分享】基于SSM的考研图书电子商务平台，MySQL Java开发 毕业设计 实战项目【附源码、文档报告、代码讲解】,https://github.com/brentberli/CSCMlzwjFr,1,0,,,2026-06-21T21:19:02Z,2026-06-22,True,Long Context
+1276355483,jahnfrens/WuXvLmNeke,【Java计算机毕业设计分享】基于SSM的在线视频网站开发平台，MySQL Java开发 毕业设计 实战项目【附源码、文档报告、代码讲解】,https://github.com/jahnfrens/WuXvLmNeke,1,0,,,2026-06-21T21:57:24Z,2026-06-22,True,Long Context
+1276592684,ramariyata/gfabquQGax,【Java计算机毕业设计分享】基于SSM的实验室开放管理系统，MySQL Java开发 毕业设计 实战项目【附源码、文档报告、代码讲解】,https://github.com/ramariyata/gfabquQGax,0,0,,,2026-06-22T05:51:57Z,2026-06-22,True,Long Context
+1276607126,ramariyata/RsiZJrIzeT,【Java计算机毕业设计分享】基于SSM的四六级报名查询系统，MySQL Java开发 毕业设计 实战项目【附源码、文档报告、代码讲解】,https://github.com/ramariyata/RsiZJrIzeT,0,0,,,2026-06-22T06:12:06Z,2026-06-22,True,Long Context
+1276240781,wood2kite/gqCKWSzHyn,【Java计算机毕业设计分享】基于SSM的在线选课系统设计实现，MySQL Java开发 毕业设计 实战项目【附源码、文档报告、代码讲解】,https://github.com/wood2kite/gqCKWSzHyn,1,0,,,2026-06-21T18:09:29Z,2026-06-22,True,Long Context
+1276242040,wood2kite/ckttLdkjQD,【Java计算机毕业设计分享】基于SSM的在线宠物商城管理平台，MySQL Java开发 毕业设计 实战项目【附源码、文档报告、代码讲解】,https://github.com/wood2kite/ckttLdkjQD,1,0,,,2026-06-21T18:11:32Z,2026-06-22,True,Long Context
+1276398520,ibislon/vnPfDMXxHt,【Java计算机毕业设计分享】基于SSM的SSM394课程资源管理系统，MySQL Java开发 毕业设计 实战项目【附源码、文档报告、代码讲解】,https://github.com/ibislon/vnPfDMXxHt,1,0,,,2026-06-21T23:48:19Z,2026-06-22,True,Long Context
+1276615869,rayabeciga/uoXFbZotee,【Java计算机毕业设计分享】基于SSM的电脑配件销售管理系统，MySQL Java开发 毕业设计 实战项目【附源码、文档报告、代码讲解】,https://github.com/rayabeciga/uoXFbZotee,0,0,,,2026-06-22T06:23:34Z,2026-06-22,True,Long Context
+1276636948,eyebite4/OdoDzRboPw,【Java计算机毕业设计分享】基于SSM的连锁经营商业管理系统，MySQL Java开发 毕业设计 实战项目【附源码、文档报告、代码讲解】,https://github.com/eyebite4/OdoDzRboPw,0,0,,,2026-06-22T06:49:22Z,2026-06-22,True,Long Context
+1276182171,hartlez022/kgyJTjrGic,【Java计算机毕业设计分享】基于SSM的Vue新闻网站管理系统，MySQL Java开发 毕业设计 实战项目【附源码、文档报告、代码讲解】,https://github.com/hartlez022/kgyJTjrGic,1,0,,,2026-06-21T16:37:10Z,2026-06-22,True,Long Context
+1276393648,joshkrebst/PBlQzuPbtC,【Java计算机毕业设计分享】基于SSM的OA办公系统设计与实现，MySQL Java开发 毕业设计 实战项目【附源码、文档报告、代码讲解】,https://github.com/joshkrebst/PBlQzuPbtC,1,0,,,2026-06-21T23:34:43Z,2026-06-22,True,Long Context
+1276648668,cauwen/GNMZEexjVT,【Java计算机毕业设计分享】基于SSM疫苗预约小程序开发平台，MySQL Java开发 毕业设计 实战项目【附源码、文档报告、代码讲解】,https://github.com/cauwen/GNMZEexjVT,1,0,,,2026-06-22T07:03:31Z,2026-06-22,True,Long Context
+1276343479,doomispawd/vDxEFcsXSP,【Java计算机毕业设计分享】基于SSM的超市会员（积分）管理系统，MySQL Java开发 毕业设计 实战项目【附源码、文档报告、代码讲解】,https://github.com/doomispawd/vDxEFcsXSP,1,0,,,2026-06-21T21:29:32Z,2026-06-22,True,Long Context
+1276137894,doomispawd/XMIPQxkjsm,【Java计算机毕业设计分享】基于SSM的外贸公司销存管理系统，MySQL Java开发 毕业设计 实战项目【附源码、文档报告、代码讲解】,https://github.com/doomispawd/XMIPQxkjsm,1,0,,,2026-06-21T15:31:47Z,2026-06-22,True,Long Context
+1276171819,cauwen/BLjWFJPqUa,【Java计算机毕业设计分享】基于SSM的图书馆预约占座系统，MySQL Java开发 毕业设计 实战项目【附源码、文档报告、代码讲解】,https://github.com/cauwen/BLjWFJPqUa,1,0,,,2026-06-21T16:22:40Z,2026-06-22,True,Long Context
+1276647733,jahnfrens/dObpKOMfAN,【Java计算机毕业设计分享】基于SSM的学生公寓电费管理系统，MySQL Java开发 毕业设计 实战项目【附源码、文档报告、代码讲解】,https://github.com/jahnfrens/dObpKOMfAN,1,0,,,2026-06-22T07:02:20Z,2026-06-22,True,Long Context
+1276610400,ramariyata/FlBOyAxLga,【Java计算机毕业设计分享】基于SSM的乡镇篮球队管理系统，MySQL Java开发 毕业设计 实战项目【附源码、文档报告、代码讲解】,https://github.com/ramariyata/FlBOyAxLga,0,0,,,2026-06-22T06:16:20Z,2026-06-22,True,Long Context
+1276653722,cauwen/mdEfyxoIxU,【Java计算机毕业设计分享】基于SSM的居住证申报管理系统，MySQL Java开发 毕业设计 实战项目【附源码、文档报告、代码讲解】,https://github.com/cauwen/mdEfyxoIxU,1,0,,,2026-06-22T07:09:52Z,2026-06-22,True,Long Context
+1276173182,hartlez022/NpknNUbmru,【Java计算机毕业设计分享】基于SSM的蛋糕甜品店管理系统，MySQL Java开发 毕业设计 实战项目【附源码、文档报告、代码讲解】,https://github.com/hartlez022/NpknNUbmru,1,0,,,2026-06-21T16:24:54Z,2026-06-22,True,Long Context
+1276387233,xiaomezhig/weywMmUDqz,【Java计算机毕业设计分享】基于SSM的Vue点餐系统设计与实现，MySQL Java开发 毕业设计 实战项目【附源码、文档报告、代码讲解】,https://github.com/xiaomezhig/weywMmUDqz,1,0,,,2026-06-21T23:18:06Z,2026-06-22,True,Long Context
+1276609348,ramariyata/yLtMEqXnNl,【Java计算机毕业设计分享】基于SSM的在线医疗服务管理系统，MySQL Java开发 毕业设计 实战项目【附源码、文档报告、代码讲解】,https://github.com/ramariyata/yLtMEqXnNl,0,0,,,2026-06-22T06:14:57Z,2026-06-22,True,Long Context
+1276385974,xiaomezhig/zFhKKGCAPr,【Java计算机毕业设计分享】基于SSM社区流浪动物救助领养平台，MySQL Java开发 毕业设计 实战项目【附源码、文档报告、代码讲解】,https://github.com/xiaomezhig/zFhKKGCAPr,1,0,,,2026-06-21T23:14:56Z,2026-06-22,True,Long Context
+1276196782,ijabyregra/CwUcTIuFqf,【Java计算机毕业设计分享】基于SSM的健身房预约系统设计与实现，MySQL Java开发 毕业设计 实战项目【附源码、文档报告、代码讲解】,https://github.com/ijabyregra/CwUcTIuFqf,1,0,,,2026-06-21T16:58:55Z,2026-06-22,True,Long Context
+1276585063,mrudblank/IzDfIkXBZs,【Java计算机毕业设计分享】基于SSM的在线教学平台设计与实现，MySQL Java开发 毕业设计 实战项目【附源码、文档报告、代码讲解】,https://github.com/mrudblank/IzDfIkXBZs,0,0,,,2026-06-22T05:41:57Z,2026-06-22,True,Long Context
+1276167813,cauwen/tQQXLevsjD,【Java计算机毕业设计分享】基于SSM的在线点歌系统设计与实现，MySQL Java开发 毕业设计 实战项目【附源码、文档报告、代码讲解】,https://github.com/cauwen/tQQXLevsjD,1,0,,,2026-06-21T16:16:31Z,2026-06-22,True,Long Context
+1276332579,brentberli/FfVCjbjVty,【Java计算机毕业设计分享】基于SSM校园二手交易平台设计与实现，MySQL Java开发 毕业设计 实战项目【附源码、文档报告、代码讲解】,https://github.com/brentberli/FfVCjbjVty,1,0,,,2026-06-21T21:05:35Z,2026-06-22,True,Long Context
+1276382043,xiaomezhig/VVlkfJgahg,【Java计算机毕业设计分享】基于SSM的高校实验室资源管理系统，MySQL Java开发 毕业设计 实战项目【附源码、文档报告、代码讲解】,https://github.com/xiaomezhig/VVlkfJgahg,1,0,,,2026-06-21T23:04:37Z,2026-06-22,True,Long Context
+1276640672,jahnfrens/zlAMDZcKib,【Java计算机毕业设计分享】基于SSM的教师管理微信小程序系统，MySQL Java开发 毕业设计 实战项目【附源码、文档报告、代码讲解】,https://github.com/jahnfrens/zlAMDZcKib,1,0,,,2026-06-22T06:54:02Z,2026-06-22,True,Long Context
+1276645158,jahnfrens/FDfIowgavr,【Java计算机毕业设计分享】基于SSM的小程序健身房私教预约系统，MySQL Java开发 毕业设计 实战项目【附源码、文档报告、代码讲解】,https://github.com/jahnfrens/FDfIowgavr,1,0,,,2026-06-22T06:59:13Z,2026-06-22,True,Long Context
+1276334578,brentberli/TYFFYcbona,【Java计算机毕业设计分享】基于SSM的校内二手商城交易管理系统，MySQL Java开发 毕业设计 实战项目【附源码、文档报告、代码讲解】,https://github.com/brentberli/TYFFYcbona,1,0,,,2026-06-21T21:09:47Z,2026-06-22,True,Long Context
+1276244422,wood2kite/XQZRlOkJkn,【Java计算机毕业设计分享】基于SSM的个人网站设计与实现平台，MySQL Java开发 毕业设计 实战项目【附源码、文档报告、代码讲解】,https://github.com/wood2kite/XQZRlOkJkn,1,0,,,2026-06-21T18:15:42Z,2026-06-22,True,Long Context
+1276395871,joshkrebst/MytZvbluDN,【Java计算机毕业设计分享】基于SSM的志愿者管理系统设计与实现，MySQL Java开发 毕业设计 实战项目【附源码、文档报告、代码讲解】,https://github.com/joshkrebst/MytZvbluDN,1,0,,,2026-06-21T23:40:49Z,2026-06-22,True,Long Context
+1276629622,rayabeciga/BbKFUJxtbD,【Java计算机毕业设计分享】基于SSM的医院住院综合服务管理系统，MySQL Java开发 毕业设计 实战项目【附源码、文档报告、代码讲解】,https://github.com/rayabeciga/BbKFUJxtbD,0,0,,,2026-06-22T06:40:35Z,2026-06-22,True,Long Context
+1276649760,eyebite4/DBNkhGPfjY,【Java计算机毕业设计分享】基于SSM的健身房管理系统设计与实现，MySQL Java开发 毕业设计 实战项目【附源码、文档报告、代码讲解】,https://github.com/eyebite4/DBNkhGPfjY,0,0,,,2026-06-22T07:04:50Z,2026-06-22,True,Long Context
+1276158872,cauwen/iIdLYwADgi,【Java计算机毕业设计分享】基于SSM的广告公司客户信息管理系统，MySQL Java开发 毕业设计 实战项目【附源码、文档报告、代码讲解】,https://github.com/cauwen/iIdLYwADgi,1,0,,,2026-06-21T16:03:04Z,2026-06-22,True,Long Context
+1276380877,ijabyregra/MsGzVYURRr,【Java计算机毕业设计分享】基于SSM的北海旅游网站设计与实现，MySQL Java开发 毕业设计 实战项目【附源码、文档报告、代码讲解】,https://github.com/ijabyregra/MsGzVYURRr,1,0,,,2026-06-21T23:01:23Z,2026-06-22,True,Long Context
+1276364854,cauwen/HPuTyCMgqj,【Java计算机毕业设计分享】基于SSM的Vue可视化教学系统管理平台，MySQL Java开发 毕业设计 实战项目【附源码、文档报告、代码讲解】,https://github.com/cauwen/HPuTyCMgqj,1,0,,,2026-06-21T22:20:15Z,2026-06-22,True,Long Context
+1276238365,ibislon/TVYSgrwjgU,【Java计算机毕业设计分享】基于SSM的明水县网吧计费管理系统，MySQL Java开发 毕业设计 实战项目【附源码、文档报告、代码讲解】,https://github.com/ibislon/TVYSgrwjgU,1,0,,,2026-06-21T18:05:12Z,2026-06-22,True,Long Context
+1276130806,doomispawd/gwiIEJkeEr,【Java计算机毕业设计分享】基于SSM的心理咨询客户信息管理系统，MySQL Java开发 毕业设计 实战项目【附源码、文档报告、代码讲解】,https://github.com/doomispawd/gwiIEJkeEr,1,0,,,2026-06-21T15:21:23Z,2026-06-22,True,Long Context
+1275863830,joshkrebst/UbWwxHIRAs,【Java计算机毕业设计分享】基于SSM的社区诊所患者信息管理系统，MySQL Java开发 毕业设计 实战项目【附源码、文档报告、代码讲解】,https://github.com/joshkrebst/UbWwxHIRAs,1,0,,,2026-06-21T08:26:08Z,2026-06-22,True,Long Context
+1276643383,jahnfrens/npvaYthaly,【Java计算机毕业设计分享】基于SSM的跳蚤市场小程序设计与实现，MySQL Java开发 毕业设计 实战项目【附源码、文档报告、代码讲解】,https://github.com/jahnfrens/npvaYthaly,1,0,,,2026-06-22T06:57:06Z,2026-06-22,True,Long Context
+1276354134,jahnfrens/mDANSlnftU,【Java计算机毕业设计分享】基于SSM的影视创作论坛设计与实现，MySQL Java开发 毕业设计 实战项目【附源码、文档报告、代码讲解】,https://github.com/jahnfrens/mDANSlnftU,1,0,,,2026-06-21T21:54:20Z,2026-06-22,True,Long Context
+1276356869,jahnfrens/nfyFPaWhvK,【Java计算机毕业设计分享】基于SSM的校园家教兼职信息交流平台，MySQL Java开发 毕业设计 实战项目【附源码、文档报告、代码讲解】,https://github.com/jahnfrens/nfyFPaWhvK,1,0,,,2026-06-21T22:00:30Z,2026-06-22,True,Long Context
+1276242666,wood2kite/ogzPiRruLs,【Java计算机毕业设计分享】基于SSM的学费管理系统设计与实现，MySQL Java开发 毕业设计 实战项目【附源码、文档报告、代码讲解】,https://github.com/wood2kite/ogzPiRruLs,1,0,,,2026-06-21T18:12:35Z,2026-06-22,True,Long Context
+1276348296,doomispawd/XCuervNORp,【Java计算机毕业设计分享】基于SSM的云端学习系统设计与实现，MySQL Java开发 毕业设计 实战项目【附源码、文档报告、代码讲解】,https://github.com/doomispawd/XCuervNORp,1,0,,,2026-06-21T21:39:49Z,2026-06-22,True,Long Context
+1276369085,hartlez022/CwkIkANLCm,【Java计算机毕业设计分享】基于SSM的中小型人力资源管理系统，MySQL Java开发 毕业设计 实战项目【附源码、文档报告、代码讲解】,https://github.com/hartlez022/CwkIkANLCm,1,0,,,2026-06-21T22:30:37Z,2026-06-22,True,Long Context
+1276375116,ijabyregra/VBmIAbvwkB,【Java计算机毕业设计分享】基于SSM的毕业生学历证明管理系统，MySQL Java开发 毕业设计 实战项目【附源码、文档报告、代码讲解】,https://github.com/ijabyregra/VBmIAbvwkB,1,0,,,2026-06-21T22:46:11Z,2026-06-22,True,Long Context
+1276654155,eyebite4/IsghVKoSjw,【Java计算机毕业设计分享】基于SSM的的视频点播系统设计与实现，MySQL Java开发 毕业设计 实战项目【附源码、文档报告、代码讲解】,https://github.com/eyebite4/IsghVKoSjw,0,0,,,2026-06-22T07:10:25Z,2026-06-22,True,Long Context
+1276197435,ijabyregra/rTVtOOSGfU,【Java计算机毕业设计分享】基于SSM的公务员培训机构管理系统，MySQL Java开发 毕业设计 实战项目【附源码、文档报告、代码讲解】,https://github.com/ijabyregra/rTVtOOSGfU,1,0,,,2026-06-21T16:59:57Z,2026-06-22,True,Long Context
+1276346931,doomispawd/sHxzayEEeA,【Java计算机毕业设计分享】基于SSM的图书管理系统设计与实现，MySQL Java开发 毕业设计 实战项目【附源码、文档报告、代码讲解】,https://github.com/doomispawd/sHxzayEEeA,1,0,,,2026-06-21T21:36:45Z,2026-06-22,True,Long Context
+1276633187,rayabeciga/RuIkPlNzgT,【Java计算机毕业设计分享】基于SSM的毕业生就业信息管理系统，MySQL Java开发 毕业设计 实战项目【附源码、文档报告、代码讲解】,https://github.com/rayabeciga/RuIkPlNzgT,0,0,,,2026-06-22T06:44:51Z,2026-06-22,True,Long Context
+1276654587,cauwen/kskioilOYZ,【Java计算机毕业设计分享】基于SSM的培训机构客户管理系统设计，MySQL Java开发 毕业设计 实战项目【附源码、文档报告、代码讲解】,https://github.com/cauwen/kskioilOYZ,1,0,,,2026-06-22T07:10:55Z,2026-06-22,True,Long Context
+1276397280,joshkrebst/MdnLGzOVUn,【Java计算机毕业设计分享】基于SSM的旅游管理系统设计与实现，MySQL Java开发 毕业设计 实战项目【附源码、文档报告、代码讲解】,https://github.com/joshkrebst/MdnLGzOVUn,1,0,,,2026-06-21T23:44:59Z,2026-06-22,True,Long Context
+1276380545,ijabyregra/ljSuTjHXpL,【Java计算机毕业设计分享】基于SSM的宿舍管理系统设计与实现，MySQL Java开发 毕业设计 实战项目【附源码、文档报告、代码讲解】,https://github.com/ijabyregra/ljSuTjHXpL,1,0,,,2026-06-21T23:00:24Z,2026-06-22,True,Long Context
+1276360337,cauwen/HuKYYDDHUV,【Java计算机毕业设计分享】基于SSM职业高中学情成绩管理系统，MySQL Java开发 毕业设计 实战项目【附源码、文档报告、代码讲解】,https://github.com/cauwen/HuKYYDDHUV,1,0,,,2026-06-21T22:08:50Z,2026-06-22,True,Long Context
+1276370008,hartlez022/JZzLmLoRUU,【Java计算机毕业设计分享】基于SSM的智能仓储系统研究与设计，MySQL Java开发 毕业设计 实战项目【附源码、文档报告、代码讲解】,https://github.com/hartlez022/JZzLmLoRUU,1,0,,,2026-06-21T22:32:42Z,2026-06-22,True,Long Context
+1276358203,cauwen/jnglsNXvQv,【Java计算机毕业设计分享】基于SSM的实验室仪器设备管理系统，MySQL Java开发 毕业设计 实战项目【附源码、文档报告、代码讲解】,https://github.com/cauwen/jnglsNXvQv,1,0,,,2026-06-21T22:03:45Z,2026-06-22,True,Long Context
+1276367404,hartlez022/kQnQQmxjff,【Java计算机毕业设计分享】基于SSM的设备配件管理与检修平台，MySQL Java开发 毕业设计 实战项目【附源码、文档报告、代码讲解】,https://github.com/hartlez022/kQnQQmxjff,1,0,,,2026-06-21T22:26:32Z,2026-06-22,True,Long Context
+1276396246,joshkrebst/yyHMMGkhOF,【Java计算机毕业设计分享】基于SSM的进销存管理系统设计与实现，MySQL Java开发 毕业设计 实战项目【附源码、文档报告、代码讲解】,https://github.com/joshkrebst/yyHMMGkhOF,1,0,,,2026-06-21T23:41:50Z,2026-06-22,True,Long Context
+1276371597,hartlez022/KTEuILqImK,【Java计算机毕业设计分享】基于SSM的在线投稿系统设计与实现，MySQL Java开发 毕业设计 实战项目【附源码、文档报告、代码讲解】,https://github.com/hartlez022/KTEuILqImK,1,0,,,2026-06-21T22:36:48Z,2026-06-22,True,Long Context
+1276357812,cauwen/GIAHNsIMSt,【Java计算机毕业设计分享】基于SSM教师办公管理系统设计与实现，MySQL Java开发 毕业设计 实战项目【附源码、文档报告、代码讲解】,https://github.com/cauwen/GIAHNsIMSt,1,0,,,2026-06-21T22:02:45Z,2026-06-22,True,Long Context
+1276615233,doomispawd/wURKGpzIAx,【Java计算机毕业设计分享】基于SSM二手车交易网站设计与实现，MySQL Java开发 毕业设计 实战项目【附源码、文档报告、代码讲解】,https://github.com/doomispawd/wURKGpzIAx,1,0,,,2026-06-22T06:22:37Z,2026-06-22,True,Long Context
+1276341210,doomispawd/cPigcOoLnY,【Java计算机毕业设计分享】基于SSM的运动器械购物商城管理系统，MySQL Java开发 毕业设计 实战项目【附源码、文档报告、代码讲解】,https://github.com/doomispawd/cPigcOoLnY,1,0,,,2026-06-21T21:24:25Z,2026-06-22,True,Long Context
+1276186662,hartlez022/xrhWjnsXyg,【Java计算机毕业设计分享】基于SSM的基金交易网站设计与实现，MySQL Java开发 毕业设计 实战项目【附源码、文档报告、代码讲解】,https://github.com/hartlez022/xrhWjnsXyg,1,0,,,2026-06-21T16:43:23Z,2026-06-22,True,Long Context
+1276598852,ramariyata/RWdgUnpnAa,【Java计算机毕业设计分享】基于SSM的金鱼销售平台开发与实现，MySQL Java开发 毕业设计 实战项目【附源码、文档报告、代码讲解】,https://github.com/ramariyata/RWdgUnpnAa,0,0,,,2026-06-22T06:00:32Z,2026-06-22,True,Long Context
+1276196120,ijabyregra/NDPqLbidTe,【Java计算机毕业设计分享】基于SSM的仓库管理系统设计与实现，MySQL Java开发 毕业设计 实战项目【附源码、文档报告、代码讲解】,https://github.com/ijabyregra/NDPqLbidTe,1,0,,,2026-06-21T16:57:54Z,2026-06-22,True,Long Context
+1276353265,jahnfrens/qWzmVkPDvm,【Java计算机毕业设计分享】基于SSM的630无纸化学习平台设计实现，MySQL Java开发 毕业设计 实战项目【附源码、文档报告、代码讲解】,https://github.com/jahnfrens/qWzmVkPDvm,1,0,,,2026-06-21T21:52:17Z,2026-06-22,True,Long Context
+1276630885,rayabeciga/KVuhcJBhjO,【Java计算机毕业设计分享】基于SSM的演唱会购票系统设计与实现，MySQL Java开发 毕业设计 实战项目【附源码、文档报告、代码讲解】,https://github.com/rayabeciga/KVuhcJBhjO,0,0,,,2026-06-22T06:42:01Z,2026-06-22,True,Long Context
+1276636454,jahnfrens/RwzoJysuzI,【Java计算机毕业设计分享】基于SSM的电子设备销售平台设计实现，MySQL Java开发 毕业设计 实战项目【附源码、文档报告、代码讲解】,https://github.com/jahnfrens/RwzoJysuzI,1,0,,,2026-06-22T06:48:49Z,2026-06-22,True,Long Context
+1276206751,xiaomezhig/IhpArmtTjX,【Java计算机毕业设计分享】基于SSM的驾校管理系统设计与开发，MySQL Java开发 毕业设计 实战项目【附源码、文档报告、代码讲解】,https://github.com/xiaomezhig/IhpArmtTjX,1,0,,,2026-06-21T17:14:30Z,2026-06-22,True,Long Context
+1276370402,hartlez022/jaSnbuhKdT,【Java计算机毕业设计分享】基于SSM的图书馆管理系统设计与实现，MySQL Java开发 毕业设计 实战项目【附源码、文档报告、代码讲解】,https://github.com/hartlez022/jaSnbuhKdT,1,0,,,2026-06-21T22:33:44Z,2026-06-22,True,Long Context
+1276395485,joshkrebst/ivTdpnDZxn,【Java计算机毕业设计分享】基于SSM的校园活动资讯网管理系统，MySQL Java开发 毕业设计 实战项目【附源码、文档报告、代码讲解】,https://github.com/joshkrebst/ivTdpnDZxn,1,0,,,2026-06-21T23:39:50Z,2026-06-22,True,Long Context
+1276351236,jahnfrens/pnsCnNyxTz,【Java计算机毕业设计分享】基于SSM的OA办公管理系统设计与实现，MySQL Java开发 毕业设计 实战项目【附源码、文档报告、代码讲解】,https://github.com/jahnfrens/pnsCnNyxTz,1,0,,,2026-06-21T21:47:10Z,2026-06-22,True,Long Context
+1276243821,wood2kite/bCEgBEIOYM,【Java计算机毕业设计分享】基于SSM的Vue视频播放器设计与实现，MySQL Java开发 毕业设计 实战项目【附源码、文档报告、代码讲解】,https://github.com/wood2kite/bCEgBEIOYM,1,0,,,2026-06-21T18:14:40Z,2026-06-22,True,Long Context
+1276364013,cauwen/KkAGKdUopy,【Java计算机毕业设计分享】基于SSM的大学餐厅菜品推荐点评系统，MySQL Java开发 毕业设计 实战项目【附源码、文档报告、代码讲解】,https://github.com/cauwen/KkAGKdUopy,1,0,,,2026-06-21T22:18:10Z,2026-06-22,True,Long Context
+1276368307,hartlez022/WRhvNyyuwg,【Java计算机毕业设计分享】基于SSM的数学竞赛网站设计与实现，MySQL Java开发 毕业设计 实战项目【附源码、文档报告、代码讲解】,https://github.com/hartlez022/WRhvNyyuwg,1,0,,,2026-06-21T22:28:34Z,2026-06-22,True,Long Context
+1276595776,ramariyata/UChHzmGzBO,【Java计算机毕业设计分享】基于SSM的在线购书商城系统（或平台），MySQL Java开发 毕业设计 实战项目【附源码、文档报告、代码讲解】,https://github.com/ramariyata/UChHzmGzBO,0,0,,,2026-06-22T05:56:14Z,2026-06-22,True,Long Context
+1276240200,wood2kite/bDYnrxYOKM,【Java计算机毕业设计分享】基于SSM游戏销售管理系统设计与实现，MySQL Java开发 毕业设计 实战项目【附源码、文档报告、代码讲解】,https://github.com/wood2kite/bDYnrxYOKM,1,0,,,2026-06-21T18:08:27Z,2026-06-22,True,Long Context
+1276381275,ijabyregra/DblRSRZaHg,【Java计算机毕业设计分享】基于SSM的在线学习平台设计与实现，MySQL Java开发 毕业设计 实战项目【附源码、文档报告、代码讲解】,https://github.com/ijabyregra/DblRSRZaHg,1,0,,,2026-06-21T23:02:25Z,2026-06-22,True,Long Context
+1276330053,brentberli/FBQwtAxdRh,【Java计算机毕业设计分享】基于SSM的Vue音乐播放器设计与实现，MySQL Java开发 毕业设计 实战项目【附源码、文档报告、代码讲解】,https://github.com/brentberli/FBQwtAxdRh,1,0,,,2026-06-21T21:00:21Z,2026-06-22,True,Long Context
+1276399527,ibislon/nOrruxQInd,【Java计算机毕业设计分享】基于SSM的社区团购系统设计与实现，MySQL Java开发 毕业设计 实战项目【附源码、文档报告、代码讲解】,https://github.com/ibislon/nOrruxQInd,1,0,,,2026-06-21T23:51:22Z,2026-06-22,True,Long Context
+1276605006,ramariyata/wxelWPABVs,【Java计算机毕业设计分享】基于SSM的田径运动会成绩管理系统，MySQL Java开发 毕业设计 实战项目【附源码、文档报告、代码讲解】,https://github.com/ramariyata/wxelWPABVs,0,0,,,2026-06-22T06:09:13Z,2026-06-22,True,Long Context
+1276627288,rayabeciga/TYXtlnqumE,【Java计算机毕业设计分享】基于SSM的汽车配件销售业绩管理系统，MySQL Java开发 毕业设计 实战项目【附源码、文档报告、代码讲解】,https://github.com/rayabeciga/TYXtlnqumE,0,0,,,2026-06-22T06:37:47Z,2026-06-22,True,Long Context
+1276633003,jahnfrens/wZERsqSoGX,【Java计算机毕业设计分享】基于SSM旅行社管理系统设计与实现，MySQL Java开发 毕业设计 实战项目【附源码、文档报告、代码讲解】,https://github.com/jahnfrens/wZERsqSoGX,1,0,,,2026-06-22T06:44:38Z,2026-06-22,True,Long Context
+1276174624,hartlez022/VVqFNhfaOu,【Java计算机毕业设计分享】基于SSM的旅游网页开发与设计平台，MySQL Java开发 毕业设计 实战项目【附源码、文档报告、代码讲解】,https://github.com/hartlez022/VVqFNhfaOu,1,0,,,2026-06-21T16:26:59Z,2026-06-22,True,Long Context
+1276360799,cauwen/uqfeueeEtc,【Java计算机毕业设计分享】基于SSM的智慧养老平台设计与实现，MySQL Java开发 毕业设计 实战项目【附源码、文档报告、代码讲解】,https://github.com/cauwen/uqfeueeEtc,1,0,,,2026-06-21T22:09:55Z,2026-06-22,True,Long Context
+1276390177,joshkrebst/CRmUMwPvhC,【Java计算机毕业设计分享】基于SSM的在线教学平台设计与实现，MySQL Java开发 毕业设计 实战项目【附源码、文档报告、代码讲解】,https://github.com/joshkrebst/CRmUMwPvhC,1,0,,,2026-06-21T23:25:32Z,2026-06-22,True,Long Context
+1276634592,jahnfrens/FKRxmPZwaL,【Java计算机毕业设计分享】基于SSM的国学文化网站设计与制作，MySQL Java开发 毕业设计 实战项目【附源码、文档报告、代码讲解】,https://github.com/jahnfrens/FKRxmPZwaL,1,0,,,2026-06-22T06:46:42Z,2026-06-22,True,Long Context
+1276385169,xiaomezhig/dqcPPXusjm,【Java计算机毕业设计分享】基于SSM的成绩管理系统设计与实现，MySQL Java开发 毕业设计 实战项目【附源码、文档报告、代码讲解】,https://github.com/xiaomezhig/dqcPPXusjm,1,0,,,2026-06-21T23:12:48Z,2026-06-22,True,Long Context
+1276401416,ibislon/nAvlcIIXVY,【Java计算机毕业设计分享】基于SSM的视康眼镜网店销售管理系统，MySQL Java开发 毕业设计 实战项目【附源码、文档报告、代码讲解】,https://github.com/ibislon/nAvlcIIXVY,1,0,,,2026-06-21T23:56:29Z,2026-06-22,True,Long Context
+1276589226,mrudblank/GaPKdsJxqR,【Java计算机毕业设计分享】基于SSM的计算机Office课程平台管理系统，MySQL Java开发 毕业设计 实战项目【附源码、文档报告、代码讲解】,https://github.com/mrudblank/GaPKdsJxqR,0,0,,,2026-06-22T05:47:28Z,2026-06-22,True,Long Context
+1276616800,rayabeciga/peDlVCdfpZ,【Java计算机毕业设计分享】基于SSM的二手车交易平台设计与实现，MySQL Java开发 毕业设计 实战项目【附源码、文档报告、代码讲解】,https://github.com/rayabeciga/peDlVCdfpZ,0,0,,,2026-06-22T06:24:59Z,2026-06-22,True,Long Context
+1276331085,brentberli/kRTieoCPkZ,【Java计算机毕业设计分享】基于SSM的家政服务平台设计与实现，MySQL Java开发 毕业设计 实战项目【附源码、文档报告、代码讲解】,https://github.com/brentberli/kRTieoCPkZ,1,0,,,2026-06-21T21:02:26Z,2026-06-22,True,Long Context
+1276192875,ijabyregra/ubohiQXaJT,【Java计算机毕业设计分享】基于SSM的例文共享平台设计与实现，MySQL Java开发 毕业设计 实战项目【附源码、文档报告、代码讲解】,https://github.com/ijabyregra/ubohiQXaJT,1,0,,,2026-06-21T16:52:49Z,2026-06-22,True,Long Context
+1276245544,wood2kite/MmPFmYBOVG,【Java计算机毕业设计分享】基于SSM的网络音乐系统设计与实现，MySQL Java开发 毕业设计 实战项目【附源码、文档报告、代码讲解】,https://github.com/wood2kite/MmPFmYBOVG,1,0,,,2026-06-21T18:17:47Z,2026-06-22,True,Long Context
+1276652900,cauwen/GAsUFPeFPn,【Java计算机毕业设计分享】基于SSM的小程序消防隐患举报系统，MySQL Java开发 毕业设计 实战项目【附源码、文档报告、代码讲解】,https://github.com/cauwen/GAsUFPeFPn,1,0,,,2026-06-22T07:08:47Z,2026-06-22,True,Long Context
+1276136595,doomispawd/VlWpifbZjq,【Java计算机毕业设计分享】基于SSM的校园二手物品交易平台设计，MySQL Java开发 毕业设计 实战项目【附源码、文档报告、代码讲解】,https://github.com/doomispawd/VlWpifbZjq,1,0,,,2026-06-21T15:29:43Z,2026-06-22,True,Long Context
+1276399190,ibislon/HVWenkpJZT,【Java计算机毕业设计分享】基于SSM的论文管理系统设计与实现，MySQL Java开发 毕业设计 实战项目【附源码、文档报告、代码讲解】,https://github.com/ibislon/HVWenkpJZT,1,0,,,2026-06-21T23:50:20Z,2026-06-22,True,Long Context
+1276386798,xiaomezhig/PqbAlgyRTb,【Java计算机毕业设计分享】基于SSM的中文学习系统设计与实现，MySQL Java开发 毕业设计 实战项目【附源码、文档报告、代码讲解】,https://github.com/xiaomezhig/PqbAlgyRTb,1,0,,,2026-06-21T23:17:03Z,2026-06-22,True,Long Context
+1276372000,hartlez022/oEpWUfuyHj,【Java计算机毕业设计分享】基于SSM的明嘉新材料仓库管理系统，MySQL Java开发 毕业设计 实战项目【附源码、文档报告、代码讲解】,https://github.com/hartlez022/oEpWUfuyHj,1,0,,,2026-06-21T22:37:51Z,2026-06-22,True,Long Context
+1276586040,mrudblank/aejzsXlece,【Java计算机毕业设计分享】基于SSM的毕业生就业状况管理系统，MySQL Java开发 毕业设计 实战项目【附源码、文档报告、代码讲解】,https://github.com/mrudblank/aejzsXlece,0,0,,,2026-06-22T05:43:21Z,2026-06-22,True,Long Context
+1276647471,eyebite4/TAxdebcSCl,【Java计算机毕业设计分享】基于SSM的奶茶店管理系统设计及实现，MySQL Java开发 毕业设计 实战项目【附源码、文档报告、代码讲解】,https://github.com/eyebite4/TAxdebcSCl,0,0,,,2026-06-22T07:02:00Z,2026-06-22,True,Long Context
+1276236456,ibislon/yMyBXEpNzp,【Java计算机毕业设计分享】基于SSM的高校班级同学录网站设计与实现，MySQL Java开发 毕业设计 实战项目【附源码、文档报告、代码讲解】,https://github.com/ibislon/yMyBXEpNzp,1,0,,,2026-06-21T18:02:03Z,2026-06-22,True,Long Context
+1276193480,ijabyregra/bLGOcUWvXu,【Java计算机毕业设计分享】基于SSM的汽车客运订票系统设计与实现，MySQL Java开发 毕业设计 实战项目【附源码、文档报告、代码讲解】,https://github.com/ijabyregra/bLGOcUWvXu,1,0,,,2026-06-21T16:53:49Z,2026-06-22,True,Long Context
+1276387647,xiaomezhig/iCsrVgUeyP,【Java计算机毕业设计分享】基于SSM的学生宿舍管理系统设计与实现，MySQL Java开发 毕业设计 实战项目【附源码、文档报告、代码讲解】,https://github.com/xiaomezhig/iCsrVgUeyP,1,0,,,2026-06-21T23:19:07Z,2026-06-22,True,Long Context
+1276606088,ramariyata/bRauzZApYP,【Java计算机毕业设计分享】基于SSM的学生学情预警系统设计与实现，MySQL Java开发 毕业设计 实战项目【附源码、文档报告、代码讲解】,https://github.com/ramariyata/bRauzZApYP,0,0,,,2026-06-22T06:10:41Z,2026-06-22,True,Long Context
+1276383179,xiaomezhig/tqbcayLrGA,【Java计算机毕业设计分享】基于SSM的数学课程评价系统设计与开发，MySQL Java开发 毕业设计 实战项目【附源码、文档报告、代码讲解】,https://github.com/xiaomezhig/tqbcayLrGA,1,0,,,2026-06-21T23:07:41Z,2026-06-22,True,Long Context
+1276375454,ijabyregra/WxAtxiIxwE,【Java计算机毕业设计分享】基于SSM的在线电影票购买系统设计与实现，MySQL Java开发 毕业设计 实战项目【附源码、文档报告、代码讲解】,https://github.com/ijabyregra/WxAtxiIxwE,1,0,,,2026-06-21T22:47:11Z,2026-06-22,True,Long Context
+1276336011,brentberli/RhNROKIAzV,【Java计算机毕业设计分享】基于SSM的青大校园预点餐系统设计与实现，MySQL Java开发 毕业设计 实战项目【附源码、文档报告、代码讲解】,https://github.com/brentberli/RhNROKIAzV,1,0,,,2026-06-21T21:12:54Z,2026-06-22,True,Long Context
+1276645157,eyebite4/tCgegXIZJz,【Java计算机毕业设计分享】基于SSM的学生事务处理系统设计与实现，MySQL Java开发 毕业设计 实战项目【附源码、文档报告、代码讲解】,https://github.com/eyebite4/tCgegXIZJz,0,0,,,2026-06-22T06:59:13Z,2026-06-22,True,Long Context
+1276355970,jahnfrens/hpNltwoGfH,【Java计算机毕业设计分享】基于SSM的经典电影推荐网站设计与实现，MySQL Java开发 毕业设计 实战项目【附源码、文档报告、代码讲解】,https://github.com/jahnfrens/hpNltwoGfH,1,0,,,2026-06-21T21:58:27Z,2026-06-22,True,Long Context
+1276577447,mrudblank/GDEZRnrIkl,【Java计算机毕业设计分享】基于SSM理发店会员管理系统设计与实现，MySQL Java开发 毕业设计 实战项目【附源码、文档报告、代码讲解】,https://github.com/mrudblank/GDEZRnrIkl,0,0,,,2026-06-22T05:30:52Z,2026-06-22,True,Long Context
+1276332114,brentberli/QWqBjcnMCy,【Java计算机毕业设计分享】基于SSM的快餐店点餐结算系统设计与实现，MySQL Java开发 毕业设计 实战项目【附源码、文档报告、代码讲解】,https://github.com/brentberli/QWqBjcnMCy,1,0,,,2026-06-21T21:04:32Z,2026-06-22,True,Long Context
