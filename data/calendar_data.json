@@ -3430,5 +3430,44 @@
     "url": "https://simonwillison.net/2026/Jun/21/temporary-cloudflare-accounts/#atom-everything",
     "tags": "",
     "created_at": "2026-06-22 07:14:14"
+  },
+  {
+    "id": "rss_https://openai.com/index/daybreak-securing-the-world",
+    "company": "OpenAI",
+    "title": "Daybreak: Tools for securing every organization in the world",
+    "publish_date": "2026-06-22",
+    "type": "其他",
+    "open_source": "否",
+    "summary": "OpenAI introduces new Daybreak tools, including Codex Security and GPT-5.5-Cyber, to help organizations find, validate, and patch vulnerabilities at scale.",
+    "details": "",
+    "url": "https://openai.com/index/daybreak-securing-the-world",
+    "tags": "",
+    "created_at": "2026-06-23 06:02:19"
+  },
+  {
+    "id": "rss_https://openai.com/index/patch-the-planet",
+    "company": "OpenAI",
+    "title": "Patch the Planet: a Daybreak initiative to support open source maintainers",
+    "publish_date": "2026-06-22",
+    "type": "其他",
+    "open_source": "否",
+    "summary": "OpenAI introduces Patch the Planet, a Daybreak initiative helping open-source maintainers find, validate, and fix vulnerabilities with AI and expert review.",
+    "details": "",
+    "url": "https://openai.com/index/patch-the-planet",
+    "tags": "",
+    "created_at": "2026-06-23 06:02:19"
+  },
+  {
+    "id": "rss_https://simonwillison.net/2026/Jun/22/porting-moebius/#atom-everything",
+    "company": "Simon Willison",
+    "title": "Porting the Moebius 0.2B image inpainting model to run in the browser with Claude Code",
+    "publish_date": "2026-06-22",
+    "type": "其他",
+    "open_source": "否",
+    "summary": "<p>This morning <a href=\"https://news.ycombinator.com/item?id=48630171\">on Hacker News</a> I saw <a href=\"https://hustvl.github.io/Moebius/\">Moebius: 0.2B Lightweight Image Inpainting Framework with 1",
+    "details": "",
+    "url": "https://simonwillison.net/2026/Jun/22/porting-moebius/#atom-everything",
+    "tags": "",
+    "created_at": "2026-06-23 06:02:22"
   }
 ]
