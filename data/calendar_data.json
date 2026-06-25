@@ -3547,5 +3547,31 @@
     "url": "https://simonwillison.net/2026/Jun/23/datasette/#atom-everything",
     "tags": "",
     "created_at": "2026-06-24 06:02:03"
+  },
+  {
+    "id": "rss_https://deepmind.google/blog/introducing-computer-use-in-gemini-3-5-flash/",
+    "company": "Google DeepMind",
+    "title": "Introducing computer use in Gemini 3.5 Flash",
+    "publish_date": "2026-06-24",
+    "type": "其他",
+    "open_source": "否",
+    "summary": "",
+    "details": "",
+    "url": "https://deepmind.google/blog/introducing-computer-use-in-gemini-3-5-flash/",
+    "tags": "",
+    "created_at": "2026-06-25 06:00:44"
+  },
+  {
+    "id": "rss_https://huggingface.co/blog/nvidia/accelerating-fine-tuning-nvidia-nemo-automodel",
+    "company": "Hugging Face",
+    "title": "Accelerating Transformers Fine-Tuning with NVIDIA NeMo AutoModel",
+    "publish_date": "2026-06-24",
+    "type": "其他",
+    "open_source": "否",
+    "summary": "",
+    "details": "",
+    "url": "https://huggingface.co/blog/nvidia/accelerating-fine-tuning-nvidia-nemo-automodel",
+    "tags": "",
+    "created_at": "2026-06-25 06:00:45"
   }
 ]
