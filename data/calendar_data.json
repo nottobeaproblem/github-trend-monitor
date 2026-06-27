@@ -3612,5 +3612,18 @@
     "url": "https://simonwillison.net/2026/Jun/25/datasette-export-database/#atom-everything",
     "tags": "",
     "created_at": "2026-06-26 06:04:03"
+  },
+  {
+    "id": "rss_https://openai.com/index/previewing-gpt-5-6-sol",
+    "company": "OpenAI",
+    "title": "Previewing GPT-5.6 Sol: a next-generation model",
+    "publish_date": "2026-06-26",
+    "type": "其他",
+    "open_source": "否",
+    "summary": "OpenAI previews GPT-5.6 Sol, a next-generation model with stronger capabilities in coding, science, and cybersecurity, paired with its most advanced safety stack.",
+    "details": "",
+    "url": "https://openai.com/index/previewing-gpt-5-6-sol",
+    "tags": "",
+    "created_at": "2026-06-27 05:49:01"
   }
 ]
