@@ -1,0 +1,1711 @@
+name,stars,collected_at,domain
+krzysztofdudek/ResearcherSkill,245,2026-06-30,AI Agent
+openmemind/memind,901,2026-06-30,AI Agent
+fastclaw-ai/weclaw,1552,2026-06-30,AI Agent
+wong2/weixin-agent-sdk,1224,2026-06-30,AI Agent
+facebookresearch/HyperAgents,2617,2026-06-30,AI Agent
+patoles/agent-flow,999,2026-06-30,AI Agent
+samber/cc-skills-golang,2349,2026-06-30,AI Agent
+HKUDS/OpenSpace,6639,2026-06-30,AI Agent
+alibaba-flyai/flyai-skill,769,2026-06-30,AI Agent
+cisco-ai-defense/defenseclaw,760,2026-06-30,AI Agent
+truongduy2611/app-store-preflight-skills,1259,2026-06-30,AI Agent
+formulahendry/wechat-acp,734,2026-06-30,AI Agent
+epiral/weixin-bot,443,2026-06-30,AI Agent
+alvinunreal/awesome-autoresearch,2282,2026-06-30,AI Agent
+SethGammon/Citadel,624,2026-06-30,AI Agent
+corespeed-io/wechatbot,510,2026-06-30,AI Agent
+slowmist/slowmist-agent-security,475,2026-06-30,AI Agent
+zhu1090093659/spec_driven_develop,913,2026-06-30,AI Agent
+TongmingLAIC/AKO4ALL,311,2026-06-30,AI Agent
+0xNyk/awesome-hermes-agent,4327,2026-06-30,AI Agent
+Miosa-osa/canopy,224,2026-06-30,AI Agent
+saltbo/agent-kanban,377,2026-06-30,AI Agent
+remorses/usecomputer,305,2026-06-30,AI Agent
+jonwiggins/optio,985,2026-06-30,AI Agent
+kesslernity/awesome-copilot-studio-agents,411,2026-06-30,AI Agent
+lasywolf/Learn-OpenClaw,408,2026-06-30,AI Agent
+mediastormDev/dream-to-video-skill,316,2026-06-30,AI Agent
+walter-grace/mac-code,1017,2026-06-30,AI Agent
+InternLM/WildClawBench,459,2026-06-30,AI Agent
+meodai/skill.color-expert,507,2026-06-30,AI Agent
+Ataraxy-Labs/opensessions,1168,2026-06-30,AI Agent
+nashsu/opencli-rs-skill,882,2026-06-30,AI Agent
+neo4j-labs/create-context-graph,669,2026-06-30,AI Agent
+capgym/cap-x,586,2026-06-30,AI Agent
+aronprins/paperclip-company-playbook,188,2026-06-30,AI Agent
+hao-ji-xing/openclaw-weixin,271,2026-06-30,AI Agent
+p697/clawket,326,2026-06-30,AI Agent
+mnfst/awesome-free-llm-apis,5406,2026-06-30,AI Agent
+EESJGong/scholar-skill,206,2026-06-30,AI Agent
+Johnixr/claude-code-wechat-channel,307,2026-06-30,AI Agent
+dontbesilent2025/dbskill,7201,2026-06-30,AI Agent
+slavingia/skills,9289,2026-06-30,AI Agent
+louislva/claude-peers-mcp,2134,2026-06-30,AI Agent
+nmhjklnm/cac,452,2026-06-30,AI Agent
+CoderLuii/HolyClaude,2379,2026-06-30,AI Agent
+griffinmartin/opencode-claude-auth,1120,2026-06-30,AI Agent
+zarazhangrui/codebase-to-course,5073,2026-06-30,AI Agent
+hkcanan/katmer-code,456,2026-06-30,AI Agent
+soulduse/ai-token-monitor,254,2026-06-30,AI Agent
+raysonmeng/agent-bridge,144,2026-06-30,AI Agent
+sgaofen/cli-in-wechat,305,2026-06-30,AI Agent
+jnMetaCode/superpowers-zh,6139,2026-06-30,AI Agent
+oh-my-mermaid/oh-my-mermaid,1433,2026-06-30,AI Agent
+Xiangyue-Zhang/auto-deep-researcher-24x7,1225,2026-06-30,AI Agent
+liyupi/ai-translator-extension,3,2026-06-30,AI Agent
+xvxv-stack7/android-claude-wechat,2,2026-06-30,AI Agent
+mishahanin/heading-os,2,2026-06-30,AI Agent
+sylvia0vera-ship-it/interview-retro,2,2026-06-30,AI Agent
+fomith/provision-telegram-claude-bot,2,2026-06-30,AI Agent
+ccBilly-aipm/ccBiliy-WeChat-GPT-Image-2,2,2026-06-30,AI Agent
+LucioLiu/nuwa,1,2026-06-30,AI Agent
+qierkang/ai-office-director-skill,1,2026-06-30,AI Agent
+qierkang/picasso-dev-skill,1,2026-06-30,AI Agent
+CosmosHoshigami/task-match-skills,1,2026-06-30,AI Agent
+cyril-p-jose/n8n-ai-news-telegram-bot,1,2026-06-30,AI Agent
+qierkang/product-delivery-skill,1,2026-06-30,AI Agent
+qierkang/product-dev-skill,1,2026-06-30,AI Agent
+SchoolOfFreelancing/Hermes-Agent-Training,1,2026-06-30,AI Agent
+HachikoJ/fatal-ai-resignation,1,2026-06-30,AI Agent
+cbetz/last-ehr,1,2026-06-30,AI Agent
+github-yjc/learning-tech,1,2026-06-30,AI Agent
+germankovacevic-lab/dia-ask,1,2026-06-30,AI Agent
+foxpup11/agentscope,1,2026-06-30,AI Agent
+qierkang/platform-project-skill,1,2026-06-30,AI Agent
+METAXGTSEOSEM/Awesome-post-skills,1,2026-06-30,AI Agent
+elephantclock/private-ai-email-agent,1,2026-06-30,AI Agent
+Nick2bad4u/Codecov-Skill,0,2026-06-30,AI Agent
+fafa-ai-data-lab/ai-data-analyst-agent,0,2026-06-30,AI Agent
+Tunolabs/aria-enroll-sdk-python,0,2026-06-30,AI Agent
+Tunolabs/aria-enroll-bootstrap,0,2026-06-30,AI Agent
+Usman-rai/voice-appointment-booking-agent,0,2026-06-30,AI Agent
+Yansf677/Agent-Surgeon,0,2026-06-30,AI Agent
+null-object-0000/data-recipe,0,2026-06-30,AI Agent
+Nainish-Rai/improve-dashboard-ui,0,2026-06-30,AI Agent
+vidit1920/AuraFix,0,2026-06-30,RAG
+chuanfan-ai/chuanfan-htmlppt-skill,0,2026-06-30,AI Agent
+xin-wen-eng/grocery-optimizer,0,2026-06-30,AI Agent
+yuzhaopeng-up/teleagent-skills,0,2026-06-30,AI Agent
+WIHATN/vault-crystallize,0,2026-06-30,AI Agent
+josedasilva11/ai-reception-agent,0,2026-06-30,AI Agent
+jokerjkeeper/GamePlusAIAgent,0,2026-06-30,AI Agent
+Tunolabs/aria-enroll-sdk-node,0,2026-06-30,AI Agent
+kamatanuj/pharmacy-whatsapp-agent,0,2026-06-30,AI Agent
+Vublox/vublox-agent-tools,0,2026-06-30,AI Agent
+CHENXJC/DataToInsightWorkflowAgent,0,2026-06-30,AI Agent
+BapDaGreat/ai-news-agent,0,2026-06-30,AI Agent
+Shrutiraj26/ai-research-agent,0,2026-06-30,AI Agent
+MohoCoder1/autonomous-research-agent,0,2026-06-30,AI Agent
+AuClarke/codex-skill-content-pipeline,0,2026-06-30,AI Agent
+AuClarke/codex-skill-guardrails,0,2026-06-30,AI Agent
+coolmaokai/ark-nuwa-desktop,0,2026-06-30,AI Agent
+Cyber-Yichen/hermes-feishu-group-context,0,2026-06-30,AI Agent
+owensky-dev/industry-os-research-skill,0,2026-06-30,AI Agent
+Yusupov-Muhammadyusuf/claude-cli,0,2026-06-30,AI Agent
+yukthapriya/web-research-agent,0,2026-06-30,AI Agent
+hedgeacademy/done-summary-skill,0,2026-06-30,AI Agent
+succtorlin/mckinsey-problem-solving-skill,0,2026-06-30,AI Agent
+RVRNM/dataguard-fortress,0,2026-06-30,AI Agent
+Ddhjx-code/agent-learn-skill,0,2026-06-30,RAG
+haoyiyin/sadtalker-mac,0,2026-06-30,AI Agent
+HoussemEddineChaouch/mini-agent-cli,0,2026-06-30,AI Agent
+marktoda/zj-radar,0,2026-06-30,AI Agent
+AasthaPJoshi/RetrievalLab,0,2026-06-30,RAG
+adeelahmad/agentrc,0,2026-06-30,AI Agent
+mohd-ibadullah/AgentHiring,0,2026-06-30,AI Agent
+NachaFromMars/oumstudio-novel,0,2026-06-30,AI Agent
+liarboo/family-calendar-ai,0,2026-06-30,AI Agent
+yuzhaopeng-up/agent-cluster-comm,0,2026-06-30,AI Agent
+cooldip00/traceiq,0,2026-06-30,AI Agent
+Sahiljangra115/shortlist,0,2026-06-30,RAG
+manny-uncharted/casper-trust-rail,0,2026-06-30,AI Agent
+Pyrotheum1702/pyro-chat-bot,0,2026-06-30,RAG
+jian45154/link2context,0,2026-06-30,AI Agent
+coreyone/software-maestro,0,2026-06-30,AI Agent
+kwakhyun/issue-to-patch,0,2026-06-30,AI Agent
+Asher-pro/claude-whatsapp-self,0,2026-06-30,AI Agent
+superpios/sentinel-censorship-intel,0,2026-06-30,AI Agent
+avanitripathi/Research-Exploration-Assistant,0,2026-06-30,AI Agent
+AuClarke/codex-skill-task-kickoff,0,2026-06-30,AI Agent
+automataIA/sir-bone-rs,0,2026-06-30,AI Agent
+opensourceways/openeuler-docker-autopilot,0,2026-06-30,AI Agent
+sudarshanpjadhav/finggu-websense,0,2026-06-30,AI Agent
+Vashu2003/claude-job-hunt-agent,0,2026-06-30,AI Agent
+AuClarke/codex-skill-xiaohongshu-learning,0,2026-06-30,AI Agent
+HuginCyber/Hugin,0,2026-06-30,AI Agent
+yanralapdy/pi-web-surf,0,2026-06-30,AI Agent
+JieDannaChen/ai-quality-kit,0,2026-06-30,AI Agent
+0xNexuz/smart-transaction-stack,0,2026-06-30,AI Agent
+sudarshanpjadhav/finggu-loopforge,0,2026-06-30,AI Agent
+oneirozzzz7/educe,0,2026-06-30,AI Agent
+pollardaltha367-arch/yrh-enterprise-data-agent,0,2026-06-30,AI Agent
+HenWorks/Hermes-agent-android-PC-companion-app,0,2026-06-30,AI Agent
+mahshid1378/brim-fable,0,2026-06-30,AI Agent
+JieDannaChen/skill-kit,0,2026-06-30,AI Agent
+SOREX-AI/Code,0,2026-06-30,AI Agent
+emco1234/grok-cli-plugin-goalpower,0,2026-06-30,AI Agent
+gurwnswh9910-maker/when-hangul-breaks,0,2026-06-30,AI Agent
+Mohd-Arsalan-Khan/study-coach-agent,0,2026-06-30,AI Agent
+TashanGKD/tashan-research-skills,0,2026-06-30,AI Agent
+suryaanandan1995-dotcom/ai-devops-agent,0,2026-06-30,AI Agent
+R-AF1/xhs-favorites-organizer,0,2026-06-30,AI Agent
+Kashif-Rabbani/mcp-server-sparql,0,2026-06-30,AI Agent
+NikitaZauls/opencode-configs,0,2026-06-30,AI Agent
+emmanuelsvaldez/MedAssist-Pro-Agentforce,0,2026-06-30,RAG
+IlhemBek/multi-llm-agent,0,2026-06-30,AI Agent
+tre3x/LLM_Agent_Basics,0,2026-06-30,AI Agent
+Yajing-Z/llm-agent-learning,0,2026-06-30,AI Agent
+hemasribavisetty/itsm-llm-agent,0,2026-06-30,AI Agent
+rahulpoptani/semantic-layer-llm-agent,0,2026-06-30,AI Agent
+idoziru/llm-agentic-review-cycle,0,2026-06-30,AI Agent
+Alas-oss/LLM-Agent-with-Tool-Use,0,2026-06-30,AI Agent
+Falcon305/signaltest,0,2026-06-30,AI Agent
+joy7758/vep-execution-kernel,0,2026-06-30,AI Agent
+MagneticLine/pkwiki,0,2026-06-30,AI Agent
+Learner2-cyber/ai-vocabulary-assistant,0,2026-06-30,AI Agent
+zww13411-a11y/agmem,0,2026-06-30,AI Agent
+wode-gob1/AIAgent,0,2026-06-30,AI Agent
+wtsi-hgi/agentfarm,0,2026-06-30,AI Agent
+caroline-li-studio/ToolBudgetBench,0,2026-06-30,AI Agent
+vvvaibhaverma-123459876/audited-agent,0,2026-06-30,AI Agent
+caozisheng/rimeagent,1,2026-06-30,AI Agent
+R-Suresh/EntityBindingFailures,1,2026-06-30,AI Agent
+hankeGui/domain-guard,0,2026-06-30,AI Agent
+mysticallama/katibin,0,2026-06-30,AI Agent
+arturkorb3/micro-agent,0,2026-06-30,AI Agent
+zhichao1208/reduce-hallucination,0,2026-06-30,RAG
+shoutrix/agoralab,0,2026-06-30,AI Agent
+jotokra/aether,0,2026-06-30,AI Agent
+JamshaidAhmedd/ai-grammar-analysis-agent,0,2026-06-30,AI Agent
+Krishna89287/agent-trajectory-eval,0,2026-06-30,AI Agent
+wenlongsong/OKF-Semantic-Layer-Builder,0,2026-06-30,AI Agent
+shubmittal/agent-horizon-degradation,0,2026-06-30,AI Agent
+wgcairui/envctrl-pi,0,2026-06-30,AI Agent
+HU1234top/prompt-to-production,1,2026-06-30,AI Agent
+psypilot/blindvault,3,2026-06-30,AI Agent
+farhanturu/mirofish-agent,0,2026-06-30,AI Agent
+xbmaxx/cogito-engine,0,2026-06-30,AI Agent
+mar-schmidt/Podium,0,2026-06-30,AI Agent
+Tors428/honesty-gap,0,2026-06-30,AI Agent
+Dhuruv-12/multi-agent-report-generator,0,2026-06-30,AI Agent
+georgedouzas/mathpix-mcp,1,2026-06-30,AI Agent
+smss123/ef-core-supper-charge-AI-SKILL,0,2026-06-30,AI Agent
+tylerwood-io/llm-airlock,0,2026-06-30,AI Agent
+LukaszCwikiel/Phoenix-Maestro-Autonomous-Multi-Agent-Corporate-SOC-Platform,0,2026-06-30,AI Agent
+brianinroma/self-maintaining-second-brain-wiki,0,2026-06-30,AI Agent
+Schimmilab/pico-mcp,0,2026-06-30,AI Agent
+HefnySco/agent_mcp_thoughtflow,0,2026-06-30,AI Agent
+jmfloreszazo/tokenmaxxing-agents-finetuning-optimizer-and-rags,0,2026-06-30,RAG
+mchu1966/okf-wiki,1,2026-06-30,AI Agent
+Amitkaushal15/gen_and_agentic_ai_with_python,0,2026-06-30,RAG
+TianhangZhuzth/Fundamental-Ava,74,2026-06-30,AI Agent
+oxbshw/Agent-Span,31,2026-06-30,AI Agent
+bcallender/agent-context-workshop,13,2026-06-30,AI Agent
+crazymi/agentic,0,2026-06-30,AI Agent
+I-Maged/agentic,0,2026-06-30,AI Agent
+sengka/agentic,0,2026-06-30,AI Agent
+writing2009/agentic,0,2026-06-30,AI Agent
+pavithraIndukuri/Agentic,0,2026-06-30,AI Agent
+damiansire/cognitive-substrate-os,26,2026-06-30,AI Agent
+gunjanbasu/agentic-craft,2,2026-06-30,AI Agent
+deepgoyal19/-agentic-emergency-response,2,2026-06-30,AI Agent
+Coprefid/repo-gps,5,2026-06-30,AI Agent
+adityagrg/AgenticAI,0,2026-06-30,AI Agent
+mani-dev-io/AgenticAI,0,2026-06-30,AI Agent
+TanwarjotSingh/AgenticAi,0,2026-06-30,AI Agent
+SiLEnT-24/AgenticAI,0,2026-06-30,AI Agent
+Bimzy27/AgenticWorkspace,0,2026-06-30,AI Agent
+aravind45/AgenticRobinhood,0,2026-06-30,AI Agent
+SourabhWalvekar/AgenticPage,0,2026-06-30,AI Agent
+riyadmurad/AgenticEngineering,0,2026-06-30,AI Agent
+kn255002/agenticOps,0,2026-06-30,AI Agent
+chandan-jha1/AgenticAI,0,2026-06-30,AI Agent
+Aparna26jha/AgenticAI,0,2026-06-30,AI Agent
+SecAI-Lab/AgenticLoop,0,2026-06-30,AI Agent
+shailesh-commits/AgenticAI,0,2026-06-30,AI Agent
+isas1/forever-ai-components,17,2026-06-30,AI Agent
+ian-morgan99/AgenticJinjaTemplates,0,2026-06-30,AI Agent
+lekhyaaa/AgenticAI-AP,0,2026-06-30,AI Agent
+Rajat1393/AgenticChatBot,0,2026-06-30,AI Agent
+Pavanmahesh1432/Python_AgenticAI,0,2026-06-30,AI Agent
+Charupareek11/EZdocs-AgenticAI,0,2026-06-30,AI Agent
+BogdanOrg/AgenticEngineTest,0,2026-06-30,AI Agent
+charupareek-11/EZdocs-AgenticAI,0,2026-06-30,AI Agent
+xuanxuan321/xuanxuan-prompts,50,2026-06-30,AI Agent
+ckhatiri/AgenticAi-Tps-Exam,0,2026-06-30,AI Agent
+fhereygers/AgenticAI_EMEA2,0,2026-06-30,AI Agent
+flintmenzi/AgenticRiskStudio-Hub,0,2026-06-30,AI Agent
+hajarber/AgenticAi-Tps-Exam,0,2026-06-30,AI Agent
+ianujrathore/GenerativeAI-and-AgenticAI,0,2026-06-30,AI Agent
+Aparna7710/TDA-Gen-AgenticAI-Week4,0,2026-06-30,AI Agent
+Nukka2005/DataTalksClub_LLM_Zoomcamp_agenticRAG,0,2026-06-30,RAG
+bagheldiwakar/Agenticanalyser,0,2026-06-30,AI Agent
+sunilbm35/Agenticai,0,2026-06-30,AI Agent
+shiyaz1/AGENTICIQV,0,2026-06-30,AI Agent
+Anton-Petrenko/agentictrading,0,2026-06-30,AI Agent
+zeeshankanuga/LLM-MCP_Architecture_for_DevOps_AgenticAI,0,2026-06-30,AI Agent
+yenchang265-afk/agentic-loop,0,2026-06-30,AI Agent
+lakshya082001/Agentic-RAG,0,2026-06-30,RAG
+somanath143/agentic_ai,0,2026-06-30,AI Agent
+AnirudhChenna/Agentic-AI,0,2026-06-30,AI Agent
+kinfey/EvalAgentic,0,2026-06-30,AI Agent
+Yashika-Bayeen/agentic-ai,0,2026-06-30,AI Agent
+bh-uv-an/Agentic_AI,0,2026-06-30,AI Agent
+sknill2495/AGENTIC-SEARCH,0,2026-06-30,AI Agent
+lamizr-dev/ai-agentic,0,2026-06-30,AI Agent
+axayNisang/agentic-rag,0,2026-06-30,RAG
+Chinmayk2002/Agentic-SPM,0,2026-06-30,AI Agent
+giovanni7304/Agentic-OS,0,2026-06-30,AI Agent
+avendeep/agentic-workflow,0,2026-06-30,AI Agent
+pushpana/Agentic-AI,0,2026-06-30,AI Agent
+kabbstat/agentic_hardenning,0,2026-06-30,AI Agent
+nranthony/agentic_base,0,2026-06-30,AI Agent
+amenigharbi1O16/Agentic_AI,0,2026-06-30,AI Agent
+aguerra626/agentic-trading,0,2026-06-30,AI Agent
+fedebri/agentic-reframe,0,2026-06-30,AI Agent
+AshishhPandeyy/agentic-chatbot,0,2026-06-30,AI Agent
+keshav9926/gen-agentic,0,2026-06-30,AI Agent
+itsbenjax/agenticy-website,0,2026-06-30,AI Agent
+iytharishika/Agentic-RAG,0,2026-06-30,RAG
+SHLOK9998/Agentic_Chatbot,0,2026-06-30,AI Agent
+aadarsh-2107/agenticai_training,0,2026-06-30,AI Agent
+YashRaut123/Agentic-Ai,0,2026-06-30,AI Agent
+Brinkv3/agentic-audit,1,2026-06-30,AI Agent
+shishirrick01/Agentic_work,0,2026-06-30,AI Agent
+vikky-6265/Agentic_AI,0,2026-06-30,AI Agent
+AgenticBooks/agenticbooks-mcp,0,2026-06-30,AI Agent
+sanavenkata/agentic_hackathon,0,2026-06-30,AI Agent
+debdase/agenticai_training,0,2026-06-30,AI Agent
+shivharevanshika5-netizen/AGENTIC-AI,0,2026-06-30,AI Agent
+mehmetsunkur-labs/agentic-airlines,0,2026-06-30,AI Agent
+alex-voloshin-dev/agentic-forge,0,2026-06-30,AI Agent
+khushib-22/agentic-ai,0,2026-06-30,AI Agent
+AbdellahCHERKAOUI/agentic_Ai,0,2026-06-30,AI Agent
+sungjinwooo8/neuroseek-agentic,0,2026-06-30,AI Agent
+satishtirumaniai9/agenticai_bootcamp,0,2026-06-30,AI Agent
+Pyder3/agentic-systems,0,2026-06-30,AI Agent
+arpita81099-cmyk/AGENTIC-AI,0,2026-06-30,AI Agent
+mantkuma/agentic-ai,0,2026-06-30,AI Agent
+sarelh-hub/agentic_project,0,2026-06-30,AI Agent
+goelsaurabh23/agentic-commerce,0,2026-06-30,AI Agent
+AbdellahCHERKAOUI/Agentic-RAG-,0,2026-06-30,RAG
+blade037/robinhood_agentic,0,2026-06-30,AI Agent
+bhanusharmabayer/agenticai_training,0,2026-06-30,AI Agent
+jatavmuskan694-prog/Agentic-AI,0,2026-06-30,AI Agent
+AldenWangExis/agentic-mesh,0,2026-06-30,AI Agent
+nextdorf/agentic-crashcourse,0,2026-06-30,AI Agent
+hanCChan/agentic-rec,0,2026-06-30,AI Agent
+anurag-tewari/Agentic_Public,0,2026-06-30,AI Agent
+jayakanala/Agentic_AI,0,2026-06-30,AI Agent
+MihailoPesic/agentic-svg,0,2026-06-30,AI Agent
+Bipradroid/Agentic-RAG,0,2026-06-30,RAG
+AshishForCode/agentic-paper-,0,2026-06-30,AI Agent
+spytanu002/Agentic_AI,0,2026-06-30,AI Agent
+katiezhu06/agentic_investing,1,2026-06-30,AI Agent
+dzy82f/agentic-reasoning,0,2026-06-30,AI Agent
+swaminathanajas-spec/ai-agentic,0,2026-06-30,AI Agent
+Shreya-Patwa/Agentic_AI,0,2026-06-30,AI Agent
+kenjoel/agentic-evals,0,2026-06-30,AI Agent
+Malleshcr7/Agentic_RAG,0,2026-06-30,RAG
+zachmarmolejo/Agentic-Workflow,0,2026-06-30,AI Agent
+rsadaphule/agentic_orchestration,0,2026-06-30,AI Agent
+kmehrad/Agentic-AI,0,2026-06-30,AI Agent
+nabil08dev/tp_agentic,0,2026-06-30,AI Agent
+antondelafuente/agentic-engineering,0,2026-06-30,AI Agent
+clcollins/agentic-skills,0,2026-06-30,AI Agent
+Makeshkumar103/Agentic-Core,0,2026-06-30,AI Agent
+jvarghesetech/agentic-calling,0,2026-06-30,AI Agent
+Sritam9345/agentic-ai,0,2026-06-30,AI Agent
+ankiibott/Agentic.ai,0,2026-06-30,AI Agent
+raquelopez78-hash/agentic-os,0,2026-06-30,AI Agent
+ZaitouneMohamed/AI-agentic,0,2026-06-30,AI Agent
+ardijancuri/agentic-cyborg,0,2026-06-30,AI Agent
+monica-biswal/AGENTIC_AI,0,2026-06-30,AI Agent
+Zia-CRM-hub/AI-Experiments-cd14526-Effective-Prompting-AgenticAIC1-exercises,0,2026-06-30,AI Agent
+venergiac/agenticai-context-engineering,0,2026-06-30,AI Agent
+lima0802/agentic-bi-workforce,0,2026-06-30,AI Agent
+Areeb-Ahmd/Agentic-Trading-Bot,0,2026-06-30,AI Agent
+johanaspegren/agentic-lawn-mower,0,2026-06-30,AI Agent
+marcin119a/agentic_kit_api,0,2026-06-30,AI Agent
+bishalshrestha013/basic-agentic-app,0,2026-06-30,AI Agent
+nextgen005/agentic-ai-book,0,2026-06-30,AI Agent
+basdijkstra/agentic-engineering-training,0,2026-06-30,AI Agent
+yasminreich/Agentic-research-assistant,0,2026-06-30,AI Agent
+lywon725/agentic-coding-workshop,0,2026-06-30,AI Agent
+Nishchz/Agentic-app-builder,1,2026-06-30,AI Agent
+AniruddhaAkhare/gemini_agentic_rag,0,2026-06-30,RAG
+Muralikrishn123/AI-Agentic-Platform,0,2026-06-30,AI Agent
+BankNatchapol/agentic-dev-kit,0,2026-06-30,AI Agent
+Mohamedkhattab02/agentic-ai-projects,0,2026-06-30,RAG
+saichandra1199/Agentic_Blog_Writer,0,2026-06-30,AI Agent
+Future-Computing-Group/agentic-economy-sim,0,2026-06-30,AI Agent
+l-krrish/agentic-factor-research,0,2026-06-30,AI Agent
+markhearnreta/hqa-agentic-workflow,0,2026-06-30,AI Agent
+PrashantWritesCode/agentic-ai-bootcamp,0,2026-06-30,AI Agent
+VENKATESH0018/RMS_AGENTIC_AI,0,2026-06-30,AI Agent
+Rohanj21/agentic-ai-assistant,0,2026-06-30,AI Agent
+amitsingh6261/Agentic-Ai-project,0,2026-06-30,AI Agent
+FemCalfHermesAGENT/fluid-voice-agentic,0,2026-06-30,AI Agent
+dzy82f/agentic-reasoning-docs,0,2026-06-30,AI Agent
+Displacedtex/agentic-ops-sprint,0,2026-06-30,AI Agent
+blossomkaler/agentic-ai-fdp,0,2026-06-30,AI Agent
+sehyunhy/agentic_ai_gift,0,2026-06-30,AI Agent
+HrsFlex/multi-agentic-harsh,0,2026-06-30,AI Agent
+KirilIvanov98/EstoreAgenticAI,0,2026-06-30,AI Agent
+GeorgeQLe/agentic-skills-showcase,0,2026-06-30,AI Agent
+shivharevanshika5-netizen/AGENTIC-AI2,0,2026-06-30,AI Agent
+HarshrajNimbalkar/agentic-ai-workshop,0,2026-06-30,AI Agent
+sheetal96/Modern_Agentic_AI,0,2026-06-30,AI Agent
+Sadman-Rahman25/Agentic_Research_Analyst,0,2026-06-30,AI Agent
+Bhushan-0207/Agentic-AI-Practice,0,2026-06-30,AI Agent
+nikjohn7/agentic-outlook-mr,0,2026-06-30,AI Agent
+Akashsivateja/AuditBilling-Agentic,0,2026-06-30,AI Agent
+blend4harsh/agentic-system-harsh,0,2026-06-30,AI Agent
+pruthvi-infinite/enterprise-agentic-rag,0,2026-06-30,RAG
+avi-sh712/Langgraph-agentic-learning,0,2026-06-30,AI Agent
+PravalikaJanjirala/Agentic-AI-Chatbot,0,2026-06-30,AI Agent
+cfaes-bioinfo/agentic-ai-workshop,0,2026-06-30,AI Agent
+0xr41d3n/agentic-rag-pentest,0,2026-06-30,RAG
+Yeakei/ai-agentic-evaluation,0,2026-06-30,AI Agent
+devyanik990-coder/payresolve_agentic_ai,0,2026-06-30,AI Agent
+Varad1006/Agentic-AI-Consultant,0,2026-06-30,AI Agent
+harshgavandit/Agentic-AI_SYSTEM,1,2026-06-30,AI Agent
+GeorgeQLe/agentic-skills-benchmarks,0,2026-06-30,AI Agent
+anzah930/modern-agentic-ai,0,2026-06-30,AI Agent
+nicolas-dms/forvia-agentic-demo,0,2026-06-30,AI Agent
+ogsamrat/casper-agentic-wallet,0,2026-06-30,AI Agent
+gabomonher/startup-agentic-assistant,0,2026-06-30,AI Agent
+niharikasgupta/agentic-ai-exercise,0,2026-06-30,AI Agent
+hemanthh35/Agentic_RAG_Platform-,0,2026-06-30,RAG
+debrahimi63/Agentic-CRM-System,0,2026-06-30,AI Agent
+beyzakrky/Agentic_BaaS,0,2026-06-30,AI Agent
+abhishek112005/agentic-ai-platform,0,2026-06-30,AI Agent
+sujaynat/agentic-ai-projects,0,2026-06-30,AI Agent
+GuptaSandip/Agentic-AI-Notebook,0,2026-06-30,AI Agent
+sidd1196/agentic_story_generator,0,2026-06-30,AI Agent
+Vishnu14192/Agentic-Fraud-detection,0,2026-06-30,AI Agent
+shayben/ml_agentic_optimizer,0,2026-06-30,AI Agent
+Vidhisood24/FDP-AGENTIC-AI,0,2026-06-30,AI Agent
+northumber/agentic-debate-studio,0,2026-06-30,AI Agent
+mehmetsunkur-labs/agentic-factory-demo,0,2026-06-30,AI Agent
+aanyaa1606/Agentic-blog-generation-,0,2026-06-30,AI Agent
+justinhats/IDX-AI-Agentic,0,2026-06-30,AI Agent
+bablu12344567/Agentic-Learning-Assistant,0,2026-06-30,AI Agent
+Piyush-S24/Agentic-AI-FDP-,0,2026-06-30,AI Agent
+vchakalov/agentica-demo-landings,0,2026-06-30,AI Agent
+SapnaBisht101/Travel-Agentic-AI,0,2026-06-30,AI Agent
+Thouseef68/agentic-research-assistant,0,2026-06-30,AI Agent
+RishCapitalent18/agentic-rag-filings,0,2026-06-30,RAG
+thejonali/agentic-dev-workflows,0,2026-06-30,AI Agent
+54ted222/agentic-design-patterns,0,2026-06-30,AI Agent
+firmmm/agentic-with-smolagent,0,2026-06-30,AI Agent
+sojibrd/nestjs-agentic-wrapper,0,2026-06-30,AI Agent
+seanandreee/agentic-injury-alert,0,2026-06-30,AI Agent
+TechCeo/medibot-agentic-rag,0,2026-06-30,RAG
+saikiranpulagalla/agentic-engineering-platform,0,2026-06-30,AI Agent
+pranyth/proactive-finops-agentic,0,2026-06-30,AI Agent
+yamamotow101/simulink-agentic-toolkit,0,2026-06-30,AI Agent
+tyche-dev/accountable-agentic-action,0,2026-06-30,AI Agent
+marwaneqada/bigdata-agentic-rag,0,2026-06-30,RAG
+aiywatch/agentic-treerag-legaltech,0,2026-06-30,AI Agent
+shikhabharti9986/Agentic_AI_Assignment,0,2026-06-30,AI Agent
+mayurpatil-in/agentic_ai_chatbot,0,2026-06-30,AI Agent
+ZeitgeistJones/agentic-mainstream-meter,0,2026-06-30,AI Agent
+chandanCoding/production-agentic-rag,0,2026-06-30,RAG
+kshitijkumrawat20/production-agentic-rag,0,2026-06-30,RAG
+muslewski/agentic-sage-website,0,2026-06-30,AI Agent
+dhanraj-13/AgenticDocs-AI-Enterprise-Multi-Agent-RAG-Platform-for-Intelligent-Document-Analysis,0,2026-06-30,RAG
+abhi-bhavsar/Agentic-React-Agent,1,2026-06-30,AI Agent
+codyjgreen/RAG-Agentic-Project,0,2026-06-30,AI Agent
+luiscf1226/agentic-dev-workflow,0,2026-06-30,AI Agent
+wangzf001/agentic-workflow-template,0,2026-06-30,AI Agent
+shailashreestudy-bit/AppliedAgenticAI,0,2026-06-30,AI Agent
+mwegter95/playlist-agentic-builder,0,2026-06-30,AI Agent
+Jothik1506-ai/AIVA-Agentic-Rag,0,2026-06-30,RAG
+neural-jam/agentic-engineering-pack,0,2026-06-30,AI Agent
+ezKunaal/agentic-document-processing,0,2026-06-30,AI Agent
+MarcosVeniciu/antigravity-agentic-workflows,0,2026-06-30,AI Agent
+vishakha-codes/agentic_rag_system,0,2026-06-30,RAG
+udaybhaskar000/agentic-people-search,0,2026-06-30,AI Agent
+brnavneet60/agentic-development-lifecycle,0,2026-06-30,AI Agent
+jyothiswaroop26/agentic-ai-dashboard,0,2026-06-30,AI Agent
+reiver/eino-agentic-framework,0,2026-06-30,AI Agent
+Vidhya0606/agentic-content-strategist,0,2026-06-30,AI Agent
+ozkara-ms/agentic-sdlc-demo,0,2026-06-30,AI Agent
+yassineetttai/AGENTIC_IA_TPS,0,2026-06-30,AI Agent
+OneLoop-HQ/agentic-platform-docs,0,2026-06-30,AI Agent
+surajyadavcoder/agentic-profile-matching,1,2026-06-30,AI Agent
+Kaushal-Trivedi1709/agentic-copilot-product,0,2026-06-30,AI Agent
+srikarkov/sampleAgenticRAG,0,2026-06-30,RAG
+ChenYX24/Agentic-Data-Platform,0,2026-06-30,AI Agent
+codewalnut-labs/agentic-coding-exercises,0,2026-06-30,AI Agent
+alacny/agentic_directory_manager,0,2026-06-30,AI Agent
+luisarturogutierrez89/awesome-agentic-ai,0,2026-06-30,AI Agent
+Haseeba-f/agenticai-LangGraph,0,2026-06-30,AI Agent
+suryaanandan1995-dotcom/agentic-sre-platform,0,2026-06-30,AI Agent
+Trusteedxyz/agentic-commerce-woocommerce,0,2026-06-30,AI Agent
+KavinKrishnan2007/Orion-Agentic-AI,0,2026-06-30,AI Agent
+mandolfi/agentic-ai-course,0,2026-06-30,AI Agent
+berndruecker/agentic-orchestration.io,0,2026-06-30,AI Agent
+JoeriPeeters/agentic-hitl-poc,0,2026-06-30,AI Agent
+himanshiupadhyay27-hash/agentic-ai-projects,0,2026-06-30,AI Agent
+AviLewis/agentic-capstone-proposal,0,2026-06-30,AI Agent
+reynaldo1512/agentic-rag-platform,0,2026-06-30,RAG
+Abhishek6969-69/finsight_agentic_ai,0,2026-06-30,AI Agent
+Kushal-0532/agentic_job_searcher,0,2026-06-30,AI Agent
+jhalak2chhotu-art/tutorial-agentic-ai,0,2026-06-30,AI Agent
+RipuDA/Healthcare-Agentic-AI,1,2026-06-30,AI Agent
+NQHuy1905/DS-Agentic-system,0,2026-06-30,AI Agent
+Dyrina/Agentic-Procurement-System,0,2026-06-30,AI Agent
+aanyaa1606/Agentic-blog-generation,0,2026-06-30,AI Agent
+Kunaal124/agentic-document-processing,0,2026-06-30,AI Agent
+AGI-Eval-Official/FORTE,12,2026-06-30,AI Agent
+duo121/ui-error-snapshot,7,2026-06-30,AI Agent
+Misaka-Mikoto-Tech/agent-skills,22,2026-06-30,AI Agent
+hafsa963/Evaluation-finale-IA-AGENTIC,0,2026-06-30,AI Agent
+krivitsky/professional-agentic-product-engineering,0,2026-06-30,AI Agent
+samsamtrum/unicity-agentic-escrow-bot,0,2026-06-30,AI Agent
+Jagadeeswar231/enterprise-agentic-aiops-copilot,0,2026-06-30,RAG
+Este5009/Agentic-AI-Research-Assistant,0,2026-06-30,AI Agent
+alihashim786/agentic-ai-codebase-assistant,1,2026-06-30,RAG
+madhulekhasompalli9515-star/Agentic-Rag-for-Dummies,0,2026-06-30,RAG
+kshitijkumrawat20/production-agentic-rag-course,0,2026-06-30,RAG
+oncokb/agentic-cancer-gene-classification,0,2026-06-30,AI Agent
+amritjsr/agentic-incident-resolution-system,0,2026-06-30,AI Agent
+ducnm-3226/agentic-coding-hands-on,0,2026-06-30,AI Agent
+Subhans1501/Conversational-Agentic-RAG-System,0,2026-06-30,RAG
+Akgitgo/Agentic-video-generation-pipeline,0,2026-06-30,AI Agent
+b1-ing/agentic-supply-chain-platform,0,2026-06-30,AI Agent
+vikrampb/agentic-ai-mcp-poc,0,2026-06-30,AI Agent
+Vidhya0606/agentic-content-strategist-blueprint,0,2026-06-30,AI Agent
+AniruddhaAkhare/agentic_rag_gpt5,0,2026-06-30,RAG
+JoacoRivera/Agentic-OS-Web-console,0,2026-06-30,AI Agent
+wanghaowei06-ui/agentic-erp-replay-demo,0,2026-06-30,AI Agent
+sohail-6/agentic-ai-research-assistant,0,2026-06-30,AI Agent
+Astik1804/Agentic-AI-Code-Assistant,1,2026-06-30,AI Agent
+tephlonee/agentic_crane_automation_script,0,2026-06-30,AI Agent
+ashwani-rai0111/Insurance-RAG-Agentic-System,0,2026-06-30,AI Agent
+prakashdeep2902/Agentic-Ai-interview-questions,0,2026-06-30,AI Agent
+Jerinyohannan/agentic-ai-from-scratch,0,2026-06-30,AI Agent
+BobbiliLokeshwari/agentic-travel-reimbursement-system,0,2026-06-30,AI Agent
+handgemacht-ai/agentic-coding-workshop-july,0,2026-06-30,AI Agent
+Anle-He/agentic-ai-study-hub,0,2026-06-30,AI Agent
+Abhii0007/Agentic-UI-Object-Interaction,0,2026-06-30,AI Agent
+niqolebuilds/Agentic_AI_Governance_PRD,0,2026-06-30,AI Agent
+kunalsharma94/agentic-ai-engineer-roadmap,0,2026-06-30,AI Agent
+GavinYoung1994/CoveredCallAgenticAI,0,2026-06-30,AI Agent
+shubsehrawat/Flight-IROPS-Agentic-AI,0,2026-06-30,AI Agent
+ryanlunka/vercel-agentic-swag-store,0,2026-06-30,AI Agent
+irahgem/agentic-rag-pipeline-intelligence,0,2026-06-30,RAG
+aivafreelancia2026-star/My_AIVA-Agentic-Rag,0,2026-06-30,RAG
+ravish049/agentic-coding-harness-map,0,2026-06-30,AI Agent
+Dhanpratapsingh/Agentic_AI_workshop2026,0,2026-06-30,AI Agent
+yang-a1/crs-agentic-digital-twin,0,2026-06-30,AI Agent
+AniruddhaAkhare/agentic_rag_math_agent,0,2026-06-30,RAG
+AniruddhaAkhare/agentic_rag_with_reasoning,0,2026-06-30,RAG
+abdessalamalaoui/WP-Agentic-Resource-Discovery,0,2026-06-30,AI Agent
+ksumaiya2002-Suma/Agentic-AI-LangChain,0,2026-06-30,AI Agent
+yth1120/DeepFlow-Agentic-web,0,2026-06-30,AI Agent
+AniruddhaAkhare/agentic_rag_embedding_gemma,0,2026-06-30,RAG
+tansenkhan1990/Agentic_AI_Javascript_VP,0,2026-06-30,AI Agent
+Nidhaan-Khare/Agentic-AI-ChatBot,0,2026-06-30,AI Agent
+avikundal/graph-guided-agentic-testing,0,2026-06-30,AI Agent
+berry2012/sample-agentic-platform-studios,0,2026-06-30,AI Agent
+pavithraIndukuri/Agentic-AI-LangGraph,0,2026-06-30,AI Agent
+dahchu0506/Agentic-Career-Prediction-Model,0,2026-06-30,AI Agent
+Shijas786/hacash-agentic-liability-bonds,0,2026-06-30,AI Agent
+francoisarthanas/Agentic-AI-Governance-Portfolio,0,2026-06-30,AI Agent
+Akib-nodes/ETL--Agentic-analyst-workflows,0,2026-06-30,AI Agent
+VemulaTharunkumar/Agentic_ai_chatbot-java-,0,2026-06-30,AI Agent
+locdp-2815/agentic-coding-hands-on,0,2026-06-30,AI Agent
+bhuvan1224/agentic-chatbot-using-langgrapg,0,2026-06-30,AI Agent
+jobairh1230/Jobair-s-Agentic-Workflow,0,2026-06-30,AI Agent
+buddingengineer02/Agentic-AI-SQL-Assistant,0,2026-06-30,AI Agent
+sreeav6/Agentic-Software-Engineering-System,0,2026-06-30,AI Agent
+aanyaa1606/Multi-Agentic-Blog-Generation,0,2026-06-30,AI Agent
+alihashim786/NLP-Agentic-Microservice-Platform,0,2026-06-30,AI Agent
+beardofedu/copilot-agentic-updates-deck,0,2026-06-30,AI Agent
+yo5on/Agentic-AI-Pest-Monitoring,0,2026-06-30,AI Agent
+PushkarMalhotra2006/Kaggle-capstone-agentic-ai,0,2026-06-30,AI Agent
+vishal-adithya/Agentic-ChangeLog-Writer,0,2026-06-30,AI Agent
+assiagh/oracle-dba-agentic-rag,0,2026-06-30,RAG
+albertoclemente/agentic-design-patterns-skills,0,2026-06-30,AI Agent
+Pendalf-Grey/Agentic-Data-Stack-2,0,2026-06-30,AI Agent
+yassineetttai/AGENTIC_IA_EVALUATION_FINALE,0,2026-06-30,AI Agent
+naeemarsalan/aegis-zero-trust-agentic,0,2026-06-30,AI Agent
+ozkara-ms/agentic-sdlc-demo-live,0,2026-06-30,AI Agent
+Ravevx/Agentic-Auditing-Cleaning-Databases,0,2026-06-30,AI Agent
+Narutomithun/Medical-Assistant-Agentic-System,1,2026-06-30,AI Agent
+jyothiswaroop26/agentic-ai-research-engine,0,2026-06-30,AI Agent
+M0iem/agentic-rag-tourism-morocco,0,2026-06-30,RAG
+atingupta2006/agentic-ai-june-26,0,2026-06-30,AI Agent
+attaullahshafiq10/AgroAgenticGAN-UAVIDS,1,2026-06-30,AI Agent
+Aniruddhadwivedi07/Agentic-Arbitrage-Command-Center,0,2026-06-30,AI Agent
+JSLeboeuf/autoscale-agentic-ops-eval,0,2026-06-30,AI Agent
+sasireddyvari/tips_tricks_agentic_ai,0,2026-06-30,AI Agent
+joicyroslin-svg/Agentic-AI-Workflow-Automation-Platform,0,2026-06-30,AI Agent
+thisishanzalakhan/agentic-coding-crash-course-sandox,0,2026-06-30,AI Agent
+saurabhmethani/Agentic-AI-Blog-Writing-Agent,0,2026-06-30,AI Agent
+mwrichmond/mdb-gcp-agentic-ai-workshop,0,2026-06-30,AI Agent
+deeplenstech/agentic-ai-july-2026-cohort,0,2026-06-30,AI Agent
+AgalyaThanigasalam/agentic-ai-task-schedule-planner,0,2026-06-30,AI Agent
+Akshara0808/Agentic-Opportunity-Intelligence-Platform-AOIP-,0,2026-06-30,AI Agent
+Soof2/TER_M1_Agentic_AI,0,2026-06-30,AI Agent
+affanaslam01/agentic-AI-n8n-,0,2026-06-30,AI Agent
+Rasul-projects/UiPath-Maestro-Agentic-Bridge,0,2026-06-30,AI Agent
+Mounikabharatha/Langgraph-based-agentic-ai-system,0,2026-06-30,AI Agent
+noumanhafeez/Agentic-Travel-Assistant-LangGraph,0,2026-06-30,AI Agent
+Skpandey15/GitHub_Agentic_AI_Hybrid,0,2026-06-30,AI Agent
+arunprabu/agentic_ai_course_jun2026,0,2026-06-30,AI Agent
+lakshmiprasanna38/codetix_agentic_ai_security_program,0,2026-06-30,AI Agent
+ashok-bollepalli/GEN-AI-Agentic-AI-Training,0,2026-06-30,AI Agent
+Skpandey15/GitHub_Agentic_AI_python,0,2026-06-30,AI Agent
+aaronp07/Agentic-AI_ChatGPT-Clone,0,2026-06-30,AI Agent
+walidzaaneun/tp-iibdcc-ai-agentic-evaluation,0,2026-06-30,AI Agent
+SmokeRaven667/zenva-agentic-ai-coding-101,0,2026-06-30,AI Agent
+A-Awal/agentic-ai-engineering-ed-donner,0,2026-06-30,AI Agent
+Shyjojose/-NVIDIA-Certified-Professional-Agentic-AI,0,2026-06-30,AI Agent
+akxsh-cy/Kerala-Police-Agentic-Rag-Assistant,0,2026-06-30,RAG
+dfurno/agentic-lightweight-consensus-datacenter-cps,0,2026-06-30,AI Agent
+AllenMuenLee/Agentic-Stock-Trader----TW-Stock,0,2026-06-30,AI Agent
+abdoucoure-design/Agentic-RAG-LangGraph-Master,0,2026-06-30,RAG
+Rameenshayk/agentic-ai-knowledge-driven-hull-design,0,2026-06-30,AI Agent
+SakshamMangla1204/trip-planner-agentic-ai-l1,0,2026-06-30,AI Agent
+VizuaraAI/nimbus-voice-agent-starter,1,2026-06-30,AI Agent
+moelhajiry-sys/AI-AGENTIC-RETAL-MII-BDCC-ENSET,0,2026-06-30,AI Agent
+zayedAahmad/FinAegis-Agentic-RAG-Banking-AI,0,2026-06-30,RAG
+MDada21/AI_Agentic_TP3to9,0,2026-06-30,AI Agent
+ignacioviola1984-spec/Agentic-Cash-Rec-for-Notarial-Business,0,2026-06-30,AI Agent
+kwis7/Plug-And-Chug-Agentic-Building-Guide,0,2026-06-30,AI Agent
+kolkarnisha/AI-AGENTIC-TOOL-CREATION_BULLIONIQ-BAZARSCAN,0,2026-06-30,AI Agent
+majaadar-pixel/AI-Agentic-Master-BDCC-JAADAR-Manal,0,2026-06-30,AI Agent
+megidocs/AGENTIC_TRAINING_MD_29_6_26,0,2026-06-30,AI Agent
+nn-dotcom/ai-infra-agentic-systems-architect-learning,0,2026-06-30,AI Agent
+aswinsunil477-glitch/FinGuard-AI-Agentic-Fraud-Detection,0,2026-06-30,AI Agent
+HackIndiaXYZ/summer-of-codesfest-20-team-agentic,0,2026-06-30,AI Agent
+Deveshk78/medicalEntrance-agentic-platform-NEET-exam,0,2026-06-30,AI Agent
+adamczee/revops-agentic-ai-skills-comp-plans,0,2026-06-30,AI Agent
+aswathh/Agentic_AI_Pipeline_to_Automate_EDA,0,2026-06-30,AI Agent
+kshitijkumrawat20/production-agentic-rag-course-week1.0,0,2026-06-30,RAG
+pnkjjagtap1/Agentic-AI-System---Multi-Agent-SDLC-Orchestrator,0,2026-06-30,AI Agent
+zanazack/Intel-FuturePOS-AI-Agentic-Checkout-Assistant,0,2026-06-30,AI Agent
+mburakunuvar/skills-agentic-workflows-that-read-the-room,0,2026-06-30,AI Agent
+tamanna2311/ContextForge-AI-Enterprise-RAG-Agentic-Workflow-Platform,0,2026-06-30,AI Agent
+MDada21/RAG_workflow_LangGraph_IT_TestAgenticQA,0,2026-06-30,AI Agent
+muhammadyahiya/Interview-Chat,0,2026-06-30,AI Agent
+Fishimal/Ultimate-Data-Science-Gen-AI-Agentic-AI-Bootcamp,0,2026-06-30,AI Agent
+berry2012/dns-terraform,0,2026-06-30,AI Agent
+codegraphtheory/tetramegistus,2,2026-06-30,AI Agent
+wydying/final-year-project,0,2026-06-30,AI Agent
+jsleemaster/gooblin,3,2026-06-30,AI Agent
+GoodyBoy301/hermis,0,2026-06-30,AI Agent
+AION-by-ASA-Computer/AION_Agent,2,2026-06-30,AI Agent
+viswatejaarumilli0-sys/Maintaining-Human-Oversight-Within-Agentic-Artificial-Intelligence-Driven-Workflows,0,2026-06-30,AI Agent
+Nishchz/Aurask,0,2026-06-30,AI Agent
+gfddfhdg/SGG-2026-Java-Python-2026-Agentic-AI--97java,0,2026-06-30,AI Agent
+Zia-CRM-hub/AI-Experiments-cd14705-azure-agentic-c2-classroom,0,2026-06-30,AI Agent
+sakumarc49-ai/Indus-Agent-Network,0,2026-06-30,AI Agent
+monoptic-io/starbase,0,2026-06-30,AI Agent
+mr-j90/llm-zoomcamp-project-capstone,0,2026-06-30,AI Agent
+M417426/hackathon_hcl,0,2026-06-30,AI Agent
+gagan0116/AgentPPT,0,2026-06-30,AI Agent
+dhruvsshah2005/ArthSaathi,0,2026-06-30,AI Agent
+kathyayani44/FounderOS-AI,0,2026-06-30,AI Agent
+fishstoryyy/agent-tools,0,2026-06-30,AI Agent
+lkmotto/downtime-agents,0,2026-06-30,AI Agent
+Zia-CRM-hub/AI-Experiments-cd14685-fin-serv-agentic-c1-classroom,0,2026-06-30,AI Agent
+nbpadilha/nbp-forge,6,2026-06-30,AI Agent
+Zia-CRM-hub/AI-Experiments-cd14687-fin-serv-agentic-c3-classroom,0,2026-06-30,AI Agent
+minhhoit/OpenMontage,0,2026-06-30,AI Agent
+Santinell/code-flow,0,2026-06-30,AI Agent
+ahamednaveed257-design/Healthcare-AI,0,2026-06-30,AI Agent
+outshift-open/mas-lab,3,2026-06-30,AI Agent
+szeyoong-low/canary,0,2026-06-30,AI Agent
+realTaki/MAGI,0,2026-06-30,AI Agent
+liangdabiao/weekend-city-trip,29,2026-06-30,AI Agent
+SoHopGal/AutonomousAgents,0,2026-06-30,AI Agent
+iskal99/autonomous-agent,0,2026-06-30,AI Agent
+minhthangtrader/unicity-autonomous-agent,0,2026-06-30,AI Agent
+abhinayaaa23/ppo-autonomous-agents,0,2026-06-30,AI Agent
+AniruddhaAkhare/windows_use_autonomous_agent,0,2026-06-30,AI Agent
+filonenkoalex/langgraph-pe-agent,0,2026-06-30,AI Agent
+banxia-O/hearthling,0,2026-06-30,AI Agent
+joeynyc/trusted-agent-procurement,0,2026-06-30,AI Agent
+phucuong1972/autonomous-reward-agent,0,2026-06-30,AI Agent
+Jacktuh/market-monitor-agent,0,2026-06-30,AI Agent
+amerilain/project-lifecycle,0,2026-06-30,AI Agent
+d-philipi/lumi,0,2026-06-30,AI Agent
+jin20203458/AiAgent.Diagnostics,0,2026-06-30,AI Agent
+linus10x/agent-funds-gate,0,2026-06-30,AI Agent
+aleksbgs/Panda3D,0,2026-06-30,AI Agent
+Esc1200/unicity-agent2agent,0,2026-06-30,AI Agent
+elwoodberry3/Support-Agent,0,2026-06-30,AI Agent
+Jedway/cadence,0,2026-06-30,AI Agent
+johnanleitner1-Coder/agent-trap-db,0,2026-06-30,AI Agent
+linus10x/agent-evidence-ledger,0,2026-06-30,AI Agent
+kib666/linear-agent,0,2026-06-30,AI Agent
+capemeta/genesis-agent,0,2026-06-30,AI Agent
+DivishaTapadiya/RL_racing_agent,0,2026-06-30,AI Agent
+kinza500/openclaw,0,2026-06-30,AI Agent
+h-mascot/openclawadmin,0,2026-06-30,AI Agent
+luzperformance/openclawjun,0,2026-06-30,AI Agent
+mleave888/u-openclaw,0,2026-06-30,AI Agent
+4GeeksAcademy/openclaw-jesuscnnbs,0,2026-06-30,AI Agent
+ktigerlin/openclaw-space,0,2026-06-30,AI Agent
+Yue-ai-ops/openclaw-explained,0,2026-06-30,AI Agent
+perlowja/tokenomics-openclaw,0,2026-06-30,AI Agent
+colin1miley-stack/openclaw-skills,1,2026-06-30,AI Agent
+Nghiathan13/openclaw-workspace,0,2026-06-30,AI Agent
+KYbk1234/OpenClaw-,0,2026-06-30,AI Agent
+xmgzxmgz/openclaw-console,0,2026-06-30,AI Agent
+boris-papevis/openclaw-sandbox,0,2026-06-30,AI Agent
+MuzammilGhouri/openclaw-agent,0,2026-06-30,AI Agent
+Tiger-sudo894/openclaw-skills,0,2026-06-30,AI Agent
+shandougenfuw/openclaw-chat,0,2026-06-30,AI Agent
+mateusknc-debug/openclaw-memory,0,2026-06-30,AI Agent
+Gnidreve/_dormed-openclaw,0,2026-06-30,AI Agent
+BCBR-IAagentic/openclaw-lab,0,2026-06-30,AI Agent
+ALiRazax1/Openclaw-clone,0,2026-06-30,AI Agent
+4GeeksAcademy/sebastianfell-openclaw,0,2026-06-30,AI Agent
+Lightningxxl/claworld-openclaw-plugin,0,2026-06-30,AI Agent
+4GeeksAcademy/nicocc21-openclaw,0,2026-06-30,AI Agent
+nicknmorty/openclaw-alexa-bridge,0,2026-06-30,AI Agent
+openguardrails/openguardrails-instrumentation-openclaw,0,2026-06-30,AI Agent
+4GeeksAcademy/dsmora-openclaw-test,0,2026-06-30,AI Agent
+4GeeksAcademy/openclaw-miggy1312,0,2026-06-30,AI Agent
+iFeel-is-a-mouse/openclaw-teamloop-flow,0,2026-06-30,AI Agent
+RubaiyaKamal/openclaw-claudecode-agent,0,2026-06-30,AI Agent
+stocki-ai/miti-openclaw-plugin,0,2026-06-30,AI Agent
+pushpendrachauhan/openclaw-shorts-pipeline,0,2026-06-30,AI Agent
+akhi-lbj/openclaw-readiness-copilot,0,2026-06-30,AI Agent
+hypermezo4-create/openclaw-mission-control,0,2026-06-30,AI Agent
+Hiep-CoDer06/OpenClaw_Page,0,2026-06-30,AI Agent
+andranik7/OpenClaw_Hardenning,0,2026-06-30,AI Agent
+TimoTimoWang/openclaw-session-diagnose,0,2026-06-30,AI Agent
+aspalagin/openclaw-segmind-video,0,2026-06-30,AI Agent
+hadlang/openclaw-xiaozhi-clawworks,0,2026-06-30,AI Agent
+sourya-07/eko-claw-openclaw,0,2026-06-30,AI Agent
+lazytalk/openclaw-usage-hub,0,2026-06-30,AI Agent
+list91/openclaw-master-supervision,0,2026-06-30,AI Agent
+RomneyDa/openclaw-hermes-plugin,0,2026-06-30,AI Agent
+salmaanakhtar/openclaw-workflow-scout,0,2026-06-30,AI Agent
+jodok/openclaw-op-resolver,0,2026-06-30,AI Agent
+shiyghannavti/rad-openclaw-skills,0,2026-06-30,AI Agent
+ruturajs-turing/openclaw-synthetic-gen,0,2026-06-30,AI Agent
+developerdeadlock/testeopenclaw,0,2026-06-30,AI Agent
+vol1003/openclaw-agent-sandbox-backend,0,2026-06-30,AI Agent
+Claspplemanacle/openclaw-ai-kd47,0,2026-06-30,AI Agent
+Claspplemanacle/openclaw-ai-yv54,0,2026-06-30,AI Agent
+Claspplemanacle/openclaw-ai-xg90,0,2026-06-30,AI Agent
+4GeeksAcademy/Santiago_Peinador_OpenClaw,0,2026-06-30,AI Agent
+aspalagin/openclaw-threaded-mode-hotfix,0,2026-06-30,AI Agent
+JamshaidAhmedd/openclaw-ad-creative-agent,0,2026-06-30,AI Agent
+4GeeksAcademy/openclaw-onboarding-sergiomb04,0,2026-06-30,AI Agent
+Claspplemanacle/openclaw-ai-ik86,0,2026-06-30,AI Agent
+pocharlies-org/openclaw-vault-tools-pocharlies,0,2026-06-30,AI Agent
+Claspplemanacle/openclaw-ai-bv82,0,2026-06-30,AI Agent
+Claspplemanacle/openclaw-ai-hn04,0,2026-06-30,AI Agent
+dsgdhtttt/-OpenClaw--97java,0,2026-06-30,AI Agent
+4GeeksAcademy/danifer24-openclaw-files,0,2026-06-30,AI Agent
+reggi49/skill-openclaw-seft-writer,0,2026-06-30,AI Agent
+asmolebot/openclaw-even-g2,0,2026-06-30,AI Agent
+4GeeksAcademy/openclaw-agent-OcielGallardo,1,2026-06-30,AI Agent
+4GeeksAcademy/openclaw-SantiagoPeinadorAguirre,1,2026-06-30,AI Agent
+hhgggghdd/-2026-3-AI---OpenClaw-,0,2026-06-30,AI Agent
+4GeeksAcademy/campivargas07-OpenClaw-Agente,0,2026-06-30,AI Agent
+jolanisogilvi-spec/ThingoClaw,0,2026-06-30,AI Agent
+xiaoka520/video-finder,0,2026-06-30,AI Agent
+tonisandreudev/openclaw-m365-calendar-hardening,1,2026-06-30,AI Agent
+gordonli750225/my-project,0,2026-06-30,AI Agent
+Chelebii/openclaw-vertex-ai-gemini-free-credit,0,2026-06-30,AI Agent
+jason-sia/JojITOpenClawSetup,0,2026-06-30,AI Agent
+tdye24/GEO_Claw,0,2026-06-30,AI Agent
+Amens-Tech/amens-os,0,2026-06-30,AI Agent
+Cowlsly/marla_openclaw-ai-_-x.ai_devotion-hub,0,2026-06-30,AI Agent
+sfsfgsdggg/-2026-3-AI---OpenClaw--97java,0,2026-06-30,AI Agent
+theazec34/4geeks-student-skill,0,2026-06-30,AI Agent
+vincentlau2046-sudo/AIComicFactory,0,2026-06-30,AI Agent
+droweder/whatsapp-gemini-gateway,0,2026-06-30,AI Agent
+sbezpalov/dev-workstation-maintenance,0,2026-06-30,AI Agent
+pavanisri-hub/Personalized-AI-Learning-Assistant-on-Telegram-with-OpenClaw,0,2026-06-30,AI Agent
+NachaFromMars/facebook-automato-humanmode,0,2026-06-30,AI Agent
+SweetSophia/ikati,0,2026-06-30,AI Agent
+Ifeoluwaexam2025/Openclaw-Stock-signal-Dashboard-with-telegram-messages-world-news-and-more-,0,2026-06-30,AI Agent
+Atharva-Kanherkar/labclaw,0,2026-06-30,AI Agent
+ngktaudeh/smbclaw,0,2026-06-30,AI Agent
+podcctv/Tender-skills,0,2026-06-30,AI Agent
+McMafew2/ai-to-ai-commerce-lab,0,2026-06-30,AI Agent
+blck7177/sales-pricing-agent,0,2026-06-30,AI Agent
+Ash-Blanc/clawmeez.store,0,2026-06-30,AI Agent
+BCBR-IAagentic/mind-ia,0,2026-06-30,AI Agent
+nvnmvm/crypto-strategy-analyst,0,2026-06-30,AI Agent
+cui-Alan/qizhi-app,0,2026-06-30,AI Agent
+BCBR-IAagentic/BCBR-IAagentic,0,2026-06-30,AI Agent
+NachaFromMars/suno-automato-cli,0,2026-06-30,AI Agent
+aspalagin/mcp-memory,0,2026-06-30,AI Agent
+gjohhucha/triattention,0,2026-06-30,AI Agent
+angelarose210/wordpress-toolkit,0,2026-06-30,AI Agent
+roychiang/claw_skills,0,2026-06-30,AI Agent
+zakariyanda/triattention,0,2026-06-30,AI Agent
+w0odst0ck/BriefNexus,0,2026-06-30,AI Agent
+Adam-s-Builder-Club/ai-resource-sheet,0,2026-06-30,AI Agent
+JamshaidAhmedd/market-intelligence-agent,0,2026-06-30,AI Agent
+mixuecoding/env-recorder,0,2026-06-30,AI Agent
+xilasolo-prog/xilasora-one-person-company,0,2026-06-30,AI Agent
+SPL4D/OpenSCAD-Agent-Skill,0,2026-06-30,AI Agent
+KAGENOsora/AI-Workbench,0,2026-06-30,AI Agent
+ud4090v/c3,0,2026-06-30,AI Agent
+Mediacom99/kura-blueprint,0,2026-06-30,AI Agent
+YoussiefKhalifa2003/oasis-tower-rwa-pipeline,0,2026-06-30,AI Agent
+atagents/hermes-mission-rig,0,2026-06-30,AI Agent
+roninhaf/horizon-casting-portfolio,0,2026-06-30,AI Agent
+Vivixiao980/exec-headshot-skill,0,2026-06-30,AI Agent
+Carojing/X-KOL-impressions,1,2026-06-30,AI Agent
+Lyduke56/Lumina-Lifewood,0,2026-06-30,AI Agent
+trigger6980/Eternal-Unity-Tech-Empire-From-Tent-to-Throne,0,2026-06-30,AI Agent
+bbpfish/smart-memory,0,2026-06-30,AI Agent
+frankchiu-dev/claude-codex-usage-dashboard,129,2026-06-30,AI Agent
+Jia-Ethan/claude-keysmith,38,2026-06-30,AI Agent
+levenikeev/claude-codex-token-rotator,3,2026-06-30,AI Agent
+Tangerine-coder/claude-code,2,2026-06-30,AI Agent
+0xMassi/pocketdev,46,2026-06-30,AI Agent
+Antho-AG/ClaudeCode,0,2026-06-30,AI Agent
+chanhcs/ClaudeCode,0,2026-06-30,AI Agent
+smafnan/ClaudeCodeStudent,0,2026-06-30,AI Agent
+tantongkun/ClaudeCode_test,0,2026-06-30,AI Agent
+Joswiggen/ClaudeCodeAgent,1,2026-06-30,AI Agent
+hhp227study/DX-ClaudeCode-Master,0,2026-06-30,AI Agent
+BinhDTVN/Galahad-ClaudeCode-StarterKit,0,2026-06-30,AI Agent
+ymatan-lgtm/Claude_Code,0,2026-06-30,AI Agent
+imrankhanpti98219821-hub/claude-code,0,2026-06-30,AI Agent
+Projetos-plena/Claude-code,0,2026-06-30,AI Agent
+vitorbraga88/claude_code,0,2026-06-30,AI Agent
+mbswccvc/Claude-Code,0,2026-06-30,AI Agent
+t-hirata00/claude-code,0,2026-06-30,AI Agent
+ghd-unlimited-webmaster/claude-code,0,2026-06-30,AI Agent
+buichunganh-glitch/Claude-Code,0,2026-06-30,AI Agent
+emperortoken/Claude-code,0,2026-06-30,AI Agent
+SergioBajoArias/testing-claude-code,0,2026-06-30,AI Agent
+almondheng/claude-code-routines,0,2026-06-30,AI Agent
+barnabe3/-Free-Claude-Code,0,2026-06-30,AI Agent
+WallXiaoming/claude-code-deconstruction,0,2026-06-30,AI Agent
+Estacionales/Claude_Code_Test,0,2026-06-30,AI Agent
+UserLIJUN0727/claude-code-tools,0,2026-06-30,AI Agent
+manhds82/claude-code-anyllm,0,2026-06-30,AI Agent
+rachidb13/claude-codex-delegation,0,2026-06-30,AI Agent
+DJTalkman/Anthropic-Claude-code,0,2026-06-30,AI Agent
+Jayfxcode/claude-code-setup,0,2026-06-30,AI Agent
+theflippinlabs/Claude-code-environnements-,0,2026-06-30,AI Agent
+Njengah/claude-code-brief,0,2026-06-30,AI Agent
+emt0re0/MyClaudeCode,1,2026-06-30,AI Agent
+LisaStuart5678/claude_code_workshop,0,2026-06-30,AI Agent
+Zavelinski/claude-code-sync,0,2026-06-30,AI Agent
+wujiaxiang/claude-code-proxy,0,2026-06-30,AI Agent
+Panda-Taro/Claude_code_vscode,0,2026-06-30,AI Agent
+delaemon/claude-code-sandbox,0,2026-06-30,AI Agent
+Atom-oh/claude-code-workshop,0,2026-06-30,AI Agent
+rex-dreamo/claude-code-toolkit,0,2026-06-30,AI Agent
+eunjii-kim/claude-code-mastery,0,2026-06-30,AI Agent
+FourthOf5/claude_code_playground,0,2026-06-30,AI Agent
+LuizFelipe16/claude-code-deck,1,2026-06-30,AI Agent
+ParkChanWoong97/claude-code-mastery,0,2026-06-30,AI Agent
+tooj-rm/claude-code-agents,0,2026-06-30,AI Agent
+salvador-dotcom/Claude-code-mobile,0,2026-06-30,AI Agent
+1tzk/learn-claude-code,0,2026-06-30,AI Agent
+toheart/claude-code-companion,0,2026-06-30,AI Agent
+captjasonhite/claude-code-statusline,0,2026-06-30,AI Agent
+LWS-CSDN/claude-code-skills,0,2026-06-30,AI Agent
+cadence-workflow/claude-code-plugin,0,2026-06-30,AI Agent
+keklikci/claude-code-playground,0,2026-06-30,AI Agent
+WINDQI2380570091/Claude-Code-Launcher,0,2026-06-30,AI Agent
+SirCharan/claude-code-harness,0,2026-06-30,AI Agent
+Subara3/professional-claude-code,0,2026-06-30,AI Agent
+YihongS/claude-code-led,0,2026-06-30,AI Agent
+AGairola2/Claude-code-test,0,2026-06-30,AI Agent
+thisisjhlee/claude-code-tutorial,0,2026-06-30,AI Agent
+kiron-j/claude-code-mastery,0,2026-06-30,AI Agent
+neerajk/claude-code-mem,1,2026-06-30,AI Agent
+SkYNewZ/claude-code-bootstrap,0,2026-06-30,AI Agent
+ciancanbe/claude-code-demo,0,2026-06-30,AI Agent
+snape-create/learn_claude_code,0,2026-06-30,AI Agent
+firelance/claude-code-setup,0,2026-06-30,AI Agent
+Yang251552/claude-codex-handover,0,2026-06-30,AI Agent
+leejstein/claude-code-master,0,2026-06-30,AI Agent
+Dhanush-Aries/claude-code-skills,0,2026-06-30,AI Agent
+leow9732-afk/claude-code-project-,0,2026-06-30,AI Agent
+zaharenok/claude-code-karuselka,0,2026-06-30,AI Agent
+nowcika/claude-code-sokoban,0,2026-06-30,AI Agent
+NZipser/claude-code-20260519,0,2026-06-30,AI Agent
+Ray-Ar24/cao-claude-codex,0,2026-06-30,AI Agent
+llevintza/claude-codebase-agent,0,2026-06-30,AI Agent
+K021/claude-code-skills,0,2026-06-30,AI Agent
+ARIKBAR/claude-code-wrapped,0,2026-06-30,AI Agent
+eti-codehouse/claude-code-prompt,0,2026-06-30,AI Agent
+jhammant/AIonDemandCluster,7,2026-06-30,AI Agent
+neeyatmathur/claude-signal,3,2026-06-30,AI Agent
+Nnyyyyy/claude-code-notify-win,1,2026-06-30,AI Agent
+Odyssey-Autism/claude-code-hipaa-starter,0,2026-06-30,AI Agent
+rocksuke6-6/claude-code-web-demo,0,2026-06-30,AI Agent
+gongjiyun1177-dot/claude-code-security-scan,0,2026-06-30,AI Agent
+EricDarkly/claude-code-ld-proxy,0,2026-06-30,AI Agent
+vlognow/claude-code-login-guide,0,2026-06-30,AI Agent
+JinzheNext/claude_code_auto_installer,0,2026-06-30,AI Agent
+dmitriyoproii-pixel/claude-code-secrets-guard,0,2026-06-30,AI Agent
+nphuongha003/habit-tracker-claude-code,0,2026-06-30,AI Agent
+albertbac/conselho-llm-claude-code,0,2026-06-30,AI Agent
+kblubis/intro-claude-code-revou,0,2026-06-30,AI Agent
+kunalx197/codecrafters-claude-code-python,0,2026-06-30,AI Agent
+SuperK060319/claude-code-wechat-guide,0,2026-06-30,AI Agent
+xub2/claude-code-convention-md,0,2026-06-30,AI Agent
+kaihendry/claude-code-settings-tests,0,2026-06-30,AI Agent
+Regulus-24/claude-code-blog-factory,0,2026-06-30,AI Agent
+shrag13/claude-code-x-robinhood,0,2026-06-30,AI Agent
+Kodoque1/tp-claude-code-java,0,2026-06-30,AI Agent
+david-stranders/demo-claude-code-1,0,2026-06-30,AI Agent
+mouliaavula/vscode-for-claude-code,0,2026-06-30,AI Agent
+renevibecode/claude-code-linux-mockup,0,2026-06-30,AI Agent
+GPayne12/claude-code-dual-mac,0,2026-06-30,AI Agent
+jimliddle/claude-code-openrouter-zai,0,2026-06-30,AI Agent
+andrewkgunawan-sudo/intro-claude-code-revou,0,2026-06-30,AI Agent
+zeeshanaamiri2808/claude_code_for_developers,0,2026-06-30,AI Agent
+Jose-Ribeir/claude-code-review-gate,0,2026-06-30,AI Agent
+gitzamo/codecrafters-claude-code-javascript,0,2026-06-30,AI Agent
+fabianochagas/claude-code-cicd-schooling,0,2026-06-30,AI Agent
+InfiniteLife/claude-code-surrogate-guard,0,2026-06-30,AI Agent
+yugomakabe/claude_code_kadai_1,0,2026-06-30,AI Agent
+vtngannhi-coder/claude-code-my-dashboard,0,2026-06-30,AI Agent
+lazy-people-com/claude-code-push-relay,0,2026-06-30,AI Agent
+Luiz3636/claude-code-free-portuguese,0,2026-06-30,AI Agent
+KTCloud-CN-Team01/claude-code-context-store,0,2026-06-30,AI Agent
+thh0003/pge-claude-code-proxy,0,2026-06-30,AI Agent
+tkiddstc/claude-code-summit-bookbuddy,0,2026-06-30,AI Agent
+arcanemachine/claude-code-notify-marker,0,2026-06-30,AI Agent
+I1eanch/claude-codex-loop-pack,0,2026-06-30,AI Agent
+Iwouldliketobeapig/claude-code-prompt-logger,1,2026-06-30,AI Agent
+weepsdanky/claude-code-architecture-animation,0,2026-06-30,AI Agent
+1998x-stack/claude-code-agent-tutorial,0,2026-06-30,AI Agent
+dasgltd/claude-code-hermes-proxy,1,2026-06-30,AI Agent
+Avanderheyde/remote-claude-code-tmux,0,2026-06-30,AI Agent
+mohit1661-ai/Claude,0,2026-06-30,AI Agent
+feliDFGuate/claude,0,2026-06-30,AI Agent
+AllwinJoseph-A/Multi-Account-Claude-Code-Proxy,0,2026-06-30,AI Agent
+saad-bhutto/claude-code-pii-harness-plugin,0,2026-06-30,AI Agent
+YanzuoLu/oh-my-claude-code-slim,0,2026-06-30,AI Agent
+bartman081523/claude-code-launcher-minimax-glm,0,2026-06-30,AI Agent
+Mahdi-Hazrati/claude-code-commit-vsc-ext,0,2026-06-30,AI Agent
+brmdias/claude-code-rundeck-job-generator,0,2026-06-30,AI Agent
+atomyah/udemy_claude-code_Ract_Go,0,2026-06-30,AI Agent
+saleh-hera/Sales-Automation-Agent-By-Claude-Code,0,2026-06-30,AI Agent
+saleh-hera/Seo-Optimization-Automation-by-Claude-Code,0,2026-06-30,AI Agent
+mussahamis065-dot/hmp01,0,2026-06-30,AI Agent
+pauljheise/everything_claude_code_now_in_gemini,0,2026-06-30,AI Agent
+shuffman95/Dicebound,0,2026-06-30,AI Agent
+fbellame/claude-skills,0,2026-06-30,AI Agent
+rprajapati101/eyesurg-ready,0,2026-06-30,AI Agent
+dfdntg5kpf-lgtm/npm-install--g-anthropic-ai-claude-code,0,2026-06-30,AI Agent
+huseyinium/claude-code-ile-yeni-nesil-yazilim-muhendisligi,0,2026-06-30,AI Agent
+costrict-plugins-repo/anthropic-unreal-engine-skills-for-claude-code,0,2026-06-30,AI Agent
+matiri132/claudio,0,2026-06-30,AI Agent
+CodeMalc/Chess-Game-Prototype,0,2026-06-30,AI Agent
+Annadinek/claude-plugins,0,2026-06-30,AI Agent
+xredman-dot-com/ccl-lens,0,2026-06-30,AI Agent
+Chinnarao21/claudecode,0,2026-06-30,AI Agent
+king2423/CC-test,0,2026-06-30,AI Agent
+MaxVitsel/claude-skill-supplier-price-processing,0,2026-06-30,AI Agent
+pluralsight-cloud/lab-applying-governance-and-security-in-claude-code,0,2026-06-30,AI Agent
+sudipta57/forge---an-agent-that-works-better-than-claude-code,0,2026-06-30,AI Agent
+zlzfun/OpenArtifacts,0,2026-06-30,AI Agent
+iambpn/ccmcp,0,2026-06-30,AI Agent
+miguelespinoza/skills,0,2026-06-30,AI Agent
+davidjayjackson/calc_book_beading_log,1,2026-06-30,AI Agent
+wisdfire/nextjs-claude-starter,0,2026-06-30,AI Agent
+jeffwlawson/agent-skills,0,2026-06-30,AI Agent
+AFayad12/Claude-practice,0,2026-06-30,AI Agent
+sy13192/Claude_Koi_MCP_Test,0,2026-06-30,AI Agent
+LexGoArt/claude-plugins,0,2026-06-30,AI Agent
+lucnap/routineautomatica,0,2026-06-30,AI Agent
+jjuanrivvera/tgctl-claude-channel,0,2026-06-30,AI Agent
+Adicorleone/dotfiles,0,2026-06-30,AI Agent
+nori-kamiya/go-clc,0,2026-06-30,AI Agent
+claude-code-tools/.github,0,2026-06-30,AI Agent
+davidjayjackson/calc_vacation_travel_planner,1,2026-06-30,AI Agent
+guhcostan/claude-mega-brain,3,2026-06-30,AI Agent
+cbnsndwch/shannon,0,2026-06-30,AI Agent
+davidjayjackson/calc_personal_net_worth_tracker,1,2026-06-30,AI Agent
+rathod-0007/spendly,0,2026-06-30,AI Agent
+strickczq/claude-plugins,0,2026-06-30,AI Agent
+PaulHarrer/kahneman-decision-audit,0,2026-06-30,AI Agent
+prabhavathi0102-cv/Test,0,2026-06-30,AI Agent
+Taghushi/spikelab-skills,0,2026-06-30,AI Agent
+xniac/claude-longhorizon,0,2026-06-30,AI Agent
+soberga/spacetaxi,0,2026-06-30,AI Agent
+Rohithb44/my-first-project,0,2026-06-30,AI Agent
+sy13192/Claude_Koi_MCP_Test1,0,2026-06-30,AI Agent
+adofiny/innosetup-skills,0,2026-06-30,AI Agent
+fnusatvik07/github-claude-setup,0,2026-06-30,AI Agent
+dmitryvasilenko1976-debug/claude-config,0,2026-06-30,AI Agent
+ybd0612/claude-plugins,0,2026-06-30,AI Agent
+davidjayjackson/calc_vehicle_maintenance_log,1,2026-06-30,AI Agent
+mpolatcan/mpolatcan.github.io,0,2026-06-30,AI Agent
+allrouter369-droid/glm-failover,0,2026-06-30,AI Agent
+stewartchen6705-dotcom/opencode_ex,0,2026-06-30,AI Agent
+VGXDigital/vgx-skills,0,2026-06-30,AI Agent
+oliveratomich/ucl-design-system-skill,0,2026-06-30,AI Agent
+Yixian17/Yixian17.github.io,0,2026-06-30,AI Agent
+grandamenium/workflows-engineering,1,2026-06-30,AI Agent
+charul-passey/tally-counter,0,2026-06-30,AI Agent
+davidjayjackson/calc_personal_goal_habit_tracker,1,2026-06-30,AI Agent
+lizcpa/cul,0,2026-06-30,AI Agent
+imranq2/coding-model-router,0,2026-06-30,AI Agent
+ScepraX/Pseudocode-Agent,0,2026-06-30,AI Agent
+mayrin0908/AIWORK,0,2026-06-30,AI Agent
+opium-yu/weekly-report-skill,0,2026-06-30,AI Agent
+Da6ka/linkedin-sourcing-skill,0,2026-06-30,AI Agent
+mehdigreefhorst/MySkills,0,2026-06-30,AI Agent
+BrunoFerrucci/mobile-test-project,0,2026-06-30,AI Agent
+Blakeem/aipromptguide-workflows,0,2026-06-30,AI Agent
+LinzeSu/claude-hermes-connect,0,2026-06-30,AI Agent
+watchowski/harness,1,2026-06-30,AI Agent
+vinh0809it/claude-session-sharing,0,2026-06-30,AI Agent
+davidjayjackson/calc_fitness_workout-_tracker,1,2026-06-30,AI Agent
+moodec/useful-claude-skills,0,2026-06-30,AI Agent
+mehlem/ssd-cli-game,0,2026-06-30,AI Agent
+davidjayjackson/calc_bill_subscription_tracker,1,2026-06-30,AI Agent
+Shabib10/Kata_C,0,2026-06-30,AI Agent
+gz-xininn/create-workflow-skill,2,2026-06-30,AI Agent
+2279184729/loop-system,0,2026-06-30,AI Agent
+leonardoksn/claude-config,0,2026-06-30,AI Agent
+nanda108/seedance-studio,0,2026-06-30,AI Agent
+nCompass-tech/claude-plugin-marketplace,0,2026-06-30,AI Agent
+abhikatkar/spendly,0,2026-06-30,AI Agent
+ilan1986/egorov_seo,0,2026-06-30,AI Agent
+voiceofsavana-ax/semas-scrape-test,0,2026-06-30,AI Agent
+dctwine/spendly,0,2026-06-30,AI Agent
+daniel-sedano-seo/daniel-sedano-seo,0,2026-06-30,AI Agent
+cc-code-examples/agreeable-mammoth-518325,0,2026-06-30,AI Agent
+HayRossSibz22/journaling-skills,0,2026-06-30,AI Agent
+cc-code-examples/happy-fish-956524,0,2026-06-30,AI Agent
+BabyYoda-Cyber/AI-JobSearch-PlayGround,0,2026-06-30,AI Agent
+nonwesjoe/file_browser,0,2026-06-30,AI Agent
+shaunthebuilder/continuity-ledger,0,2026-06-30,AI Agent
+justidev-heroku/claude-gram-v2,0,2026-06-30,AI Agent
+cc-code-examples/beautiful-eagle-481124,0,2026-06-30,Speculative Model
+Alan-Lucena/claude-skills,0,2026-06-30,AI Agent
+mattnju/cccl-lon9-katas,0,2026-06-30,AI Agent
+lohani-mohit/shipcheck,9,2026-06-30,AI Agent
+hoangpm99/claude-skills,0,2026-06-30,AI Agent
+M-R-H965/EasyCC,0,2026-06-30,AI Agent
+jdh4601/english-drill,1,2026-06-30,AI Agent
+bestcow/Lain,0,2026-06-30,AI Agent
+dlgusqo123-cmd/hyundai-report-style-skill,0,2026-06-30,AI Agent
+ZhangSzs/ds-statusline,0,2026-06-30,AI Agent
+RiggdAI/markrig,0,2026-06-30,AI Agent
+Vijay-Singh119/spendy,0,2026-06-30,AI Agent
+akamfoad/skills,0,2026-06-30,AI Agent
+matheus3006/my-claude-skills,0,2026-06-30,AI Agent
+vbiroshak/ai-recall-system,0,2026-06-30,AI Agent
+m0hiith/claudeworkspace,0,2026-06-30,AI Agent
+xiaoxiao-svg/claude-weather-hook,0,2026-06-30,AI Agent
+hytfjwr/claude-worktree,0,2026-06-30,AI Agent
+ThanhDang-Vn/claude-plugins,0,2026-06-30,AI Agent
+hjc/agents,0,2026-06-30,AI Agent
+GonzaloPinell/tooling-bootstrap,0,2026-06-30,AI Agent
+tekkstudio/skills,0,2026-06-30,AI Agent
+dennisonbertram/workflow-lens,0,2026-06-30,AI Agent
+one-eight-seven/187Scripts-Agent,0,2026-06-30,AI Agent
+Tom-Davis34/ui-component-tdd,0,2026-06-30,AI Agent
+davidjayjackson/calc_meal-planner_grocery_list,1,2026-06-30,AI Agent
+jamessoubry/claude-worktree-hooks,0,2026-06-30,AI Agent
+heparidayo/shopping-list-app,0,2026-06-30,AI Agent
+rahmonovmardon198-lgtm/avtomatlashtirish_diagnostika,0,2026-06-30,AI Agent
+taojiaxuan111-spec/claude-skills,0,2026-06-30,AI Agent
+dansmartbear/sql_analysis,0,2026-06-30,AI Agent
+jamessoubry/claude-statusline-config,0,2026-06-30,AI Agent
+chaychun/house-rules,0,2026-06-30,AI Agent
+zcxxxxxxx/engineering-workflow-plugin,0,2026-06-30,AI Agent
+azhar-agentic-ai-engineer/Finly-Testing,0,2026-06-30,AI Agent
+wayou/cc-status,0,2026-06-30,AI Agent
+nikolai-paquin/Flying-Aces,0,2026-06-30,AI Agent
+gurwinderintel/compiler-dev-skills,0,2026-06-30,AI Agent
+witschinger/claude-setup-in-a-box,0,2026-06-30,AI Agent
+phuong-leadsoft/katzkin-claude-harness,0,2026-06-30,AI Agent
+azhar-agentic-ai-engineer/Finly,0,2026-06-30,AI Agent
+gecreatives/cursor-ai-tools-setup,0,2026-06-30,AI Agent
+SoftCollie/skills,0,2026-06-30,AI Agent
+tangmoogmoogtang-dotcom/cc-bioinfo,0,2026-06-30,AI Agent
+razbomi/claude-config,0,2026-06-30,AI Agent
+Testiphi/claude-transcript-to-md,0,2026-06-30,AI Agent
+neupsh/agent-skills,0,2026-06-30,AI Agent
+zakhmicr7/expense-tracker-java,0,2026-06-30,AI Agent
+faww4zz/aiboost-claude-kit,1,2026-06-30,AI Agent
+damdeneg/irm-https-github.com-Alishahryar1-free-claude-code-blob-main-scripts-install.ps1-raw-1-iex,0,2026-06-30,AI Agent
+Melonisjy/claude-ration,1,2026-06-30,AI Agent
+IliaOknesavi/harness-engineering-guide-ru,1,2026-06-30,AI Agent
+mathhyphen/hyphen-skills,0,2026-06-30,AI Agent
+Atomic-47-Labs/work-state,0,2026-06-30,AI Agent
+vibe-motion/auto-motion,1,2026-06-30,AI Agent
+GPayne12/claude-security-layers,0,2026-06-30,AI Agent
+RogerYeeaah/claude-usage-widget,0,2026-06-30,AI Agent
+chacha7954/fictional-dollop,0,2026-06-30,AI Agent
+chiragg-ds/claude-skills,0,2026-06-30,AI Agent
+longyi-xw/longyi-skills,0,2026-06-30,AI Agent
+zoeyc-Ribo/financial-report-agent,0,2026-06-30,AI Agent
+torstees/fhir-puffer,0,2026-06-30,AI Agent
+shakiz/android-compose-migration,0,2026-06-30,AI Agent
+bbauersjt/sjt-audit-marketplace,0,2026-06-30,AI Agent
+sheltoncyril/sheltons-toolkit,0,2026-06-30,AI Agent
+PangCs/claude-scrum,1,2026-06-30,AI Agent
+thorsenk/skills,0,2026-06-30,AI Agent
+ecarter/cc-buddy-packs,0,2026-06-30,AI Agent
+goflowtics/efla-logtool,0,2026-06-30,AI Agent
+servantcdh/saige-secure-coding-kr,0,2026-06-30,AI Agent
+yamalalakshman16-create/quant-desk-governance-arch,0,2026-06-30,AI Agent
+JoseGarcia2001/jogadev-skills,0,2026-06-30,AI Agent
+alvis-HaoH/gkd,5,2026-06-30,AI Agent
+nactttch/SynthEngine,2,2026-06-30,AI Agent
+edwinluther-t/Artificium-Claude-Skills,0,2026-06-30,AI Agent
+egao1/sop-to-procedure,0,2026-06-30,AI Agent
+sunshine772/claude-brain-skill,0,2026-06-30,AI Agent
+wesleycalegari/qa-ia-toolkit,0,2026-06-30,AI Agent
+cishiv/claude-usage-menubar,0,2026-06-30,AI Agent
+outrider10/cursor-setup-portfolio,0,2026-06-30,AI Agent
+holywen/skills,0,2026-06-30,AI Agent
+kings0527/web-reverse-engineering-skill,0,2026-06-30,AI Agent
+refo/ccspan,0,2026-06-30,AI Agent
+wenlongsong/data-analytics-superpowers,0,2026-06-30,AI Agent
+feanor-craft/ai-instructions-setup,0,2026-06-30,AI Agent
+jaspermayone/claudius,0,2026-06-30,AI Agent
+nikobarra/to-do-list,0,2026-06-30,AI Agent
+Tetsu-is/tetsu-skills,0,2026-06-30,AI Agent
+JOKR-Services/cajutility-belt,0,2026-06-30,AI Agent
+goldnead/chiefos-lite,0,2026-06-30,AI Agent
+Caezarr/wonka-audit,0,2026-06-30,AI Agent
+m4x-us/claude-dev-team,0,2026-06-30,AI Agent
+platypod/prompt-meter,0,2026-06-30,AI Agent
+aispaces-net/scrapingbee-skills,0,2026-06-30,AI Agent
+na-na-620/pet-medicine,0,2026-06-30,AI Agent
+benjamin-am/green-button,0,2026-06-30,AI Agent
+amiorin/consult-claude,0,2026-06-30,AI Agent
+Anton-mapa/V.A.U.L.T.,0,2026-06-30,AI Agent
+frvallejosv-cpu/WindowsSetup-Claude-factory,0,2026-06-30,AI Agent
+wpc/ccmon,0,2026-06-30,AI Agent
+kapitanov/ucode,0,2026-06-30,AI Agent
+Goda753/claude-brain,0,2026-06-30,AI Agent
+ltappa-wq/Starting-Point,0,2026-06-30,AI Agent
+maulananurfawwazz-lab/clamax,0,2026-06-30,AI Agent
+ducknguyen1205/ai-teacher,0,2026-06-30,AI Agent
+MarcoLimaSistemas/nomamini-brand-kit,0,2026-06-30,AI Agent
+nelsonhp3/cc-carrosseis-trio,0,2026-06-30,AI Agent
+drasbaek/valantic-ai-week-claude-101-exercise,0,2026-06-30,AI Agent
+YIING99/salesflow-plugin,0,2026-06-30,AI Agent
+xyva-yuangui/roundtable,2,2026-06-30,AI Agent
+bgmacris/quimera-ai,4,2026-06-30,AI Agent
+OvOhao/companion-pet,2,2026-06-30,AI Agent
+nusability/cc-profiles,0,2026-06-30,AI Agent
+seb-luke/claude-skills,0,2026-06-30,AI Agent
+sanjoxtech/pipper,0,2026-06-30,AI Agent
+NeveuGregor/cc-switcher,0,2026-06-30,AI Agent
+Sentinal-Glimpass/bubbles,0,2026-06-30,AI Agent
+danielwarddev/skills,0,2026-06-30,AI Agent
+richer-richard/clean-my-disk,1,2026-06-30,AI Agent
+kalib-code/studybible-mcp-skill,0,2026-06-30,AI Agent
+cth9191/chase-ai-skills,0,2026-06-30,AI Agent
+securitypaper1024/claude-summarizer,0,2026-06-30,AI Agent
+33984755-a11y/pm-clarity,1,2026-06-30,AI Agent
+mjn298/ts7-lsp-plugin,0,2026-06-30,AI Agent
+paliocha/ohpcc-nmbu,0,2026-06-30,AI Agent
+mingovvv/agentmux,0,2026-06-30,AI Agent
+stanley6635/teams-transcript-extractor,0,2026-06-30,AI Agent
+OvenBaker/santa,0,2026-06-30,AI Agent
+chiranz/claude-session-analyzer,0,2026-06-30,AI Agent
+ptannor/claude-tmux,0,2026-06-30,AI Agent
+max-csr/ccusage-bar,0,2026-06-30,AI Agent
+hanzoai/helper,0,2026-06-30,AI Agent
+4ltena/my-claude-md,0,2026-06-30,AI Agent
+kittayawat-aong/Burnrate,0,2026-06-30,AI Agent
+yagi-ch/devstation,1,2026-06-30,AI Agent
+SameehShkeer/agent-skills,0,2026-06-30,AI Agent
+CGIFM/pick-to-edit,0,2026-06-30,AI Agent
+fmogensen/harmony,0,2026-06-30,AI Agent
+nyangko/OpenRoad,0,2026-06-30,AI Agent
+elliot-ylambda/gradient,0,2026-06-30,AI Agent
+AIWithShrey/ai-feature-workflow,0,2026-06-30,AI Agent
+sportzinteractive/oh-faaah,0,2026-06-30,AI Agent
+pjope/mem0-selfhosted-hooks,0,2026-06-30,AI Agent
+pxx-design/cc-reports,0,2026-06-30,AI Agent
+honch-io/skills,0,2026-06-30,AI Agent
+LegoClient/humanizerdansk,0,2026-06-30,AI Agent
+sfriling/argus,0,2026-06-30,AI Agent
+OvenBaker/agent-tooling,0,2026-06-30,AI Agent
+Mekopa/dont-touch-my-chats,0,2026-06-30,AI Agent
+SamuelHubner/mba-ia-refactor-projects-skill,0,2026-06-30,AI Agent
+liu-zoe/whale-acoustic-library,0,2026-06-30,AI Agent
+chloemaillot/spectra-tools,0,2026-06-30,AI Agent
+so18zerocoder-gif/expert-presentation-agent,0,2026-06-30,AI Agent
+jgalea/claude-statusline,0,2026-06-30,AI Agent
+uaeiii/docx-format,0,2026-06-30,AI Agent
+caseol/claude-session-gateway,0,2026-06-30,AI Agent
+ChiHanLu/done-gate,0,2026-06-30,AI Agent
+jepotes/universal-ai-skills,0,2026-06-30,AI Agent
+codemee/cc-jsonl-to-md,0,2026-06-30,AI Agent
+tstanmay13/claude-skills,0,2026-06-30,AI Agent
+xhusnain/memhub,0,2026-06-30,AI Agent
+ricardov-stripe/weekly-update-skill,0,2026-06-30,AI Agent
+bondar-artem/playwright-scripting-skills,0,2026-06-30,AI Agent
+nord342/claude-youtube-transcript,0,2026-06-30,AI Agent
+xuan-wei/ai-research-workshop,0,2026-06-30,AI Agent
+antoniobenavides-py/antonio-claude-workspace,0,2026-06-30,AI Agent
+Teopile/claude-project-factory,0,2026-06-30,AI Agent
+ebrunet001/scraping-expert-claude,0,2026-06-30,AI Agent
+kamasutra1337/HatHad,0,2026-06-30,AI Agent
+DingoOz/launch-ornith,0,2026-06-30,AI Agent
+knowingrohan/ai,0,2026-06-30,AI Agent
+Zavelinski/recall,0,2026-06-30,AI Agent
+jean-johnson-zwix/multimodal-mllog-plugin,0,2026-06-30,AI Agent
+pohsuchenwork/claude-system,0,2026-06-30,AI Agent
+tktk7l9/claude-usage-bar,0,2026-06-30,AI Agent
+91wjheo/requirements-ai-readiness-plugin,0,2026-06-30,AI Agent
+aarya-g/cdd-harness,0,2026-06-30,AI Agent
+ebrunet001/short-study-claude,0,2026-06-30,AI Agent
+sangrokjung/loop-forge,1,2026-06-30,AI Agent
+kotilabs/aagman-qa-harness,0,2026-06-30,AI Agent
+Centaurseenumerate/browser-use-ai-pk58,0,2026-06-30,AI Agent
+iamaryansinha/aagman-qa-harness,0,2026-06-30,AI Agent
+G-SaiVishwas/browsepilot-agent,0,2026-06-30,AI Agent
+opc-x/Scraper,0,2026-06-30,AI Agent
+opc-x/JobSniper-Scraper,0,2026-06-30,AI Agent
+Centaurseenumerate/browser-use-ai-az91,0,2026-06-30,AI Agent
+Centaurseenumerate/browser-use-ai-ji41,0,2026-06-30,AI Agent
+Centaurseenumerate/browser-use-ai-sz83,0,2026-06-30,AI Agent
+Centaurseenumerate/browser-use-ai-kc12,0,2026-06-30,AI Agent
+hekau714/hog_svm_facerec,0,2026-06-30,AI Agent
+Centaurseenumerate/browser-use-ai-jj69,0,2026-06-30,AI Agent
+state-of-protocol/browser-user-f,0,2026-06-30,AI Agent
+RoseBludd/genius_browser_use,0,2026-06-30,AI Agent
+RXVSSIANXW23/Windows-ME-operating-system,0,2026-06-30,AI Agent
+suniltnngl-gm/gemini-computer-use,0,2026-06-30,AI Agent
+codingmachineedge/lowlevel-computer-use-mcp,0,2026-06-30,AI Agent
+rohanarun/super-agent-news-computer-use-cache-20260630-055311,0,2026-06-30,AI Agent
+rohanarun/super-agent-news-computer-use-cache-20260630-045040,0,2026-06-30,AI Agent
+rohanarun/super-agent-news-computer-use-cache-20260630-035846,0,2026-06-30,AI Agent
+heavycoderyash/Website_Automation_Agent,0,2026-06-30,AI Agent
+Infatoshi/cereaper,2,2026-06-30,AI Agent
+PaulaIbagere/Volume-Hand-Control,0,2026-06-30,AI Agent
+valorisa/JaiLIP-Educational,1,2026-06-30,Multi-modal
+online-dynamic-batching/online-dynamic-batching,1,2026-06-30,Multi-modal
+visianlee/vision-mcp,0,2026-06-30,Multi-modal
+gaurav-oberoi/clip-image-search,0,2026-06-30,Multi-modal
+blueproj/bohrium-ai4scup-sci,0,2026-06-30,RAG
+BilalAhmadSami/DR-Clinical-Report-Generator,0,2026-06-30,Multi-modal
+falakrana/MultimodalRAG,0,2026-06-30,RAG
+Tarnishsilver/OpenVision,0,2026-06-30,Multi-modal
+ZahraAlipour703/OpenVLA-Scene,0,2026-06-30,Multi-modal
+qinYY3000/OmniRad,0,2026-06-30,Multi-modal
+RL-MIND/RGSQ,0,2026-06-30,Multi-modal
+zxgapollo/CoMedPO,0,2026-06-30,Multi-modal
+punch1227/VORA-AI-Robotic-Assistant,0,2026-06-30,Multi-modal
+lan-qing/MVLAD-AD,1,2026-06-30,Multi-modal
+SemiMIRTLab/ATOMIC,0,2026-06-30,Multi-modal
+DAVIAN-Robotics/3D_HAMSTER,0,2026-06-30,Multi-modal
+dcharlot-physicalai-bmi/ambit,0,2026-06-30,Multi-modal
+ShowiBin/M2-VLA,0,2026-06-30,Multi-modal
+VoicAndrei/my_vla,0,2026-06-30,Multi-modal
+saikrishnamurthy12/AI-Prompt-Engineering-Projects,0,2026-06-30,Multi-modal
+rohhithguna/VisionVerse-,0,2026-06-30,Multi-modal
+juliahahah/VLM4D_survey,0,2026-06-30,Multi-modal
+shadsks/vlmbaby,0,2026-06-30,Multi-modal
+markjessre/vlmljf,0,2026-06-30,Multi-modal
+shadsks/vlmboi,0,2026-06-30,Multi-modal
+Akshai-Athota/VLMCount,0,2026-06-30,Multi-modal
+odeleon1/Quantized-VLM,0,2026-06-30,Multi-modal
+Azhe2002/VLM_optimization,0,2026-06-30,Multi-modal
+weiyuli20/vlm_learn,0,2026-06-30,Multi-modal
+mpyt/ARSI-vlm,0,2026-06-30,Multi-modal
+Suyashkb/VLM-distillation,0,2026-06-30,Multi-modal
+Akaki-Vildan/vlm-project,0,2026-06-30,Multi-modal
+Rishabh-Moonka/NanoVLM,0,2026-06-30,Multi-modal
+LucianoXu/Adv-VLM,0,2026-06-30,Multi-modal
+Kosala243/VLM_Navigation_Project,0,2026-06-30,Multi-modal
+zym666666/construction_router_vlm,0,2026-06-30,Multi-modal
+trickfu/actor-vlm-dashboard,0,2026-06-30,Multi-modal
+jagusztinl/vlm_benchmark_ocr,0,2026-06-30,Multi-modal
+khoa16122004/VLM-Saliency-Resources,0,2026-06-30,Multi-modal
+taylalm/vlm-agent-nvidia-skills,0,2026-06-30,Multi-modal
+tquochuy31/vlm-agent-nvidia-skills,0,2026-06-30,Multi-modal
+Manhbk97/vlm-manipulator-color-sorting,0,2026-06-30,Multi-modal
+petayyyy/a733_vlm_ros2,0,2026-06-30,Multi-modal
+kim-salim/SNU_Ai_Challenge,0,2026-06-30,Multi-modal
+JiagengZhang/go1_lidar_udp_bridge,0,2026-06-30,Multi-modal
+YupuLu/keypose_labelling,0,2026-06-30,Multi-modal
+J-levee/unlimited-ocr-server,1,2026-06-30,Multi-modal
+mychnfk/doc-tamper-detection,0,2026-06-30,Multi-modal
+lollinng/roomio-room-designer,0,2026-06-30,Multi-modal
+anyforge/anyparse,0,2026-06-30,RAG
+vishakha-codes/video_understanding_agent,0,2026-06-30,Multi-modal
+clipcurator/ai-video-understanding-timestamp-handoff-kit,0,2026-06-30,Multi-modal
+lydiajiancong-dev/Video-Understanding-Eval-Demo-Badcase-Demo,0,2026-06-30,Multi-modal
+Atharva1700/Video-Understanding-Diffusion-Generative-Spatiotemporal-Transformers-Self-Supervised,0,2026-06-30,Multi-modal
+dhrishev21/Intelligent-Video-Analytics-System,0,2026-06-30,Multi-modal
+knowingeye/AnyDrop,0,2026-06-30,Multi-modal
+amitshekhariitbhu/ai-engineering-interview-questions,2014,2026-06-30,RAG
+alvinunreal/awesome-opensource-ai,3976,2026-06-30,RAG
+Simpl3x3/ESEILANE,105,2026-06-30,RAG
+matthiasnordwig/pdf-struct-chunker,8,2026-06-30,RAG
+Shravan4598/Langchain,2,2026-06-30,RAG
+avifenesh/sxc,2,2026-06-30,RAG
+qwerty1347/devTalk,1,2026-06-30,RAG
+Ags-Ghafoor601/Law-Firm-RAG-System,1,2026-06-30,RAG
+1YJcode/RAGNews-Asisstant,1,2026-06-30,RAG
+alihashim786/agentic-ai-codebase-assistant,1,2026-06-30,RAG
+tobecontinued96/KB-Eval,1,2026-06-30,RAG
+LaurentOngaro/OdinRAG,2,2026-06-30,RAG
+shineway-tech/KnowMesh,1,2026-06-30,RAG
+israelortizcpsc/catalog-rag,1,2026-06-30,RAG
+yauld/ai-forge,1,2026-06-30,RAG
+arhuman/mnemos,1,2026-06-30,RAG
+Hanzhi0807/document-buddy,1,2026-06-30,RAG
+Sam-M345/sungrid-support-agent,1,2026-06-30,RAG
+LaurMost/mimir,1,2026-06-30,RAG
+Uky0Yang/awesome-ai-agents-zh,1,2026-06-30,RAG
+xiaoyanfei-tech/llm-selector,1,2026-06-30,RAG
+samsuddinrahaman/multi-source-research-assistant,0,2026-06-30,RAG
+Gopilagadapati/30-intelligent-agents,0,2026-06-30,RAG
+Bagekyl/prompt-checkup,0,2026-06-30,RAG
+andrgol12-sys/rag-quality-evaluation,0,2026-06-30,RAG
+ebarti/skills,0,2026-06-30,RAG
+maxomart/rag-security-chatbot,0,2026-06-30,RAG
+Shrutiraj26/rag-document-chat,0,2026-06-30,RAG
+AnharEM/Cogneva,0,2026-06-30,RAG
+Zayedkz/ai-knowledgeops-platform,0,2026-06-30,RAG
+Astik1804/LLM-Validator,0,2026-06-30,RAG
+IamSadik/rag-api,0,2026-06-30,RAG
+johnsonnyabicha-alt/rag-qa-system,0,2026-06-30,RAG
+TharunByreddy/rag-document-qa,0,2026-06-30,RAG
+vidit1920/AuraFix,0,2026-06-30,RAG
+Pranavsingh431/redrob_insight,0,2026-06-30,RAG
+upadhyayanurodh/ai-grievance-resolution-agent,0,2026-06-30,RAG
+TheWerbinator/groundwork,0,2026-06-30,RAG
+rayair250-droid/aizen,0,2026-06-30,RAG
+StaryMoon/free-for-ai-builders-cn,0,2026-06-30,RAG
+nimmala-nityasree/FoodLens-AI,0,2026-06-30,RAG
+krell11/master_thesis,0,2026-06-30,RAG
+vinyagarg/secure-rag-pipeline,0,2026-06-30,RAG
+Ddhjx-code/agent-learn-skill,0,2026-06-30,RAG
+PKrasytskyi/ai-qa-platform-showcase,0,2026-06-30,RAG
+Cinquante-Sept/secure-local-llm,0,2026-06-30,RAG
+falakrana/MultimodalRAG,0,2026-06-30,RAG
+yangboy91/notetaker-notebookllm,0,2026-06-30,RAG
+ajjukanojiya/AI-FullStack-Roadmap,0,2026-06-30,RAG
+Romaindcrl/llml,0,2026-06-30,RAG
+drdgreed/ai-front-desk,0,2026-06-30,RAG
+Ming-H6/MES-AI-Assistant,0,2026-06-30,RAG
+PieterKim/codex-ai-service-kit,0,2026-06-30,RAG
+unumbrela/travel-planner,0,2026-06-30,RAG
+josedasilva11/rag-chatbot,0,2026-06-30,RAG
+AnharEM/DocuMind,0,2026-06-30,RAG
+KirillTomenko/ai-knowledge-assistant,0,2026-06-30,RAG
+thicc-patty/mikeross,0,2026-06-30,RAG
+Sahiljangra115/shortlist,0,2026-06-30,RAG
+EarthNet-EEW/earthnet-knowledge,0,2026-06-30,RAG
+AnubhavKiroula/docmind-rag-chatbot,0,2026-06-30,RAG
+Pyrotheum1702/pyro-chat-bot,0,2026-06-30,RAG
+blueproj/bohrium-ai4scup-sci,0,2026-06-30,RAG
+saralabiswal/production-ai-architecture,0,2026-06-30,RAG
+alvabillwu/ragbench,0,2026-06-30,RAG
+vibeinging/yiTrace,0,2026-06-30,RAG
+felixuniversityca-svg/hybrid-notes-search,0,2026-06-30,RAG
+lohitakshgupta/repopilot,0,2026-06-30,RAG
+jordecoder/work-samples,0,2026-06-30,RAG
+Mohamedkhattab02/agentic-ai-projects,0,2026-06-30,RAG
+praveenjatta/taskflow-product-health-monitor,0,2026-06-30,RAG
+masonsxu/ops-intel-agent,0,2026-06-30,RAG
+potentsergey-dev/echosupport,0,2026-06-30,RAG
+samarthdjoshi/manga-ai-recommender,0,2026-06-30,RAG
+suryaanandan1995-dotcom/rag-platform-k8s,0,2026-06-30,RAG
+JamshaidAhmedd/rag-course-retrieval-platform,0,2026-06-30,RAG
+jayesh1126/memberry,0,2026-06-30,RAG
+frandemona/Youtube-Channel-Knowledge-base,0,2026-06-30,RAG
+Scy20010921/multimodal_avatar_agent,0,2026-06-30,RAG
+im-manideep/RAG-system-with-Telemetry-Evals,0,2026-06-30,RAG
+ankan007dev/RAG,0,2026-06-30,RAG
+ahfoysal/ai-engineer-roadmap,0,2026-06-30,RAG
+diogorochaa/IA,0,2026-06-30,RAG
+Yared-Mengiste/rag_ragas_langchain_eval,0,2026-06-30,RAG
+sheldonlsides/langgraph-agent-guardrails,0,2026-06-30,RAG
+medellin17/deus,0,2026-06-30,RAG
+yousafSamy1/ERU-AdmitAssist,0,2026-06-30,RAG
+nahom-zenebe/AI-Financial-Risk-Compliance-Assistant,0,2026-06-30,RAG
+Protagonist01/self-healing-monitor,0,2026-06-30,RAG
+TechCeo/medibot-agentic-rag,0,2026-06-30,RAG
+jmfloreszazo/tokenmaxxing-agents-finetuning-optimizer-and-rags,0,2026-06-30,RAG
+wkhan-stack/grocery-ai-agent,0,2026-06-30,RAG
+AasthaPJoshi/RetrievalLab,0,2026-06-30,RAG
+Nikhitha-bheemu/enterprise-knowledge-management-agent,0,2026-06-30,RAG
+safouha/rag-knowledge-assistant,0,2026-06-30,RAG
+Hosein541/multi-server-mcp-agent,0,2026-06-30,RAG
+kamuma03/Provenance,0,2026-06-30,RAG
+ShashankInData/dharma-lens,0,2026-06-30,RAG
+suryaanandan1995-dotcom/ai-freelance-copilot,0,2026-06-30,RAG
+anyforge/anyparse,0,2026-06-30,RAG
+Shubham-raut-860/RAG-Knowledge-Bot,0,2026-06-30,RAG
+S3YED/cognify,0,2026-06-30,RAG
+orvillelim/Healthcare-RAG,0,2026-06-30,RAG
+dingminghbut/Awesome-AI-GitHub,0,2026-06-30,RAG
+mainlyer/dp-800-sql-ai-dev-local-lab,0,2026-06-30,RAG
+Harungokc/local-text-to-sql,0,2026-06-30,RAG
+ritikatripathi11111/DocuTrust-AI,0,2026-06-30,RAG
+zhichao1208/reduce-hallucination,0,2026-06-30,RAG
+ai-adivajra/agent-forge,0,2026-06-30,RAG
+Varuni08/Invoice-Financial-Validation-Assistant,0,2026-06-30,RAG
+woulgar/documind,0,2026-06-30,RAG
+architect9331/course-ai-paper-reading-workbench,0,2026-06-30,RAG
+reddydev-ai/policymind,0,2026-06-30,RAG
+shahriar-ahmed-seam/nexus-agent-orchestrator,0,2026-06-30,RAG
+pacific-slate/pacslate,0,2026-06-30,RAG
+Zavelinski/retrieval-router,0,2026-06-30,Long Context
+xuqb1/localai,0,2026-06-30,RAG
+AnshSingh30/legal-multimodal-rag,0,2026-06-30,RAG
+feiyueyun/skillkb,0,2026-06-30,RAG
+Tony-QianxiLU/ai-rag-chatbot,0,2026-06-30,RAG
+AkashBharangar/local-rag-pdf,0,2026-06-30,RAG
+Varuni08/Pharma-Sales-Intelligence,0,2026-06-30,RAG
+emmanuelsvaldez/MedAssist-Pro-Agentforce,0,2026-06-30,RAG
+Nurzhek/rag-golang-clean-arch,5,2026-06-30,RAG
+akshaya-30/ai-powered-compliance-assistant-rag,0,2026-06-30,RAG
+ketchuphere/rag-project,0,2026-06-30,RAG
+raghavpandeyDEV/DocuMind-,0,2026-06-30,RAG
+MadaGK/retrieval-augmented-generation,0,2026-06-30,RAG
+Varshinisambatur/Retrieval-Augmented-Generation-RAG-System,0,2026-06-30,RAG
+anushkaaaab/GenAI-Chatbot-Local-,0,2026-06-30,RAG
+FengClan/GeoStrat-DualPath-RAG,0,2026-06-30,RAG
+Bhawna33/rag-learning,0,2026-06-30,RAG
+dilarayldrmm/local-rag-foundry,0,2026-06-30,RAG
+aleksalukac/modular-rag-system,0,2026-06-30,RAG
+marwahsparsh24/langchain-rag-retrieval-augmented-generation-for-document-understanding,0,2026-06-30,RAG
+douaeFILE/NLP-Mini-Project-Transformers-Retrieval-Augmented-Generation-RAG-,0,2026-06-30,RAG
+riftin2023/Website-RAG-Chatbot,0,2026-06-30,RAG
+psben113/simpleRAG,0,2026-06-30,RAG
+Shubham-raut-860/Vector-Graph-RAG,0,2026-06-30,RAG
+Shashank-1000/Enterprise-knowledge-assistant,0,2026-06-30,RAG
+nityajangam-ops/maximo-ai-incident-investigator,0,2026-06-30,RAG
+Cosmic799/BuildWise,0,2026-06-30,RAG
+nicolaveritas/ragu,0,2026-06-30,RAG
+tsmith-surgexi/rag-reference-pipeline,0,2026-06-30,RAG
+Radhika-jindal-05/MediAssist-AI,0,2026-06-30,RAG
+WDSushant/RAG-BOOK-ASSITANT,0,2026-06-30,RAG
+axayNisang/agentic-rag,0,2026-06-30,RAG
+Abdurrehman4u/enterprise-knowledge-assistant,0,2026-06-30,RAG
+gokulbs2004-ux/AI-Placement-Assistant,0,2026-06-30,RAG
+cander67/private-scientific-rag,0,2026-06-30,RAG
+filippasti/hr-faq-chatbot,0,2026-06-30,RAG
+ArjunLohakare/Personal-Knowledge-Based-Agent,0,2026-06-30,RAG
+Alimaatoug01/rag-document-assistant,0,2026-06-30,RAG
+alibarnes18/Foundry-Offline-QA,0,2026-06-30,RAG
+phoenix-zhou/logistics-industry-RAG,0,2026-06-30,RAG
+shehryar54/enterprise-doc-qa,0,2026-06-30,RAG
+MaNiKaNdAn2019108028/DocuMind-AI-RAG,0,2026-06-30,RAG
+GuzelHuseyin/TrustRAG,0,2026-06-30,RAG
+talhag3/shop-assist-rag,0,2026-06-30,RAG
+ksidharth8/multisource-rag-assistant,0,2026-06-30,RAG
+lorelarocca2001/Norman-Castle-RAG-QA-System,0,2026-06-30,RAG
+tauseefvm/RAG-customer-support-chatbot,0,2026-06-30,RAG
+Tharuneshvar/Drug_Conflict_Intelligence_RAG,0,2026-06-30,RAG
+SINGH202/RAG-Learning,0,2026-06-30,RAG
+shubhamdhivare96/KnowledgeAssistant,0,2026-06-30,RAG
+PradnyanandJade/CollegeAiAssistance,0,2026-06-30,RAG
+datawithnawaz/RAG-on-Rossmann-Dataset,0,2026-06-30,RAG
+PedroLuizskt/GeoPython-Assistant-v2,0,2026-06-30,RAG
+Aadarsh-60/applied-rag-pipeline,0,2026-06-30,RAG
+umais-5363/RAG-ENHANCED-LUNG-CANCER-DETECTIONS,0,2026-06-30,RAG
+Prateek13052003/RAG-CHATBOT-DEPLOYED-GUIDE,1,2026-06-30,RAG
+nishi3032005/Company-Assistant-AI-Powered-Internal-Chatbot,0,2026-06-30,RAG
+FawadIdrees/PROJECT-ORBITAL,0,2026-06-30,RAG
+Ritika-space/DocChat-RAG-llm-,0,2026-06-30,RAG
+Satoou19/VidChatBox,0,2026-06-30,RAG
+neazahsan-himel/visa-rag-service,0,2026-06-30,RAG
+AKASHDHARDUBEY/conversation-evaluation-engine,0,2026-06-30,RAG
+sumitMultani/rag_ai_agent_demo,0,2026-06-30,RAG
+saikrishnamurthy12/Advanced-AI-and-Vision-Projects,0,2026-06-30,RAG
+vaishudesai29499/HR-Agent-System,0,2026-06-30,RAG
+chandra-kp001/RAG-System,0,2026-06-30,RAG
+Ramya-Ramadoss/MCU-Verse-Bot,0,2026-06-30,RAG
+amansharma2005/RAG_Application_using_Langchain_OpenAI_API_and_FAISS,0,2026-06-30,RAG
+Assyrian91/guest-agent-live-workflow,0,2026-06-30,RAG
+abhi8084-t/DocQuery_AI,0,2026-06-30,RAG
+sbarinder11/RAG-Based-AI-Teaching-Assistant,0,2026-06-30,RAG
+SupunBasnayaka/local-rag-chatbot,1,2026-06-30,RAG
+Princejaiswl/ehr-qa-agent,0,2026-06-30,RAG
+randyb12019-repo2026/RAG,0,2026-06-30,RAG
+Aryansadhu29/AI_Enterprise_Knowledge_Assistant,0,2026-06-30,RAG
+ashwini1997-12/Rag-knowledge-assistant_,0,2026-06-30,RAG
+zerodrive16/RAG-PDF-Chatbot,0,2026-06-30,RAG
+Marij10/food-rag-system,0,2026-06-30,RAG
+tim-slavik/mini-rag,0,2026-06-30,RAG
+avyuktcodes/TATA_RATAN,0,2026-06-30,RAG
+rushirpadaria2704/AI-Powered-Study-Assistance-using-RAG,0,2026-06-30,RAG
+ybhargavi40021978-alt/DocuTrust-Premium,1,2026-06-30,RAG
+AbhinavWandhe06/DocBot,0,2026-06-30,RAG
+ANAions/AI-Company-Policy-Assistant,0,2026-06-30,RAG
+sulemantech/production-rag-from-scratch,0,2026-06-30,RAG
+thrailokyapuvvada/FAQFlow_Project,0,2026-06-30,RAG
+pavithraB-wec/ResumeRAG,0,2026-06-30,RAG
+sarthakmittal15417-web/Specture-AI-Law,0,2026-06-30,RAG
+devcauas/spotify_faq_chatbot,0,2026-06-30,RAG
+Warisha-Nadeem-hub/mythbuster-ai-evolution,0,2026-06-30,RAG
+ananya30-cpu/RAG-chatbot-restricted-for-a-particular-company-,0,2026-06-30,RAG
+jothi-sai/NIT-AI-Assistant-is-an-AI-powered-college-regulation-chatbot,0,2026-06-30,RAG
+Rakeszh/YT-Chatbot,0,2026-06-30,RAG
+NikhilMoon2000/rag-resume-processor,0,2026-06-30,RAG
+kshitijshende777-ux/PDF-chatbot,0,2026-06-30,RAG
+KarGan3/document_rag,0,2026-06-30,RAG
+srikarkov/sampleAgenticRAG,0,2026-06-30,RAG
+2017040393/ragent-forge,0,2026-06-30,RAG
+abdoucoure-design/Agentic-RAG-LangGraph-Master,0,2026-06-30,RAG
+Nisarg-Joshi/gdelt-intelligence-briefing,0,2026-06-30,RAG
+adarshp14/docgraph,0,2026-06-30,RAG
+chandanCoding/production-agentic-rag,0,2026-06-30,RAG
+dalvidurvank-source/Mini_Project_SemV,0,2026-06-30,RAG
+joetorsney/CERN-RAG-Chatbot,0,2026-06-30,RAG
+simasrazinskas/istatym.ai,0,2026-06-30,RAG
+Nukka2005/DataTalksClub_LLM_Zoomcamp_agenticRAG,0,2026-06-30,RAG
+Fadi432/Ibadat-AI-Assistant-,0,2026-06-30,RAG
+lakshya082001/Agentic-RAG,0,2026-06-30,RAG
+iytharishika/Agentic-RAG,0,2026-06-30,RAG
+harsh2004singh/RAG-,0,2026-06-30,RAG
+AbdellahCHERKAOUI/Agentic-RAG-,0,2026-06-30,RAG
+Malleshcr7/Agentic_RAG,0,2026-06-30,RAG
+Bipradroid/Agentic-RAG,0,2026-06-30,RAG
+irahgem/agentic-rag-pipeline-intelligence,0,2026-06-30,RAG
+reem-mor/piter-aiops,0,2026-06-30,RAG
+AniruddhaAkhare/gemini_agentic_rag,0,2026-06-30,RAG
+hemanthh35/Agentic_RAG_Platform-,0,2026-06-30,RAG
+RishCapitalent18/agentic-rag-filings,0,2026-06-30,RAG
+pruthvi-infinite/enterprise-agentic-rag,0,2026-06-30,RAG
+0xr41d3n/agentic-rag-pentest,0,2026-06-30,RAG
+marwaneqada/bigdata-agentic-rag,0,2026-06-30,RAG
+vishakha-codes/agentic_rag_system,0,2026-06-30,RAG
+kshitijkumrawat20/production-agentic-rag,0,2026-06-30,RAG
+Jothik1506-ai/AIVA-Agentic-Rag,0,2026-06-30,RAG
+reynaldo1512/agentic-rag-platform,0,2026-06-30,RAG
+prakhxr0/AI-Legal-Advisor,0,2026-06-30,RAG
+costaalan/hr-onboarding-agent,0,2026-06-30,RAG
+madhulekhasompalli9515-star/Agentic-Rag-for-Dummies,0,2026-06-30,RAG
+kshitijkumrawat20/production-agentic-rag-course,0,2026-06-30,RAG
+Subhans1501/Conversational-Agentic-RAG-System,0,2026-06-30,RAG
+AniruddhaAkhare/agentic_rag_gpt5,0,2026-06-30,RAG
+aivafreelancia2026-star/My_AIVA-Agentic-Rag,0,2026-06-30,RAG
+AniruddhaAkhare/agentic_rag_embedding_gemma,0,2026-06-30,RAG
+AniruddhaAkhare/agentic_rag_math_agent,0,2026-06-30,RAG
+AniruddhaAkhare/agentic_rag_with_reasoning,0,2026-06-30,RAG
+assiagh/oracle-dba-agentic-rag,0,2026-06-30,RAG
+M0iem/agentic-rag-tourism-morocco,0,2026-06-30,RAG
+Will900112/Lumen,0,2026-06-30,RAG
+akxsh-cy/Kerala-Police-Agentic-Rag-Assistant,0,2026-06-30,RAG
+zayedAahmad/FinAegis-Agentic-RAG-Banking-AI,0,2026-06-30,RAG
+kshitijkumrawat20/production-agentic-rag-course-week1.0,0,2026-06-30,RAG
+LucPinheiro/ai-automation-portfolio,0,2026-06-30,RAG
+AnujKumar1204/veritas-ai,0,2026-06-30,RAG
+Lystopad6763/cairnwise-meeting-assistant,0,2026-06-30,RAG
+Shraddhapathak29/northwind-rag-chatbot,0,2026-06-30,RAG
+Amitkaushal15/gen_and_agentic_ai_with_python,0,2026-06-30,RAG
+RajuforAI/IIT-Roorkee_Capstone,0,2026-06-30,RAG
+DurgaTharshini26/AI-Engineering-Journey,0,2026-06-30,RAG
+ubaith444/Ubaith-Sherif-Portfolio,0,2026-06-30,RAG
+dhanraj-13/AgenticDocs-AI-Enterprise-Multi-Agent-RAG-Platform-for-Intelligent-Document-Analysis,0,2026-06-30,RAG
+Savinup21/ai-engineering-lab,0,2026-06-30,RAG
+Saeedsimin/GraphRAG,0,2026-06-30,RAG
+vishakha-codes/graphrag_knowledge_system,0,2026-06-30,RAG
+abhinxv7/biomed-graphrag,0,2026-06-30,RAG
+skudot/skudot-graphrag,0,2026-06-30,RAG
+agriculture-graphrag/agri-graphrag,0,2026-06-30,RAG
+dhyaaneshganeshkumar-hub/GraphRAG_Prototype,0,2026-06-30,RAG
+tangweigang-jpg/doramagic-graphrag-pack,0,2026-06-30,RAG
+Zongyv/TMS-GraphRAG,0,2026-06-30,RAG
+BancaKim/LLMWiki_GraphRAG,0,2026-06-30,RAG
+4vq94gpvws/mkb-graphrag-architectuur,0,2026-06-30,RAG
+kumardevesh0110/algorithmic-alpha-graphrag,0,2026-06-30,RAG
+legal-graphrag-platform-vn/legal-graphrag-platform-vn,0,2026-06-30,RAG
+om151204/GraphRag-PostgreSQL-Apache,0,2026-06-30,RAG
+Jagadeeswar231/enterprise-agentic-aiops-copilot,0,2026-06-30,RAG
+RaidLZ/10-K-Intelligence,1,2026-06-30,RAG
+chanteja/nexus-decision-twin,0,2026-06-30,RAG
+dadatoro/OntRAG,0,2026-06-30,RAG
+joshua-coding-garden/recipe-ai-workspace,0,2026-06-30,RAG
+cy180-cy/llm_customer_service,0,2026-06-30,RAG
+Pratham-ghadge/RAGFlow,0,2026-06-30,RAG
+djairrotta/ragflow,0,2026-06-30,RAG
+wybl12345/xiaozhi-update,0,2026-06-30,RAG
+Centaurseenumerate/ragflow-ai-qh36,0,2026-06-30,RAG
+Centaurseenumerate/ragflow-ai-iv92,0,2026-06-30,RAG
+Centaurseenumerate/ragflow-ai-lm35,0,2026-06-30,RAG
+Centaurseenumerate/ragflow-ai-zj48,0,2026-06-30,RAG
+Centaurseenumerate/ragflow-ai-lc50,0,2026-06-30,RAG
+Centaurseenumerate/ragflow-ai-po16,0,2026-06-30,RAG
+tudou718/deepsearch-agents-learning,0,2026-06-30,RAG
+lsmd23/LongContext,0,2026-06-30,Long Context
+notitiacorp-design/long-context-fidelity-leaderboard,0,2026-06-30,Long Context
+blueproj/flagos-long-context-icl-annotation,0,2026-06-30,Long Context
+liukefan821/adakv,0,2026-06-30,Long Context
+likith-sg/HMCT,0,2026-06-30,Long Context
+Zavelinski/retrieval-router,0,2026-06-30,Long Context
+Multisymboliccore/fields-lm,0,2026-06-30,Long Context
+odeliamel/comb-NIAH,0,2026-06-30,Long Context
+oncesylvia/LLMprobe,0,2026-06-30,Long Context
+kayra-hn/HFP,0,2026-06-30,Long Context
+Dlam1113/DA-MambaNet,0,2026-06-30,Long Context
+wang2025-source/ST-MambaIR,1,2026-06-30,Long Context
+Li-Wen-Zhen/MoST-MambaNet,0,2026-06-30,Long Context
+AKITA-Tomohiro/mamba_demand,0,2026-06-30,Long Context
+Plus-112/Black-Mamba,0,2026-06-30,Long Context
+lululudj/trihelix-mamba,1,2026-06-30,Long Context
+SoIarI/mamba-binder,0,2026-06-30,Long Context
+OHBA-analysis/MEG-Mamba,0,2026-06-30,Long Context
+atandra2000/Mamba-3-Lite,0,2026-06-30,Long Context
+AL1325651958/LNN_Mamba_2,0,2026-06-30,Long Context
+stanislawzapala/mamba-joint-distribution-finance,0,2026-06-30,Long Context
+woohyun-jeon/GEMSNet,0,2026-06-30,Long Context
+fnafees/BindPred,0,2026-06-30,Long Context
+eugenehp/lumamba-rs,1,2026-06-30,Long Context
+blueproj/kaggle-nemotron-reasoning,0,2026-06-30,Long Context
+arthurzhang888/SSM,0,2026-06-30,Long Context
+bstafford54547563904912/guidebook-ssmqvp06,0,2026-06-30,Long Context
+lockedbaseheart/repo-ssm8ha65,0,2026-06-30,Long Context
+aioria85/ssml,0,2026-06-30,Long Context
+ParkMinjun0721/SSMS_,0,2026-06-30,Long Context
+humanstepa/ssmlep,0,2026-06-30,Long Context
+jvelascoal/SSMZ-MSF,0,2026-06-30,Long Context
+MozamilS/ssmctl-cflite-corpus,0,2026-06-30,Long Context
+h-orchideous/SSM_qwen25vl,0,2026-06-30,Long Context
+samuelleonardoprietoospina-hash/Base-de-Datos-Brainbro-ssms-db,0,2026-06-30,Long Context
+johnSalexander14/JSON_to_SSMS_pre_2015_17,0,2026-06-30,Long Context
+Beaeberts/Pydantic,0,2026-06-30,Long Context
+Lude71/DeKUT-University-Management-System,0,2026-06-30,Long Context
+Nazmuz-Saif/Hotel-Management-System,0,2026-06-30,Long Context
+swaroopa07/Super_Store,0,2026-06-30,Long Context
+JustFirefly/compiler-construction,0,2026-06-30,Long Context
+celetrialprince166/techstream-self-healing,0,2026-06-30,Long Context
+jahnfrens/JZbTAvMcQR,1,2026-06-30,Long Context
+hartlez022/xZUGawWkcQ,1,2026-06-30,Long Context
+ramariyata/MKHljwwxUE,0,2026-06-30,Long Context
+hartlez022/ZWkIjQjOyu,1,2026-06-30,Long Context
+mrudblank/TzVTkhPCiJ,0,2026-06-30,Long Context
+ijabyregra/ENJCgADIDS,1,2026-06-30,Long Context
+jahnfrens/OEtFOjwHGJ,1,2026-06-30,Long Context
+ijabyregra/TGuZAcyQEk,1,2026-06-30,Long Context
+brentberli/WmCoXXotSr,1,2026-06-30,Long Context
+brentberli/KblkvrgaZa,1,2026-06-30,Long Context
+jahnfrens/GNwHvgAbmJ,1,2026-06-30,Long Context
+joshkrebst/jodbGghyEC,1,2026-06-30,Long Context
+ramariyata/EGMaCWgRBd,0,2026-06-30,Long Context
+hartlez022/zqHSJTHopr,1,2026-06-30,Long Context
+ramariyata/YIGKNYXLeq,0,2026-06-30,Long Context
+brentberli/qeaVvdihWx,1,2026-06-30,Long Context
+brentberli/peNUdcRGom,1,2026-06-30,Long Context
+ijabyregra/NCxzPwuqXc,1,2026-06-30,Long Context
+ibislon/igPzSmCmwU,1,2026-06-30,Long Context
+ibislon/ENkleynUve,1,2026-06-30,Long Context
+doomispawd/RFIiLAcQWa,1,2026-06-30,Long Context
+jahnfrens/THNTGUUhnt,1,2026-06-30,Long Context
+ramariyata/CqeRrTteIA,0,2026-06-30,Long Context
+mrudblank/LoNRvZXXSo,0,2026-06-30,Long Context
+ramariyata/sPLisqcbKW,0,2026-06-30,Long Context
+jahnfrens/QlxBvpAGjz,1,2026-06-30,Long Context
+brentberli/cQzRGFzbBr,1,2026-06-30,Long Context
+hartlez022/rjdVwlaPuB,1,2026-06-30,Long Context
+doomispawd/WRUzwjCupg,1,2026-06-30,Long Context
+joshkrebst/awtyRqhJGq,1,2026-06-30,Long Context
+ramariyata/bxUBIotrBM,0,2026-06-30,Long Context
+ijabyregra/WZDPeNiiKH,1,2026-06-30,Long Context
+xiaomezhig/tAxHzhUmLF,1,2026-06-30,Long Context
+ibislon/qCSioazufu,1,2026-06-30,Long Context
+ramariyata/QAPiRqPDpx,0,2026-06-30,Long Context
+jahnfrens/DuHwoPboHl,1,2026-06-30,Long Context
+cauwen/JvTKtMDDSZ,1,2026-06-30,Long Context
+ibislon/EywNFvUVBP,1,2026-06-30,Long Context
+brentberli/dRYhigoyim,1,2026-06-30,Long Context
+xiaomezhig/bEtSGrGXPg,1,2026-06-30,Long Context
+hartlez022/SbTLhoEolp,1,2026-06-30,Long Context
+mrudblank/lAfltDUdHA,0,2026-06-30,Long Context
+xiaomezhig/AYXmDxkmgx,1,2026-06-30,Long Context
+xiaomezhig/ixCvLJMISG,1,2026-06-30,Long Context
+joshkrebst/ISzgbUjOfj,1,2026-06-30,Long Context
+ijabyregra/TTjBKtPCrc,1,2026-06-30,Long Context
+joshkrebst/uGDRrmTBzh,1,2026-06-30,Long Context
+ramariyata/aGzzxtVeEV,0,2026-06-30,Long Context
+xiaomezhig/RfEavEYqhi,1,2026-06-30,Long Context
+brentberli/rfVkdXuFzk,1,2026-06-30,Long Context
+joshkrebst/bogCcAuTKg,1,2026-06-30,Long Context
+ibislon/mTWMLlTIkm,1,2026-06-30,Long Context
+brentberli/tPbkQpAKXd,1,2026-06-30,Long Context
+mrudblank/vgAyPNhCgn,0,2026-06-30,Long Context
+cauwen/jYqctozFKo,1,2026-06-30,Long Context
+jahnfrens/ZaBswUpRDf,1,2026-06-30,Long Context
+doomispawd/MJPjxmKhGF,1,2026-06-30,Long Context
+doomispawd/hXXSCNBbgB,1,2026-06-30,Long Context
+ijabyregra/wdLJduLhqm,1,2026-06-30,Long Context
+joshkrebst/PCEsGCISsj,1,2026-06-30,Long Context
+xiaomezhig/kCMCBKbBdT,1,2026-06-30,Long Context
+doomispawd/fimYaeMCat,1,2026-06-30,Long Context
+doomispawd/UxmpAtaVIx,1,2026-06-30,Long Context
+jahnfrens/afAIOyzjkj,1,2026-06-30,Long Context
+ibislon/BeeFAnHroT,1,2026-06-30,Long Context
+sandhyaman/VgpLoWemEF,0,2026-06-30,Long Context
+joshkrebst/kvnZanTxzx,1,2026-06-30,Long Context
+hartlez022/LGQruFnIMU,1,2026-06-30,Long Context
+Zubair-624/jobboard-aws-docker-infrastructure,0,2026-06-30,Long Context
+xiaomezhig/YooszgkMxj,1,2026-06-30,Long Context
+SN0618/-,0,2026-06-30,Long Context
+giteecode/logisticsDistribution,0,2026-06-30,Long Context
+codegitpro/logisticsDistribution,0,2026-06-30,Long Context
+ynwynw/logisticsDistribution,0,2026-06-30,Long Context
+MiuChan24/Hybrid-Fusion-of-State-Space-Model-and-CNN-For-PCOS-identification,0,2026-06-30,Long Context
+haram-naseeb/AgentIQ-AI-Simulation-Engine,0,2026-06-30,Long Context
+sarimahsan/speculative-decoding,0,2026-06-30,Speculative Model
+chang5-ctrl/DeepSpec,0,2026-06-30,Speculative Model
+ARahim3/mlx-dspark,0,2026-06-30,Speculative Model
+yuhai-china/ds4-spark,0,2026-06-30,Speculative Model
+vvvaibhaverma-123459876/nanoserve,0,2026-06-30,Speculative Model
+liangqianxing/llm-inference-lab,0,2026-06-30,Speculative Model
+Extended-Systems-Intelligence/nemotron-dspark-recipe,0,2026-06-30,Speculative Model
+liangqianxing/mini-llm-engine,0,2026-06-30,Speculative Model
+dayosquetzel/lol-draft-model,0,2026-06-30,Speculative Model
+jimyu0414/yournextfit-next-medusa,0,2026-06-30,Speculative Model
+georgyzuev-web/Medusa_Quests,0,2026-06-30,Speculative Model
+divanshugoyal08/medusa-store,0,2026-06-30,Speculative Model
+divanshugoyal08/medusa-nextjs-store,0,2026-06-30,Speculative Model
+wwwakeup/medusa-behavior-analytics,0,2026-06-30,Speculative Model
+vtestah/medusa-api-quality-gate,0,2026-06-30,Speculative Model
+antonionuila22/smartime,0,2026-06-30,Speculative Model
+Shinchan-crayon/order-fulfillment-flow-configuration,0,2026-06-30,Speculative Model
+Shinchan-crayon/product-inventory-warehouse-configuration,0,2026-06-30,Speculative Model
+kmurphy654/Eagle-Workspace,0,2026-06-30,Speculative Model
+MuhammadYousuf1/eagle,0,2026-06-30,Speculative Model
+doremon1381/EagleGet-clone,0,2026-06-30,Speculative Model
+8030319-tech/eaglercrafthtml,0,2026-06-30,Speculative Model
+suhail530/eagleone,0,2026-06-30,Speculative Model
+jaimerader/legal_eagle,0,2026-06-30,Speculative Model
+eduddy/AIPI-Eagle,0,2026-06-30,Speculative Model
+cognak-studio/eagle-restorations,0,2026-06-30,Speculative Model
+EagleTunnel/eagletunnel-legal,0,2026-06-30,Speculative Model
+myzerb/Eagler-proxy,0,2026-06-30,Speculative Model
+manoj-mkn/eagleview-site,0,2026-06-30,Speculative Model
+TwoPlasmaStudios/eaglercraft-activity,0,2026-06-30,Speculative Model
+drewcollins74-ship-it/Eagles-Block-Pool,0,2026-06-30,Speculative Model
+cc-code-examples/beautiful-eagle-481124,0,2026-06-30,Speculative Model
+gamingrahatyt4-ux/bld-eagle-wensite,0,2026-06-30,Speculative Model
+clodzeischi/eagle-6-ATAK,0,2026-06-30,Speculative Model
+Rootwork-Labs/eagle-palette-viewer,0,2026-06-30,Speculative Model
+crusader31/Eagle-eye-ai,0,2026-06-30,Speculative Model
+ZhaoDesign/Eagle-Video-Compressor,0,2026-06-30,Speculative Model
+familyosdev-sys/trail-to-eagle,0,2026-06-30,Speculative Model
+skisleeprepeat/community-water-plan-website,0,2026-06-30,Speculative Model
+Rootwork-Labs/eagle-css-to-ase,0,2026-06-30,Speculative Model
+UserArham/Eaglercraft-1.20.8,0,2026-06-30,Speculative Model
+Rootwork-Labs/eagle-stock-asset-cleanup,0,2026-06-30,Speculative Model
+HerfBug/Eaglercraft-On-Google-Slides,0,2026-06-30,Speculative Model
+GarvitGoyal144/eagle_ai_v1.0,0,2026-06-30,Speculative Model
+mauroserafim/Eagle-eye-Social-media-search,0,2026-06-30,Speculative Model
+inhaq/Blink,0,2026-06-30,Speculative Model
+mutaician/SkyPilot-AI,0,2026-06-30,Speculative Model
+adengitstuff/gemma-cerebras-education,0,2026-06-30,Speculative Model
