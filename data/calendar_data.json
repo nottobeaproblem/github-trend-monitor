@@ -3638,5 +3638,18 @@
     "url": "https://openai.com/index/hp-frontier-partnership",
     "tags": "",
     "created_at": "2026-06-29 06:31:27"
+  },
+  {
+    "id": "rss_https://simonwillison.net/2026/Jun/29/ornith/#atom-everything",
+    "company": "Simon Willison",
+    "title": "Ornith-1.0: Self-Scaffolding LLMs for Agentic Coding",
+    "publish_date": "2026-06-29",
+    "type": "其他",
+    "open_source": "否",
+    "summary": "<p><strong><a href=\"https://deep-reinforce.com/ornith_1_0.html\">Ornith-1.0: Self-Scaffolding LLMs for Agentic Coding</a></strong></p>\nThis is an interesting new open weights (MIT licensed) model, the ",
+    "details": "",
+    "url": "https://simonwillison.net/2026/Jun/29/ornith/#atom-everything",
+    "tags": "",
+    "created_at": "2026-06-30 06:05:07"
   }
 ]
