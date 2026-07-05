@@ -3794,5 +3794,31 @@
     "url": "https://simonwillison.net/2026/Jul/3/open-source-ai-gap-map/#atom-everything",
     "tags": "",
     "created_at": "2026-07-04 05:40:26"
+  },
+  {
+    "id": "rss_https://simonwillison.net/2026/Jul/5/sqlite-utils-fable/#atom-everything",
+    "company": "Simon Willison",
+    "title": "sqlite-utils 4.0rc2, mostly written by Claude Fable (for about $149.25)",
+    "publish_date": "2026-07-05",
+    "type": "其他",
+    "open_source": "否",
+    "summary": "<p>I wrote about the <a href=\"https://simonwillison.net/2026/Jun/21/sqlite-utils-40rc1/\">sqlite-utils 4.0rc1</a> release a couple of weeks ago. Since we only have Claude Fable on our Max subscriptions",
+    "details": "",
+    "url": "https://simonwillison.net/2026/Jul/5/sqlite-utils-fable/#atom-everything",
+    "tags": "",
+    "created_at": "2026-07-05 05:58:28"
+  },
+  {
+    "id": "rss_https://simonwillison.net/2026/Jul/4/better-models-worse-tools/#atom-everything",
+    "company": "Simon Willison",
+    "title": "Better Models: Worse Tools",
+    "publish_date": "2026-07-04",
+    "type": "其他",
+    "open_source": "否",
+    "summary": "<p><strong><a href=\"https://lucumr.pocoo.org/2026/7/4/better-models-worse-tools/\">Better Models: Worse Tools</a></strong></p>\nArmin reports on a weird problem he ran into while hacking on Pi:</p>\n<blo",
+    "details": "",
+    "url": "https://simonwillison.net/2026/Jul/4/better-models-worse-tools/#atom-everything",
+    "tags": "",
+    "created_at": "2026-07-05 05:58:28"
   }
 ]
