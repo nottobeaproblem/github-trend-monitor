@@ -3859,5 +3859,57 @@
     "url": "https://huggingface.co/blog/microsoft/foundry-managed-compute",
     "tags": "",
     "created_at": "2026-07-08 05:02:12"
+  },
+  {
+    "id": "rss_https://openai.com/index/introducing-gpt-live",
+    "company": "OpenAI",
+    "title": "Introducing GPT-Live",
+    "publish_date": "2026-07-08",
+    "type": "其他",
+    "open_source": "否",
+    "summary": "A new generation of voice models for natural human-AI interaction, now powering ChatGPT Voice.",
+    "details": "",
+    "url": "https://openai.com/index/introducing-gpt-live",
+    "tags": "",
+    "created_at": "2026-07-09 06:03:09"
+  },
+  {
+    "id": "rss_https://huggingface.co/blog/nvidia/open-data-for-agents",
+    "company": "Hugging Face",
+    "title": "Data for Agents",
+    "publish_date": "2026-07-08",
+    "type": "其他",
+    "open_source": "否",
+    "summary": "",
+    "details": "",
+    "url": "https://huggingface.co/blog/nvidia/open-data-for-agents",
+    "tags": "",
+    "created_at": "2026-07-09 06:03:11"
+  },
+  {
+    "id": "rss_https://huggingface.co/blog/native-speed-vllm-transformers-backend",
+    "company": "Hugging Face",
+    "title": "Native-speed vLLM transformers modeling backend",
+    "publish_date": "2026-07-08",
+    "type": "其他",
+    "open_source": "否",
+    "summary": "",
+    "details": "",
+    "url": "https://huggingface.co/blog/native-speed-vllm-transformers-backend",
+    "tags": "",
+    "created_at": "2026-07-09 06:03:11"
+  },
+  {
+    "id": "rss_https://simonwillison.net/2026/Jul/8/introducing-gptlive/#atom-everything",
+    "company": "Simon Willison",
+    "title": "Introducing GPT‑Live",
+    "publish_date": "2026-07-08",
+    "type": "其他",
+    "open_source": "否",
+    "summary": "<p><strong><a href=\"https://openai.com/index/introducing-gpt-live/\">Introducing GPT‑Live</a></strong></p>\nOpenAI <em>finally</em> upgraded the model used by ChatGPT voice mode!</p>\n<p>I've had preview",
+    "details": "",
+    "url": "https://simonwillison.net/2026/Jul/8/introducing-gptlive/#atom-everything",
+    "tags": "",
+    "created_at": "2026-07-09 06:03:12"
   }
 ]
