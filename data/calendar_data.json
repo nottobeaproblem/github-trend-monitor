@@ -3911,5 +3911,83 @@
     "url": "https://simonwillison.net/2026/Jul/8/introducing-gptlive/#atom-everything",
     "tags": "",
     "created_at": "2026-07-09 06:03:12"
+  },
+  {
+    "id": "rss_https://openai.com/index/gpt-5-6-preferred-model-microsoft-365-copilot",
+    "company": "OpenAI",
+    "title": "GPT-5.6 is now the preferred model in Microsoft 365 Copilot",
+    "publish_date": "2026-07-09",
+    "type": "其他",
+    "open_source": "否",
+    "summary": "Learn how GPT-5.6 powers Microsoft 365 Copilot with stronger AI capabilities across Word, Excel, PowerPoint, Chat, and Cowork for faster, higher-quality work.",
+    "details": "",
+    "url": "https://openai.com/index/gpt-5-6-preferred-model-microsoft-365-copilot",
+    "tags": "",
+    "created_at": "2026-07-10 05:57:28"
+  },
+  {
+    "id": "rss_https://openai.com/index/chatgpt-for-your-most-ambitious-work",
+    "company": "OpenAI",
+    "title": "ChatGPT is now a partner for your most ambitious work",
+    "publish_date": "2026-07-09",
+    "type": "其他",
+    "open_source": "否",
+    "summary": "ChatGPT Work is an agent that can take action across your apps and files, stay with a project for hours if needed, and turn a goal into finished work.",
+    "details": "",
+    "url": "https://openai.com/index/chatgpt-for-your-most-ambitious-work",
+    "tags": "",
+    "created_at": "2026-07-10 05:57:28"
+  },
+  {
+    "id": "rss_https://openai.com/index/bio-bug-bounty",
+    "company": "OpenAI",
+    "title": "GPT-5.5 Bio Bug Bounty",
+    "publish_date": "2026-07-09",
+    "type": "其他",
+    "open_source": "否",
+    "summary": "Details about the OpenAI Bio Bounty program",
+    "details": "",
+    "url": "https://openai.com/index/bio-bug-bounty",
+    "tags": "",
+    "created_at": "2026-07-10 05:57:28"
+  },
+  {
+    "id": "rss_https://openai.com/index/gpt-5-6",
+    "company": "OpenAI",
+    "title": "GPT-5.6: Frontier intelligence that scales with your ambition",
+    "publish_date": "2026-07-09",
+    "type": "其他",
+    "open_source": "否",
+    "summary": "More intelligence from every token, stronger performance per dollar, and more capability on demand for your hardest work.",
+    "details": "",
+    "url": "https://openai.com/index/gpt-5-6",
+    "tags": "",
+    "created_at": "2026-07-10 05:57:28"
+  },
+  {
+    "id": "rss_https://www.microsoft.com/en-us/research/blog/aurora-1-5-extending-open-foundation-models-for-weather-and-earth-system-applications/",
+    "company": "Microsoft Research",
+    "title": "Aurora 1.5: Extending open foundation models for weather and Earth-system applications",
+    "publish_date": "2026-07-09",
+    "type": "其他",
+    "open_source": "否",
+    "summary": "<p>Aurora 1.5 adds 22 more variables, hourly temporal resolution, and probabilistic ensemble forecasting to the Aurora foundation model, making it more useful for real-world weather, climate, and ener",
+    "details": "",
+    "url": "https://www.microsoft.com/en-us/research/blog/aurora-1-5-extending-open-foundation-models-for-weather-and-earth-system-applications/",
+    "tags": "",
+    "created_at": "2026-07-10 05:57:32"
+  },
+  {
+    "id": "rss_https://simonwillison.net/2026/Jul/9/gpt-5-6/#atom-everything",
+    "company": "Simon Willison",
+    "title": "The new GPT-5.6 family: Luna, Terra, Sol",
+    "publish_date": "2026-07-09",
+    "type": "其他",
+    "open_source": "否",
+    "summary": "<p>OpenAI's latest flagship model <a href=\"https://openai.com/index/gpt-5-6/\">hit general availability this morning</a>, and comes in three sizes: Luna, Terra, and Sol (from smallest to largest).</p>\n",
+    "details": "",
+    "url": "https://simonwillison.net/2026/Jul/9/gpt-5-6/#atom-everything",
+    "tags": "",
+    "created_at": "2026-07-10 05:57:32"
   }
 ]
