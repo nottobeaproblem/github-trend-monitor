@@ -3989,5 +3989,31 @@
     "url": "https://simonwillison.net/2026/Jul/9/gpt-5-6/#atom-everything",
     "tags": "",
     "created_at": "2026-07-10 05:57:32"
+  },
+  {
+    "id": "rss_https://openai.com/academy/getting-started",
+    "company": "OpenAI",
+    "title": "Getting started with ChatGPT",
+    "publish_date": "2026-07-10",
+    "type": "其他",
+    "open_source": "否",
+    "summary": "Learn how to use ChatGPT, start your first conversation, and discover simple ways to write, brainstorm, and solve problems with AI.",
+    "details": "",
+    "url": "https://openai.com/academy/getting-started",
+    "tags": "",
+    "created_at": "2026-07-14 04:43:47"
+  },
+  {
+    "id": "rss_https://simonwillison.net/2026/Jul/13/datasette-code-frequency/#atom-everything",
+    "company": "Simon Willison",
+    "title": "datasette code-frequency chart on GitHub",
+    "publish_date": "2026-07-13",
+    "type": "其他",
+    "open_source": "否",
+    "summary": "<p><strong><a href=\"https://github.com/simonw/datasette/graphs/code-frequency\">datasette code-frequency chart on GitHub</a></strong></p>\nOut of curiosity I decided to see if I could find a useful illu",
+    "details": "",
+    "url": "https://simonwillison.net/2026/Jul/13/datasette-code-frequency/#atom-everything",
+    "tags": "",
+    "created_at": "2026-07-14 04:43:51"
   }
 ]
