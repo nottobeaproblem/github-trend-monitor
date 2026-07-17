@@ -4132,5 +4132,44 @@
     "url": "https://simonwillison.net/2026/Jul/15/claude-web-fetch-exfiltration/#atom-everything",
     "tags": "",
     "created_at": "2026-07-16 04:53:57"
+  },
+  {
+    "id": "rss_https://huggingface.co/blog/nvidia/nemotron-3-embed-wins-rteb",
+    "company": "Hugging Face",
+    "title": "NVIDIA Nemotron 3 Embed Ranks #1 Overall on RTEB, Advancing Agentic Retrieval",
+    "publish_date": "2026-07-16",
+    "type": "其他",
+    "open_source": "否",
+    "summary": "",
+    "details": "",
+    "url": "https://huggingface.co/blog/nvidia/nemotron-3-embed-wins-rteb",
+    "tags": "",
+    "created_at": "2026-07-17 04:56:50"
+  },
+  {
+    "id": "rss_https://huggingface.co/blog/Dharma-AI/newer-models-same-advantages",
+    "company": "Hugging Face",
+    "title": "Newer Models, Same Advantage",
+    "publish_date": "2026-07-16",
+    "type": "其他",
+    "open_source": "否",
+    "summary": "",
+    "details": "",
+    "url": "https://huggingface.co/blog/Dharma-AI/newer-models-same-advantages",
+    "tags": "",
+    "created_at": "2026-07-17 04:56:50"
+  },
+  {
+    "id": "rss_https://simonwillison.net/2026/Jul/16/inkling/#atom-everything",
+    "company": "Simon Willison",
+    "title": "Inkling: Our open-weights model",
+    "publish_date": "2026-07-16",
+    "type": "其他",
+    "open_source": "否",
+    "summary": "<p><strong><a href=\"https://thinkingmachines.ai/news/introducing-inkling/\">Inkling: Our open-weights model</a></strong></p>\nMira Murati's Thinking Machines Lab just released their first open-weights m",
+    "details": "",
+    "url": "https://simonwillison.net/2026/Jul/16/inkling/#atom-everything",
+    "tags": "",
+    "created_at": "2026-07-17 04:56:52"
   }
 ]
