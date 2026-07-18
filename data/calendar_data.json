@@ -4171,5 +4171,18 @@
     "url": "https://simonwillison.net/2026/Jul/16/inkling/#atom-everything",
     "tags": "",
     "created_at": "2026-07-17 04:56:52"
+  },
+  {
+    "id": "rss_https://huggingface.co/blog/nvidia/scale-diffusers-finetuning-nemo-automodel",
+    "company": "Hugging Face",
+    "title": "Fine-tune video and image models at scale with NVIDIA NeMo Automodel and 🤗 Diffusers",
+    "publish_date": "2026-07-17",
+    "type": "其他",
+    "open_source": "否",
+    "summary": "",
+    "details": "",
+    "url": "https://huggingface.co/blog/nvidia/scale-diffusers-finetuning-nemo-automodel",
+    "tags": "",
+    "created_at": "2026-07-18 04:41:53"
   }
 ]
