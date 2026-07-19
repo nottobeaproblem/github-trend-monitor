@@ -4184,5 +4184,31 @@
     "url": "https://huggingface.co/blog/nvidia/scale-diffusers-finetuning-nemo-automodel",
     "tags": "",
     "created_at": "2026-07-18 04:41:53"
+  },
+  {
+    "id": "rss_https://simonwillison.net/2026/Jul/19/claude-code-in-bun-in-rust/#atom-everything",
+    "company": "Simon Willison",
+    "title": "Claude Code uses Bun written in Rust now",
+    "publish_date": "2026-07-19",
+    "type": "其他",
+    "open_source": "否",
+    "summary": "<p>In <a href=\"https://bun.com/blog/bun-in-rust\">Rewriting Bun in Rust</a> Jarred Sumner made the following claim:</p>\n<blockquote>\n<p>Claude Code v2.1.181 (released June 17th) and later use the Rust ",
+    "details": "",
+    "url": "https://simonwillison.net/2026/Jul/19/claude-code-in-bun-in-rust/#atom-everything",
+    "tags": "",
+    "created_at": "2026-07-19 05:04:11"
+  },
+  {
+    "id": "rss_https://simonwillison.net/2026/Jul/18/claude-make-fable-5-permanent/#atom-everything",
+    "company": "Simon Willison",
+    "title": "Claude make Fable 5 permanent",
+    "publish_date": "2026-07-18",
+    "type": "其他",
+    "open_source": "否",
+    "summary": "<p><strong><a href=\"https://twitter.com/claudeai/status/2078302415804379218\">Claude make Fable 5 permanent</a></strong></p>\nAn update from the <code>@claudeai</code> account on Twitter:</p>\n<blockquot",
+    "details": "",
+    "url": "https://simonwillison.net/2026/Jul/18/claude-make-fable-5-permanent/#atom-everything",
+    "tags": "",
+    "created_at": "2026-07-19 05:04:11"
   }
 ]

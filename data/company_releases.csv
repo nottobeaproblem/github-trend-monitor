@@ -471,3 +471,9 @@ rss_https://huggingface.co/blog/Dharma-AI/newer-models-same-advantages,Hugging F
 rss_https://simonwillison.net/2026/Jul/16/inkling/#atom-everything,Simon Willison,Inkling: Our open-weights model,2026-07-16,其他,否,"<p><strong><a href=""https://thinkingmachines.ai/news/introducing-inkling/"">Inkling: Our open-weights model</a></strong></p>
 Mira Murati's Thinking Machines Lab just released their first open-weights m",,https://simonwillison.net/2026/Jul/16/inkling/#atom-everything,,2026-07-17 04:56:52
 rss_https://huggingface.co/blog/nvidia/scale-diffusers-finetuning-nemo-automodel,Hugging Face,Fine-tune video and image models at scale with NVIDIA NeMo Automodel and 🤗 Diffusers,2026-07-17,其他,否,,,https://huggingface.co/blog/nvidia/scale-diffusers-finetuning-nemo-automodel,,2026-07-18 04:41:53
+rss_https://simonwillison.net/2026/Jul/19/claude-code-in-bun-in-rust/#atom-everything,Simon Willison,Claude Code uses Bun written in Rust now,2026-07-19,其他,否,"<p>In <a href=""https://bun.com/blog/bun-in-rust"">Rewriting Bun in Rust</a> Jarred Sumner made the following claim:</p>
+<blockquote>
+<p>Claude Code v2.1.181 (released June 17th) and later use the Rust ",,https://simonwillison.net/2026/Jul/19/claude-code-in-bun-in-rust/#atom-everything,,2026-07-19 05:04:11
+rss_https://simonwillison.net/2026/Jul/18/claude-make-fable-5-permanent/#atom-everything,Simon Willison,Claude make Fable 5 permanent,2026-07-18,其他,否,"<p><strong><a href=""https://twitter.com/claudeai/status/2078302415804379218"">Claude make Fable 5 permanent</a></strong></p>
+An update from the <code>@claudeai</code> account on Twitter:</p>
+<blockquot",,https://simonwillison.net/2026/Jul/18/claude-make-fable-5-permanent/#atom-everything,,2026-07-19 05:04:11
