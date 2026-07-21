@@ -4210,5 +4210,31 @@
     "url": "https://simonwillison.net/2026/Jul/18/claude-make-fable-5-permanent/#atom-everything",
     "tags": "",
     "created_at": "2026-07-19 05:04:11"
+  },
+  {
+    "id": "rss_https://openai.com/index/safety-alignment-long-horizon-models",
+    "company": "OpenAI",
+    "title": "Safety and alignment in an era of long-horizon models",
+    "publish_date": "2026-07-20",
+    "type": "其他",
+    "open_source": "否",
+    "summary": "OpenAI shares lessons from deploying long-running AI models, highlighting new safety risks, observed failures, and improved safeguards through iterative deployment.",
+    "details": "",
+    "url": "https://openai.com/index/safety-alignment-long-horizon-models",
+    "tags": "",
+    "created_at": "2026-07-21 05:01:28"
+  },
+  {
+    "id": "rss_https://simonwillison.net/2026/Jul/20/afraid-of-chinese-models/#atom-everything",
+    "company": "Simon Willison",
+    "title": "Who’s Afraid of Chinese Models?",
+    "publish_date": "2026-07-20",
+    "type": "其他",
+    "open_source": "否",
+    "summary": "<p><strong><a href=\"https://stratechery.com/2026/whos-afraid-of-chinese-models/\">Who’s Afraid of Chinese Models?</a></strong></p>\nInteresting proposal from Ben Thompson that both addresses the hypocri",
+    "details": "",
+    "url": "https://simonwillison.net/2026/Jul/20/afraid-of-chinese-models/#atom-everything",
+    "tags": "",
+    "created_at": "2026-07-21 05:01:31"
   }
 ]
