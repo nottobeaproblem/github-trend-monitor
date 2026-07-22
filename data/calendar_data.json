@@ -4236,5 +4236,83 @@
     "url": "https://simonwillison.net/2026/Jul/20/afraid-of-chinese-models/#atom-everything",
     "tags": "",
     "created_at": "2026-07-21 05:01:31"
+  },
+  {
+    "id": "rss_https://openai.com/index/introducing-chatgpt-small-business-program",
+    "company": "OpenAI",
+    "title": "Introducing the ChatGPT for small business program",
+    "publish_date": "2026-07-21",
+    "type": "其他",
+    "open_source": "否",
+    "summary": "OpenAI launches the ChatGPT for Small Businesses program, helping entrepreneurs build AI skills, automate work, and grow with ChatGPT Work.",
+    "details": "",
+    "url": "https://openai.com/index/introducing-chatgpt-small-business-program",
+    "tags": "",
+    "created_at": "2026-07-22 05:01:18"
+  },
+  {
+    "id": "rss_https://openai.com/index/hugging-face-model-evaluation-security-incident",
+    "company": "OpenAI",
+    "title": "OpenAI and Hugging Face partner to address security incident during model evaluation",
+    "publish_date": "2026-07-21",
+    "type": "其他",
+    "open_source": "否",
+    "summary": "OpenAI and Hugging Face share early findings from a security incident during AI model evaluation, highlighting advanced cyber capabilities and lessons for defenders.",
+    "details": "",
+    "url": "https://openai.com/index/hugging-face-model-evaluation-security-incident",
+    "tags": "",
+    "created_at": "2026-07-22 05:01:18"
+  },
+  {
+    "id": "rss_https://deepmind.google/blog/introducing-gemini-36-flash-35-flash-lite-and-35-flash-cyber/",
+    "company": "Google DeepMind",
+    "title": "Introducing Gemini 3.6 Flash, 3.5 Flash-Lite, and 3.5 Flash Cyber",
+    "publish_date": "2026-07-21",
+    "type": "其他",
+    "open_source": "否",
+    "summary": "We’re introducing new Gemini models, including Gemini 3.6 Flash, 3.5 Flash-Lite and 3.5 Flash Cyber.",
+    "details": "",
+    "url": "https://deepmind.google/blog/introducing-gemini-36-flash-35-flash-lite-and-35-flash-cyber/",
+    "tags": "",
+    "created_at": "2026-07-22 05:01:18"
+  },
+  {
+    "id": "rss_https://deepmind.google/blog/introducing-gemini-3-5-flash-cyber/",
+    "company": "Google DeepMind",
+    "title": "Introducing Gemini 3.5 Flash Cyber",
+    "publish_date": "2026-07-17",
+    "type": "其他",
+    "open_source": "否",
+    "summary": "Google introduces Gemini 3.5 Flash Cyber, a lightweight cybersecurity model to find and patch vulnerabilities.",
+    "details": "",
+    "url": "https://deepmind.google/blog/introducing-gemini-3-5-flash-cyber/",
+    "tags": "",
+    "created_at": "2026-07-22 05:01:18"
+  },
+  {
+    "id": "rss_https://simonwillison.net/2026/Jul/21/nativ/#atom-everything",
+    "company": "Simon Willison",
+    "title": "Nativ: Run AI models locally on your Mac",
+    "publish_date": "2026-07-21",
+    "type": "其他",
+    "open_source": "否",
+    "summary": "<p><strong><a href=\"https://blaizzy.github.io/nativ/\">Nativ: Run AI models locally on your Mac</a></strong></p>\nPrince Canuma is the developer behind the excellent <a href=\"https://github.com/Blaizzy/",
+    "details": "",
+    "url": "https://simonwillison.net/2026/Jul/21/nativ/#atom-everything",
+    "tags": "",
+    "created_at": "2026-07-22 05:01:21"
+  },
+  {
+    "id": "rss_https://simonwillison.net/2026/Jul/21/cat-and-thariq/#atom-everything",
+    "company": "Simon Willison",
+    "title": "A Fireside Chat with Cat and Thariq from the Claude Code team",
+    "publish_date": "2026-07-21",
+    "type": "其他",
+    "open_source": "否",
+    "summary": "<p>Earlier this month I hosted a fireside chat session at the <a href=\"https://www.ai.engineer/worldsfair/2026\">AI Engineer World's Fair</a> with Cat Wu and Thariq Shihipar from Anthropic's Claude Cod",
+    "details": "",
+    "url": "https://simonwillison.net/2026/Jul/21/cat-and-thariq/#atom-everything",
+    "tags": "",
+    "created_at": "2026-07-22 05:01:21"
   }
 ]
