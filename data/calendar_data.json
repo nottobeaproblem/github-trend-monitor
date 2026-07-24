@@ -4314,5 +4314,31 @@
     "url": "https://simonwillison.net/2026/Jul/21/cat-and-thariq/#atom-everything",
     "tags": "",
     "created_at": "2026-07-22 05:01:21"
+  },
+  {
+    "id": "rss_https://openai.com/index/health-in-chatgpt",
+    "company": "OpenAI",
+    "title": "Launching Health in ChatGPT",
+    "publish_date": "2026-07-23",
+    "type": "其他",
+    "open_source": "否",
+    "summary": "Health in ChatGPT now lets eligible U.S. users securely connect medical records and Apple Health to get more personalized insights and better understand their health.",
+    "details": "",
+    "url": "https://openai.com/index/health-in-chatgpt",
+    "tags": "",
+    "created_at": "2026-07-24 05:03:26"
+  },
+  {
+    "id": "rss_https://simonwillison.net/2026/Jul/23/the-first-known-runaway-ai-agent/#atom-everything",
+    "company": "Simon Willison",
+    "title": "The first known runaway AI agent - or a very bad marketing stunt?",
+    "publish_date": "2026-07-23",
+    "type": "其他",
+    "open_source": "否",
+    "summary": "<p><strong><a href=\"https://martinalderson.com/posts/huggingface-openai-exploit/\">The first known runaway AI agent - or a very bad marketing stunt?</a></strong></p>\nMartin Alderson's commentary on the",
+    "details": "",
+    "url": "https://simonwillison.net/2026/Jul/23/the-first-known-runaway-ai-agent/#atom-everything",
+    "tags": "",
+    "created_at": "2026-07-24 05:03:29"
   }
 ]
