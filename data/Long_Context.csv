@@ -27337,38 +27337,38 @@ id,name,description,url,stars,forks,language,topics,created_at,first_seen,is_act
 1311006120,Jyotsna2006/Pizza-Sales-Orders-Analytics-SQL-Excel-,"End-to-end data analytics project using Microsoft SQL Server (SSMS) and MS Excel to analyze 49,000+ pizza sales records, evaluating executive KPIs, hourly order trends, category revenue shares, and menu performance.",https://github.com/Jyotsna2006/Pizza-Sales-Orders-Analytics-SQL-Excel-,1,0,,,2026-07-24T12:18:12Z,2026-07-25,False,Long Context
 1311111993,integrationninjas/aws-terraform-lab,"Companion repository for the IntegrationNinjas YouTube series on AWS deployments with Terraform and GitHub Actions. Covers secure OIDC authentication (no static AWS keys), EC2 provisioning, ECR image builds, and SSM-based remote deployment. Designed as a reusable lab — not tied to any single app or video.",https://github.com/integrationninjas/aws-terraform-lab,0,0,,,2026-07-24T14:18:07Z,2026-07-25,False,Long Context
 1310930916,atharva-gite/pairstrading,"A market-neutral statistical arbitrage engine in Python that leverages Engle-Granger cointegration  and Kalman Filter state-space modeling  to trade mean-reverting equity spreads. Features dynamic hedging, factor neutrality analysis, and an interactive Streamlit backtesting dashboard ",https://github.com/atharva-gite/pairstrading,0,0,Python,,2026-07-24T10:46:06Z,2026-07-25,False,Long Context
-1311975953,Zakmar2004/long-context-lab,,https://github.com/Zakmar2004/long-context-lab,0,0,,,2026-07-25T12:45:42Z,2026-07-26,True,Long Context
-1312519194,wangzifan396-wzf/long-context-viz-lab,长上下文大模型可视化实验室 - 上下文窗口与位置编码、RoPE与位置插值、Ring Attention分布式、注意力复杂度、大海捞针测试、KV-Cache优化、长上下文基准、应用场景等 8 模块,https://github.com/wangzifan396-wzf/long-context-viz-lab,0,0,HTML,,2026-07-26T05:23:07Z,2026-07-26,True,Long Context
-1312424691,zbalint/CADET,CADET is a lightweight MCP server allowing Claude Code to delegate high-speed execution and long-context refactoring tasks to Antigravity CLI,https://github.com/zbalint/CADET,0,0,Python,,2026-07-26T01:49:45Z,2026-07-26,True,Long Context
-1311745493,daksh9361/Simon-Game,Simon Says is a fun memory game where players repeat an increasingly long sequence of colors.,https://github.com/daksh9361/Simon-Game,0,0,JavaScript,,2026-07-25T06:47:21Z,2026-07-26,True,Long Context
-1311876228,wareeshaishfaq05-source/rnn-vs-lstm-imdb-sentiment,"Comparing vanilla RNN and LSTM for IMDB sentiment classification, with a long-sequence experiment showing the vanishing gradient problem and why it motivates attention/transformers.",https://github.com/wareeshaishfaq05-source/rnn-vs-lstm-imdb-sentiment,0,0,Jupyter Notebook,,2026-07-25T10:09:38Z,2026-07-26,True,Long Context
-1312113624,surafelfikru/mamba,,https://github.com/surafelfikru/mamba,0,0,Rust,,2026-07-25T15:59:34Z,2026-07-26,True,Long Context
-1312441106,bashenan2003/ST-MambaDoTP,,https://github.com/bashenan2003/ST-MambaDoTP,0,0,,,2026-07-26T02:29:48Z,2026-07-26,True,Long Context
-1311987149,MehdiBabaafzali/Mamba-,,https://github.com/MehdiBabaafzali/Mamba-,0,0,,,2026-07-25T13:01:27Z,2026-07-26,True,Long Context
-1311845332,Ruikunw726/mambacd,,https://github.com/Ruikunw726/mambacd,0,0,Python,,2026-07-25T09:19:32Z,2026-07-26,True,Long Context
-1312351005,ywang552/tadMamba,,https://github.com/ywang552/tadMamba,0,0,Python,,2026-07-25T22:44:35Z,2026-07-26,True,Long Context
-1311902364,chenge1111/SRG-mamba,underwater_image_enhancement,https://github.com/chenge1111/SRG-mamba,0,0,,,2026-07-25T10:50:03Z,2026-07-26,True,Long Context
-1311810207,piyush1617ab/GW-Mamba,,https://github.com/piyush1617ab/GW-Mamba,0,0,,,2026-07-25T08:24:29Z,2026-07-26,True,Long Context
-1311749265,YijingGuo-June/CausalMamba,,https://github.com/YijingGuo-June/CausalMamba,0,0,Python,,2026-07-25T06:53:11Z,2026-07-26,True,Long Context
-1312448077,ministerhuang/FreqMamba,,https://github.com/ministerhuang/FreqMamba,0,0,,,2026-07-26T02:47:10Z,2026-07-26,True,Long Context
-1311804155,zhwt-xidian/TensorMamba,,https://github.com/zhwt-xidian/TensorMamba,0,0,,,2026-07-25T08:14:38Z,2026-07-26,True,Long Context
-1311802899,TheAnh0511/DIFF_MAMBA_FECG,,https://github.com/TheAnh0511/DIFF_MAMBA_FECG,0,0,,,2026-07-25T08:12:35Z,2026-07-26,True,Long Context
-1311999576,ShakespareSun/Spatial-Mamba-forWaterscenes,,https://github.com/ShakespareSun/Spatial-Mamba-forWaterscenes,0,0,Python,,2026-07-25T13:19:14Z,2026-07-26,True,Long Context
-1311930615,UDW123/DGMSTN,A Dynamic Graph-Enhanced Bi-Mamba Spatio-Temporal Network for Long-Term Traffic Forecasting,https://github.com/UDW123/DGMSTN,0,0,Python,,2026-07-25T11:34:10Z,2026-07-26,True,Long Context
-1311872575,wangzifan396-wzf/transformer-evolution-viz-lab,Transformer 架构演进可视化实验室 - Mamba/SSM/RWKV/FlashAttention,https://github.com/wangzifan396-wzf/transformer-evolution-viz-lab,0,0,HTML,"artificial-intelligence,css,data-viz,deep-learning,education,efficient-attention,flash-attention,html,interactive,javascript,linear-attention,machine-learning,single-file,svg,transformer,visualization,zero-dependency",2026-07-25T10:04:29Z,2026-07-26,True,Long Context
-1312013035,malakhishams/Attentionist,"RAG assistant that answers questions about transformer architecture and attention mechanisms, grounded in 9 foundational and research papers (Attention Is All You Need, BERT, GPT-3, ViT, Reformer, Longformer, Performer, Mamba, RoFormer)",https://github.com/malakhishams/Attentionist,0,0,Python,,2026-07-25T13:37:43Z,2026-07-26,True,Long Context
-1312311393,abduljaan020-svg/adam-local-ai-executor,Orchestrate multi-agent financial workflows and credit risk models with this local-first Python AI framework.,https://github.com/abduljaan020-svg/adam-local-ai-executor,0,0,HTML,"about-me,ai,animation,anthropic,avro,awesome,badge,badges,big-data,contact,creative,creativity,gemini,genomics,gifs,mamba,object-detection,scala,spark,typescript",2026-07-25T21:15:21Z,2026-07-26,True,Long Context
-1312403350,Waleed77ALEE/Waleed-Ahmed,SSM,https://github.com/Waleed77ALEE/Waleed-Ahmed,0,0,TypeScript,,2026-07-26T00:55:54Z,2026-07-26,True,Long Context
-1312261593,han1ya/smartsteps,ssm website,https://github.com/han1ya/smartsteps,0,0,HTML,,2026-07-25T19:40:38Z,2026-07-26,True,Long Context
-1312244396,Arush006/SSmart,,https://github.com/Arush006/SSmart,0,0,JavaScript,,2026-07-25T19:09:30Z,2026-07-26,True,Long Context
-1311881634,Niroshanwithanage/ssmuweb,,https://github.com/Niroshanwithanage/ssmuweb,0,0,HTML,,2026-07-25T10:16:58Z,2026-07-26,True,Long Context
-1311836527,Niroshanwithanage/ssmu,sri sumana media unit simple site,https://github.com/Niroshanwithanage/ssmu,0,0,HTML,,2026-07-25T09:04:54Z,2026-07-26,True,Long Context
-1312513471,budneyjeng/ssmouw,,https://github.com/budneyjeng/ssmouw,0,0,,,2026-07-26T05:12:12Z,2026-07-26,True,Long Context
-1312125717,dillipsabatwalkout/SSMS,,https://github.com/dillipsabatwalkout/SSMS,0,0,,,2026-07-25T16:15:19Z,2026-07-26,True,Long Context
-1311787782,shaunakmuley/ssm_pandas,,https://github.com/shaunakmuley/ssm_pandas,0,0,,,2026-07-25T07:49:04Z,2026-07-26,True,Long Context
-1311737465,theevore/ssm-probe,,https://github.com/theevore/ssm-probe,0,0,,,2026-07-25T06:35:25Z,2026-07-26,True,Long Context
-1311952243,lql534/Java-spring-ssm,包含所学的所有后端知识,https://github.com/lql534/Java-spring-ssm,0,0,HTML,,2026-07-25T12:08:37Z,2026-07-26,True,Long Context
-1312032996,SvenMeyer/ssm-opus5,,https://github.com/SvenMeyer/ssm-opus5,0,0,TypeScript,,2026-07-25T14:05:38Z,2026-07-26,True,Long Context
-1312029011,nopour/Flexible-Multibody-SSM,Nonlinear Model Reduction of Flexible Multibody Systems via Spectral Submanifolds,https://github.com/nopour/Flexible-Multibody-SSM,1,0,MATLAB,,2026-07-25T14:00:08Z,2026-07-26,True,Long Context
-1312016426,SvenMeyer/ssm-fab5,,https://github.com/SvenMeyer/ssm-fab5,0,0,Svelte,,2026-07-25T13:42:19Z,2026-07-26,True,Long Context
-1311918786,satxzy/Ampas_Dark_System.ssmecnyj,,https://github.com/satxzy/Ampas_Dark_System.ssmecnyj,0,0,,,2026-07-25T11:16:07Z,2026-07-26,True,Long Context
+1311975953,Zakmar2004/long-context-lab,,https://github.com/Zakmar2004/long-context-lab,0,0,,,2026-07-25T12:45:42Z,2026-07-26,False,Long Context
+1312519194,wangzifan396-wzf/long-context-viz-lab,长上下文大模型可视化实验室 - 上下文窗口与位置编码、RoPE与位置插值、Ring Attention分布式、注意力复杂度、大海捞针测试、KV-Cache优化、长上下文基准、应用场景等 8 模块,https://github.com/wangzifan396-wzf/long-context-viz-lab,0,0,HTML,,2026-07-26T05:23:07Z,2026-07-26,False,Long Context
+1312424691,zbalint/CADET,CADET is a lightweight MCP server allowing Claude Code to delegate high-speed execution and long-context refactoring tasks to Antigravity CLI,https://github.com/zbalint/CADET,0,0,Python,,2026-07-26T01:49:45Z,2026-07-26,False,Long Context
+1311745493,daksh9361/Simon-Game,Simon Says is a fun memory game where players repeat an increasingly long sequence of colors.,https://github.com/daksh9361/Simon-Game,0,0,JavaScript,,2026-07-25T06:47:21Z,2026-07-26,False,Long Context
+1311876228,wareeshaishfaq05-source/rnn-vs-lstm-imdb-sentiment,"Comparing vanilla RNN and LSTM for IMDB sentiment classification, with a long-sequence experiment showing the vanishing gradient problem and why it motivates attention/transformers.",https://github.com/wareeshaishfaq05-source/rnn-vs-lstm-imdb-sentiment,0,0,Jupyter Notebook,,2026-07-25T10:09:38Z,2026-07-26,False,Long Context
+1312113624,surafelfikru/mamba,,https://github.com/surafelfikru/mamba,0,0,Rust,,2026-07-25T15:59:34Z,2026-07-26,False,Long Context
+1312441106,bashenan2003/ST-MambaDoTP,,https://github.com/bashenan2003/ST-MambaDoTP,0,0,,,2026-07-26T02:29:48Z,2026-07-26,False,Long Context
+1311987149,MehdiBabaafzali/Mamba-,,https://github.com/MehdiBabaafzali/Mamba-,0,0,,,2026-07-25T13:01:27Z,2026-07-26,False,Long Context
+1311845332,Ruikunw726/mambacd,,https://github.com/Ruikunw726/mambacd,0,0,Python,,2026-07-25T09:19:32Z,2026-07-26,False,Long Context
+1312351005,ywang552/tadMamba,,https://github.com/ywang552/tadMamba,0,0,Python,,2026-07-25T22:44:35Z,2026-07-26,False,Long Context
+1311902364,chenge1111/SRG-mamba,underwater_image_enhancement,https://github.com/chenge1111/SRG-mamba,0,0,,,2026-07-25T10:50:03Z,2026-07-26,False,Long Context
+1311810207,piyush1617ab/GW-Mamba,,https://github.com/piyush1617ab/GW-Mamba,0,0,,,2026-07-25T08:24:29Z,2026-07-26,False,Long Context
+1311749265,YijingGuo-June/CausalMamba,,https://github.com/YijingGuo-June/CausalMamba,0,0,Python,,2026-07-25T06:53:11Z,2026-07-26,False,Long Context
+1312448077,ministerhuang/FreqMamba,,https://github.com/ministerhuang/FreqMamba,0,0,,,2026-07-26T02:47:10Z,2026-07-26,False,Long Context
+1311804155,zhwt-xidian/TensorMamba,,https://github.com/zhwt-xidian/TensorMamba,0,0,,,2026-07-25T08:14:38Z,2026-07-26,False,Long Context
+1311802899,TheAnh0511/DIFF_MAMBA_FECG,,https://github.com/TheAnh0511/DIFF_MAMBA_FECG,0,0,,,2026-07-25T08:12:35Z,2026-07-26,False,Long Context
+1311999576,ShakespareSun/Spatial-Mamba-forWaterscenes,,https://github.com/ShakespareSun/Spatial-Mamba-forWaterscenes,0,0,Python,,2026-07-25T13:19:14Z,2026-07-26,False,Long Context
+1311930615,UDW123/DGMSTN,A Dynamic Graph-Enhanced Bi-Mamba Spatio-Temporal Network for Long-Term Traffic Forecasting,https://github.com/UDW123/DGMSTN,0,0,Python,,2026-07-25T11:34:10Z,2026-07-26,False,Long Context
+1311872575,wangzifan396-wzf/transformer-evolution-viz-lab,Transformer 架构演进可视化实验室 - Mamba/SSM/RWKV/FlashAttention,https://github.com/wangzifan396-wzf/transformer-evolution-viz-lab,0,0,HTML,"artificial-intelligence,css,data-viz,deep-learning,education,efficient-attention,flash-attention,html,interactive,javascript,linear-attention,machine-learning,single-file,svg,transformer,visualization,zero-dependency",2026-07-25T10:04:29Z,2026-07-26,False,Long Context
+1312013035,malakhishams/Attentionist,"RAG assistant that answers questions about transformer architecture and attention mechanisms, grounded in 9 foundational and research papers (Attention Is All You Need, BERT, GPT-3, ViT, Reformer, Longformer, Performer, Mamba, RoFormer)",https://github.com/malakhishams/Attentionist,0,0,Python,,2026-07-25T13:37:43Z,2026-07-26,False,Long Context
+1312311393,abduljaan020-svg/adam-local-ai-executor,Orchestrate multi-agent financial workflows and credit risk models with this local-first Python AI framework.,https://github.com/abduljaan020-svg/adam-local-ai-executor,0,0,HTML,"about-me,ai,animation,anthropic,avro,awesome,badge,badges,big-data,contact,creative,creativity,gemini,genomics,gifs,mamba,object-detection,scala,spark,typescript",2026-07-25T21:15:21Z,2026-07-26,False,Long Context
+1312403350,Waleed77ALEE/Waleed-Ahmed,SSM,https://github.com/Waleed77ALEE/Waleed-Ahmed,0,0,TypeScript,,2026-07-26T00:55:54Z,2026-07-26,False,Long Context
+1312261593,han1ya/smartsteps,ssm website,https://github.com/han1ya/smartsteps,0,0,HTML,,2026-07-25T19:40:38Z,2026-07-26,False,Long Context
+1312244396,Arush006/SSmart,,https://github.com/Arush006/SSmart,0,0,JavaScript,,2026-07-25T19:09:30Z,2026-07-26,False,Long Context
+1311881634,Niroshanwithanage/ssmuweb,,https://github.com/Niroshanwithanage/ssmuweb,0,0,HTML,,2026-07-25T10:16:58Z,2026-07-26,False,Long Context
+1311836527,Niroshanwithanage/ssmu,sri sumana media unit simple site,https://github.com/Niroshanwithanage/ssmu,0,0,HTML,,2026-07-25T09:04:54Z,2026-07-26,False,Long Context
+1312513471,budneyjeng/ssmouw,,https://github.com/budneyjeng/ssmouw,0,0,,,2026-07-26T05:12:12Z,2026-07-26,False,Long Context
+1312125717,dillipsabatwalkout/SSMS,,https://github.com/dillipsabatwalkout/SSMS,0,0,,,2026-07-25T16:15:19Z,2026-07-26,False,Long Context
+1311787782,shaunakmuley/ssm_pandas,,https://github.com/shaunakmuley/ssm_pandas,0,0,,,2026-07-25T07:49:04Z,2026-07-26,False,Long Context
+1311737465,theevore/ssm-probe,,https://github.com/theevore/ssm-probe,0,0,,,2026-07-25T06:35:25Z,2026-07-26,False,Long Context
+1311952243,lql534/Java-spring-ssm,包含所学的所有后端知识,https://github.com/lql534/Java-spring-ssm,0,0,HTML,,2026-07-25T12:08:37Z,2026-07-26,False,Long Context
+1312032996,SvenMeyer/ssm-opus5,,https://github.com/SvenMeyer/ssm-opus5,0,0,TypeScript,,2026-07-25T14:05:38Z,2026-07-26,False,Long Context
+1312029011,nopour/Flexible-Multibody-SSM,Nonlinear Model Reduction of Flexible Multibody Systems via Spectral Submanifolds,https://github.com/nopour/Flexible-Multibody-SSM,1,0,MATLAB,,2026-07-25T14:00:08Z,2026-07-26,False,Long Context
+1312016426,SvenMeyer/ssm-fab5,,https://github.com/SvenMeyer/ssm-fab5,0,0,Svelte,,2026-07-25T13:42:19Z,2026-07-26,False,Long Context
+1311918786,satxzy/Ampas_Dark_System.ssmecnyj,,https://github.com/satxzy/Ampas_Dark_System.ssmecnyj,0,0,,,2026-07-25T11:16:07Z,2026-07-26,False,Long Context
