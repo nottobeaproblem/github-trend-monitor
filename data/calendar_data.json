@@ -4353,5 +4353,70 @@
     "url": "https://simonwillison.net/2026/Jul/24/introducing-claude-opus-5/#atom-everything",
     "tags": "",
     "created_at": "2026-07-25 04:58:57"
+  },
+  {
+    "id": "rss_https://openai.com/index/scientific-computing-agentic-ai",
+    "company": "OpenAI",
+    "title": "Scientific computing in the age of agentic AI",
+    "publish_date": "2026-07-28",
+    "type": "其他",
+    "open_source": "否",
+    "summary": "A new field report shows how scientists use AI coding agents to modernize scientific computing, accelerating software development and discovery in genomics and beyond.",
+    "details": "",
+    "url": "https://openai.com/index/scientific-computing-agentic-ai",
+    "tags": "",
+    "created_at": "2026-07-29 05:02:31"
+  },
+  {
+    "id": "rss_https://blog.google/innovation-and-ai/technology/developers-tools/expanding-managed-agents-gemini-api-3-6-flash-hooks/",
+    "company": "Google AI",
+    "title": "Gemini API Managed Agents: 3.6 Flash, hooks, and more",
+    "publish_date": "2026-07-28",
+    "type": "其他",
+    "open_source": "否",
+    "summary": "Managed Agents Gemini 3.6 Flash, Hooks and Triggers",
+    "details": "",
+    "url": "https://blog.google/innovation-and-ai/technology/developers-tools/expanding-managed-agents-gemini-api-3-6-flash-hooks/",
+    "tags": "",
+    "created_at": "2026-07-29 05:02:31"
+  },
+  {
+    "id": "rss_https://huggingface.co/blog/agent-intrusion-technical-timeline",
+    "company": "Hugging Face",
+    "title": "Anatomy of a Frontier Lab Agent Intrusion: A Technical Timeline of the July 2026 Incident",
+    "publish_date": "2026-07-27",
+    "type": "其他",
+    "open_source": "否",
+    "summary": "",
+    "details": "",
+    "url": "https://huggingface.co/blog/agent-intrusion-technical-timeline",
+    "tags": "",
+    "created_at": "2026-07-29 05:02:33"
+  },
+  {
+    "id": "rss_https://simonwillison.net/2026/Jul/28/discovering-cryptographic-weaknesses-with-claude/#atom-everything",
+    "company": "Simon Willison",
+    "title": "Discovering cryptographic weaknesses with Claude",
+    "publish_date": "2026-07-28",
+    "type": "其他",
+    "open_source": "否",
+    "summary": "<p><strong><a href=\"https://www.anthropic.com/research/discovering-cryptographic-weaknesses\">Discovering cryptographic weaknesses with Claude</a></strong></p>\nThe best part of this article (here's <a ",
+    "details": "",
+    "url": "https://simonwillison.net/2026/Jul/28/discovering-cryptographic-weaknesses-with-claude/#atom-everything",
+    "tags": "",
+    "created_at": "2026-07-29 05:02:35"
+  },
+  {
+    "id": "rss_https://simonwillison.net/2026/Jul/28/anatomy-of-a-frontier-lab-agent-intrusion/#atom-everything",
+    "company": "Simon Willison",
+    "title": "Anatomy of a Frontier Lab Agent Intrusion: A Technical Timeline of the July 2026 Incident",
+    "publish_date": "2026-07-28",
+    "type": "其他",
+    "open_source": "否",
+    "summary": "<p><strong><a href=\"https://huggingface.co/blog/agent-intrusion-technical-timeline\">Anatomy of a Frontier Lab Agent Intrusion: A Technical Timeline of the July 2026 Incident</a></strong></p>\nHugging F",
+    "details": "",
+    "url": "https://simonwillison.net/2026/Jul/28/anatomy-of-a-frontier-lab-agent-intrusion/#atom-everything",
+    "tags": "",
+    "created_at": "2026-07-29 05:02:35"
   }
 ]
