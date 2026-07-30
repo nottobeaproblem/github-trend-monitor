@@ -4418,5 +4418,57 @@
     "url": "https://simonwillison.net/2026/Jul/28/anatomy-of-a-frontier-lab-agent-intrusion/#atom-everything",
     "tags": "",
     "created_at": "2026-07-29 05:02:35"
+  },
+  {
+    "id": "rss_https://openai.com/index/chatgpt-for-academic-researchers",
+    "company": "OpenAI",
+    "title": "Accelerating scientific discovery with ChatGPT for Academic Researchers",
+    "publish_date": "2026-07-29",
+    "type": "其他",
+    "open_source": "否",
+    "summary": "OpenAI is giving 100,000 academic researchers free access to ChatGPT's most advanced AI models to accelerate scientific research, collaboration, and discovery.",
+    "details": "",
+    "url": "https://openai.com/index/chatgpt-for-academic-researchers",
+    "tags": "",
+    "created_at": "2026-07-30 04:50:34"
+  },
+  {
+    "id": "rss_https://openai.com/index/gpt-5-6-frontier-intelligence-efficiency",
+    "company": "OpenAI",
+    "title": "How GPT-5.6 fuses frontier intelligence with frontier efficiency",
+    "publish_date": "2026-07-29",
+    "type": "其他",
+    "open_source": "否",
+    "summary": "GPT-5.6 improves AI efficiency across models, inference, and agentic workflows, helping deliver more useful intelligence per dollar.",
+    "details": "",
+    "url": "https://openai.com/index/gpt-5-6-frontier-intelligence-efficiency",
+    "tags": "",
+    "created_at": "2026-07-30 04:50:34"
+  },
+  {
+    "id": "rss_https://deepmind.google/blog/were-launching-lyria-35-in-google-flow-music-with-advances-across-musicality-lyrics-vocals-and-creative-control/",
+    "company": "Google DeepMind",
+    "title": "We’re launching Lyria 3.5 in Google Flow Music, with advances across musicality, lyrics, vocals, and creative control",
+    "publish_date": "2026-07-29",
+    "type": "其他",
+    "open_source": "否",
+    "summary": "",
+    "details": "",
+    "url": "https://deepmind.google/blog/were-launching-lyria-35-in-google-flow-music-with-advances-across-musicality-lyrics-vocals-and-creative-control/",
+    "tags": "",
+    "created_at": "2026-07-30 04:50:34"
+  },
+  {
+    "id": "rss_https://simonwillison.net/2026/Jul/29/mcp-in-claude-and-chatgpt/#atom-everything",
+    "company": "Simon Willison",
+    "title": "Adding a custom MCP server to Claude and ChatGPT",
+    "publish_date": "2026-07-29",
+    "type": "其他",
+    "open_source": "否",
+    "summary": "<p><strong>TIL:</strong> <a href=\"https://til.simonwillison.net/llms/mcp-in-claude-and-chatgpt\">Adding a custom MCP server to Claude and ChatGPT</a></p>\n        <p>Connecting a custom MCP server to Cl",
+    "details": "",
+    "url": "https://simonwillison.net/2026/Jul/29/mcp-in-claude-and-chatgpt/#atom-everything",
+    "tags": "",
+    "created_at": "2026-07-30 04:50:37"
   }
 ]
