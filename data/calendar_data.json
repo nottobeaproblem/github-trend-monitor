@@ -4470,5 +4470,83 @@
     "url": "https://simonwillison.net/2026/Jul/29/mcp-in-claude-and-chatgpt/#atom-everything",
     "tags": "",
     "created_at": "2026-07-30 04:50:37"
+  },
+  {
+    "id": "rss_https://openai.com/index/advancing-the-price-performance-frontier-with-gpt-5-6",
+    "company": "OpenAI",
+    "title": "Advancing the price-performance frontier with GPT-5.6",
+    "publish_date": "2026-07-30",
+    "type": "其他",
+    "open_source": "否",
+    "summary": "Explore lower GPT‑5.6 pricing for Luna and Terra—and how OpenAI’s more efficient models help enterprises deploy AI workflows at scale.",
+    "details": "",
+    "url": "https://openai.com/index/advancing-the-price-performance-frontier-with-gpt-5-6",
+    "tags": "",
+    "created_at": "2026-07-31 05:27:32"
+  },
+  {
+    "id": "rss_https://openai.com/index/avatarin",
+    "company": "OpenAI",
+    "title": "How avatarin built a 24/7 retail agent with GPT-Realtime",
+    "publish_date": "2026-07-30",
+    "type": "其他",
+    "open_source": "否",
+    "summary": "avatarin uses OpenAI’s GPT-Realtime to give Yamada Denki shoppers 24/7 multilingual support. In two weeks, 30,000 people used the agent and 92% of survey responses were positive.",
+    "details": "",
+    "url": "https://openai.com/index/avatarin",
+    "tags": "",
+    "created_at": "2026-07-31 05:27:32"
+  },
+  {
+    "id": "rss_https://deepmind.google/blog/gemini-robotics-er-2-powering-robotics-with-video-understanding-task-orchestration-and-multi-robot-collaboration/",
+    "company": "Google DeepMind",
+    "title": "Gemini Robotics ER 2: powering robotics with video understanding, task orchestration, and multi-robot collaboration",
+    "publish_date": "2026-07-30",
+    "type": "其他",
+    "open_source": "否",
+    "summary": "Gemini Robotics ER 2 helps robots reason, collaborate, and solve real-world tasks. It represents a step change in video understanding, tool orchestration, and multi-robot collaboration for robotic app",
+    "details": "",
+    "url": "https://deepmind.google/blog/gemini-robotics-er-2-powering-robotics-with-video-understanding-task-orchestration-and-multi-robot-collaboration/",
+    "tags": "",
+    "created_at": "2026-07-31 05:27:32"
+  },
+  {
+    "id": "rss_https://deepmind.google/blog/gemini-robotics-2-brings-whole-body-intelligence-to-robots/",
+    "company": "Google DeepMind",
+    "title": "Gemini Robotics 2 brings whole body intelligence to robots",
+    "publish_date": "2026-07-28",
+    "type": "其他",
+    "open_source": "否",
+    "summary": "",
+    "details": "",
+    "url": "https://deepmind.google/blog/gemini-robotics-2-brings-whole-body-intelligence-to-robots/",
+    "tags": "",
+    "created_at": "2026-07-31 05:27:32"
+  },
+  {
+    "id": "rss_https://www.microsoft.com/en-us/research/?p=1179908",
+    "company": "Microsoft Research",
+    "title": "Echoverse: Deep, evolving environments for computer-use agents",
+    "publish_date": "2026-07-30",
+    "type": "其他",
+    "open_source": "否",
+    "summary": "<p>Computer-use AI agents struggle with multi-step workflows like email and customer support. Echoverse trains agents in realistic environments rather than simply providing more training tasks, helpin",
+    "details": "",
+    "url": "https://www.microsoft.com/en-us/research/blog/echoverse-deep-evolving-environments-for-computer-use-agents/",
+    "tags": "",
+    "created_at": "2026-07-31 05:27:35"
+  },
+  {
+    "id": "rss_https://simonwillison.net/2026/Jul/30/luna-price-drop/#atom-everything",
+    "company": "Simon Willison",
+    "title": "Advancing the price-performance frontier with GPT‑5.6",
+    "publish_date": "2026-07-30",
+    "type": "其他",
+    "open_source": "否",
+    "summary": "<p><strong><a href=\"https://openai.com/index/advancing-the-price-performance-frontier-with-gpt-5-6/\">Advancing the price-performance frontier with GPT‑5.6</a></strong></p>\nHuge price drop from OpenAI ",
+    "details": "",
+    "url": "https://simonwillison.net/2026/Jul/30/luna-price-drop/#atom-everything",
+    "tags": "",
+    "created_at": "2026-07-31 05:27:36"
   }
 ]
