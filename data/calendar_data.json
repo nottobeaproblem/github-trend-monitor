@@ -4548,5 +4548,57 @@
     "url": "https://simonwillison.net/2026/Jul/30/luna-price-drop/#atom-everything",
     "tags": "",
     "created_at": "2026-07-31 05:27:36"
+  },
+  {
+    "id": "rss_https://simonwillison.net/2026/Jul/31/deepseek-v4-flash-0731/#atom-everything",
+    "company": "Simon Willison",
+    "title": "deepseek-ai/DeepSeek-V4-Flash-0731",
+    "publish_date": "2026-07-31",
+    "type": "其他",
+    "open_source": "否",
+    "summary": "<p><strong><a href=\"https://huggingface.co/deepseek-ai/DeepSeek-V4-Flash-0731\">deepseek-ai/DeepSeek-V4-Flash-0731</a></strong></p>\nThe latest release in DeepSeek's V4 family, \"with substantially enhan",
+    "details": "",
+    "url": "https://simonwillison.net/2026/Jul/31/deepseek-v4-flash-0731/#atom-everything",
+    "tags": "",
+    "created_at": "2026-08-01 05:20:48"
+  },
+  {
+    "id": "rss_https://simonwillison.net/2026/Jul/31/stateless-mcp/#atom-everything",
+    "company": "Simon Willison",
+    "title": "Stateless MCP has recaptured my interest (and inspired mcp-explorer and datasette-mcp)",
+    "publish_date": "2026-07-31",
+    "type": "其他",
+    "open_source": "否",
+    "summary": "<p>Tuesday was <a href=\"https://x.com/ade_oshineye/status/2082129440943866149\">Stateless MCP day</a> - the rollout of MCP 2.0, or <a href=\"https://blog.modelcontextprotocol.io/posts/2026-07-28/\">the 2",
+    "details": "",
+    "url": "https://simonwillison.net/2026/Jul/31/stateless-mcp/#atom-everything",
+    "tags": "",
+    "created_at": "2026-08-01 05:20:48"
+  },
+  {
+    "id": "rss_https://simonwillison.net/2026/Jul/31/smevals/#atom-everything",
+    "company": "Simon Willison",
+    "title": "smevals - a small eval suite for evaluating models, prompts, and harnesses",
+    "publish_date": "2026-07-31",
+    "type": "其他",
+    "open_source": "否",
+    "summary": "<p><strong><a href=\"https://primeradiant.com/blog/2026/smevals.html\">smevals - a small eval suite for evaluating models, prompts, and harnesses</a></strong></p>\nI've been working with Jesse Vincent's ",
+    "details": "",
+    "url": "https://simonwillison.net/2026/Jul/31/smevals/#atom-everything",
+    "tags": "",
+    "created_at": "2026-08-01 05:20:48"
+  },
+  {
+    "id": "rss_https://simonwillison.net/2026/Jul/31/datasette-agent/#atom-everything",
+    "company": "Simon Willison",
+    "title": "datasette-agent 0.4a0",
+    "publish_date": "2026-07-31",
+    "type": "其他",
+    "open_source": "否",
+    "summary": "<p><strong>Release:</strong> <a href=\"https://github.com/datasette/datasette-agent/releases/tag/0.4a0\">datasette-agent 0.4a0</a></p>\n        <blockquote>\n<ul>\n<li>New <code>await context.browser_task(",
+    "details": "",
+    "url": "https://simonwillison.net/2026/Jul/31/datasette-agent/#atom-everything",
+    "tags": "",
+    "created_at": "2026-08-01 05:20:48"
   }
 ]
