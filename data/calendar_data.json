@@ -4600,5 +4600,18 @@
     "url": "https://simonwillison.net/2026/Jul/31/datasette-agent/#atom-everything",
     "tags": "",
     "created_at": "2026-08-01 05:20:48"
+  },
+  {
+    "id": "rss_https://simonwillison.net/2026/Aug/1/datasette-apps/#atom-everything",
+    "company": "Simon Willison",
+    "title": "datasette-apps 0.2a0",
+    "publish_date": "2026-08-01",
+    "type": "其他",
+    "open_source": "否",
+    "summary": "<p><strong>Release:</strong> <a href=\"https://github.com/datasette/datasette-apps/releases/tag/0.2a0\">datasette-apps 0.2a0</a></p>\n        <blockquote>\n<p>Changes that improve Datasette Apps when crea",
+    "details": "",
+    "url": "https://simonwillison.net/2026/Aug/1/datasette-apps/#atom-everything",
+    "tags": "",
+    "created_at": "2026-08-02 05:20:05"
   }
 ]

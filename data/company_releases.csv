@@ -520,3 +520,6 @@ rss_https://simonwillison.net/2026/Jul/31/datasette-agent/#atom-everything,Simon
         <blockquote>
 <ul>
 <li>New <code>await context.browser_task(",,https://simonwillison.net/2026/Jul/31/datasette-agent/#atom-everything,,2026-08-01 05:20:48
+rss_https://simonwillison.net/2026/Aug/1/datasette-apps/#atom-everything,Simon Willison,datasette-apps 0.2a0,2026-08-01,其他,否,"<p><strong>Release:</strong> <a href=""https://github.com/datasette/datasette-apps/releases/tag/0.2a0"">datasette-apps 0.2a0</a></p>
+        <blockquote>
+<p>Changes that improve Datasette Apps when crea",,https://simonwillison.net/2026/Aug/1/datasette-apps/#atom-everything,,2026-08-02 05:20:05
