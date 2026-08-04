@@ -4613,5 +4613,31 @@
     "url": "https://simonwillison.net/2026/Aug/1/datasette-apps/#atom-everything",
     "tags": "",
     "created_at": "2026-08-02 05:20:05"
+  },
+  {
+    "id": "rss_",
+    "company": "Microsoft Research",
+    "title": "Orchard: An open framework for scalable agentic AI",
+    "publish_date": "2026-08-03",
+    "type": "其他",
+    "open_source": "否",
+    "summary": "<p>Orchard is an open-source framework for the research community to train and evaluate AI agents across task types. It reduces complexity while supporting strong performance from smaller models by en",
+    "details": "",
+    "url": "https://www.microsoft.com/en-us/research/blog/orchard-an-open-framework-for-scalable-agentic-ai/",
+    "tags": "",
+    "created_at": "2026-08-04 04:57:45"
+  },
+  {
+    "id": "rss_https://simonwillison.net/2026/Aug/3/devtools-must-be-open-source-exedev/#atom-everything",
+    "company": "Simon Willison",
+    "title": "Devtools must be open source (exe.dev)",
+    "publish_date": "2026-08-03",
+    "type": "其他",
+    "open_source": "否",
+    "summary": "<p><a href=\"https://news.ycombinator.com/item?id=49156111#49156719\">My comment</a> on <a href=\"https://news.ycombinator.com/item?id=49156111\">Devtools must be open source (exe.dev)</a> &mdash; Hacker ",
+    "details": "",
+    "url": "https://simonwillison.net/2026/Aug/3/devtools-must-be-open-source-exedev/#atom-everything",
+    "tags": "",
+    "created_at": "2026-08-04 04:57:45"
   }
 ]
