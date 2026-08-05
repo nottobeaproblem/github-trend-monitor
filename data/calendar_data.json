@@ -4639,5 +4639,57 @@
     "url": "https://simonwillison.net/2026/Aug/3/devtools-must-be-open-source-exedev/#atom-everything",
     "tags": "",
     "created_at": "2026-08-04 04:57:45"
+  },
+  {
+    "id": "rss_https://openai.com/index/third-party-cyber-evaluations-involving-openai-models",
+    "company": "OpenAI",
+    "title": "Third-party cyber evaluations involving OpenAI models",
+    "publish_date": "2026-08-04",
+    "type": "其他",
+    "open_source": "否",
+    "summary": "OpenAI explains recent third-party cybersecurity evaluation incidents and outlines new safeguards to strengthen AI model testing and evaluation.",
+    "details": "",
+    "url": "https://openai.com/index/third-party-cyber-evaluations-involving-openai-models",
+    "tags": "",
+    "created_at": "2026-08-05 04:58:03"
+  },
+  {
+    "id": "rss_https://openai.com/index/learn-teach-chatgpt-work-codex",
+    "company": "OpenAI",
+    "title": "New ways to learn and teach with ChatGPT Work and Codex",
+    "publish_date": "2026-08-04",
+    "type": "其他",
+    "open_source": "否",
+    "summary": "Explore new education plugins for ChatGPT Work and Codex that help K–12 teachers, college educators, and students learn, teach, research, and build.",
+    "details": "",
+    "url": "https://openai.com/index/learn-teach-chatgpt-work-codex",
+    "tags": "",
+    "created_at": "2026-08-05 04:58:03"
+  },
+  {
+    "id": "rss_https://huggingface.co/blog/LiquidAI/lfm2-5-2-6b",
+    "company": "Hugging Face",
+    "title": "Deploy local agents everywhere with LFM2.5-2.6B",
+    "publish_date": "2026-08-04",
+    "type": "其他",
+    "open_source": "否",
+    "summary": "",
+    "details": "",
+    "url": "https://huggingface.co/blog/LiquidAI/lfm2-5-2-6b",
+    "tags": "",
+    "created_at": "2026-08-05 04:58:04"
+  },
+  {
+    "id": "rss_https://simonwillison.net/2026/Aug/4/new-release-of-llm/#atom-everything",
+    "company": "Simon Willison",
+    "title": "New release of LLM adds support for reasoning traces, OpenAI Responses, server-side tools, and smarter logging",
+    "publish_date": "2026-08-04",
+    "type": "其他",
+    "open_source": "否",
+    "summary": "<p>I released <a href=\"https://llm.datasette.io/en/stable/changelog.html#v0-32\">LLM 0.32</a> this morning, the most significant new version of LLM since the initial launch of the project. The new vers",
+    "details": "",
+    "url": "https://simonwillison.net/2026/Aug/4/new-release-of-llm/#atom-everything",
+    "tags": "",
+    "created_at": "2026-08-05 04:58:06"
   }
 ]
