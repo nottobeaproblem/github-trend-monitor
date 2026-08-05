@@ -6510,86 +6510,86 @@ id,name,description,url,stars,forks,language,topics,created_at,first_seen,is_act
 1321396544,Nezzhaworkspace/my_python_assignment,during learning python_assignment in eagle vision class,https://github.com/Nezzhaworkspace/my_python_assignment,0,0,,,2026-08-03T07:35:48Z,2026-08-04,False,Speculative Model
 1321441046,mohamedelattar7/eagles-fast-food-database,Relational database design for a fast-food restaurant chain,https://github.com/mohamedelattar7/eagles-fast-food-database,0,0,,,2026-08-03T08:12:02Z,2026-08-04,False,Speculative Model
 1322054133,nimeshbalasooriya/Helaxai-n3-model,# HELAX N3  🚀 HELAX N3 is an open AI language model developed by Nimesh Harshana Balasooriya under NHB LK.  ## Features - 💬 AI Chat - 🧠 Large Language Model (LLM) - 🌐 Sinhala & English Support - ⚡ Fast Inference - 🔌 API Ready,https://github.com/nimeshbalasooriya/Helaxai-n3-model,0,0,,,2026-08-03T17:16:11Z,2026-08-04,False,Speculative Model
-1323346650,anjaanasnambiar/nemotron-speculative-decoding,,https://github.com/anjaanasnambiar/nemotron-speculative-decoding,0,0,Python,,2026-08-04T20:15:47Z,2026-08-05,True,Speculative Model
-1323012301,shreyansh26/qwen-spec-decode-benchmarking,"Some benchmarks on running speculative decoding with Qwen-3.6-35B-A3B with EAGLE3, DFlash and MTP.",https://github.com/shreyansh26/qwen-spec-decode-benchmarking,0,0,Python,"dflash,eagle3,multi-token-prediction,sglang,specforge,speculative-decoding",2026-08-04T13:58:26Z,2026-08-05,True,Speculative Model
-1323487798,luigicarter/llama.cpp-ternary,"llama.cpp fork with native ternary types (TQ2_0/Q4_256/Q5_256), custom CUDA kernels, fusion framework, speculative decoding — serves the ternary-model-dev variants",https://github.com/luigicarter/llama.cpp-ternary,0,0,C++,,2026-08-05T00:34:22Z,2026-08-05,True,Speculative Model
-1323236132,samipparikh/fantasy-draft-2026,"Monte-Carlo fantasy football draft model: 12-team half-PPR, slots 5-7, RB-priority",https://github.com/samipparikh/fantasy-draft-2026,0,0,Python,,2026-08-04T17:58:22Z,2026-08-05,True,Speculative Model
-1322603066,saurabh-231/Medusa,"Built a full-stack **Doctor Appointment Booking System** using the MERN stack with role-based access for patients, doctors, and admins. Supports appointment scheduling, doctor availability management, secure authentication, and online/offline payments.",https://github.com/saurabh-231/Medusa,0,0,JavaScript,,2026-08-04T06:35:55Z,2026-08-05,True,Speculative Model
-1322899794,mhuzaifashah/medusa,Desktop tasks done by prompts.,https://github.com/mhuzaifashah/medusa,0,0,,,2026-08-04T12:01:17Z,2026-08-05,True,Speculative Model
-1323616144,davidimoru/medusa_lab,,https://github.com/davidimoru/medusa_lab,0,0,TypeScript,,2026-08-05T04:13:41Z,2026-08-05,True,Speculative Model
-1322825927,phuctoan123/florist,E-commerce Website with Medusa + Next.js,https://github.com/phuctoan123/florist,0,0,,,2026-08-04T10:39:39Z,2026-08-05,True,Speculative Model
-1323249804,roicoroy/medusa-pos-workspace,,https://github.com/roicoroy/medusa-pos-workspace,0,0,JavaScript,,2026-08-04T18:14:40Z,2026-08-05,True,Speculative Model
-1323503248,opencue/medusa-customer-analytics,"Medusa v2 plugin: how far each shopper got on the way to an order — a seven-rung checkout funnel, admin dashboard, and win-back candidates.",https://github.com/opencue/medusa-customer-analytics,0,0,TypeScript,"analytics,checkout-funnel,ecommerce,medusa,medusa-plugin,medusajs",2026-08-05T01:04:24Z,2026-08-05,True,Speculative Model
-1322779057,divanshsinghsaini123/shopify-to-medusa-converter,,https://github.com/divanshsinghsaini123/shopify-to-medusa-converter,0,0,Python,,2026-08-04T09:46:39Z,2026-08-05,True,Speculative Model
-1322698251,CuriocityDevAi/agilo-medusa-pos-fork,StorePort fork of agilo/medusa-pos-starter · MEROS AG-round patches preserved (M0-0729-Y/AE/AF/AG · web polish · payment flow),https://github.com/CuriocityDevAi/agilo-medusa-pos-fork,0,0,TypeScript,,2026-08-04T08:21:58Z,2026-08-05,True,Speculative Model
-1323375216,jayzhan12-ops/eagle,"This project is aimed to imitate Anduril's EagleEye project, specifically its seeing ""through walls"" feature.",https://github.com/jayzhan12-ops/eagle,0,0,Python,,2026-08-04T20:58:27Z,2026-08-05,True,Speculative Model
-1322760725,Nezzhaworkspace/my-python-assignment,eagle python assignment,https://github.com/Nezzhaworkspace/my-python-assignment,0,0,,,2026-08-04T09:26:30Z,2026-08-05,True,Speculative Model
-1323215405,Hardikgoyal47/Golden-Eagle-Website,golden eagle consultancy ,https://github.com/Hardikgoyal47/Golden-Eagle-Website,0,0,CSS,,2026-08-04T17:34:39Z,2026-08-05,True,Speculative Model
-1323115641,ironside-mac/EagleEye,overwatch competitive companion app ,https://github.com/ironside-mac/EagleEye,0,0,HTML,,2026-08-04T15:43:04Z,2026-08-05,True,Speculative Model
-1323159425,interns-byte/EagleAgent,an AI agent built to support Eagle guests to help them learn more about its mission and capabilities,https://github.com/interns-byte/EagleAgent,0,0,,,2026-08-04T16:29:59Z,2026-08-05,True,Speculative Model
-1322797366,Ittipolint/EagleEyeTrade,Project EagleEyeTrade,https://github.com/Ittipolint/EagleEyeTrade,0,0,,,2026-08-04T10:07:25Z,2026-08-05,True,Speculative Model
-1323515702,PlanetDogeCodes/EaglerLite-Proxy,A simple WebSocket proxy for the EaglerLite client,https://github.com/PlanetDogeCodes/EaglerLite-Proxy,0,0,JavaScript,,2026-08-05T01:27:26Z,2026-08-05,True,Speculative Model
-1323411070,Rajeshks2406/EagleBank_TechA,EagleBank technical assessment project,https://github.com/Rajeshks2406/EagleBank_TechA,0,0,Go,,2026-08-04T21:59:28Z,2026-08-05,True,Speculative Model
-1323288074,Goofy151-Server/All-EaglerServers-Link-And-Videos,,https://github.com/Goofy151-Server/All-EaglerServers-Link-And-Videos,0,0,,,2026-08-04T19:01:21Z,2026-08-05,True,Speculative Model
-1323607327,SalmejCode/TaskManagment,Eagle view test Task managment project,https://github.com/SalmejCode/TaskManagment,0,0,Go,,2026-08-05T03:59:01Z,2026-08-05,True,Speculative Model
-1323449002,omarlaghmarti32-afk/Eagles,,https://github.com/omarlaghmarti32-afk/Eagles,0,0,,,2026-08-04T23:12:58Z,2026-08-05,True,Speculative Model
-1322909178,mohmadyahmed04/eaglepets,virision1,https://github.com/mohmadyahmed04/eaglepets,0,0,HTML,,2026-08-04T12:11:46Z,2026-08-05,True,Speculative Model
-1323320538,karthikreddy-design/The-Eagle,,https://github.com/karthikreddy-design/The-Eagle,0,0,HTML,,2026-08-04T19:42:40Z,2026-08-05,True,Speculative Model
-1322918582,AdminSiaratechnology/Eaglex-backend,,https://github.com/AdminSiaratechnology/Eaglex-backend,0,0,Python,,2026-08-04T12:21:29Z,2026-08-05,True,Speculative Model
-1323434544,ryeruva/Eagle_Recognition,,https://github.com/ryeruva/Eagle_Recognition,0,0,Python,,2026-08-04T22:44:11Z,2026-08-05,True,Speculative Model
-1323604606,Eagle-arul/eagle_arul,,https://github.com/Eagle-arul/eagle_arul,0,0,HTML,,2026-08-05T03:54:48Z,2026-08-05,True,Speculative Model
-1323065756,eaglezzb/eaglezzb.github.io,Personal homepage · https://eaglezzb.github.io,https://github.com/eaglezzb/eaglezzb.github.io,0,0,HTML,,2026-08-04T14:51:29Z,2026-08-05,True,Speculative Model
-1323416952,iansteitz1-eng/eagle-one-preview,,https://github.com/iansteitz1-eng/eagle-one-preview,0,0,HTML,,2026-08-04T22:10:17Z,2026-08-05,True,Speculative Model
-1322737120,Nezzhaworkspace/MY_PYTHON-_ASSIGNMENT,during learning python_assignment in eagle vision classes,https://github.com/Nezzhaworkspace/MY_PYTHON-_ASSIGNMENT,0,0,Python,,2026-08-04T09:01:16Z,2026-08-05,True,Speculative Model
-1322965468,JacquelineBlanchard/tensor-eagle-collective-635,workflow Software helpers for automation and testing,https://github.com/JacquelineBlanchard/tensor-eagle-collective-635,0,0,,,2026-08-04T13:10:44Z,2026-08-05,True,Speculative Model
-1323458623,Vanya13917/silent-eagle-msfanehk-942,JStest,https://github.com/Vanya13917/silent-eagle-msfanehk-942,1,0,Solidity,,2026-08-04T23:33:16Z,2026-08-05,True,Speculative Model
-1323229376,Vanya13917/atomic-eagle-mseyevwa-688,JStest,https://github.com/Vanya13917/atomic-eagle-mseyevwa-688,1,0,Solidity,,2026-08-04T17:50:43Z,2026-08-05,True,Speculative Model
-1322966456,ErnestValentine/model-eagle-partners-945,Stock analytics notes with lightweight helper functions,https://github.com/ErnestValentine/model-eagle-partners-945,0,0,,,2026-08-04T13:11:49Z,2026-08-05,True,Speculative Model
-1323232348,Vanya13917/cosmic-eagle-mseyjdkq-943,JStest,https://github.com/Vanya13917/cosmic-eagle-mseyjdkq-943,1,0,Solidity,,2026-08-04T17:54:13Z,2026-08-05,True,Speculative Model
-1323457323,Vanya13917/lucky-eagle-msfajomk-786,JStest,https://github.com/Vanya13917/lucky-eagle-msfajomk-786,1,0,Python,,2026-08-04T23:30:23Z,2026-08-05,True,Speculative Model
-1322936110,LeahDickerson/vertex-eagle-travel-239,Repository starter for scripts tools finance and notes,https://github.com/LeahDickerson/vertex-eagle-travel-239,0,0,,,2026-08-04T12:39:34Z,2026-08-05,True,Speculative Model
-1323456894,Vanya13917/frost-eagle-msfaijui-636,JStest,https://github.com/Vanya13917/frost-eagle-msfaijui-636,1,0,TypeScript,,2026-08-04T23:29:30Z,2026-08-05,True,Speculative Model
-1323217789,Vanya13917/atomic-eagle-msexxyjq-833,JStest,https://github.com/Vanya13917/atomic-eagle-msexxyjq-833,1,0,Solidity,,2026-08-04T17:37:34Z,2026-08-05,True,Speculative Model
-1323414574,UserArham/Eaglercraft-17w46a,Minecraft 17w46a is a snapshot of Minecraft 1.13 in late 2017 (I prefer the snapshot without flattening),https://github.com/UserArham/Eaglercraft-17w46a,0,0,HTML,,2026-08-04T22:06:03Z,2026-08-05,True,Speculative Model
-1323231066,Vanya13917/crimson-eagle-mseyhjx3-43,JStest,https://github.com/Vanya13917/crimson-eagle-mseyhjx3-43,1,0,Solidity,,2026-08-04T17:52:48Z,2026-08-05,True,Speculative Model
-1323457406,Vanya13917/cosmic-eagle-msfajxd4-657,JStest,https://github.com/Vanya13917/cosmic-eagle-msfajxd4-657,1,0,Python,,2026-08-04T23:30:34Z,2026-08-05,True,Speculative Model
-1323234238,Vanya13917/frost-eagle-mseylxe0-495,JStest,https://github.com/Vanya13917/frost-eagle-mseylxe0-495,1,0,TypeScript,,2026-08-04T17:56:12Z,2026-08-05,True,Speculative Model
-1323459489,Vanya13917/silent-eagle-msfaplf8-323,JStest,https://github.com/Vanya13917/silent-eagle-msfaplf8-323,1,0,Python,,2026-08-04T23:34:58Z,2026-08-05,True,Speculative Model
-1323233893,Vanya13917/neon-eagle-mseylh45-41,JStest,https://github.com/Vanya13917/neon-eagle-mseylh45-41,1,0,TypeScript,,2026-08-04T17:55:51Z,2026-08-05,True,Speculative Model
-1323462490,Vanya13917/golden-eagle-msfaxwm0-701,JStest,https://github.com/Vanya13917/golden-eagle-msfaxwm0-701,1,0,TypeScript,,2026-08-04T23:41:26Z,2026-08-05,True,Speculative Model
-1323460755,Vanya13917/neon-eagle-msfasx3a-715,JStest,https://github.com/Vanya13917/neon-eagle-msfasx3a-715,1,0,TypeScript,,2026-08-04T23:37:34Z,2026-08-05,True,Speculative Model
-1323238298,Vanya13917/crimson-eagle-mseys17p-390,JStest,https://github.com/Vanya13917/crimson-eagle-mseys17p-390,1,0,TypeScript,,2026-08-04T18:00:57Z,2026-08-05,True,Speculative Model
-1323463919,Vanya13917/cosmic-eagle-msfb1zko-221,JStest,https://github.com/Vanya13917/cosmic-eagle-msfb1zko-221,1,0,Solidity,,2026-08-04T23:44:37Z,2026-08-05,True,Speculative Model
-1323219368,Vanya13917/cosmic-eagle-msey085a-30,JStest,https://github.com/Vanya13917/cosmic-eagle-msey085a-30,1,0,TypeScript,,2026-08-04T17:39:20Z,2026-08-05,True,Speculative Model
-1323230904,Vanya13917/neon-eagle-mseyhb2n-639,JStest,https://github.com/Vanya13917/neon-eagle-mseyhb2n-639,1,0,Python,,2026-08-04T17:52:36Z,2026-08-05,True,Speculative Model
-1323459715,Vanya13917/cosmic-eagle-msfaq8lr-421,JStest,https://github.com/Vanya13917/cosmic-eagle-msfaq8lr-421,1,0,Python,,2026-08-04T23:35:29Z,2026-08-05,True,Speculative Model
-1323456755,Vanya13917/crimson-eagle-msfai4bb-132,JStest,https://github.com/Vanya13917/crimson-eagle-msfai4bb-132,1,0,TypeScript,,2026-08-04T23:29:10Z,2026-08-05,True,Speculative Model
-1323217957,Vanya13917/wild-eagle-msexy6ai-756,JStest,https://github.com/Vanya13917/wild-eagle-msexy6ai-756,1,0,Solidity,,2026-08-04T17:37:44Z,2026-08-05,True,Speculative Model
-1323458991,Vanya13917/frost-eagle-msfao99l-961,JStest,https://github.com/Vanya13917/frost-eagle-msfao99l-961,1,0,TypeScript,,2026-08-04T23:33:56Z,2026-08-05,True,Speculative Model
-1323224501,Vanya13917/atomic-eagle-msey7see-230,JStest,https://github.com/Vanya13917/atomic-eagle-msey7see-230,1,0,Solidity,,2026-08-04T17:45:12Z,2026-08-05,True,Speculative Model
-1323391396,Vanya13917/silent-eagle-msf629ar-162,JStest,https://github.com/Vanya13917/silent-eagle-msf629ar-162,1,0,TypeScript,,2026-08-04T21:24:51Z,2026-08-05,True,Speculative Model
-1323219840,Vanya13917/lucky-eagle-msey0yjt-528,JStest,https://github.com/Vanya13917/lucky-eagle-msey0yjt-528,1,0,TypeScript,,2026-08-04T17:39:54Z,2026-08-05,True,Speculative Model
-1323235749,Vanya13917/atomic-eagle-mseyo4cq-127,JStest,https://github.com/Vanya13917/atomic-eagle-mseyo4cq-127,1,0,Solidity,,2026-08-04T17:57:54Z,2026-08-05,True,Speculative Model
-1323387526,Vanya13917/crimson-eagle-msf5tyyh-20,JStest,https://github.com/Vanya13917/crimson-eagle-msf5tyyh-20,1,0,Python,,2026-08-04T21:18:25Z,2026-08-05,True,Speculative Model
-1323461916,Vanya13917/atomic-eagle-msfaw9pm-809,JStest,https://github.com/Vanya13917/atomic-eagle-msfaw9pm-809,1,0,Solidity,,2026-08-04T23:40:10Z,2026-08-05,True,Speculative Model
-1323223365,Vanya13917/silent-eagle-msey65kr-846,JStest,https://github.com/Vanya13917/silent-eagle-msey65kr-846,1,0,TypeScript,,2026-08-04T17:43:56Z,2026-08-05,True,Speculative Model
-1323393677,Vanya13917/crimson-eagle-msf674pl-168,JStest,https://github.com/Vanya13917/crimson-eagle-msf674pl-168,1,0,Python,,2026-08-04T21:28:39Z,2026-08-05,True,Speculative Model
-1323221667,Vanya13917/wild-eagle-msey3rdw-800,JStest,https://github.com/Vanya13917/wild-eagle-msey3rdw-800,1,0,Python,,2026-08-04T17:42:04Z,2026-08-05,True,Speculative Model
-1323460561,Vanya13917/neon-eagle-msfasg7r-895,JStest,https://github.com/Vanya13917/neon-eagle-msfasg7r-895,1,0,Python,,2026-08-04T23:37:12Z,2026-08-05,True,Speculative Model
-1323465656,Vanya13917/neon-eagle-msfb6nbi-823,JStest,https://github.com/Vanya13917/neon-eagle-msfb6nbi-823,1,0,Solidity,,2026-08-04T23:48:14Z,2026-08-05,True,Speculative Model
-1323390456,Vanya13917/atomic-eagle-msf604qp-529,JStest,https://github.com/Vanya13917/atomic-eagle-msf604qp-529,1,0,Python,,2026-08-04T21:23:12Z,2026-08-05,True,Speculative Model
-1323389750,Vanya13917/neon-eagle-msf5yh37-588,JStest,https://github.com/Vanya13917/neon-eagle-msf5yh37-588,1,0,TypeScript,,2026-08-04T21:21:55Z,2026-08-05,True,Speculative Model
-1323463855,Vanya13917/neon-eagle-msfb1sa2-356,JStest,https://github.com/Vanya13917/neon-eagle-msfb1sa2-356,1,0,TypeScript,,2026-08-04T23:44:27Z,2026-08-05,True,Speculative Model
-1323389420,Vanya13917/crimson-eagle-msf5xtb0-509,JStest,https://github.com/Vanya13917/crimson-eagle-msf5xtb0-509,1,0,Python,,2026-08-04T21:21:24Z,2026-08-05,True,Speculative Model
-1323396320,Vanya13917/neon-eagle-msf6d136-943,JStest,https://github.com/Vanya13917/neon-eagle-msf6d136-943,1,0,TypeScript,,2026-08-04T21:33:14Z,2026-08-05,True,Speculative Model
-1323223696,Vanya13917/crimson-eagle-msey6n89-842,JStest,https://github.com/Vanya13917/crimson-eagle-msey6n89-842,1,0,Solidity,,2026-08-04T17:44:19Z,2026-08-05,True,Speculative Model
-1323220321,Vanya13917/cosmic-eagle-msey1p26-197,JStest,https://github.com/Vanya13917/cosmic-eagle-msey1p26-197,1,0,Python,,2026-08-04T17:40:28Z,2026-08-05,True,Speculative Model
-1323235078,Vanya13917/golden-eagle-mseyn6i1-988,JStest,https://github.com/Vanya13917/golden-eagle-mseyn6i1-988,1,0,Solidity,,2026-08-04T17:57:10Z,2026-08-05,True,Speculative Model
-1323400718,Vanya13917/cosmic-eagle-msf6mu6t-277,JStest,https://github.com/Vanya13917/cosmic-eagle-msf6mu6t-277,1,0,Python,,2026-08-04T21:40:51Z,2026-08-05,True,Speculative Model
-1323397730,Vanya13917/atomic-eagle-msf6g6kc-931,JStest,https://github.com/Vanya13917/atomic-eagle-msf6g6kc-931,1,0,Solidity,,2026-08-04T21:35:41Z,2026-08-05,True,Speculative Model
-1323397219,Vanya13917/lucky-eagle-msf6f0ni-291,JStest,https://github.com/Vanya13917/lucky-eagle-msf6f0ni-291,1,0,TypeScript,,2026-08-04T21:34:47Z,2026-08-05,True,Speculative Model
-1323395543,Vanya13917/neon-eagle-msf6bd7h-610,JStest,https://github.com/Vanya13917/neon-eagle-msf6bd7h-610,1,0,Solidity,,2026-08-04T21:31:56Z,2026-08-05,True,Speculative Model
-1323392455,Vanya13917/neon-eagle-msf64f6p-689,JStest,https://github.com/Vanya13917/neon-eagle-msf64f6p-689,1,0,TypeScript,,2026-08-04T21:26:32Z,2026-08-05,True,Speculative Model
-1323396195,Vanya13917/silent-eagle-msf6cs5s-724,JStest,https://github.com/Vanya13917/silent-eagle-msf6cs5s-724,1,0,Solidity,,2026-08-04T21:33:02Z,2026-08-05,True,Speculative Model
-1323542930,eagle-ft55/.github,"EAGLE is a schematic capture and PCB layout tool with tightly linked design, huge component libraries, and an autorouter for compact, manufacturable boards.",https://github.com/eagle-ft55/.github,0,0,,,2026-08-05T02:16:11Z,2026-08-05,True,Speculative Model
-1323440657,jr2804/llama-cpp-optimizer,"Launch optimized LLMs via llama.cpp: faster inference, lower VRAM/RAM (Agent Skill)",https://github.com/jr2804/llama-cpp-optimizer,0,0,Python,,2026-08-04T22:55:50Z,2026-08-05,True,Speculative Model
+1323346650,anjaanasnambiar/nemotron-speculative-decoding,,https://github.com/anjaanasnambiar/nemotron-speculative-decoding,0,0,Python,,2026-08-04T20:15:47Z,2026-08-05,False,Speculative Model
+1323012301,shreyansh26/qwen-spec-decode-benchmarking,"Some benchmarks on running speculative decoding with Qwen-3.6-35B-A3B with EAGLE3, DFlash and MTP.",https://github.com/shreyansh26/qwen-spec-decode-benchmarking,0,0,Python,"dflash,eagle3,multi-token-prediction,sglang,specforge,speculative-decoding",2026-08-04T13:58:26Z,2026-08-05,False,Speculative Model
+1323487798,luigicarter/llama.cpp-ternary,"llama.cpp fork with native ternary types (TQ2_0/Q4_256/Q5_256), custom CUDA kernels, fusion framework, speculative decoding — serves the ternary-model-dev variants",https://github.com/luigicarter/llama.cpp-ternary,0,0,C++,,2026-08-05T00:34:22Z,2026-08-05,False,Speculative Model
+1323236132,samipparikh/fantasy-draft-2026,"Monte-Carlo fantasy football draft model: 12-team half-PPR, slots 5-7, RB-priority",https://github.com/samipparikh/fantasy-draft-2026,0,0,Python,,2026-08-04T17:58:22Z,2026-08-05,False,Speculative Model
+1322603066,saurabh-231/Medusa,"Built a full-stack **Doctor Appointment Booking System** using the MERN stack with role-based access for patients, doctors, and admins. Supports appointment scheduling, doctor availability management, secure authentication, and online/offline payments.",https://github.com/saurabh-231/Medusa,0,0,JavaScript,,2026-08-04T06:35:55Z,2026-08-05,False,Speculative Model
+1322899794,mhuzaifashah/medusa,Desktop tasks done by prompts.,https://github.com/mhuzaifashah/medusa,0,0,,,2026-08-04T12:01:17Z,2026-08-05,False,Speculative Model
+1323616144,davidimoru/medusa_lab,,https://github.com/davidimoru/medusa_lab,0,0,TypeScript,,2026-08-05T04:13:41Z,2026-08-05,False,Speculative Model
+1322825927,phuctoan123/florist,E-commerce Website with Medusa + Next.js,https://github.com/phuctoan123/florist,0,0,,,2026-08-04T10:39:39Z,2026-08-05,False,Speculative Model
+1323249804,roicoroy/medusa-pos-workspace,,https://github.com/roicoroy/medusa-pos-workspace,0,0,JavaScript,,2026-08-04T18:14:40Z,2026-08-05,False,Speculative Model
+1323503248,opencue/medusa-customer-analytics,"Medusa v2 plugin: how far each shopper got on the way to an order — a seven-rung checkout funnel, admin dashboard, and win-back candidates.",https://github.com/opencue/medusa-customer-analytics,0,0,TypeScript,"analytics,checkout-funnel,ecommerce,medusa,medusa-plugin,medusajs",2026-08-05T01:04:24Z,2026-08-05,False,Speculative Model
+1322779057,divanshsinghsaini123/shopify-to-medusa-converter,,https://github.com/divanshsinghsaini123/shopify-to-medusa-converter,0,0,Python,,2026-08-04T09:46:39Z,2026-08-05,False,Speculative Model
+1322698251,CuriocityDevAi/agilo-medusa-pos-fork,StorePort fork of agilo/medusa-pos-starter · MEROS AG-round patches preserved (M0-0729-Y/AE/AF/AG · web polish · payment flow),https://github.com/CuriocityDevAi/agilo-medusa-pos-fork,0,0,TypeScript,,2026-08-04T08:21:58Z,2026-08-05,False,Speculative Model
+1323375216,jayzhan12-ops/eagle,"This project is aimed to imitate Anduril's EagleEye project, specifically its seeing ""through walls"" feature.",https://github.com/jayzhan12-ops/eagle,0,0,Python,,2026-08-04T20:58:27Z,2026-08-05,False,Speculative Model
+1322760725,Nezzhaworkspace/my-python-assignment,eagle python assignment,https://github.com/Nezzhaworkspace/my-python-assignment,0,0,,,2026-08-04T09:26:30Z,2026-08-05,False,Speculative Model
+1323215405,Hardikgoyal47/Golden-Eagle-Website,golden eagle consultancy ,https://github.com/Hardikgoyal47/Golden-Eagle-Website,0,0,CSS,,2026-08-04T17:34:39Z,2026-08-05,False,Speculative Model
+1323115641,ironside-mac/EagleEye,overwatch competitive companion app ,https://github.com/ironside-mac/EagleEye,0,0,HTML,,2026-08-04T15:43:04Z,2026-08-05,False,Speculative Model
+1323159425,interns-byte/EagleAgent,an AI agent built to support Eagle guests to help them learn more about its mission and capabilities,https://github.com/interns-byte/EagleAgent,0,0,,,2026-08-04T16:29:59Z,2026-08-05,False,Speculative Model
+1322797366,Ittipolint/EagleEyeTrade,Project EagleEyeTrade,https://github.com/Ittipolint/EagleEyeTrade,0,0,,,2026-08-04T10:07:25Z,2026-08-05,False,Speculative Model
+1323515702,PlanetDogeCodes/EaglerLite-Proxy,A simple WebSocket proxy for the EaglerLite client,https://github.com/PlanetDogeCodes/EaglerLite-Proxy,0,0,JavaScript,,2026-08-05T01:27:26Z,2026-08-05,False,Speculative Model
+1323411070,Rajeshks2406/EagleBank_TechA,EagleBank technical assessment project,https://github.com/Rajeshks2406/EagleBank_TechA,0,0,Go,,2026-08-04T21:59:28Z,2026-08-05,False,Speculative Model
+1323288074,Goofy151-Server/All-EaglerServers-Link-And-Videos,,https://github.com/Goofy151-Server/All-EaglerServers-Link-And-Videos,0,0,,,2026-08-04T19:01:21Z,2026-08-05,False,Speculative Model
+1323607327,SalmejCode/TaskManagment,Eagle view test Task managment project,https://github.com/SalmejCode/TaskManagment,0,0,Go,,2026-08-05T03:59:01Z,2026-08-05,False,Speculative Model
+1323449002,omarlaghmarti32-afk/Eagles,,https://github.com/omarlaghmarti32-afk/Eagles,0,0,,,2026-08-04T23:12:58Z,2026-08-05,False,Speculative Model
+1322909178,mohmadyahmed04/eaglepets,virision1,https://github.com/mohmadyahmed04/eaglepets,0,0,HTML,,2026-08-04T12:11:46Z,2026-08-05,False,Speculative Model
+1323320538,karthikreddy-design/The-Eagle,,https://github.com/karthikreddy-design/The-Eagle,0,0,HTML,,2026-08-04T19:42:40Z,2026-08-05,False,Speculative Model
+1322918582,AdminSiaratechnology/Eaglex-backend,,https://github.com/AdminSiaratechnology/Eaglex-backend,0,0,Python,,2026-08-04T12:21:29Z,2026-08-05,False,Speculative Model
+1323434544,ryeruva/Eagle_Recognition,,https://github.com/ryeruva/Eagle_Recognition,0,0,Python,,2026-08-04T22:44:11Z,2026-08-05,False,Speculative Model
+1323604606,Eagle-arul/eagle_arul,,https://github.com/Eagle-arul/eagle_arul,0,0,HTML,,2026-08-05T03:54:48Z,2026-08-05,False,Speculative Model
+1323065756,eaglezzb/eaglezzb.github.io,Personal homepage · https://eaglezzb.github.io,https://github.com/eaglezzb/eaglezzb.github.io,0,0,HTML,,2026-08-04T14:51:29Z,2026-08-05,False,Speculative Model
+1323416952,iansteitz1-eng/eagle-one-preview,,https://github.com/iansteitz1-eng/eagle-one-preview,0,0,HTML,,2026-08-04T22:10:17Z,2026-08-05,False,Speculative Model
+1322737120,Nezzhaworkspace/MY_PYTHON-_ASSIGNMENT,during learning python_assignment in eagle vision classes,https://github.com/Nezzhaworkspace/MY_PYTHON-_ASSIGNMENT,0,0,Python,,2026-08-04T09:01:16Z,2026-08-05,False,Speculative Model
+1322965468,JacquelineBlanchard/tensor-eagle-collective-635,workflow Software helpers for automation and testing,https://github.com/JacquelineBlanchard/tensor-eagle-collective-635,0,0,,,2026-08-04T13:10:44Z,2026-08-05,False,Speculative Model
+1323458623,Vanya13917/silent-eagle-msfanehk-942,JStest,https://github.com/Vanya13917/silent-eagle-msfanehk-942,1,0,Solidity,,2026-08-04T23:33:16Z,2026-08-05,False,Speculative Model
+1323229376,Vanya13917/atomic-eagle-mseyevwa-688,JStest,https://github.com/Vanya13917/atomic-eagle-mseyevwa-688,1,0,Solidity,,2026-08-04T17:50:43Z,2026-08-05,False,Speculative Model
+1322966456,ErnestValentine/model-eagle-partners-945,Stock analytics notes with lightweight helper functions,https://github.com/ErnestValentine/model-eagle-partners-945,0,0,,,2026-08-04T13:11:49Z,2026-08-05,False,Speculative Model
+1323232348,Vanya13917/cosmic-eagle-mseyjdkq-943,JStest,https://github.com/Vanya13917/cosmic-eagle-mseyjdkq-943,1,0,Solidity,,2026-08-04T17:54:13Z,2026-08-05,False,Speculative Model
+1323457323,Vanya13917/lucky-eagle-msfajomk-786,JStest,https://github.com/Vanya13917/lucky-eagle-msfajomk-786,1,0,Python,,2026-08-04T23:30:23Z,2026-08-05,False,Speculative Model
+1322936110,LeahDickerson/vertex-eagle-travel-239,Repository starter for scripts tools finance and notes,https://github.com/LeahDickerson/vertex-eagle-travel-239,0,0,,,2026-08-04T12:39:34Z,2026-08-05,False,Speculative Model
+1323456894,Vanya13917/frost-eagle-msfaijui-636,JStest,https://github.com/Vanya13917/frost-eagle-msfaijui-636,1,0,TypeScript,,2026-08-04T23:29:30Z,2026-08-05,False,Speculative Model
+1323217789,Vanya13917/atomic-eagle-msexxyjq-833,JStest,https://github.com/Vanya13917/atomic-eagle-msexxyjq-833,1,0,Solidity,,2026-08-04T17:37:34Z,2026-08-05,False,Speculative Model
+1323414574,UserArham/Eaglercraft-17w46a,Minecraft 17w46a is a snapshot of Minecraft 1.13 in late 2017 (I prefer the snapshot without flattening),https://github.com/UserArham/Eaglercraft-17w46a,0,0,HTML,,2026-08-04T22:06:03Z,2026-08-05,False,Speculative Model
+1323231066,Vanya13917/crimson-eagle-mseyhjx3-43,JStest,https://github.com/Vanya13917/crimson-eagle-mseyhjx3-43,1,0,Solidity,,2026-08-04T17:52:48Z,2026-08-05,False,Speculative Model
+1323457406,Vanya13917/cosmic-eagle-msfajxd4-657,JStest,https://github.com/Vanya13917/cosmic-eagle-msfajxd4-657,1,0,Python,,2026-08-04T23:30:34Z,2026-08-05,False,Speculative Model
+1323234238,Vanya13917/frost-eagle-mseylxe0-495,JStest,https://github.com/Vanya13917/frost-eagle-mseylxe0-495,1,0,TypeScript,,2026-08-04T17:56:12Z,2026-08-05,False,Speculative Model
+1323459489,Vanya13917/silent-eagle-msfaplf8-323,JStest,https://github.com/Vanya13917/silent-eagle-msfaplf8-323,1,0,Python,,2026-08-04T23:34:58Z,2026-08-05,False,Speculative Model
+1323233893,Vanya13917/neon-eagle-mseylh45-41,JStest,https://github.com/Vanya13917/neon-eagle-mseylh45-41,1,0,TypeScript,,2026-08-04T17:55:51Z,2026-08-05,False,Speculative Model
+1323462490,Vanya13917/golden-eagle-msfaxwm0-701,JStest,https://github.com/Vanya13917/golden-eagle-msfaxwm0-701,1,0,TypeScript,,2026-08-04T23:41:26Z,2026-08-05,False,Speculative Model
+1323460755,Vanya13917/neon-eagle-msfasx3a-715,JStest,https://github.com/Vanya13917/neon-eagle-msfasx3a-715,1,0,TypeScript,,2026-08-04T23:37:34Z,2026-08-05,False,Speculative Model
+1323238298,Vanya13917/crimson-eagle-mseys17p-390,JStest,https://github.com/Vanya13917/crimson-eagle-mseys17p-390,1,0,TypeScript,,2026-08-04T18:00:57Z,2026-08-05,False,Speculative Model
+1323463919,Vanya13917/cosmic-eagle-msfb1zko-221,JStest,https://github.com/Vanya13917/cosmic-eagle-msfb1zko-221,1,0,Solidity,,2026-08-04T23:44:37Z,2026-08-05,False,Speculative Model
+1323219368,Vanya13917/cosmic-eagle-msey085a-30,JStest,https://github.com/Vanya13917/cosmic-eagle-msey085a-30,1,0,TypeScript,,2026-08-04T17:39:20Z,2026-08-05,False,Speculative Model
+1323230904,Vanya13917/neon-eagle-mseyhb2n-639,JStest,https://github.com/Vanya13917/neon-eagle-mseyhb2n-639,1,0,Python,,2026-08-04T17:52:36Z,2026-08-05,False,Speculative Model
+1323459715,Vanya13917/cosmic-eagle-msfaq8lr-421,JStest,https://github.com/Vanya13917/cosmic-eagle-msfaq8lr-421,1,0,Python,,2026-08-04T23:35:29Z,2026-08-05,False,Speculative Model
+1323456755,Vanya13917/crimson-eagle-msfai4bb-132,JStest,https://github.com/Vanya13917/crimson-eagle-msfai4bb-132,1,0,TypeScript,,2026-08-04T23:29:10Z,2026-08-05,False,Speculative Model
+1323217957,Vanya13917/wild-eagle-msexy6ai-756,JStest,https://github.com/Vanya13917/wild-eagle-msexy6ai-756,1,0,Solidity,,2026-08-04T17:37:44Z,2026-08-05,False,Speculative Model
+1323458991,Vanya13917/frost-eagle-msfao99l-961,JStest,https://github.com/Vanya13917/frost-eagle-msfao99l-961,1,0,TypeScript,,2026-08-04T23:33:56Z,2026-08-05,False,Speculative Model
+1323224501,Vanya13917/atomic-eagle-msey7see-230,JStest,https://github.com/Vanya13917/atomic-eagle-msey7see-230,1,0,Solidity,,2026-08-04T17:45:12Z,2026-08-05,False,Speculative Model
+1323391396,Vanya13917/silent-eagle-msf629ar-162,JStest,https://github.com/Vanya13917/silent-eagle-msf629ar-162,1,0,TypeScript,,2026-08-04T21:24:51Z,2026-08-05,False,Speculative Model
+1323219840,Vanya13917/lucky-eagle-msey0yjt-528,JStest,https://github.com/Vanya13917/lucky-eagle-msey0yjt-528,1,0,TypeScript,,2026-08-04T17:39:54Z,2026-08-05,False,Speculative Model
+1323235749,Vanya13917/atomic-eagle-mseyo4cq-127,JStest,https://github.com/Vanya13917/atomic-eagle-mseyo4cq-127,1,0,Solidity,,2026-08-04T17:57:54Z,2026-08-05,False,Speculative Model
+1323387526,Vanya13917/crimson-eagle-msf5tyyh-20,JStest,https://github.com/Vanya13917/crimson-eagle-msf5tyyh-20,1,0,Python,,2026-08-04T21:18:25Z,2026-08-05,False,Speculative Model
+1323461916,Vanya13917/atomic-eagle-msfaw9pm-809,JStest,https://github.com/Vanya13917/atomic-eagle-msfaw9pm-809,1,0,Solidity,,2026-08-04T23:40:10Z,2026-08-05,False,Speculative Model
+1323223365,Vanya13917/silent-eagle-msey65kr-846,JStest,https://github.com/Vanya13917/silent-eagle-msey65kr-846,1,0,TypeScript,,2026-08-04T17:43:56Z,2026-08-05,False,Speculative Model
+1323393677,Vanya13917/crimson-eagle-msf674pl-168,JStest,https://github.com/Vanya13917/crimson-eagle-msf674pl-168,1,0,Python,,2026-08-04T21:28:39Z,2026-08-05,False,Speculative Model
+1323221667,Vanya13917/wild-eagle-msey3rdw-800,JStest,https://github.com/Vanya13917/wild-eagle-msey3rdw-800,1,0,Python,,2026-08-04T17:42:04Z,2026-08-05,False,Speculative Model
+1323460561,Vanya13917/neon-eagle-msfasg7r-895,JStest,https://github.com/Vanya13917/neon-eagle-msfasg7r-895,1,0,Python,,2026-08-04T23:37:12Z,2026-08-05,False,Speculative Model
+1323465656,Vanya13917/neon-eagle-msfb6nbi-823,JStest,https://github.com/Vanya13917/neon-eagle-msfb6nbi-823,1,0,Solidity,,2026-08-04T23:48:14Z,2026-08-05,False,Speculative Model
+1323390456,Vanya13917/atomic-eagle-msf604qp-529,JStest,https://github.com/Vanya13917/atomic-eagle-msf604qp-529,1,0,Python,,2026-08-04T21:23:12Z,2026-08-05,False,Speculative Model
+1323389750,Vanya13917/neon-eagle-msf5yh37-588,JStest,https://github.com/Vanya13917/neon-eagle-msf5yh37-588,1,0,TypeScript,,2026-08-04T21:21:55Z,2026-08-05,False,Speculative Model
+1323463855,Vanya13917/neon-eagle-msfb1sa2-356,JStest,https://github.com/Vanya13917/neon-eagle-msfb1sa2-356,1,0,TypeScript,,2026-08-04T23:44:27Z,2026-08-05,False,Speculative Model
+1323389420,Vanya13917/crimson-eagle-msf5xtb0-509,JStest,https://github.com/Vanya13917/crimson-eagle-msf5xtb0-509,1,0,Python,,2026-08-04T21:21:24Z,2026-08-05,False,Speculative Model
+1323396320,Vanya13917/neon-eagle-msf6d136-943,JStest,https://github.com/Vanya13917/neon-eagle-msf6d136-943,1,0,TypeScript,,2026-08-04T21:33:14Z,2026-08-05,False,Speculative Model
+1323223696,Vanya13917/crimson-eagle-msey6n89-842,JStest,https://github.com/Vanya13917/crimson-eagle-msey6n89-842,1,0,Solidity,,2026-08-04T17:44:19Z,2026-08-05,False,Speculative Model
+1323220321,Vanya13917/cosmic-eagle-msey1p26-197,JStest,https://github.com/Vanya13917/cosmic-eagle-msey1p26-197,1,0,Python,,2026-08-04T17:40:28Z,2026-08-05,False,Speculative Model
+1323235078,Vanya13917/golden-eagle-mseyn6i1-988,JStest,https://github.com/Vanya13917/golden-eagle-mseyn6i1-988,1,0,Solidity,,2026-08-04T17:57:10Z,2026-08-05,False,Speculative Model
+1323400718,Vanya13917/cosmic-eagle-msf6mu6t-277,JStest,https://github.com/Vanya13917/cosmic-eagle-msf6mu6t-277,1,0,Python,,2026-08-04T21:40:51Z,2026-08-05,False,Speculative Model
+1323397730,Vanya13917/atomic-eagle-msf6g6kc-931,JStest,https://github.com/Vanya13917/atomic-eagle-msf6g6kc-931,1,0,Solidity,,2026-08-04T21:35:41Z,2026-08-05,False,Speculative Model
+1323397219,Vanya13917/lucky-eagle-msf6f0ni-291,JStest,https://github.com/Vanya13917/lucky-eagle-msf6f0ni-291,1,0,TypeScript,,2026-08-04T21:34:47Z,2026-08-05,False,Speculative Model
+1323395543,Vanya13917/neon-eagle-msf6bd7h-610,JStest,https://github.com/Vanya13917/neon-eagle-msf6bd7h-610,1,0,Solidity,,2026-08-04T21:31:56Z,2026-08-05,False,Speculative Model
+1323392455,Vanya13917/neon-eagle-msf64f6p-689,JStest,https://github.com/Vanya13917/neon-eagle-msf64f6p-689,1,0,TypeScript,,2026-08-04T21:26:32Z,2026-08-05,False,Speculative Model
+1323396195,Vanya13917/silent-eagle-msf6cs5s-724,JStest,https://github.com/Vanya13917/silent-eagle-msf6cs5s-724,1,0,Solidity,,2026-08-04T21:33:02Z,2026-08-05,False,Speculative Model
+1323542930,eagle-ft55/.github,"EAGLE is a schematic capture and PCB layout tool with tightly linked design, huge component libraries, and an autorouter for compact, manufacturable boards.",https://github.com/eagle-ft55/.github,0,0,,,2026-08-05T02:16:11Z,2026-08-05,False,Speculative Model
+1323440657,jr2804/llama-cpp-optimizer,"Launch optimized LLMs via llama.cpp: faster inference, lower VRAM/RAM (Agent Skill)",https://github.com/jr2804/llama-cpp-optimizer,0,0,Python,,2026-08-04T22:55:50Z,2026-08-05,False,Speculative Model
