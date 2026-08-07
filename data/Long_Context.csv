@@ -30547,85 +30547,85 @@ id,name,description,url,stars,forks,language,topics,created_at,first_seen,is_act
 1324565040,fireditoo/BSrvjpbN,【Java计算机毕业设计分享】基于SSM的沈阳理工大学志愿服务管理系统设计与开发，MySQL Java开发 毕业设计 实战项目【附源码、文档报告、代码讲解】,https://github.com/fireditoo/BSrvjpbN,1,0,,,2026-08-05T23:41:41Z,2026-08-06,False,Long Context
 1323909851,spicktobs/physics-encoded-state-space-models-implants,Physics-encoded state space operators for additively manufactured implant mechanics,https://github.com/spicktobs/physics-encoded-state-space-models-implants,0,0,Python,,2026-08-05T10:15:24Z,2026-08-06,False,Long Context
 1323909586,oyindamola-alao/f4-phantom-flight-dynamics, MATLAB and Simulink analysis of F-4 Phantom longitudinal flight dynamics using state-space modeling and simulation.,https://github.com/oyindamola-alao/f4-phantom-flight-dynamics,0,0,MATLAB,,2026-08-05T10:15:06Z,2026-08-06,False,Long Context
-1326134694,alych9/BeyondRetrievalBench_Pretrain,Testing Functional Memory and Memory Updating in Long-Context LLMs for Pretrained Models,https://github.com/alych9/BeyondRetrievalBench_Pretrain,0,0,Python,,2026-08-07T02:57:06Z,2026-08-07,True,Long Context
-1326184677,Anruitong2004/you-only-perceive-once,You Only Perceive Once: Decoupling Perception and Reasoning for Long-Context Text-Image Retrieval,https://github.com/Anruitong2004/you-only-perceive-once,0,0,Python,,2026-08-07T04:00:53Z,2026-08-07,True,Long Context
-1325001018,Leiusa/dynamic-kivi,"Attention-guided mixed-precision KV-cache restoration for long-context Mistral inference, built on KIVI.",https://github.com/Leiusa/dynamic-kivi,0,0,Python,"kv-cache,llm-inference,long-context,mistral,ml-systems,quantization",2026-08-06T09:09:08Z,2026-08-07,True,Long Context
-1325215923,Xiaoqiu-dot/Xiaoqiu-dot.github.io,"Personal homepage of Hu Yakun — LLM Algorithm Engineer. Long-context training, inference engines, and evaluation systems.",https://github.com/Xiaoqiu-dot/Xiaoqiu-dot.github.io,0,0,HTML,,2026-08-06T12:33:17Z,2026-08-07,True,Long Context
-1325362899,liujia0321/ROD-RoPE,Official implementation of ROD-RoPE: Optimization-driven RoPE position remapping for long-context extrapolation without tuning LLM parameters.,https://github.com/liujia0321/ROD-RoPE,0,0,Python,,2026-08-06T14:41:53Z,2026-08-07,True,Long Context
-1325121914,Beatau9610/beatau9610.github.io,"Accelerate MiniMax H3 video generation on RTX 5090 with Sol-Attn's sparsified attention via PyTorch FlexAttention, delivering up to 2x speedup over SDPA on long sequences.",https://github.com/Beatau9610/beatau9610.github.io,0,0,HTML,,2026-08-06T11:05:55Z,2026-08-07,True,Long Context
-1325296429,Sofiane-chelghoum/RC-MambaX,,https://github.com/Sofiane-chelghoum/RC-MambaX,0,0,Python,,2026-08-06T13:44:56Z,2026-08-07,True,Long Context
-1325348856,zouyuanqing/mamba3-windows-cuda,"Mamba-3 (SISO, Triton) native Windows port with validated multi-stage autotune and fp16 path",https://github.com/zouyuanqing/mamba3-windows-cuda,0,0,Python,,2026-08-06T14:29:16Z,2026-08-07,True,Long Context
-1325007977,yeonatankikoz/MR-MAMBA,,https://github.com/yeonatankikoz/MR-MAMBA,0,0,Jupyter Notebook,,2026-08-06T09:15:09Z,2026-08-07,True,Long Context
-1324883246,areefabegum24phd7023/TF-Mamba-DPHNet,Official implementation of TF-Mamba-DPHNet: A Time-Frequency State-Space and Dual-Path Interaction Framework with Hybrid Cross-Scale Feature Calibration for Single-Channel Speech Enhancement.,https://github.com/areefabegum24phd7023/TF-Mamba-DPHNet,0,0,,,2026-08-06T07:23:17Z,2026-08-07,True,Long Context
-1324887384,areefabegum24phd7023/-TF-Mamba-DPHNet,TF-Mamba-DPHNet: A Time-Frequency State-Space and Dual-Path Interaction Framework with Hybrid Cross-Scale Feature Calibration for Speech Enhancement,https://github.com/areefabegum24phd7023/-TF-Mamba-DPHNet,0,0,,,2026-08-06T07:26:58Z,2026-08-07,True,Long Context
-1324829360,NhanPhan090806/EcoRL-Mamba_demo,https://nhanphan090806.github.io/EcoRL-Mamba_demo/,https://github.com/NhanPhan090806/EcoRL-Mamba_demo,0,0,CSS,,2026-08-06T06:27:16Z,2026-08-07,True,Long Context
-1325102438,WeizhiZhang051029/PWT-CMMoE-A-Mamba-Mixture-of-Experts-with-Data-Augmentation-for-Spectral-Demodulation,,https://github.com/WeizhiZhang051029/PWT-CMMoE-A-Mamba-Mixture-of-Experts-with-Data-Augmentation-for-Spectral-Demodulation,2,0,Python,,2026-08-06T10:45:02Z,2026-08-07,True,Long Context
-1325518713,mambalabsdev/mcp-outbound-infrastructure-fingerprint,"MCP server for the Mamba Labs Outbound Infrastructure Fingerprint actor on Apify. Detect whether a company runs cold outbound, on what stack, and from which sending domains.",https://github.com/mambalabsdev/mcp-outbound-infrastructure-fingerprint,0,0,JavaScript,,2026-08-06T16:50:34Z,2026-08-07,True,Long Context
-1324779145,mambalabsdev/mcp-ai-tooling-detector,"MCP server for the Mamba Labs AI Tooling Detector actor on Apify. Give it a company domain and it returns whether the company only declares AI, actually deploys AI tooling on its site, or charges money for AI, with the evidence behind the verdict as flat Clay-ready JSON.",https://github.com/mambalabsdev/mcp-ai-tooling-detector,0,0,JavaScript,,2026-08-06T05:33:36Z,2026-08-07,True,Long Context
-1325164997,oooyyy48/ssms,,https://github.com/oooyyy48/ssms,2,0,Java,,2026-08-06T11:45:55Z,2026-08-07,True,Long Context
-1325355381,pashavahedi/ssm,,https://github.com/pashavahedi/ssm,0,0,,,2026-08-06T14:35:16Z,2026-08-07,True,Long Context
-1326195996,BH220/SimplyStockManagerWeb,ssm web page,https://github.com/BH220/SimplyStockManagerWeb,0,0,,,2026-08-07T04:15:52Z,2026-08-07,True,Long Context
-1325904807,vnutsino/ssmvnh,,https://github.com/vnutsino/ssmvnh,0,0,,,2026-08-06T21:24:18Z,2026-08-07,True,Long Context
-1324845650,skry-o-hu/ssmspo,,https://github.com/skry-o-hu/ssmspo,0,0,,,2026-08-06T06:42:07Z,2026-08-07,True,Long Context
-1326073619,giostiagor/ssmtja,,https://github.com/giostiagor/ssmtja,0,0,,,2026-08-07T01:33:59Z,2026-08-07,True,Long Context
-1325958004,mittagoba/ssmoag,,https://github.com/mittagoba/ssmoag,0,0,,,2026-08-06T22:41:14Z,2026-08-07,True,Long Context
-1325567062,bravetree4501/ssmtvj,,https://github.com/bravetree4501/ssmtvj,0,0,,,2026-08-06T17:11:25Z,2026-08-07,True,Long Context
-1325631776,plascin/ssmcoi,,https://github.com/plascin/ssmcoi,0,0,,,2026-08-06T18:03:26Z,2026-08-07,True,Long Context
-1325522538,proudhawk87399/ssmoel,,https://github.com/proudhawk87399/ssmoel,0,0,,,2026-08-06T16:52:09Z,2026-08-07,True,Long Context
-1324823819,subales/ssmpfl,,https://github.com/subales/ssmpfl,0,0,,,2026-08-06T06:22:26Z,2026-08-07,True,Long Context
-1324985008,subales/ssmcfk,,https://github.com/subales/ssmcfk,0,0,,,2026-08-06T08:56:32Z,2026-08-07,True,Long Context
-1324988819,christianschrode/ssmzmu,,https://github.com/christianschrode/ssmzmu,0,0,,,2026-08-06T08:59:26Z,2026-08-07,True,Long Context
-1325788035,urbanrock5843/ssmaaf,,https://github.com/urbanrock5843/ssmaaf,0,0,,,2026-08-06T19:58:52Z,2026-08-07,True,Long Context
-1324803855,lblewail/ssmprk,,https://github.com/lblewail/ssmprk,0,0,,,2026-08-06T06:04:16Z,2026-08-07,True,Long Context
-1325077250,harry-6666/ssmsvz,,https://github.com/harry-6666/ssmsvz,0,0,,,2026-08-06T10:21:08Z,2026-08-07,True,Long Context
-1325540906,silverflow4858/ssmfsb,,https://github.com/silverflow4858/ssmfsb,0,0,,,2026-08-06T17:03:35Z,2026-08-07,True,Long Context
-1326136508,barrymonde/ssmruy,,https://github.com/barrymonde/ssmruy,0,0,,,2026-08-07T02:59:42Z,2026-08-07,True,Long Context
-1325358477,traviercha/ssmchy,,https://github.com/traviercha/ssmchy,0,0,,,2026-08-06T14:38:05Z,2026-08-07,True,Long Context
-1326179784,dkdnajshi00/ssmbdx,,https://github.com/dkdnajshi00/ssmbdx,0,0,,,2026-08-07T03:54:32Z,2026-08-07,True,Long Context
-1325302986,MedAlitm/ssmanager,,https://github.com/MedAlitm/ssmanager,0,0,,,2026-08-06T13:50:16Z,2026-08-07,True,Long Context
-1325807653,youngtree5664/ssmznn,,https://github.com/youngtree5664/ssmznn,0,0,,,2026-08-06T20:08:36Z,2026-08-07,True,Long Context
-1326119542,stouserffcomatig/ssmplj,,https://github.com/stouserffcomatig/ssmplj,0,0,,,2026-08-07T02:36:50Z,2026-08-07,True,Long Context
-1325988707,hapaaut/ssmqfw,,https://github.com/hapaaut/ssmqfw,0,0,,,2026-08-06T23:25:13Z,2026-08-07,True,Long Context
-1325299047,hapaaut/ssmoqh,,https://github.com/hapaaut/ssmoqh,0,0,,,2026-08-06T13:47:03Z,2026-08-07,True,Long Context
-1325503086,mosesvelda/ssmmo,,https://github.com/mosesvelda/ssmmo,0,0,,,2026-08-06T16:44:21Z,2026-08-07,True,Long Context
-1325802377,fairwind265/ssmstg,,https://github.com/fairwind265/ssmstg,0,0,,,2026-08-06T20:05:54Z,2026-08-07,True,Long Context
-1325874062,emeraldbyte6763/ssmaop,,https://github.com/emeraldbyte6763/ssmaop,0,0,,,2026-08-06T20:48:03Z,2026-08-07,True,Long Context
-1325182360,lavicam/ssmdfk,,https://github.com/lavicam/ssmdfk,0,0,,,2026-08-06T12:02:51Z,2026-08-07,True,Long Context
-1324916612,jbruap/ssmegm,,https://github.com/jbruap/ssmegm,0,0,,,2026-08-06T07:52:20Z,2026-08-07,True,Long Context
-1325962890,crimsontiger99046/ssmbcq,,https://github.com/crimsontiger99046/ssmbcq,0,0,,,2026-08-06T22:47:02Z,2026-08-07,True,Long Context
-1325786872,proudstar0266/ssmmrf,,https://github.com/proudstar0266/ssmmrf,0,0,,,2026-08-06T19:58:20Z,2026-08-07,True,Long Context
-1325870777,noblefire2279/ssmnob,,https://github.com/noblefire2279/ssmnob,0,0,,,2026-08-06T20:45:49Z,2026-08-07,True,Long Context
-1325441983,studybotto/ssmcel,,https://github.com/studybotto/ssmcel,0,0,,,2026-08-06T15:49:55Z,2026-08-07,True,Long Context
-1325512899,rapidtiger88322/ssmbrk,,https://github.com/rapidtiger88322/ssmbrk,0,0,,,2026-08-06T16:48:15Z,2026-08-07,True,Long Context
-1325300144,nakobobo/ssmcsw,,https://github.com/nakobobo/ssmcsw,0,0,,,2026-08-06T13:47:55Z,2026-08-07,True,Long Context
-1325649793,eramsky/ssmorw,,https://github.com/eramsky/ssmorw,0,0,,,2026-08-06T18:21:23Z,2026-08-07,True,Long Context
-1325906080,jettcarles/ssmrkg,,https://github.com/jettcarles/ssmrkg,0,0,,,2026-08-06T21:26:02Z,2026-08-07,True,Long Context
-1325698415,475rail2/ssmsng,,https://github.com/475rail2/ssmsng,0,0,,,2026-08-06T19:12:33Z,2026-08-07,True,Long Context
-1326110270,dunzgaming/ssmile,bismillah,https://github.com/dunzgaming/ssmile,0,0,TypeScript,,2026-08-07T02:23:49Z,2026-08-07,True,Long Context
-1325734165,jollytiger2337/ssmbot,,https://github.com/jollytiger2337/ssmbot,0,0,,,2026-08-06T19:39:23Z,2026-08-07,True,Long Context
-1324979455,doriovgugich/ssmpfz,,https://github.com/doriovgugich/ssmpfz,0,0,,,2026-08-06T08:52:19Z,2026-08-07,True,Long Context
-1325873874,noyadmswt/ssmiiu,,https://github.com/noyadmswt/ssmiiu,0,0,,,2026-08-06T20:47:55Z,2026-08-07,True,Long Context
-1325520688,proudraven00706/ssmuxm,,https://github.com/proudraven00706/ssmuxm,0,0,,,2026-08-06T16:51:22Z,2026-08-07,True,Long Context
-1325774086,vividbyte7438/ssmbob,,https://github.com/vividbyte7438/ssmbob,0,0,,,2026-08-06T19:52:40Z,2026-08-07,True,Long Context
-1325630887,doriovgugich/ssmdfz,,https://github.com/doriovgugich/ssmdfz,0,0,,,2026-08-06T18:02:35Z,2026-08-07,True,Long Context
-1325361189,pashavahedi/ssm-code,,https://github.com/pashavahedi/ssm-code,0,0,C#,,2026-08-06T14:40:27Z,2026-08-07,True,Long Context
-1325379804,CodeHuai/ssm_pra,ssm项目学习,https://github.com/CodeHuai/ssm_pra,0,0,Vue,,2026-08-06T14:56:38Z,2026-08-07,True,Long Context
-1324976019,R00Nz/ssmpmc-lab,,https://github.com/R00Nz/ssmpmc-lab,0,0,C,,2026-08-06T08:49:52Z,2026-08-07,True,Long Context
-1324968432,nkhanyi839-tech/ssm-music-arts,,https://github.com/nkhanyi839-tech/ssm-music-arts,0,0,HTML,,2026-08-06T08:43:54Z,2026-08-07,True,Long Context
-1325355193,ItsRadioo/1stSSM,,https://github.com/ItsRadioo/1stSSM,0,0,HTML,,2026-08-06T14:35:05Z,2026-08-07,True,Long Context
-1326112805,mikemajesty/ssm-annotation-resolver,,https://github.com/mikemajesty/ssm-annotation-resolver,0,0,Go,,2026-08-07T02:27:32Z,2026-08-07,True,Long Context
-1325438722,Perxenic-Acid/ssmt_node_thumbnails,,https://github.com/Perxenic-Acid/ssmt_node_thumbnails,0,0,Python,,2026-08-06T15:47:05Z,2026-08-07,True,Long Context
-1325109988,3x3x3mimic/ssm-inkwars-admin,SSM InkWars Admin Panel - standalone management dashboard for the collaborative coloring game,https://github.com/3x3x3mimic/ssm-inkwars-admin,0,0,JavaScript,,2026-08-06T10:53:21Z,2026-08-07,True,Long Context
-1324873337,sasamiil/SmartSwitch-SSM-Decryptor,Unofficial Windows tool to recover Samsung Smart Switch Secure Folder SSM backups.,https://github.com/sasamiil/SmartSwitch-SSM-Decryptor,0,0,Python,,2026-08-06T07:14:54Z,2026-08-07,True,Long Context
-1325390460,arcature/dynaconf-ssm-tenant-loader,A custom loader for multi-tenant applications that store secrets in AWS Systems Manager Parameter Store,https://github.com/arcature/dynaconf-ssm-tenant-loader,0,0,Python,,2026-08-06T15:04:54Z,2026-08-07,True,Long Context
-1325979694,nakomis/cdk-ssm-secret-checker,"Reusable secrets checker for the SSM-as-secret-store + public repos + CDK pattern: pre-commit, CI, and value-aware sweep modes",https://github.com/nakomis/cdk-ssm-secret-checker,0,0,,,2026-08-06T23:11:39Z,2026-08-07,True,Long Context
-1325305352,ItsRadioo/1stSSM-site,,https://github.com/ItsRadioo/1stSSM-site,0,0,HTML,,2026-08-06T13:52:09Z,2026-08-07,True,Long Context
-1324986864,bae-creator/ssmarket-slogan-16thssm16-x9k2p-slogan,,https://github.com/bae-creator/ssmarket-slogan-16thssm16-x9k2p-slogan,0,0,HTML,,2026-08-06T08:57:54Z,2026-08-07,True,Long Context
-1325756254,pjhartzell/filmdrop-stacks,"Independently deployable Terraform stacks for FilmDrop components, coordinated through SSM Parameter Store",https://github.com/pjhartzell/filmdrop-stacks,0,0,,,2026-08-06T19:46:28Z,2026-08-07,True,Long Context
-1325041651,SaadAhmad00/sql-data-warehouse-project,"Building a modern data warehouse with SSMS, including ETL processes, data modeling and analytics.",https://github.com/SaadAhmad00/sql-data-warehouse-project,0,0,,,2026-08-06T09:50:05Z,2026-08-07,True,Long Context
-1325832963,NASA-PDS/aws-utils,"AWS credential and access helpers (SSO login, SSM session connect, credential import/export) for PDS engineers",https://github.com/NASA-PDS/aws-utils,0,0,Shell,,2026-08-06T20:22:26Z,2026-08-07,True,Long Context
-1325675405,SaheedLawanson/InfraDemo,"Private RDS with no internet route, reached over AWS SSM port forwarding. Terraform + Flask + Docker Compose.",https://github.com/SaheedLawanson/InfraDemo,0,0,HCL,,2026-08-06T18:46:43Z,2026-08-07,True,Long Context
-1325125290,Neetdat/insurance-etl-business-analytics,"Automated ETL and Business Intelligence solution for insurance portfolio analytics using Python, SQL Server (SSMS), and Power BI.",https://github.com/Neetdat/insurance-etl-business-analytics,0,0,Python,,2026-08-06T11:09:18Z,2026-08-07,True,Long Context
-1325852370,clouddrove/terraform-aws-bastion,"Terraform module for an SSM-only AWS bastion: no SSH key, no public IP, no inbound rules. Composed from published CloudDrove modules.",https://github.com/clouddrove/terraform-aws-bastion,0,0,Shell,,2026-08-06T20:34:00Z,2026-08-07,True,Long Context
-1325472840,Piya242000/Data_Warehouse,"This project demonstrates the design and implementation of a Data Warehouse using Microsoft SQL Server and SQL Server Management Studio (SSMS). The solution follows a Data Modeling Architecture, where raw operational data is transformed into a well-structured analytical model to support efficient reporting and business intelligence.",https://github.com/Piya242000/Data_Warehouse,0,0,TSQL,,2026-08-06T16:18:39Z,2026-08-07,True,Long Context
-1325905916,hunkarsuci/Data-Fusion-and-Linear-Kalman-Filter,"Python exercises on state-space modelling, data fusion, and linear Kalman filtering.",https://github.com/hunkarsuci/Data-Fusion-and-Linear-Kalman-Filter,0,0,Jupyter Notebook,,2026-08-06T21:25:47Z,2026-08-07,True,Long Context
+1326134694,alych9/BeyondRetrievalBench_Pretrain,Testing Functional Memory and Memory Updating in Long-Context LLMs for Pretrained Models,https://github.com/alych9/BeyondRetrievalBench_Pretrain,0,0,Python,,2026-08-07T02:57:06Z,2026-08-07,False,Long Context
+1326184677,Anruitong2004/you-only-perceive-once,You Only Perceive Once: Decoupling Perception and Reasoning for Long-Context Text-Image Retrieval,https://github.com/Anruitong2004/you-only-perceive-once,0,0,Python,,2026-08-07T04:00:53Z,2026-08-07,False,Long Context
+1325001018,Leiusa/dynamic-kivi,"Attention-guided mixed-precision KV-cache restoration for long-context Mistral inference, built on KIVI.",https://github.com/Leiusa/dynamic-kivi,0,0,Python,"kv-cache,llm-inference,long-context,mistral,ml-systems,quantization",2026-08-06T09:09:08Z,2026-08-07,False,Long Context
+1325215923,Xiaoqiu-dot/Xiaoqiu-dot.github.io,"Personal homepage of Hu Yakun — LLM Algorithm Engineer. Long-context training, inference engines, and evaluation systems.",https://github.com/Xiaoqiu-dot/Xiaoqiu-dot.github.io,0,0,HTML,,2026-08-06T12:33:17Z,2026-08-07,False,Long Context
+1325362899,liujia0321/ROD-RoPE,Official implementation of ROD-RoPE: Optimization-driven RoPE position remapping for long-context extrapolation without tuning LLM parameters.,https://github.com/liujia0321/ROD-RoPE,0,0,Python,,2026-08-06T14:41:53Z,2026-08-07,False,Long Context
+1325121914,Beatau9610/beatau9610.github.io,"Accelerate MiniMax H3 video generation on RTX 5090 with Sol-Attn's sparsified attention via PyTorch FlexAttention, delivering up to 2x speedup over SDPA on long sequences.",https://github.com/Beatau9610/beatau9610.github.io,0,0,HTML,,2026-08-06T11:05:55Z,2026-08-07,False,Long Context
+1325296429,Sofiane-chelghoum/RC-MambaX,,https://github.com/Sofiane-chelghoum/RC-MambaX,0,0,Python,,2026-08-06T13:44:56Z,2026-08-07,False,Long Context
+1325348856,zouyuanqing/mamba3-windows-cuda,"Mamba-3 (SISO, Triton) native Windows port with validated multi-stage autotune and fp16 path",https://github.com/zouyuanqing/mamba3-windows-cuda,0,0,Python,,2026-08-06T14:29:16Z,2026-08-07,False,Long Context
+1325007977,yeonatankikoz/MR-MAMBA,,https://github.com/yeonatankikoz/MR-MAMBA,0,0,Jupyter Notebook,,2026-08-06T09:15:09Z,2026-08-07,False,Long Context
+1324883246,areefabegum24phd7023/TF-Mamba-DPHNet,Official implementation of TF-Mamba-DPHNet: A Time-Frequency State-Space and Dual-Path Interaction Framework with Hybrid Cross-Scale Feature Calibration for Single-Channel Speech Enhancement.,https://github.com/areefabegum24phd7023/TF-Mamba-DPHNet,0,0,,,2026-08-06T07:23:17Z,2026-08-07,False,Long Context
+1324887384,areefabegum24phd7023/-TF-Mamba-DPHNet,TF-Mamba-DPHNet: A Time-Frequency State-Space and Dual-Path Interaction Framework with Hybrid Cross-Scale Feature Calibration for Speech Enhancement,https://github.com/areefabegum24phd7023/-TF-Mamba-DPHNet,0,0,,,2026-08-06T07:26:58Z,2026-08-07,False,Long Context
+1324829360,NhanPhan090806/EcoRL-Mamba_demo,https://nhanphan090806.github.io/EcoRL-Mamba_demo/,https://github.com/NhanPhan090806/EcoRL-Mamba_demo,0,0,CSS,,2026-08-06T06:27:16Z,2026-08-07,False,Long Context
+1325102438,WeizhiZhang051029/PWT-CMMoE-A-Mamba-Mixture-of-Experts-with-Data-Augmentation-for-Spectral-Demodulation,,https://github.com/WeizhiZhang051029/PWT-CMMoE-A-Mamba-Mixture-of-Experts-with-Data-Augmentation-for-Spectral-Demodulation,2,0,Python,,2026-08-06T10:45:02Z,2026-08-07,False,Long Context
+1325518713,mambalabsdev/mcp-outbound-infrastructure-fingerprint,"MCP server for the Mamba Labs Outbound Infrastructure Fingerprint actor on Apify. Detect whether a company runs cold outbound, on what stack, and from which sending domains.",https://github.com/mambalabsdev/mcp-outbound-infrastructure-fingerprint,0,0,JavaScript,,2026-08-06T16:50:34Z,2026-08-07,False,Long Context
+1324779145,mambalabsdev/mcp-ai-tooling-detector,"MCP server for the Mamba Labs AI Tooling Detector actor on Apify. Give it a company domain and it returns whether the company only declares AI, actually deploys AI tooling on its site, or charges money for AI, with the evidence behind the verdict as flat Clay-ready JSON.",https://github.com/mambalabsdev/mcp-ai-tooling-detector,0,0,JavaScript,,2026-08-06T05:33:36Z,2026-08-07,False,Long Context
+1325164997,oooyyy48/ssms,,https://github.com/oooyyy48/ssms,2,0,Java,,2026-08-06T11:45:55Z,2026-08-07,False,Long Context
+1325355381,pashavahedi/ssm,,https://github.com/pashavahedi/ssm,0,0,,,2026-08-06T14:35:16Z,2026-08-07,False,Long Context
+1326195996,BH220/SimplyStockManagerWeb,ssm web page,https://github.com/BH220/SimplyStockManagerWeb,0,0,,,2026-08-07T04:15:52Z,2026-08-07,False,Long Context
+1325904807,vnutsino/ssmvnh,,https://github.com/vnutsino/ssmvnh,0,0,,,2026-08-06T21:24:18Z,2026-08-07,False,Long Context
+1324845650,skry-o-hu/ssmspo,,https://github.com/skry-o-hu/ssmspo,0,0,,,2026-08-06T06:42:07Z,2026-08-07,False,Long Context
+1326073619,giostiagor/ssmtja,,https://github.com/giostiagor/ssmtja,0,0,,,2026-08-07T01:33:59Z,2026-08-07,False,Long Context
+1325958004,mittagoba/ssmoag,,https://github.com/mittagoba/ssmoag,0,0,,,2026-08-06T22:41:14Z,2026-08-07,False,Long Context
+1325567062,bravetree4501/ssmtvj,,https://github.com/bravetree4501/ssmtvj,0,0,,,2026-08-06T17:11:25Z,2026-08-07,False,Long Context
+1325631776,plascin/ssmcoi,,https://github.com/plascin/ssmcoi,0,0,,,2026-08-06T18:03:26Z,2026-08-07,False,Long Context
+1325522538,proudhawk87399/ssmoel,,https://github.com/proudhawk87399/ssmoel,0,0,,,2026-08-06T16:52:09Z,2026-08-07,False,Long Context
+1324823819,subales/ssmpfl,,https://github.com/subales/ssmpfl,0,0,,,2026-08-06T06:22:26Z,2026-08-07,False,Long Context
+1324985008,subales/ssmcfk,,https://github.com/subales/ssmcfk,0,0,,,2026-08-06T08:56:32Z,2026-08-07,False,Long Context
+1324988819,christianschrode/ssmzmu,,https://github.com/christianschrode/ssmzmu,0,0,,,2026-08-06T08:59:26Z,2026-08-07,False,Long Context
+1325788035,urbanrock5843/ssmaaf,,https://github.com/urbanrock5843/ssmaaf,0,0,,,2026-08-06T19:58:52Z,2026-08-07,False,Long Context
+1324803855,lblewail/ssmprk,,https://github.com/lblewail/ssmprk,0,0,,,2026-08-06T06:04:16Z,2026-08-07,False,Long Context
+1325077250,harry-6666/ssmsvz,,https://github.com/harry-6666/ssmsvz,0,0,,,2026-08-06T10:21:08Z,2026-08-07,False,Long Context
+1325540906,silverflow4858/ssmfsb,,https://github.com/silverflow4858/ssmfsb,0,0,,,2026-08-06T17:03:35Z,2026-08-07,False,Long Context
+1326136508,barrymonde/ssmruy,,https://github.com/barrymonde/ssmruy,0,0,,,2026-08-07T02:59:42Z,2026-08-07,False,Long Context
+1325358477,traviercha/ssmchy,,https://github.com/traviercha/ssmchy,0,0,,,2026-08-06T14:38:05Z,2026-08-07,False,Long Context
+1326179784,dkdnajshi00/ssmbdx,,https://github.com/dkdnajshi00/ssmbdx,0,0,,,2026-08-07T03:54:32Z,2026-08-07,False,Long Context
+1325302986,MedAlitm/ssmanager,,https://github.com/MedAlitm/ssmanager,0,0,,,2026-08-06T13:50:16Z,2026-08-07,False,Long Context
+1325807653,youngtree5664/ssmznn,,https://github.com/youngtree5664/ssmznn,0,0,,,2026-08-06T20:08:36Z,2026-08-07,False,Long Context
+1326119542,stouserffcomatig/ssmplj,,https://github.com/stouserffcomatig/ssmplj,0,0,,,2026-08-07T02:36:50Z,2026-08-07,False,Long Context
+1325988707,hapaaut/ssmqfw,,https://github.com/hapaaut/ssmqfw,0,0,,,2026-08-06T23:25:13Z,2026-08-07,False,Long Context
+1325299047,hapaaut/ssmoqh,,https://github.com/hapaaut/ssmoqh,0,0,,,2026-08-06T13:47:03Z,2026-08-07,False,Long Context
+1325503086,mosesvelda/ssmmo,,https://github.com/mosesvelda/ssmmo,0,0,,,2026-08-06T16:44:21Z,2026-08-07,False,Long Context
+1325802377,fairwind265/ssmstg,,https://github.com/fairwind265/ssmstg,0,0,,,2026-08-06T20:05:54Z,2026-08-07,False,Long Context
+1325874062,emeraldbyte6763/ssmaop,,https://github.com/emeraldbyte6763/ssmaop,0,0,,,2026-08-06T20:48:03Z,2026-08-07,False,Long Context
+1325182360,lavicam/ssmdfk,,https://github.com/lavicam/ssmdfk,0,0,,,2026-08-06T12:02:51Z,2026-08-07,False,Long Context
+1324916612,jbruap/ssmegm,,https://github.com/jbruap/ssmegm,0,0,,,2026-08-06T07:52:20Z,2026-08-07,False,Long Context
+1325962890,crimsontiger99046/ssmbcq,,https://github.com/crimsontiger99046/ssmbcq,0,0,,,2026-08-06T22:47:02Z,2026-08-07,False,Long Context
+1325786872,proudstar0266/ssmmrf,,https://github.com/proudstar0266/ssmmrf,0,0,,,2026-08-06T19:58:20Z,2026-08-07,False,Long Context
+1325870777,noblefire2279/ssmnob,,https://github.com/noblefire2279/ssmnob,0,0,,,2026-08-06T20:45:49Z,2026-08-07,False,Long Context
+1325441983,studybotto/ssmcel,,https://github.com/studybotto/ssmcel,0,0,,,2026-08-06T15:49:55Z,2026-08-07,False,Long Context
+1325512899,rapidtiger88322/ssmbrk,,https://github.com/rapidtiger88322/ssmbrk,0,0,,,2026-08-06T16:48:15Z,2026-08-07,False,Long Context
+1325300144,nakobobo/ssmcsw,,https://github.com/nakobobo/ssmcsw,0,0,,,2026-08-06T13:47:55Z,2026-08-07,False,Long Context
+1325649793,eramsky/ssmorw,,https://github.com/eramsky/ssmorw,0,0,,,2026-08-06T18:21:23Z,2026-08-07,False,Long Context
+1325906080,jettcarles/ssmrkg,,https://github.com/jettcarles/ssmrkg,0,0,,,2026-08-06T21:26:02Z,2026-08-07,False,Long Context
+1325698415,475rail2/ssmsng,,https://github.com/475rail2/ssmsng,0,0,,,2026-08-06T19:12:33Z,2026-08-07,False,Long Context
+1326110270,dunzgaming/ssmile,bismillah,https://github.com/dunzgaming/ssmile,0,0,TypeScript,,2026-08-07T02:23:49Z,2026-08-07,False,Long Context
+1325734165,jollytiger2337/ssmbot,,https://github.com/jollytiger2337/ssmbot,0,0,,,2026-08-06T19:39:23Z,2026-08-07,False,Long Context
+1324979455,doriovgugich/ssmpfz,,https://github.com/doriovgugich/ssmpfz,0,0,,,2026-08-06T08:52:19Z,2026-08-07,False,Long Context
+1325873874,noyadmswt/ssmiiu,,https://github.com/noyadmswt/ssmiiu,0,0,,,2026-08-06T20:47:55Z,2026-08-07,False,Long Context
+1325520688,proudraven00706/ssmuxm,,https://github.com/proudraven00706/ssmuxm,0,0,,,2026-08-06T16:51:22Z,2026-08-07,False,Long Context
+1325774086,vividbyte7438/ssmbob,,https://github.com/vividbyte7438/ssmbob,0,0,,,2026-08-06T19:52:40Z,2026-08-07,False,Long Context
+1325630887,doriovgugich/ssmdfz,,https://github.com/doriovgugich/ssmdfz,0,0,,,2026-08-06T18:02:35Z,2026-08-07,False,Long Context
+1325361189,pashavahedi/ssm-code,,https://github.com/pashavahedi/ssm-code,0,0,C#,,2026-08-06T14:40:27Z,2026-08-07,False,Long Context
+1325379804,CodeHuai/ssm_pra,ssm项目学习,https://github.com/CodeHuai/ssm_pra,0,0,Vue,,2026-08-06T14:56:38Z,2026-08-07,False,Long Context
+1324976019,R00Nz/ssmpmc-lab,,https://github.com/R00Nz/ssmpmc-lab,0,0,C,,2026-08-06T08:49:52Z,2026-08-07,False,Long Context
+1324968432,nkhanyi839-tech/ssm-music-arts,,https://github.com/nkhanyi839-tech/ssm-music-arts,0,0,HTML,,2026-08-06T08:43:54Z,2026-08-07,False,Long Context
+1325355193,ItsRadioo/1stSSM,,https://github.com/ItsRadioo/1stSSM,0,0,HTML,,2026-08-06T14:35:05Z,2026-08-07,False,Long Context
+1326112805,mikemajesty/ssm-annotation-resolver,,https://github.com/mikemajesty/ssm-annotation-resolver,0,0,Go,,2026-08-07T02:27:32Z,2026-08-07,False,Long Context
+1325438722,Perxenic-Acid/ssmt_node_thumbnails,,https://github.com/Perxenic-Acid/ssmt_node_thumbnails,0,0,Python,,2026-08-06T15:47:05Z,2026-08-07,False,Long Context
+1325109988,3x3x3mimic/ssm-inkwars-admin,SSM InkWars Admin Panel - standalone management dashboard for the collaborative coloring game,https://github.com/3x3x3mimic/ssm-inkwars-admin,0,0,JavaScript,,2026-08-06T10:53:21Z,2026-08-07,False,Long Context
+1324873337,sasamiil/SmartSwitch-SSM-Decryptor,Unofficial Windows tool to recover Samsung Smart Switch Secure Folder SSM backups.,https://github.com/sasamiil/SmartSwitch-SSM-Decryptor,0,0,Python,,2026-08-06T07:14:54Z,2026-08-07,False,Long Context
+1325390460,arcature/dynaconf-ssm-tenant-loader,A custom loader for multi-tenant applications that store secrets in AWS Systems Manager Parameter Store,https://github.com/arcature/dynaconf-ssm-tenant-loader,0,0,Python,,2026-08-06T15:04:54Z,2026-08-07,False,Long Context
+1325979694,nakomis/cdk-ssm-secret-checker,"Reusable secrets checker for the SSM-as-secret-store + public repos + CDK pattern: pre-commit, CI, and value-aware sweep modes",https://github.com/nakomis/cdk-ssm-secret-checker,0,0,,,2026-08-06T23:11:39Z,2026-08-07,False,Long Context
+1325305352,ItsRadioo/1stSSM-site,,https://github.com/ItsRadioo/1stSSM-site,0,0,HTML,,2026-08-06T13:52:09Z,2026-08-07,False,Long Context
+1324986864,bae-creator/ssmarket-slogan-16thssm16-x9k2p-slogan,,https://github.com/bae-creator/ssmarket-slogan-16thssm16-x9k2p-slogan,0,0,HTML,,2026-08-06T08:57:54Z,2026-08-07,False,Long Context
+1325756254,pjhartzell/filmdrop-stacks,"Independently deployable Terraform stacks for FilmDrop components, coordinated through SSM Parameter Store",https://github.com/pjhartzell/filmdrop-stacks,0,0,,,2026-08-06T19:46:28Z,2026-08-07,False,Long Context
+1325041651,SaadAhmad00/sql-data-warehouse-project,"Building a modern data warehouse with SSMS, including ETL processes, data modeling and analytics.",https://github.com/SaadAhmad00/sql-data-warehouse-project,0,0,,,2026-08-06T09:50:05Z,2026-08-07,False,Long Context
+1325832963,NASA-PDS/aws-utils,"AWS credential and access helpers (SSO login, SSM session connect, credential import/export) for PDS engineers",https://github.com/NASA-PDS/aws-utils,0,0,Shell,,2026-08-06T20:22:26Z,2026-08-07,False,Long Context
+1325675405,SaheedLawanson/InfraDemo,"Private RDS with no internet route, reached over AWS SSM port forwarding. Terraform + Flask + Docker Compose.",https://github.com/SaheedLawanson/InfraDemo,0,0,HCL,,2026-08-06T18:46:43Z,2026-08-07,False,Long Context
+1325125290,Neetdat/insurance-etl-business-analytics,"Automated ETL and Business Intelligence solution for insurance portfolio analytics using Python, SQL Server (SSMS), and Power BI.",https://github.com/Neetdat/insurance-etl-business-analytics,0,0,Python,,2026-08-06T11:09:18Z,2026-08-07,False,Long Context
+1325852370,clouddrove/terraform-aws-bastion,"Terraform module for an SSM-only AWS bastion: no SSH key, no public IP, no inbound rules. Composed from published CloudDrove modules.",https://github.com/clouddrove/terraform-aws-bastion,0,0,Shell,,2026-08-06T20:34:00Z,2026-08-07,False,Long Context
+1325472840,Piya242000/Data_Warehouse,"This project demonstrates the design and implementation of a Data Warehouse using Microsoft SQL Server and SQL Server Management Studio (SSMS). The solution follows a Data Modeling Architecture, where raw operational data is transformed into a well-structured analytical model to support efficient reporting and business intelligence.",https://github.com/Piya242000/Data_Warehouse,0,0,TSQL,,2026-08-06T16:18:39Z,2026-08-07,False,Long Context
+1325905916,hunkarsuci/Data-Fusion-and-Linear-Kalman-Filter,"Python exercises on state-space modelling, data fusion, and linear Kalman filtering.",https://github.com/hunkarsuci/Data-Fusion-and-Linear-Kalman-Filter,0,0,Jupyter Notebook,,2026-08-06T21:25:47Z,2026-08-07,False,Long Context
