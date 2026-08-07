@@ -4743,5 +4743,70 @@
     "url": "https://simonwillison.net/2026/Aug/5/raccoon-heist/#atom-everything",
     "tags": "",
     "created_at": "2026-08-06 04:58:32"
+  },
+  {
+    "id": "rss_https://openai.com/index/improving-gpt-5-6-sol-in-chatgpt",
+    "company": "OpenAI",
+    "title": "Improving GPT‑5.6 Sol in ChatGPT—and expanding access to GPT-5.6 Luna for free users",
+    "publish_date": "2026-08-06",
+    "type": "其他",
+    "open_source": "否",
+    "summary": "ChatGPT introduces improved GPT-5.6 Sol with better accuracy and consistency, plus expanded access for free users and unlimited everyday chats with GPT-5.6 Luna.",
+    "details": "",
+    "url": "https://openai.com/index/improving-gpt-5-6-sol-in-chatgpt",
+    "tags": "",
+    "created_at": "2026-08-07 04:21:56"
+  },
+  {
+    "id": "rss_https://openai.com/index/how-the-world-is-putting-chatgpt-to-work",
+    "company": "OpenAI",
+    "title": "From asking to doing: How the world is putting ChatGPT to work",
+    "publish_date": "2026-08-06",
+    "type": "其他",
+    "open_source": "否",
+    "summary": "New OpenAI Signals data shows how people use ChatGPT worldwide, with country-level insights on adoption, usage trends, and evolving behavior.",
+    "details": "",
+    "url": "https://openai.com/index/how-the-world-is-putting-chatgpt-to-work",
+    "tags": "",
+    "created_at": "2026-08-07 04:21:56"
+  },
+  {
+    "id": "rss_https://deepmind.google/blog/weathernext-ai-model-achieves-breakthrough-in-forecasting-cyclones/",
+    "company": "Google DeepMind",
+    "title": "WeatherNext: AI model achieves breakthrough in forecasting cyclones",
+    "publish_date": "2026-08-06",
+    "type": "其他",
+    "open_source": "否",
+    "summary": "",
+    "details": "",
+    "url": "https://deepmind.google/blog/weathernext-ai-model-achieves-breakthrough-in-forecasting-cyclones/",
+    "tags": "",
+    "created_at": "2026-08-07 04:21:57"
+  },
+  {
+    "id": "rss_https://simonwillison.net/2026/Aug/6/datasette/#atom-everything",
+    "company": "Simon Willison",
+    "title": "datasette 1.0a38",
+    "publish_date": "2026-08-06",
+    "type": "其他",
+    "open_source": "否",
+    "summary": "<p><strong>Release:</strong> <a href=\"https://github.com/simonw/datasette/releases/tag/1.0a38\">datasette 1.0a38</a></p>\n        <blockquote>\n<p>This release fixes a <strong>SQL injection</strong> secu",
+    "details": "",
+    "url": "https://simonwillison.net/2026/Aug/6/datasette/#atom-everything",
+    "tags": "",
+    "created_at": "2026-08-07 04:22:00"
+  },
+  {
+    "id": "rss_https://simonwillison.net/2026/Aug/6/datasette-2/#atom-everything",
+    "company": "Simon Willison",
+    "title": "datasette 0.65.3",
+    "publish_date": "2026-08-06",
+    "type": "其他",
+    "open_source": "否",
+    "summary": "<p><strong>Release:</strong> <a href=\"https://github.com/simonw/datasette/releases/tag/0.65.3\">datasette 0.65.3</a></p>\n        <p>Back-ported the SQL Injection security fix from <a href=\"https://simo",
+    "details": "",
+    "url": "https://simonwillison.net/2026/Aug/6/datasette-2/#atom-everything",
+    "tags": "",
+    "created_at": "2026-08-07 04:22:00"
   }
 ]
