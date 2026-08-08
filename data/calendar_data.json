@@ -4808,5 +4808,18 @@
     "url": "https://simonwillison.net/2026/Aug/6/datasette-2/#atom-everything",
     "tags": "",
     "created_at": "2026-08-07 04:22:00"
+  },
+  {
+    "id": "rss_https://simonwillison.net/2026/Aug/7/moonlight-mayhem/#atom-everything",
+    "company": "Simon Willison",
+    "title": "Moonlight & Mayhem (Raccoon Heist by Codex + GPT-5.6 Sol Ultra)",
+    "publish_date": "2026-08-07",
+    "type": "其他",
+    "open_source": "否",
+    "summary": "<p><strong><a href=\"https://simonw.github.io/raccoon-heist-codex/\">Moonlight &amp; Mayhem (Raccoon Heist by Codex + GPT-5.6 Sol Ultra)</a></strong></p>\nOn Wednesday I wrote about <a href=\"https://simo",
+    "details": "",
+    "url": "https://simonwillison.net/2026/Aug/7/moonlight-mayhem/#atom-everything",
+    "tags": "",
+    "created_at": "2026-08-08 03:19:39"
   }
 ]
