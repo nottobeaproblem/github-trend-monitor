@@ -6672,58 +6672,58 @@ id,name,description,url,stars,forks,language,topics,created_at,first_seen,is_act
 1325649334,DCunha27/line-follower-robot,Light-following robot car with custom EAGLE PCB,https://github.com/DCunha27/line-follower-robot,0,0,C++,,2026-08-06T18:20:54Z,2026-08-07,False,Speculative Model
 1325013573,cardohso/Vision-Language-Model-Eagle-Test,,https://github.com/cardohso/Vision-Language-Model-Eagle-Test,0,0,,,2026-08-06T09:20:06Z,2026-08-07,False,Speculative Model
 1326057677,ahmedguebsi/fastapi-inference-service,,https://github.com/ahmedguebsi/fastapi-inference-service,0,0,Python,,2026-08-07T01:09:52Z,2026-08-07,False,Speculative Model
-1326942236,Sgsouham/speculative-decoding,,https://github.com/Sgsouham/speculative-decoding,0,0,Python,,2026-08-07T16:52:22Z,2026-08-08,True,Speculative Model
-1327098838,MiladAhmadi1380/speculative-decoding-lab,,https://github.com/MiladAhmadi1380/speculative-decoding-lab,0,0,Python,,2026-08-07T19:45:00Z,2026-08-08,True,Speculative Model
-1327355067,eberron4/deepseek-v4-flash-4x-dgx-spark,"Serving DeepSeek-V4-Flash across 4x NVIDIA DGX Spark (GB10/sm_121) with vLLM: TP over RoCE/RDMA, 1M context, DSpark speculative decoding, tool calling",https://github.com/eberron4/deepseek-v4-flash-4x-dgx-spark,0,0,Shell,,2026-08-08T02:40:44Z,2026-08-08,True,Speculative Model
-1326472548,grkthegreat2018-bot/ForgeLM,"ForgeLM: Zero-training LLM research — weight porting, 44-key KeyStack (MLA, MoE, BitNet, quantization, KV compression, speculative decoding, knowledge packs), training/distillation pipeline, and inference engine.",https://github.com/grkthegreat2018-bot/ForgeLM,0,0,Python,,2026-08-07T09:30:03Z,2026-08-08,True,Speculative Model
-1326659909,contra404/medusa-paypal,,https://github.com/contra404/medusa-paypal,0,0,,,2026-08-07T12:41:45Z,2026-08-08,True,Speculative Model
-1326730371,Veltro78/medusa-shlagos,,https://github.com/Veltro78/medusa-shlagos,0,0,JavaScript,,2026-08-07T13:50:31Z,2026-08-08,True,Speculative Model
-1326794269,bammlasquety/medusa-railway,,https://github.com/bammlasquety/medusa-railway,0,0,TypeScript,,2026-08-07T14:51:18Z,2026-08-08,True,Speculative Model
-1326893389,abduljawadkt/zedx-medusa,,https://github.com/abduljawadkt/zedx-medusa,0,0,TypeScript,,2026-08-07T16:03:42Z,2026-08-08,True,Speculative Model
-1327331046,solucionesintegralesmurcia/la-medusa,,https://github.com/solucionesintegralesmurcia/la-medusa,0,0,HTML,,2026-08-08T01:57:52Z,2026-08-08,True,Speculative Model
-1326263800,DamonJiang716/medusa_firmware,"RP2040 firmware for the Medusa eDNA sampler, including SSD1322 OLED driver, graphics, UI and hardware interfaces.",https://github.com/DamonJiang716/medusa_firmware,0,0,C++,,2026-08-07T05:47:24Z,2026-08-08,True,Speculative Model
-1326726409,ammarakhtar2/Hydra-Vs-Medusa,,https://github.com/ammarakhtar2/Hydra-Vs-Medusa,0,0,,,2026-08-07T13:46:51Z,2026-08-08,True,Speculative Model
-1326660520,contra404/medusa-paypal-ui,,https://github.com/contra404/medusa-paypal-ui,0,0,,,2026-08-07T12:42:18Z,2026-08-08,True,Speculative Model
-1326810369,kt-production-repo/medusa-multi-store,,https://github.com/kt-production-repo/medusa-multi-store,0,0,TypeScript,,2026-08-07T15:06:54Z,2026-08-08,True,Speculative Model
-1327362542,ManuJRS/medusa-vue-ecommerce,,https://github.com/ManuJRS/medusa-vue-ecommerce,0,0,TypeScript,,2026-08-08T02:53:23Z,2026-08-08,True,Speculative Model
-1327040429,Veltro78/medusa-shlagos-v2-,,https://github.com/Veltro78/medusa-shlagos-v2-,0,0,JavaScript,,2026-08-07T18:36:37Z,2026-08-08,True,Speculative Model
-1326442726,TaigaWind/eagla,eagler server,https://github.com/TaigaWind/eagla,0,0,,,2026-08-07T08:59:57Z,2026-08-08,True,Speculative Model
-1326838438,BlueEagle12/MTA-Eagle-Editor,Advanced map and RenderWare asset editor for GTA: San Andreas and MTA.,https://github.com/BlueEagle12/MTA-Eagle-Editor,2,0,Rust,,2026-08-07T15:31:08Z,2026-08-08,True,Speculative Model
-1327213468,23Ranish/EAGLE,,https://github.com/23Ranish/EAGLE,0,0,,,2026-08-07T22:26:38Z,2026-08-08,True,Speculative Model
-1326898132,bonjesponge/EaglerUnblocked,,https://github.com/bonjesponge/EaglerUnblocked,0,0,HTML,,2026-08-07T16:08:15Z,2026-08-08,True,Speculative Model
-1327192242,archisdhar8/EagleEyesAI,,https://github.com/archisdhar8/EagleEyesAI,0,0,Python,,2026-08-07T21:53:09Z,2026-08-08,True,Speculative Model
-1327258426,williamhconrad/eagle-backup,Eagle backup for WC,https://github.com/williamhconrad/eagle-backup,0,0,,,2026-08-07T23:44:05Z,2026-08-08,True,Speculative Model
-1326401259,mc7-minecraft/EaglercraftZ-26.1.1,Play Eaglercraft 26.1.2 in your browser it may take some tim to load,https://github.com/mc7-minecraft/EaglercraftZ-26.1.1,0,0,HTML,,2026-08-07T08:21:25Z,2026-08-08,True,Speculative Model
-1326336566,tuki0918/eagleinbox,"An iOS app for sending photos, files, and other media directly to Eagle.",https://github.com/tuki0918/eagleinbox,0,0,Swift,"airdrop-alternative,eagle,ios-app",2026-08-07T07:16:28Z,2026-08-08,True,Speculative Model
-1327308418,EaglerCraftPlayer15/eagler.,,https://github.com/EaglerCraftPlayer15/eagler.,0,0,HTML,,2026-08-08T01:16:52Z,2026-08-08,True,Speculative Model
-1327194163,bobthebuilder4life/jnhbgf,eagler craft launcher v1 (early beta),https://github.com/bobthebuilder4life/jnhbgf,0,0,HTML,,2026-08-07T21:56:17Z,2026-08-08,True,Speculative Model
-1327055334,Nxl3r/Eaglecraft,Enjoy my web.,https://github.com/Nxl3r/Eaglecraft,0,0,JavaScript,,2026-08-07T18:53:45Z,2026-08-08,True,Speculative Model
-1326371113,Eagleworrior/Eaglewar,,https://github.com/Eagleworrior/Eaglewar,0,0,HTML,,2026-08-07T07:49:10Z,2026-08-08,True,Speculative Model
-1326489132,Justin90884/eaglerclient,EaglerCraft for your android phone,https://github.com/Justin90884/eaglerclient,0,0,,,2026-08-07T09:45:53Z,2026-08-08,True,Speculative Model
-1326605460,Iqrawaseem8219/eaglee,,https://github.com/Iqrawaseem8219/eaglee,0,0,,,2026-08-07T11:45:39Z,2026-08-08,True,Speculative Model
-1327148702,jonathanjackson-droid/eaglercraft,,https://github.com/jonathanjackson-droid/eaglercraft,0,0,HTML,,2026-08-07T20:49:36Z,2026-08-08,True,Speculative Model
-1327056569,KABOBLACK/Black-Eagle-Registration,Black Eagle football club player registration system ,https://github.com/KABOBLACK/Black-Eagle-Registration,1,0,HTML,,2026-08-07T18:55:10Z,2026-08-08,True,Speculative Model
-1326582071,josh-2383/eagler-relay,,https://github.com/josh-2383/eagler-relay,0,0,JavaScript,,2026-08-07T11:21:43Z,2026-08-08,True,Speculative Model
-1327093666,raflyhr/eagle-drone,"Eagle Drone adalah dashboard web untuk membantu co-pilot atau navigator memonitor misi drone. Sistem menerima video dari webcam, memproses frame menggunakan TensorFlow.js dan COCO-SSD, kemudian menampilkan manusia yang terdeteksi melalui bounding box dan confidence. Telemetri penerbangan masih menggunakan data dummy yang bergerak untuk menguji anta",https://github.com/raflyhr/eagle-drone,0,0,JavaScript,,2026-08-07T19:39:02Z,2026-08-08,True,Speculative Model
-1326292944,YepQQQ/eagle-library,Codex plugin for searching and safely organizing local Eagle libraries,https://github.com/YepQQQ/eagle-library,0,0,Python,,2026-08-07T06:26:53Z,2026-08-08,True,Speculative Model
-1326249605,zyc2pi/eagle-quickrail,Eagle 文件夹快捷轨：常用目录置顶、快速导航、使用统计、卡片定制与窗口联动,https://github.com/zyc2pi/eagle-quickrail,0,0,JavaScript,"eagle,eagle-plugin,folder-navigation,javascript,productivity,windows",2026-08-07T05:28:26Z,2026-08-08,True,Speculative Model
-1326306877,melicksengar77-glitch/Eagle-_Finance,,https://github.com/melicksengar77-glitch/Eagle-_Finance,0,0,,,2026-08-07T06:44:15Z,2026-08-08,True,Speculative Model
-1326658009,abhijithmd-mak/Eagle-Survey,,https://github.com/abhijithmd-mak/Eagle-Survey,0,0,HTML,,2026-08-07T12:39:55Z,2026-08-08,True,Speculative Model
-1327050981,GarvGunnu/golden-eagle-,krishan web page,https://github.com/GarvGunnu/golden-eagle-,0,0,,,2026-08-07T18:48:38Z,2026-08-08,True,Speculative Model
-1327330618,Karusera/eagle_wordle,,https://github.com/Karusera/eagle_wordle,0,0,,,2026-08-08T01:57:07Z,2026-08-08,True,Speculative Model
-1326419383,Geoplan-Philippines/eagle-cement-deployment,,https://github.com/Geoplan-Philippines/eagle-cement-deployment,0,0,Shell,,2026-08-07T08:37:38Z,2026-08-08,True,Speculative Model
-1326935046,Alita035/ultra-eagles-countdown,,https://github.com/Alita035/ultra-eagles-countdown,0,0,CSS,,2026-08-07T16:45:15Z,2026-08-08,True,Speculative Model
-1326364751,EagleErkanes/eagleerkanes.github.io,,https://github.com/EagleErkanes/eagleerkanes.github.io,0,0,HTML,,2026-08-07T07:42:25Z,2026-08-08,True,Speculative Model
-1327235161,Hamza-Shewa/flutter-eagle-eye,,https://github.com/Hamza-Shewa/flutter-eagle-eye,0,0,TypeScript,,2026-08-07T23:03:55Z,2026-08-08,True,Speculative Model
-1326495837,drPanda1893/iron-eagles-community,,https://github.com/drPanda1893/iron-eagles-community,0,0,HTML,,2026-08-07T09:53:00Z,2026-08-08,True,Speculative Model
-1326512336,dabhimayank1/eagle-digital-solutions,"Official website and admin management portal for Eagle Digital Solutions — Video Editing, Social Media Management, Graphic Design & Web Development Agency.",https://github.com/dabhimayank1/eagle-digital-solutions,0,0,HTML,,2026-08-07T10:09:40Z,2026-08-08,True,Speculative Model
-1327070941,omrelnesr22-lang/Eagle.X-O,,https://github.com/omrelnesr22-lang/Eagle.X-O,0,0,Python,,2026-08-07T19:12:17Z,2026-08-08,True,Speculative Model
-1327245500,dra-allan/eagle-crest-landscaping-demo,,https://github.com/dra-allan/eagle-crest-landscaping-demo,0,0,HTML,,2026-08-07T23:20:17Z,2026-08-08,True,Speculative Model
-1326337594,jianjidanbenren-eng/xhs-to-eagle-pipeline,小红书到 Eagle 图片采集与打标 Skill（通用版）。自动探测 Eagle 库路径与标签库，按用户自己的标签白名单打标，不新增标签。,https://github.com/jianjidanbenren-eng/xhs-to-eagle-pipeline,0,0,Python,,2026-08-07T07:17:28Z,2026-08-08,True,Speculative Model
-1326558054,mc7-minecraft/Eaglercraft-26.1.1,,https://github.com/mc7-minecraft/Eaglercraft-26.1.1,0,0,HTML,,2026-08-07T10:57:11Z,2026-08-08,True,Speculative Model
-1326381219,chikunishellonce-blip/eagle-watch-website-for-vercel,,https://github.com/chikunishellonce-blip/eagle-watch-website-for-vercel,0,0,TypeScript,,2026-08-07T07:59:20Z,2026-08-08,True,Speculative Model
-1326449678,duongvanhoan78/iron-eagle-one-llc-2154,,https://github.com/duongvanhoan78/iron-eagle-one-llc-2154,0,0,HTML,,2026-08-07T09:06:28Z,2026-08-08,True,Speculative Model
-1326597341,duongvanhoan78/iron-eagle-trucking-llc-7486,,https://github.com/duongvanhoan78/iron-eagle-trucking-llc-7486,0,0,HTML,,2026-08-07T11:37:31Z,2026-08-08,True,Speculative Model
-1326906313,Trooper4568/HackedEaglerClient1.8.8,,https://github.com/Trooper4568/HackedEaglerClient1.8.8,0,0,,,2026-08-07T16:16:43Z,2026-08-08,True,Speculative Model
-1327203642,bobthebuilder4life/Eaglercraft-Launcher-v1--early-beta-,super cool eaglercraft launcher made by bobthebuilder4life,https://github.com/bobthebuilder4life/Eaglercraft-Launcher-v1--early-beta-,0,0,HTML,,2026-08-07T22:11:21Z,2026-08-08,True,Speculative Model
-1326414078,hiteshbalaji147-rgb/groq-vision-chatbot,AI-powered image analysis chatbot built with Streamlit and Groq's ultra-fast inference API,https://github.com/hiteshbalaji147-rgb/groq-vision-chatbot,0,0,Python,,2026-08-07T08:33:14Z,2026-08-08,True,Speculative Model
+1326942236,Sgsouham/speculative-decoding,,https://github.com/Sgsouham/speculative-decoding,0,0,Python,,2026-08-07T16:52:22Z,2026-08-08,False,Speculative Model
+1327098838,MiladAhmadi1380/speculative-decoding-lab,,https://github.com/MiladAhmadi1380/speculative-decoding-lab,0,0,Python,,2026-08-07T19:45:00Z,2026-08-08,False,Speculative Model
+1327355067,eberron4/deepseek-v4-flash-4x-dgx-spark,"Serving DeepSeek-V4-Flash across 4x NVIDIA DGX Spark (GB10/sm_121) with vLLM: TP over RoCE/RDMA, 1M context, DSpark speculative decoding, tool calling",https://github.com/eberron4/deepseek-v4-flash-4x-dgx-spark,0,0,Shell,,2026-08-08T02:40:44Z,2026-08-08,False,Speculative Model
+1326472548,grkthegreat2018-bot/ForgeLM,"ForgeLM: Zero-training LLM research — weight porting, 44-key KeyStack (MLA, MoE, BitNet, quantization, KV compression, speculative decoding, knowledge packs), training/distillation pipeline, and inference engine.",https://github.com/grkthegreat2018-bot/ForgeLM,0,0,Python,,2026-08-07T09:30:03Z,2026-08-08,False,Speculative Model
+1326659909,contra404/medusa-paypal,,https://github.com/contra404/medusa-paypal,0,0,,,2026-08-07T12:41:45Z,2026-08-08,False,Speculative Model
+1326730371,Veltro78/medusa-shlagos,,https://github.com/Veltro78/medusa-shlagos,0,0,JavaScript,,2026-08-07T13:50:31Z,2026-08-08,False,Speculative Model
+1326794269,bammlasquety/medusa-railway,,https://github.com/bammlasquety/medusa-railway,0,0,TypeScript,,2026-08-07T14:51:18Z,2026-08-08,False,Speculative Model
+1326893389,abduljawadkt/zedx-medusa,,https://github.com/abduljawadkt/zedx-medusa,0,0,TypeScript,,2026-08-07T16:03:42Z,2026-08-08,False,Speculative Model
+1327331046,solucionesintegralesmurcia/la-medusa,,https://github.com/solucionesintegralesmurcia/la-medusa,0,0,HTML,,2026-08-08T01:57:52Z,2026-08-08,False,Speculative Model
+1326263800,DamonJiang716/medusa_firmware,"RP2040 firmware for the Medusa eDNA sampler, including SSD1322 OLED driver, graphics, UI and hardware interfaces.",https://github.com/DamonJiang716/medusa_firmware,0,0,C++,,2026-08-07T05:47:24Z,2026-08-08,False,Speculative Model
+1326726409,ammarakhtar2/Hydra-Vs-Medusa,,https://github.com/ammarakhtar2/Hydra-Vs-Medusa,0,0,,,2026-08-07T13:46:51Z,2026-08-08,False,Speculative Model
+1326660520,contra404/medusa-paypal-ui,,https://github.com/contra404/medusa-paypal-ui,0,0,,,2026-08-07T12:42:18Z,2026-08-08,False,Speculative Model
+1326810369,kt-production-repo/medusa-multi-store,,https://github.com/kt-production-repo/medusa-multi-store,0,0,TypeScript,,2026-08-07T15:06:54Z,2026-08-08,False,Speculative Model
+1327362542,ManuJRS/medusa-vue-ecommerce,,https://github.com/ManuJRS/medusa-vue-ecommerce,0,0,TypeScript,,2026-08-08T02:53:23Z,2026-08-08,False,Speculative Model
+1327040429,Veltro78/medusa-shlagos-v2-,,https://github.com/Veltro78/medusa-shlagos-v2-,0,0,JavaScript,,2026-08-07T18:36:37Z,2026-08-08,False,Speculative Model
+1326442726,TaigaWind/eagla,eagler server,https://github.com/TaigaWind/eagla,0,0,,,2026-08-07T08:59:57Z,2026-08-08,False,Speculative Model
+1326838438,BlueEagle12/MTA-Eagle-Editor,Advanced map and RenderWare asset editor for GTA: San Andreas and MTA.,https://github.com/BlueEagle12/MTA-Eagle-Editor,2,0,Rust,,2026-08-07T15:31:08Z,2026-08-08,False,Speculative Model
+1327213468,23Ranish/EAGLE,,https://github.com/23Ranish/EAGLE,0,0,,,2026-08-07T22:26:38Z,2026-08-08,False,Speculative Model
+1326898132,bonjesponge/EaglerUnblocked,,https://github.com/bonjesponge/EaglerUnblocked,0,0,HTML,,2026-08-07T16:08:15Z,2026-08-08,False,Speculative Model
+1327192242,archisdhar8/EagleEyesAI,,https://github.com/archisdhar8/EagleEyesAI,0,0,Python,,2026-08-07T21:53:09Z,2026-08-08,False,Speculative Model
+1327258426,williamhconrad/eagle-backup,Eagle backup for WC,https://github.com/williamhconrad/eagle-backup,0,0,,,2026-08-07T23:44:05Z,2026-08-08,False,Speculative Model
+1326401259,mc7-minecraft/EaglercraftZ-26.1.1,Play Eaglercraft 26.1.2 in your browser it may take some tim to load,https://github.com/mc7-minecraft/EaglercraftZ-26.1.1,0,0,HTML,,2026-08-07T08:21:25Z,2026-08-08,False,Speculative Model
+1326336566,tuki0918/eagleinbox,"An iOS app for sending photos, files, and other media directly to Eagle.",https://github.com/tuki0918/eagleinbox,0,0,Swift,"airdrop-alternative,eagle,ios-app",2026-08-07T07:16:28Z,2026-08-08,False,Speculative Model
+1327308418,EaglerCraftPlayer15/eagler.,,https://github.com/EaglerCraftPlayer15/eagler.,0,0,HTML,,2026-08-08T01:16:52Z,2026-08-08,False,Speculative Model
+1327194163,bobthebuilder4life/jnhbgf,eagler craft launcher v1 (early beta),https://github.com/bobthebuilder4life/jnhbgf,0,0,HTML,,2026-08-07T21:56:17Z,2026-08-08,False,Speculative Model
+1327055334,Nxl3r/Eaglecraft,Enjoy my web.,https://github.com/Nxl3r/Eaglecraft,0,0,JavaScript,,2026-08-07T18:53:45Z,2026-08-08,False,Speculative Model
+1326371113,Eagleworrior/Eaglewar,,https://github.com/Eagleworrior/Eaglewar,0,0,HTML,,2026-08-07T07:49:10Z,2026-08-08,False,Speculative Model
+1326489132,Justin90884/eaglerclient,EaglerCraft for your android phone,https://github.com/Justin90884/eaglerclient,0,0,,,2026-08-07T09:45:53Z,2026-08-08,False,Speculative Model
+1326605460,Iqrawaseem8219/eaglee,,https://github.com/Iqrawaseem8219/eaglee,0,0,,,2026-08-07T11:45:39Z,2026-08-08,False,Speculative Model
+1327148702,jonathanjackson-droid/eaglercraft,,https://github.com/jonathanjackson-droid/eaglercraft,0,0,HTML,,2026-08-07T20:49:36Z,2026-08-08,False,Speculative Model
+1327056569,KABOBLACK/Black-Eagle-Registration,Black Eagle football club player registration system ,https://github.com/KABOBLACK/Black-Eagle-Registration,1,0,HTML,,2026-08-07T18:55:10Z,2026-08-08,False,Speculative Model
+1326582071,josh-2383/eagler-relay,,https://github.com/josh-2383/eagler-relay,0,0,JavaScript,,2026-08-07T11:21:43Z,2026-08-08,False,Speculative Model
+1327093666,raflyhr/eagle-drone,"Eagle Drone adalah dashboard web untuk membantu co-pilot atau navigator memonitor misi drone. Sistem menerima video dari webcam, memproses frame menggunakan TensorFlow.js dan COCO-SSD, kemudian menampilkan manusia yang terdeteksi melalui bounding box dan confidence. Telemetri penerbangan masih menggunakan data dummy yang bergerak untuk menguji anta",https://github.com/raflyhr/eagle-drone,0,0,JavaScript,,2026-08-07T19:39:02Z,2026-08-08,False,Speculative Model
+1326292944,YepQQQ/eagle-library,Codex plugin for searching and safely organizing local Eagle libraries,https://github.com/YepQQQ/eagle-library,0,0,Python,,2026-08-07T06:26:53Z,2026-08-08,False,Speculative Model
+1326249605,zyc2pi/eagle-quickrail,Eagle 文件夹快捷轨：常用目录置顶、快速导航、使用统计、卡片定制与窗口联动,https://github.com/zyc2pi/eagle-quickrail,0,0,JavaScript,"eagle,eagle-plugin,folder-navigation,javascript,productivity,windows",2026-08-07T05:28:26Z,2026-08-08,False,Speculative Model
+1326306877,melicksengar77-glitch/Eagle-_Finance,,https://github.com/melicksengar77-glitch/Eagle-_Finance,0,0,,,2026-08-07T06:44:15Z,2026-08-08,False,Speculative Model
+1326658009,abhijithmd-mak/Eagle-Survey,,https://github.com/abhijithmd-mak/Eagle-Survey,0,0,HTML,,2026-08-07T12:39:55Z,2026-08-08,False,Speculative Model
+1327050981,GarvGunnu/golden-eagle-,krishan web page,https://github.com/GarvGunnu/golden-eagle-,0,0,,,2026-08-07T18:48:38Z,2026-08-08,False,Speculative Model
+1327330618,Karusera/eagle_wordle,,https://github.com/Karusera/eagle_wordle,0,0,,,2026-08-08T01:57:07Z,2026-08-08,False,Speculative Model
+1326419383,Geoplan-Philippines/eagle-cement-deployment,,https://github.com/Geoplan-Philippines/eagle-cement-deployment,0,0,Shell,,2026-08-07T08:37:38Z,2026-08-08,False,Speculative Model
+1326935046,Alita035/ultra-eagles-countdown,,https://github.com/Alita035/ultra-eagles-countdown,0,0,CSS,,2026-08-07T16:45:15Z,2026-08-08,False,Speculative Model
+1326364751,EagleErkanes/eagleerkanes.github.io,,https://github.com/EagleErkanes/eagleerkanes.github.io,0,0,HTML,,2026-08-07T07:42:25Z,2026-08-08,False,Speculative Model
+1327235161,Hamza-Shewa/flutter-eagle-eye,,https://github.com/Hamza-Shewa/flutter-eagle-eye,0,0,TypeScript,,2026-08-07T23:03:55Z,2026-08-08,False,Speculative Model
+1326495837,drPanda1893/iron-eagles-community,,https://github.com/drPanda1893/iron-eagles-community,0,0,HTML,,2026-08-07T09:53:00Z,2026-08-08,False,Speculative Model
+1326512336,dabhimayank1/eagle-digital-solutions,"Official website and admin management portal for Eagle Digital Solutions — Video Editing, Social Media Management, Graphic Design & Web Development Agency.",https://github.com/dabhimayank1/eagle-digital-solutions,0,0,HTML,,2026-08-07T10:09:40Z,2026-08-08,False,Speculative Model
+1327070941,omrelnesr22-lang/Eagle.X-O,,https://github.com/omrelnesr22-lang/Eagle.X-O,0,0,Python,,2026-08-07T19:12:17Z,2026-08-08,False,Speculative Model
+1327245500,dra-allan/eagle-crest-landscaping-demo,,https://github.com/dra-allan/eagle-crest-landscaping-demo,0,0,HTML,,2026-08-07T23:20:17Z,2026-08-08,False,Speculative Model
+1326337594,jianjidanbenren-eng/xhs-to-eagle-pipeline,小红书到 Eagle 图片采集与打标 Skill（通用版）。自动探测 Eagle 库路径与标签库，按用户自己的标签白名单打标，不新增标签。,https://github.com/jianjidanbenren-eng/xhs-to-eagle-pipeline,0,0,Python,,2026-08-07T07:17:28Z,2026-08-08,False,Speculative Model
+1326558054,mc7-minecraft/Eaglercraft-26.1.1,,https://github.com/mc7-minecraft/Eaglercraft-26.1.1,0,0,HTML,,2026-08-07T10:57:11Z,2026-08-08,False,Speculative Model
+1326381219,chikunishellonce-blip/eagle-watch-website-for-vercel,,https://github.com/chikunishellonce-blip/eagle-watch-website-for-vercel,0,0,TypeScript,,2026-08-07T07:59:20Z,2026-08-08,False,Speculative Model
+1326449678,duongvanhoan78/iron-eagle-one-llc-2154,,https://github.com/duongvanhoan78/iron-eagle-one-llc-2154,0,0,HTML,,2026-08-07T09:06:28Z,2026-08-08,False,Speculative Model
+1326597341,duongvanhoan78/iron-eagle-trucking-llc-7486,,https://github.com/duongvanhoan78/iron-eagle-trucking-llc-7486,0,0,HTML,,2026-08-07T11:37:31Z,2026-08-08,False,Speculative Model
+1326906313,Trooper4568/HackedEaglerClient1.8.8,,https://github.com/Trooper4568/HackedEaglerClient1.8.8,0,0,,,2026-08-07T16:16:43Z,2026-08-08,False,Speculative Model
+1327203642,bobthebuilder4life/Eaglercraft-Launcher-v1--early-beta-,super cool eaglercraft launcher made by bobthebuilder4life,https://github.com/bobthebuilder4life/Eaglercraft-Launcher-v1--early-beta-,0,0,HTML,,2026-08-07T22:11:21Z,2026-08-08,False,Speculative Model
+1326414078,hiteshbalaji147-rgb/groq-vision-chatbot,AI-powered image analysis chatbot built with Streamlit and Groq's ultra-fast inference API,https://github.com/hiteshbalaji147-rgb/groq-vision-chatbot,0,0,Python,,2026-08-07T08:33:14Z,2026-08-08,False,Speculative Model
