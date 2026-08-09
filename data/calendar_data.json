@@ -4821,5 +4821,18 @@
     "url": "https://simonwillison.net/2026/Aug/7/moonlight-mayhem/#atom-everything",
     "tags": "",
     "created_at": "2026-08-08 03:19:39"
+  },
+  {
+    "id": "rss_https://simonwillison.net/2026/Aug/8/auto-mode/#atom-everything",
+    "company": "Simon Willison",
+    "title": "Auto mode is now the default in Claude Code for Pro, Max, and Team plans",
+    "publish_date": "2026-08-08",
+    "type": "其他",
+    "open_source": "否",
+    "summary": "<p><strong><a href=\"https://claude.com/blog/auto-mode-default-in-claude-code\">Auto mode is now the default in Claude Code for Pro, Max, and Team plans</a></strong></p>\nAnthropic are <em>really</em> co",
+    "details": "",
+    "url": "https://simonwillison.net/2026/Aug/8/auto-mode/#atom-everything",
+    "tags": "",
+    "created_at": "2026-08-09 03:27:37"
   }
 ]
