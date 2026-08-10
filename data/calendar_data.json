@@ -4834,5 +4834,44 @@
     "url": "https://simonwillison.net/2026/Aug/8/auto-mode/#atom-everything",
     "tags": "",
     "created_at": "2026-08-09 03:27:37"
+  },
+  {
+    "id": "rss_https://simonwillison.net/2026/Aug/9/claude-opus-5-system-prompt/#atom-everything",
+    "company": "Simon Willison",
+    "title": "Quoting Claude Opus 5 system prompt",
+    "publish_date": "2026-08-09",
+    "type": "其他",
+    "open_source": "否",
+    "summary": "<blockquote cite=\"https://platform.claude.com/docs/en/release-notes/system-prompts#claude-opus-5\"><p>Claude Fable 5 and Claude Mythos 5 were first released on June 9, 2026. On June 12, 2026, Anthropic",
+    "details": "",
+    "url": "https://simonwillison.net/2026/Aug/9/claude-opus-5-system-prompt/#atom-everything",
+    "tags": "",
+    "created_at": "2026-08-10 03:46:41"
+  },
+  {
+    "id": "rss_https://simonwillison.net/2026/Aug/9/github-models-is-now-retired/#atom-everything",
+    "company": "Simon Willison",
+    "title": "GitHub Models is now retired",
+    "publish_date": "2026-08-09",
+    "type": "其他",
+    "open_source": "否",
+    "summary": "<p><strong><a href=\"https://github.blog/changelog/2026-07-30-github-models-is-now-retired/\">GitHub Models is now retired</a></strong></p>\nI missed this news until today, when the GitHub Actions run fo",
+    "details": "",
+    "url": "https://simonwillison.net/2026/Aug/9/github-models-is-now-retired/#atom-everything",
+    "tags": "",
+    "created_at": "2026-08-10 03:46:41"
+  },
+  {
+    "id": "rss_https://simonwillison.net/2026/Aug/6/datasette-auth-tokens/#atom-everything",
+    "company": "Simon Willison",
+    "title": "datasette-auth-tokens 0.4a13",
+    "publish_date": "2026-08-06",
+    "type": "其他",
+    "open_source": "否",
+    "summary": "<p><strong>Release:</strong> <a href=\"https://github.com/simonw/datasette-auth-tokens/releases/tag/0.4a13\">datasette-auth-tokens 0.4a13</a></p>\n        <p>Upgraded for compatibility with `sqlite-utils",
+    "details": "",
+    "url": "https://simonwillison.net/2026/Aug/6/datasette-auth-tokens/#atom-everything",
+    "tags": "",
+    "created_at": "2026-08-10 03:46:41"
   }
 ]
