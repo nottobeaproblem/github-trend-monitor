@@ -5042,5 +5042,31 @@
     "url": "https://simonwillison.net/2026/Aug/11/stealing-reasoning-traces/#atom-everything",
     "tags": "",
     "created_at": "2026-08-12 03:57:41"
+  },
+  {
+    "id": "rss_https://simonwillison.net/2026/Aug/12/deepseek-v4-pro-0813/",
+    "company": "Simon Willison",
+    "title": "DeepSeek V4 Pro 0813 (on OpenRouter)",
+    "publish_date": "2026-08-12",
+    "type": "其他",
+    "open_source": "否",
+    "summary": "<p><strong><a href=\"https://openrouter.ai/deepseek/deepseek-v4-pro-0813\">DeepSeek V4 Pro 0813 (on OpenRouter)</a></strong></p>\nThe latest DeepSeek Pro model is now available, via API only. I had to li",
+    "details": "",
+    "url": "https://simonwillison.net/2026/Aug/12/deepseek-v4-pro-0813/",
+    "tags": "",
+    "created_at": "2026-08-13 04:02:32"
+  },
+  {
+    "id": "rss_https://simonwillison.net/2026/Aug/11/datasette-upload-dbs/",
+    "company": "Simon Willison",
+    "title": "datasette-upload-dbs 0.5a0",
+    "publish_date": "2026-08-11",
+    "type": "其他",
+    "open_source": "否",
+    "summary": "<p><strong>Release:</strong> <a href=\"https://github.com/simonw/datasette-upload-dbs/releases/tag/0.5a0\">datasette-upload-dbs 0.5a0</a></p>\n        <p>This plugin has been around for a while - it lets",
+    "details": "",
+    "url": "https://simonwillison.net/2026/Aug/11/datasette-upload-dbs/",
+    "tags": "",
+    "created_at": "2026-08-13 04:02:32"
   }
 ]
