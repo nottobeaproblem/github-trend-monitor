@@ -5068,5 +5068,70 @@
     "url": "https://simonwillison.net/2026/Aug/11/datasette-upload-dbs/",
     "tags": "",
     "created_at": "2026-08-13 04:02:32"
+  },
+  {
+    "id": "rss_https://openai.com/index/builders-guide-to-gpt-5-6",
+    "company": "OpenAI",
+    "title": "The builder’s guide to GPT‑5.6",
+    "publish_date": "2026-08-13",
+    "type": "其他",
+    "open_source": "否",
+    "summary": "Learn how startups use GPT-5.6 to build faster, more cost-efficient AI agents with smarter model selection and new Responses API capabilities.",
+    "details": "",
+    "url": "https://openai.com/index/builders-guide-to-gpt-5-6",
+    "tags": "",
+    "created_at": "2026-08-14 03:58:13"
+  },
+  {
+    "id": "rss_https://openai.com/index/previewing-ultrafast",
+    "company": "OpenAI",
+    "title": "Previewing Ultrafast mode: GPT-5.6 Sol at up to 14X the speed",
+    "publish_date": "2026-08-13",
+    "type": "其他",
+    "open_source": "否",
+    "summary": "Preview Ultrafast, a new OpenAI API service tier that runs GPT-5.6 Sol up to 14× faster. Powered by Cerebras, it delivers up to 750 output tokens per second.",
+    "details": "",
+    "url": "https://openai.com/index/previewing-ultrafast",
+    "tags": "",
+    "created_at": "2026-08-14 03:58:13"
+  },
+  {
+    "id": "rss_https://deepmind.google/blog/introducing-gemini-3-7-flash/",
+    "company": "Google DeepMind",
+    "title": "Introducing Gemini 3.7 Flash",
+    "publish_date": "2026-08-13",
+    "type": "其他",
+    "open_source": "否",
+    "summary": "",
+    "details": "",
+    "url": "https://deepmind.google/blog/introducing-gemini-3-7-flash/",
+    "tags": "",
+    "created_at": "2026-08-14 03:58:13"
+  },
+  {
+    "id": "rss_https://huggingface.co/blog/amazon/strands-lerobot-streaming-data-loop",
+    "company": "Hugging Face",
+    "title": "Record, train, and deploy from one place with Strands Agents, LeRobot, and Hugging Face Storage Buckets",
+    "publish_date": "2026-08-13",
+    "type": "其他",
+    "open_source": "否",
+    "summary": "",
+    "details": "",
+    "url": "https://huggingface.co/blog/amazon/strands-lerobot-streaming-data-loop",
+    "tags": "",
+    "created_at": "2026-08-14 03:58:15"
+  },
+  {
+    "id": "rss_https://simonwillison.net/2026/Aug/13/llm-gemini/",
+    "company": "Simon Willison",
+    "title": "llm-gemini 0.33",
+    "publish_date": "2026-08-13",
+    "type": "其他",
+    "open_source": "否",
+    "summary": "<p><strong>Release:</strong> <a href=\"https://github.com/simonw/llm-gemini/releases/tag/0.33\">llm-gemini 0.33</a></p>\n        <p>It's been a while since the last <code>llm-gemini</code> release. This ",
+    "details": "",
+    "url": "https://simonwillison.net/2026/Aug/13/llm-gemini/",
+    "tags": "",
+    "created_at": "2026-08-14 03:58:17"
   }
 ]
