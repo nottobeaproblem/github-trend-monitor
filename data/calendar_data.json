@@ -5133,5 +5133,18 @@
     "url": "https://simonwillison.net/2026/Aug/13/llm-gemini/",
     "tags": "",
     "created_at": "2026-08-14 03:58:17"
+  },
+  {
+    "id": "rss_https://huggingface.co/blog/state-of-open-models-summer-2026",
+    "company": "Hugging Face",
+    "title": "State of Open Models: Summer 2026 Observations",
+    "publish_date": "2026-08-14",
+    "type": "其他",
+    "open_source": "否",
+    "summary": "",
+    "details": "",
+    "url": "https://huggingface.co/blog/state-of-open-models-summer-2026",
+    "tags": "",
+    "created_at": "2026-08-15 02:46:56"
   }
 ]
