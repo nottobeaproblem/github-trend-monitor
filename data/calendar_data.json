@@ -5146,5 +5146,18 @@
     "url": "https://huggingface.co/blog/state-of-open-models-summer-2026",
     "tags": "",
     "created_at": "2026-08-15 02:46:56"
+  },
+  {
+    "id": "rss_https://simonwillison.net/2026/Aug/16/qwen-38-27b/",
+    "company": "Simon Willison",
+    "title": "Qwen 3.8 27B is excellent, but it defaults to wildly overthinking things",
+    "publish_date": "2026-08-16",
+    "type": "其他",
+    "open_source": "否",
+    "summary": "<p>Friday's big release was <a href=\"https://huggingface.co/Qwen/Qwen3.8-27B\">Qwen 3.8 27B</a>, an Apache 2 licensed 27B parameter vision-capable LLM from Alibaba's Qwen research lab. I've been lookin",
+    "details": "",
+    "url": "https://simonwillison.net/2026/Aug/16/qwen-38-27b/",
+    "tags": "",
+    "created_at": "2026-08-17 02:55:25"
   }
 ]
