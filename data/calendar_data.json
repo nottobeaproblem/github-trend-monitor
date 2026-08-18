@@ -5159,5 +5159,31 @@
     "url": "https://simonwillison.net/2026/Aug/16/qwen-38-27b/",
     "tags": "",
     "created_at": "2026-08-17 02:55:25"
+  },
+  {
+    "id": "rss_https://blog.google/products-and-platforms/products/gemini/google-gemini-pixel-football-club-partnerships/",
+    "company": "Google AI",
+    "title": "Get closer to the game with Gemini and Pixel",
+    "publish_date": "2026-08-17",
+    "type": "其他",
+    "open_source": "否",
+    "summary": "Low-angle view of a soccer player kicking a ball mid-air against a bright blue sky, with grass flying from their cleats.",
+    "details": "",
+    "url": "https://blog.google/products-and-platforms/products/gemini/google-gemini-pixel-football-club-partnerships/",
+    "tags": "",
+    "created_at": "2026-08-18 02:50:07"
+  },
+  {
+    "id": "rss_https://simonwillison.net/2026/Aug/17/qwen-38-27b-scores-52/",
+    "company": "Simon Willison",
+    "title": "Qwen 3.8 27B scores 52 on the Artificial Analysis Intelligence Index",
+    "publish_date": "2026-08-17",
+    "type": "其他",
+    "open_source": "否",
+    "summary": "<p><strong><a href=\"https://artificialanalysis.ai/models/qwen3-8-27b\">Qwen 3.8 27B scores 52 on the Artificial Analysis Intelligence Index</a></strong></p>\nThat's the same score as GPT-5.6 Luna (max),",
+    "details": "",
+    "url": "https://simonwillison.net/2026/Aug/17/qwen-38-27b-scores-52/",
+    "tags": "",
+    "created_at": "2026-08-18 02:50:10"
   }
 ]
