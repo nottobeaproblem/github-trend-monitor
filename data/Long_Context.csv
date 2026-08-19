@@ -31096,179 +31096,179 @@ id,name,description,url,stars,forks,language,topics,created_at,first_seen,is_act
 1337123945,d0ppxmu8ez/ldqhFjBFxi,25年KTS【计算机专业毕设一套】ssm基于人脸识别的校园自习室预约管理系统的设计与开发【附源码+数据库+万字论文】.zip可有偿部署&录屏,https://github.com/d0ppxmu8ez/ldqhFjBFxi,1,0,,,2026-08-17T12:14:29Z,2026-08-18,False,Long Context
 1337324459,jx95jdolc8/nWKuNMtnLt,2025年软件工程毕设一套(论文+前后端小程序代码源文件+数据库)基于SSM框架的校园跑腿业务小程序系统设计与实现定稿(源设计太大客服发).docx,https://github.com/jx95jdolc8/nWKuNMtnLt,0,0,,,2026-08-17T15:28:25Z,2026-08-18,False,Long Context
 1337742834,kerr14333/kalman-seas,"Course: seasonal adjustment with state space models and the Kalman filter (R + Python, Obsidian vault, BLS CES data)",https://github.com/kerr14333/kalman-seas,0,0,Python,,2026-08-17T22:52:59Z,2026-08-18,False,Long Context
-1338545033,kumanday/long-context-evals,Evals for long-context retrieval and reasoning,https://github.com/kumanday/long-context-evals,0,0,,,2026-08-18T15:11:51Z,2026-08-19,True,Long Context
-1338124983,yanceng305-collab/long-context-orchestrator,Codex skill for orchestrating long-context tasks with durable memory and staged synthesis,https://github.com/yanceng305-collab/long-context-orchestrator,0,0,,,2026-08-18T07:48:54Z,2026-08-19,True,Long Context
-1338409374,RC-CHN/ik_llama.cpp,Xeon Max + CUDA long-context inference optimizations for ik_llama.cpp,https://github.com/RC-CHN/ik_llama.cpp,0,0,C++,,2026-08-18T13:00:21Z,2026-08-19,True,Long Context
-1338414880,VishwasJ05/MambaVision-Based-Biometric-Verification,,https://github.com/VishwasJ05/MambaVision-Based-Biometric-Verification,0,0,Python,,2026-08-18T13:05:59Z,2026-08-19,True,Long Context
-1338122004,maksum-rois/VMINet-MambaVisionXAISkinLesion,,https://github.com/maksum-rois/VMINet-MambaVisionXAISkinLesion,0,0,Python,,2026-08-18T07:45:23Z,2026-08-19,True,Long Context
-1338588456,tbah01785-codermamba/Mambarobotics,Siteweb,https://github.com/tbah01785-codermamba/Mambarobotics,0,0,,,2026-08-18T15:56:11Z,2026-08-19,True,Long Context
-1338102006,fillip-technologies/code-mamba,,https://github.com/fillip-technologies/code-mamba,0,0,TypeScript,,2026-08-18T07:22:33Z,2026-08-19,True,Long Context
-1338939414,wang2025-source/PromptRoute-Mamba,Official implementation of PromptRoute-Mamba for reliability-aware infrared-visible image fusion.,https://github.com/wang2025-source/PromptRoute-Mamba,0,0,Python,,2026-08-19T00:10:25Z,2026-08-19,True,Long Context
-1338389890,Abiven-18/Mamba-v2,,https://github.com/Abiven-18/Mamba-v2,0,0,Python,,2026-08-18T12:39:19Z,2026-08-19,True,Long Context
-1338960147,aevrane/CudaMamba1,Mamba-1 Highly optimized on C++ with full control of the CUDA kernel. ,https://github.com/aevrane/CudaMamba1,0,0,C++,,2026-08-19T00:50:26Z,2026-08-19,True,Long Context
-1338548709,zguo5284-svg/AnchorMamba-SCOPE,Official implementation and experimental results for AnchorMamba-SCOPE traffic object detection.,https://github.com/zguo5284-svg/AnchorMamba-SCOPE,0,0,Python,,2026-08-18T15:15:32Z,2026-08-19,True,Long Context
-1338964617,aevrane/CudaMamba3,Mamba3 architecture built in C++ for full control of the CUDA kernels. Built to run on consumer GPUs.,https://github.com/aevrane/CudaMamba3,0,0,C++,,2026-08-19T00:58:30Z,2026-08-19,True,Long Context
-1338772957,Arpansharma7/mamba-arch-recreated,,https://github.com/Arpansharma7/mamba-arch-recreated,0,0,Python,,2026-08-18T19:33:29Z,2026-08-19,True,Long Context
-1338792118,uraniumchonk/vllm-hybrid-mamba-notes,"Field notes: vLLM + hybrid Mamba/GDN + MTP + LMCache. Version matrix, symptoms, and the prefix-hit failure mode.",https://github.com/uraniumchonk/vllm-hybrid-mamba-notes,0,0,,,2026-08-18T19:59:37Z,2026-08-19,True,Long Context
-1338626561,GZempilis/Mamba-SVD-LoRA,,https://github.com/GZempilis/Mamba-SVD-LoRA,0,0,Jupyter Notebook,,2026-08-18T16:37:46Z,2026-08-19,True,Long Context
-1338520048,Kaviyachithra/mamba_u_n_e-t,,https://github.com/Kaviyachithra/mamba_u_n_e-t,0,0,,,2026-08-18T14:47:16Z,2026-08-19,True,Long Context
-1338163613,Ahmadrezanourozii/Project-Time-Series,: To use State Space Models (SSM)/ Mamba for medical time series analysis General research question: Can Mamba models improve the performance of classification models trained to detect Parkinson's disease using gait signals.,https://github.com/Ahmadrezanourozii/Project-Time-Series,0,0,Python,,2026-08-18T08:32:37Z,2026-08-19,True,Long Context
-1338427094,FANTASYFOREVER/Attnmamba,"Code of paper ""AttnMamba: Adaptive Spatial Modeling Mamba for General 3-D Medical Image Segmentation""",https://github.com/FANTASYFOREVER/Attnmamba,0,0,,,2026-08-18T13:17:50Z,2026-08-19,True,Long Context
-1338860641,Omeriqbal-04/Finova,ssm,https://github.com/Omeriqbal-04/Finova,0,0,,,2026-08-18T21:42:54Z,2026-08-19,True,Long Context
-1338002621,ymhyd/ssm016D-,ssm016D 流浪动物救助与领养综合服务平台,https://github.com/ymhyd/ssm016D-,0,0,,,2026-08-18T05:19:45Z,2026-08-19,True,Long Context
-1337931550,ymhyd/ssm015D-,ssm015D 基于SSM的井冈山大学兼职系统,https://github.com/ymhyd/ssm015D-,0,0,,,2026-08-18T03:30:49Z,2026-08-19,True,Long Context
-1337981667,pgs34/ssml,,https://github.com/pgs34/ssml,0,0,Python,,2026-08-18T04:48:14Z,2026-08-19,True,Long Context
-1338258428,Slate-md/SSMNT,,https://github.com/Slate-md/SSMNT,0,0,HTML,,2026-08-18T10:10:59Z,2026-08-19,True,Long Context
-1338035792,amihub2026-sys/ssmobils,,https://github.com/amihub2026-sys/ssmobils,0,0,CSS,,2026-08-18T06:03:49Z,2026-08-19,True,Long Context
-1338911501,suibing15/ASSLM-SSMS,THE GENERal codebase,https://github.com/suibing15/ASSLM-SSMS,0,0,JavaScript,,2026-08-18T23:14:39Z,2026-08-19,True,Long Context
-1338308871,UmmeRija/SSM-Backend,,https://github.com/UmmeRija/SSM-Backend,0,0,JavaScript,,2026-08-18T11:10:29Z,2026-08-19,True,Long Context
-1338287801,harshmalai80952-sudo/-SSM-Sarees,,https://github.com/harshmalai80952-sudo/-SSM-Sarees,0,0,JavaScript,,2026-08-18T10:45:47Z,2026-08-19,True,Long Context
-1338396931,Jagannathpatro/SSMS-ACro,,https://github.com/Jagannathpatro/SSMS-ACro,0,0,,,2026-08-18T12:46:57Z,2026-08-19,True,Long Context
-1338261276,UmmeRija/SSMS-frontend,,https://github.com/UmmeRija/SSMS-frontend,0,0,JavaScript,,2026-08-18T10:14:23Z,2026-08-19,True,Long Context
-1338646087,dineshshelke433-wq/ssmm-mandal-app,"साई सह्याद्री मित्र मंडळ, कोपरखैरणे – Financial Management App",https://github.com/dineshshelke433-wq/ssmm-mandal-app,0,0,,,2026-08-18T17:00:12Z,2026-08-19,True,Long Context
-1338097896,yogema0/docs-9ssman,Reference — perfectrolex.io,https://github.com/yogema0/docs-9ssman,0,0,HTML,,2026-08-18T07:17:27Z,2026-08-19,True,Long Context
-1338891577,asmakhans/weaklyssm_shapeMI,Repository for Weakly SSM for ShapeMI,https://github.com/asmakhans/weaklyssm_shapeMI,0,0,Python,,2026-08-18T22:37:30Z,2026-08-19,True,Long Context
-1338495854,mbmani66-sys/AWS-EC2-SSM-Patch-Management-CloudFormation,AWS-EC2-SSM-Patch-Management-CloudFormation,https://github.com/mbmani66-sys/AWS-EC2-SSM-Patch-Management-CloudFormation,0,0,,,2026-08-18T14:24:02Z,2026-08-19,True,Long Context
-1338218375,SakethkumarBadike/Video-anomaly-detection-using-SSM,,https://github.com/SakethkumarBadike/Video-anomaly-detection-using-SSM,0,0,Jupyter Notebook,,2026-08-18T09:25:38Z,2026-08-19,True,Long Context
-1338205099,istiak769/Anatomy-Change-Aware-Bidirectional-SSM-for-Thoracic-Radiotherapy-Auto-Contouring,,https://github.com/istiak769/Anatomy-Change-Aware-Bidirectional-SSM-for-Thoracic-Radiotherapy-Auto-Contouring,0,0,Python,,2026-08-18T09:11:36Z,2026-08-19,True,Long Context
-1338095843,Hammad1021/ERROR-HANDLING-SQL,USING TECH HEALTH DATA BASE ADDING CUSTOMERS ENSURING THE ERROR HANDLING USING ACID TRANSACTION IN SSMS,https://github.com/Hammad1021/ERROR-HANDLING-SQL,0,0,,,2026-08-18T07:15:07Z,2026-08-19,True,Long Context
-1338937416,d0ppxmu8ez/nneIbgdHWF,2022收计算机毕设一套定稿(论文+程序源代码+数据库+说明)微信小程序295基于ssm选课系统+ssm.zip,https://github.com/d0ppxmu8ez/nneIbgdHWF,0,0,,,2026-08-19T00:06:25Z,2026-08-19,True,Long Context
-1338099795,kc4gsuzxop/xErUWrjSPR,2022收计算机毕设一套定稿(论文+程序源代码+数据库+答辩ppt+说明)ssm基于ssm的学生资助管理系统+vue.zip,https://github.com/kc4gsuzxop/xErUWrjSPR,0,0,,,2026-08-18T07:19:55Z,2026-08-19,True,Long Context
-1338670302,voldenbar/hAzuJYAO,2022收计算机毕设一套定稿(论文+程序源代码+数据库+答辩ppt+说明)ssm基于ssm的学生资助管理系统+vue.zip,https://github.com/voldenbar/hAzuJYAO,1,0,,,2026-08-18T17:28:24Z,2026-08-19,True,Long Context
-1338358398,upbeats12625looping/SQL-Server-Management-Studio-Pro-Toolkit-2026,SQL Server Management Studio (SSMS) – Enhanced productivity suite with advanced query optimization and seamless database management tools for 2026.,https://github.com/upbeats12625looping/SQL-Server-Management-Studio-Pro-Toolkit-2026,0,0,,"backup-restore,data-compare,database-management,database-tools,management-studio,productivity,query-optimization,sql-administration,sql-server,ssms",2026-08-18T12:05:33Z,2026-08-19,True,Long Context
-1338467967,JOELOLUSANYA/Bank-Marketing-Performance-Analysis-,End to end business analytics case study analyzing bank marketing campaign data using SQL Server Management Studio (SSMS) and Power BI to optimize customer conversion strategies.,https://github.com/JOELOLUSANYA/Bank-Marketing-Performance-Analysis-,0,0,,,2026-08-18T13:56:42Z,2026-08-19,True,Long Context
-1338563134,Wasee3/platform-infra,"AWS foundation for an internal developer platform: VPC, EKS, IRSA, Karpenter IAM, and the SSM handoff contract consumed by platform-system. First-party Terraform modules, no long-lived credentials.",https://github.com/Wasee3/platform-infra,0,0,HCL,"aws,devops,eks,gitops,iac,irsa,karpenter,kubernetes,platform-engineering,terraform",2026-08-18T15:30:07Z,2026-08-19,True,Long Context
-1337998289,aquverdy2h/sQacCJvmbG,2023计算机毕设一套(论文+程序源代码)基于SSM框架的琴房预约管理系统.zip,https://github.com/aquverdy2h/sQacCJvmbG,0,0,,,2026-08-18T05:13:33Z,2026-08-19,True,Long Context
-1338556329,b9767te1al/oYqOZKvv,2023计算机毕设一套(论文+程序源代码)基于SSM框架的琴房预约管理系统.zip,https://github.com/b9767te1al/oYqOZKvv,1,0,,,2026-08-18T15:23:07Z,2026-08-19,True,Long Context
-1337995396,jx95jdolc8/XuGqcPnvTl,2023计算机毕设一套定稿(论文+程序源代码 )OA办公流程审批平台基于SSM+Shiro-.zip,https://github.com/jx95jdolc8/XuGqcPnvTl,0,0,,,2026-08-18T05:09:22Z,2026-08-19,True,Long Context
-1338882362,voldenbar/VsLHKXGH,2022计算机毕设一套 基于SSM的仓库管理系统 (论文+程序源代码+数据库)定稿.zip,https://github.com/voldenbar/VsLHKXGH,1,0,,,2026-08-18T22:20:12Z,2026-08-19,True,Long Context
-1338552301,b9767te1al/zAYdBGkP,2023计算机毕设一套定稿(论文+程序源代码 )OA办公流程审批平台基于SSM+Shiro-.zip,https://github.com/b9767te1al/zAYdBGkP,1,0,,,2026-08-18T15:19:03Z,2026-08-19,True,Long Context
-1338892051,voldenbar/lqNAoSLj,2022收计算机毕设一套（论文+源代码+数据库+说明）ssm285基于SSM的旅游管理系统+jsp.zip,https://github.com/voldenbar/lqNAoSLj,1,0,,,2026-08-18T22:38:18Z,2026-08-19,True,Long Context
-1338803167,ibislon/uZZxkTNmid,2022收计算机毕设一套定稿(论文+程序源代码+数据库+说明)微信100宠物小程序+ssm.zip,https://github.com/ibislon/uZZxkTNmid,1,0,,,2026-08-18T20:15:02Z,2026-08-19,True,Long Context
-1338805604,ibislon/HnDukmVdYS,2022收计算机毕设一套定稿(论文+程序源代码+数据库+说明)微信159健身小程序+ssm.zip,https://github.com/ibislon/HnDukmVdYS,1,0,,,2026-08-18T20:18:27Z,2026-08-19,True,Long Context
-1338806479,ibislon/cELjbZLmFh,2022收计算机毕设一套定稿(论文+程序源代码+数据库+说明)微信162博客小程序+ssm.zip,https://github.com/ibislon/cELjbZLmFh,1,0,,,2026-08-18T20:19:40Z,2026-08-19,True,Long Context
-1338607840,gogoore/WztFUCdI,2022收计算机毕设一套定稿(论文+程序源代码+数据库+说明)ssm321基于ssm的软考系统+vue.zip,https://github.com/gogoore/WztFUCdI,1,0,,,2026-08-18T16:16:37Z,2026-08-19,True,Long Context
-1338096001,fireditoo/sOHSsVmU,2022收计算机毕设一套定稿无论文(+程序源代码+数据库+说明)ssm乐购游戏商城系统.zip,https://github.com/fireditoo/sOHSsVmU,1,0,,,2026-08-18T07:15:19Z,2026-08-19,True,Long Context
-1338922605,fireditoo/gHwBNSFB,2022收计算机毕设一套(论文+程序源代码+数据库+演示视频+说明)垃圾分类小程序ssm.zip,https://github.com/fireditoo/gHwBNSFB,1,0,,,2026-08-18T23:36:58Z,2026-08-19,True,Long Context
-1338887658,voldenbar/FCWaaTtL,2022收计算机毕设一套（论文+源代码+数据库+说明）ssm180基于ssm的线上课程管理系统+jsp.zip,https://github.com/voldenbar/FCWaaTtL,1,0,,,2026-08-18T22:29:57Z,2026-08-19,True,Long Context
-1337907867,nib82096oz/vBQSOzZsZc,2022收计算机毕设一套定稿(论文+程序源代码+数据库+说明)ssm321基于ssm的软考系统+vue.zip,https://github.com/nib82096oz/vBQSOzZsZc,1,0,,,2026-08-18T02:52:41Z,2026-08-19,True,Long Context
-1337927056,lojnp9pn5a/EIKBcMHvWY,2022收计算机毕设一套定稿无论文(+程序源代码+数据库+说明)ssm乐购游戏商城系统.zip,https://github.com/lojnp9pn5a/EIKBcMHvWY,0,0,,,2026-08-18T03:23:46Z,2026-08-19,True,Long Context
-1338039118,kkld1684qw/OcXfmCZqJp,2022收计算机毕设一套定稿(论文+程序源代码+数据库+说明)ssm321基于ssm的软考系统+vue.zip,https://github.com/kkld1684qw/OcXfmCZqJp,0,0,,,2026-08-18T06:07:59Z,2026-08-19,True,Long Context
-1338851215,lights-rix/GxLWWGPz,2023计算机毕设一套 基于ssm久久婚纱拍摄网的设计(论文+程序源代码+数据库)定稿.zip,https://github.com/lights-rix/GxLWWGPz,1,0,,,2026-08-18T21:26:58Z,2026-08-19,True,Long Context
-1338800813,ibislon/EagHeTxupn,2022收计算机毕设一套定稿(论文+程序源代码+数据库+说明)微信066家政项目小程序+ssm.zip,https://github.com/ibislon/EagHeTxupn,1,0,,,2026-08-18T20:11:35Z,2026-08-19,True,Long Context
-1338012778,lights-rix/bZbwVIxu,2025年软件工程毕设一套(论文+程序源码文件+数据库)基于SSM的大学生兼职系统定稿.zip,https://github.com/lights-rix/bZbwVIxu,1,0,,,2026-08-18T05:34:16Z,2026-08-19,True,Long Context
-1338033397,kkld1684qw/HgwARnVOvN,2022收计算机毕设一套定稿(论文+程序源代码+数据库+答辩ppt+说明)ssm学籍管理系统+vue.zip,https://github.com/kkld1684qw/HgwARnVOvN,0,0,,,2026-08-18T06:00:49Z,2026-08-19,True,Long Context
-1338797283,ibislon/pfQsYfwZjb,2022收计算机毕设一套定稿(论文+程序源代码+数据库+说明)微信018实习记录小程序+ssm.zip,https://github.com/ibislon/pfQsYfwZjb,1,0,,,2026-08-18T20:07:02Z,2026-08-19,True,Long Context
-1338601292,gogoore/UscpKswT,2022收计算机毕设一套定稿(论文+程序源代码+数据库+答辩ppt+说明)ssm学籍管理系统+vue.zip,https://github.com/gogoore/UscpKswT,1,0,,,2026-08-18T16:09:42Z,2026-08-19,True,Long Context
-1338803955,ibislon/zCezdfasFp,2022收计算机毕设一套定稿(论文+程序源代码+数据库+说明)微信102旅游社交小程序+ssm.zip,https://github.com/ibislon/zCezdfasFp,1,0,,,2026-08-18T20:16:09Z,2026-08-19,True,Long Context
-1338089246,kc4gsuzxop/gVRmHpjwPM,2022收计算机毕设一套定稿(论文+程序源代码+数据库+说明)ssm342基于SSM的宠物领养系统+js.zip,https://github.com/kc4gsuzxop/gVRmHpjwPM,0,0,,,2026-08-18T07:07:14Z,2026-08-19,True,Long Context
-1338779239,boom5497/bVfIwMyL,2022收计算机毕设一套定稿(论文+程序源代码+数据库+说明)ssm520基于SSM的社区管理系统+vue.zip,https://github.com/boom5497/bVfIwMyL,1,0,,,2026-08-18T19:42:07Z,2026-08-19,True,Long Context
-1338067288,vqnmux38ej/ukWvlTuhBh,2022收计算机毕设一套定稿(论文+程序源代码+数据库+说明)ssm615基于ssm的房源管理系统+vue.zip,https://github.com/vqnmux38ej/ukWvlTuhBh,0,0,,,2026-08-18T06:42:20Z,2026-08-19,True,Long Context
-1338801778,b9767te1al/zafUZIPL,2022收计算机毕设一套定稿(论文+程序源代码+数据库+说明)ssm527基于SSM实验室排课系统+vue.zip,https://github.com/b9767te1al/zafUZIPL,1,0,,,2026-08-18T20:12:57Z,2026-08-19,True,Long Context
-1338918555,fireditoo/mjHgxiKe,2022收计算机毕设一套(论文+程序源代码+数据库+演示视频+说明)学习资料库小程序设计ssm.zip,https://github.com/fireditoo/mjHgxiKe,1,0,,,2026-08-18T23:28:42Z,2026-08-19,True,Long Context
-1338804824,ibislon/XKpqGOZrZh,2022收计算机毕设一套定稿(论文+程序源代码+数据库+说明)微信119宿舍管理系统小程序+ssm.zip,https://github.com/ibislon/XKpqGOZrZh,1,0,,,2026-08-18T20:17:19Z,2026-08-19,True,Long Context
-1338808835,ibislon/ZGnVXQxIyu,2022收计算机毕设一套定稿(论文+程序源代码+数据库+说明)微信167校园失物招领小程序ssm.zip,https://github.com/ibislon/ZGnVXQxIyu,1,0,,,2026-08-18T20:23:06Z,2026-08-19,True,Long Context
-1338013831,aquverdy2h/CZiMCLxpHg,2024计算机毕设一套查重30 基于是ssm+java的奶茶店网站管理系统（论文+程序源代码+数据库）.rar,https://github.com/aquverdy2h/CZiMCLxpHg,0,0,,,2026-08-18T05:35:47Z,2026-08-19,True,Long Context
-1338799910,ibislon/oZTEycTDhU,2022收计算机毕设一套定稿(论文+程序源代码+数据库+说明)微信058智能社区服务小程序+ssm.zip,https://github.com/ibislon/oZTEycTDhU,1,0,,,2026-08-18T20:10:26Z,2026-08-19,True,Long Context
-1338578287,owenbrave/RRtjAaGU,2024计算机毕设一套查重30 基于是ssm+java的奶茶店网站管理系统（论文+程序源代码+数据库）.rar,https://github.com/owenbrave/RRtjAaGU,1,0,,,2026-08-18T15:45:43Z,2026-08-19,True,Long Context
-1338819024,owenbrave/aTlsICWU,2022收计算机毕设一套定稿(论文+程序源代码+数据库+说明)ssm535基于SSM的游戏资源管理系统+vue.zip,https://github.com/owenbrave/aTlsICWU,1,0,,,2026-08-18T20:37:58Z,2026-08-19,True,Long Context
-1338048720,px2ysv789z/qyeMUNyBda,2022收计算机毕设一套定稿(论文+程序源代码+数据库+说明)ssm605基于SSM的商城的设计与实现+jsp.zip,https://github.com/px2ysv789z/qyeMUNyBda,0,0,,,2026-08-18T06:19:29Z,2026-08-19,True,Long Context
-1338618327,lights-rix/FhiIWwag,2022收计算机毕设一套定稿(论文+程序源代码+数据库+说明)ssm605基于SSM的商城的设计与实现+jsp.zip,https://github.com/lights-rix/FhiIWwag,1,0,,,2026-08-18T16:28:07Z,2026-08-19,True,Long Context
-1338102153,kc4gsuzxop/VcKOctFyUO,2022收计算机毕设一套定稿(论文+程序源代码+数据库+说明)ssm347基于SSM的药店药品销售系统+vue.zip,https://github.com/kc4gsuzxop/VcKOctFyUO,0,0,,,2026-08-18T07:22:42Z,2026-08-19,True,Long Context
-1338049201,voldenbar/pWsRyHYB,2025年网络工程毕设一套(论文+程序源码文件)基于SSM的课程在线学习系统设计与实现定稿.zip,https://github.com/voldenbar/pWsRyHYB,1,0,,,2026-08-18T06:20:03Z,2026-08-19,True,Long Context
-1338801616,ibislon/YNCOnCgAAg,2022收计算机毕设一套定稿(论文+程序源代码+数据库+说明)微信068电影院订票选座小程序+ssm.zip,https://github.com/ibislon/YNCOnCgAAg,1,0,,,2026-08-18T20:12:43Z,2026-08-19,True,Long Context
-1338672769,voldenbar/HIPFWdKc,2022收计算机毕设一套定稿(论文+程序源代码+数据库+说明)ssm347基于SSM的药店药品销售系统+vue.zip,https://github.com/voldenbar/HIPFWdKc,1,0,,,2026-08-18T17:31:14Z,2026-08-19,True,Long Context
-1337913362,vo54ftydas/fbJoVxoapR,2022收计算机毕设一套定稿(论文+程序源代码+数据库+说明)ssm605基于SSM的商城的设计与实现+jsp.zip,https://github.com/vo54ftydas/fbJoVxoapR,1,0,,,2026-08-18T03:02:01Z,2026-08-19,True,Long Context
-1338036827,kkld1684qw/gwrBmEoGmN,2022收计算机毕设一套定稿(论文+程序源代码+数据库+说明)ssm600基于SSM的毕业生就业管理系统+vue.zip,https://github.com/kkld1684qw/gwrBmEoGmN,0,0,,,2026-08-18T06:05:13Z,2026-08-19,True,Long Context
-1337906476,nib82096oz/MvkYpssHvU,2022收计算机毕设一套定稿(论文+程序源代码+数据库+说明)ssm600基于SSM的毕业生就业管理系统+vue.zip,https://github.com/nib82096oz/MvkYpssHvU,1,0,,,2026-08-18T02:50:27Z,2026-08-19,True,Long Context
-1338031180,kkld1684qw/ejPPpwBrDh,2022收计算机毕设一套定稿(论文+程序源代码+数据库+说明)ssm598基于VUE3+SSM框架的在线宠物商城+vue.zip,https://github.com/kkld1684qw/ejPPpwBrDh,0,0,,,2026-08-18T05:57:58Z,2026-08-19,True,Long Context
-1338798141,ibislon/xmihKlxTPs,2022收计算机毕设一套定稿(论文+程序源代码+数据库+说明)微信030英语学习交流平台小程序+ssm.zip,https://github.com/ibislon/xmihKlxTPs,1,0,,,2026-08-18T20:08:10Z,2026-08-19,True,Long Context
-1338145204,vfwai7e2ja/ByregxBDQq,2022收计算机毕设一套定稿(论文+程序源代码+数据库+说明)ssm640基于ssm框架的博客系统的开发+vue.zip,https://github.com/vfwai7e2ja/ByregxBDQq,0,0,,,2026-08-18T08:13:07Z,2026-08-19,True,Long Context
-1338598670,gogoore/zfzvcbSw,2022收计算机毕设一套定稿(论文+程序源代码+数据库+说明)ssm598基于VUE3+SSM框架的在线宠物商城+vue.zip,https://github.com/gogoore/zfzvcbSw,1,0,,,2026-08-18T16:06:54Z,2026-08-19,True,Long Context
-1338802432,ibislon/ohbQACHCrC,2022收计算机毕设一套定稿(论文+程序源代码+数据库+说明)微信099外卖小程序的研究与开发+ssm.zip,https://github.com/ibislon/ohbQACHCrC,1,0,,,2026-08-18T20:13:54Z,2026-08-19,True,Long Context
-1338716132,fireditoo/IvFqJdbr,2022收计算机毕设一套定稿(论文+程序源代码+数据库+说明)ssm640基于ssm框架的博客系统的开发+vue.zip,https://github.com/fireditoo/IvFqJdbr,1,0,,,2026-08-18T18:21:37Z,2026-08-19,True,Long Context
-1338605320,gogoore/eUZNoACL,2022收计算机毕设一套定稿(论文+程序源代码+数据库+说明)ssm600基于SSM的毕业生就业管理系统+vue.zip,https://github.com/gogoore/eUZNoACL,1,0,,,2026-08-18T16:13:48Z,2026-08-19,True,Long Context
-1338079651,vqnmux38ej/tJQpAusHKe,2022收计算机毕设一套定稿(论文+程序源代码+数据库+说明)ssm337基于SSM框架的高校试题管理系统+vue.zip,https://github.com/vqnmux38ej/tJQpAusHKe,0,0,,,2026-08-18T06:56:12Z,2026-08-19,True,Long Context
-1338425241,ibislon/wWaNanVvXu,2022收计算机毕设一套定稿(论文+程序源代码+数据库+演示视频+使用说明）小程序 居住证申报系统+ssm.zip,https://github.com/ibislon/wWaNanVvXu,1,0,,,2026-08-18T13:16:09Z,2026-08-19,True,Long Context
-1338813374,owenbrave/VsZYSWxC,2022收计算机毕设一套定稿(论文+程序源代码+数据库+说明)ssm391基于ssm框架网络财务设计与实现+js.zip,https://github.com/owenbrave/VsZYSWxC,1,0,,,2026-08-18T20:29:42Z,2026-08-19,True,Long Context
-1338154795,vfwai7e2ja/feBrsVAyZk,2022收计算机毕设一套定稿(论文+程序源代码+数据库+说明)ssm643基于ssm框架的车辆出租管理系统+vue.zip,https://github.com/vfwai7e2ja/feBrsVAyZk,0,0,,,2026-08-18T08:24:11Z,2026-08-19,True,Long Context
-1338432765,ibislon/yHRmhipQQB,2022收计算机毕设一套定稿(论文+程序源代码+数据库+演示视频+使用说明 )汽车保养小程序系统+ssm.zip,https://github.com/ibislon/yHRmhipQQB,1,0,,,2026-08-18T13:23:00Z,2026-08-19,True,Long Context
-1338911569,fireditoo/HklcsHfL,2022收计算机毕设一套定稿(论文+程序源代码+数据库+演示视频+使用说明 )小程序网上商城设计+ssm.zip,https://github.com/fireditoo/HklcsHfL,1,0,,,2026-08-18T23:14:48Z,2026-08-19,True,Long Context
-1338422797,ibislon/KWuLthJvew,2022收计算机毕设一套定稿(论文+程序源代码+数据库+演示视频+使用说明）小说阅读器微信小程序+ssm.zip,https://github.com/ibislon/KWuLthJvew,1,0,,,2026-08-18T13:13:51Z,2026-08-19,True,Long Context
-1338723979,fireditoo/tRaPDQHP,2022收计算机毕设一套定稿(论文+程序源代码+数据库+说明)ssm643基于ssm框架的车辆出租管理系统+vue.zip,https://github.com/fireditoo/tRaPDQHP,1,0,,,2026-08-18T18:31:14Z,2026-08-19,True,Long Context
-1338917197,fireditoo/AZsIjiEp,2022收计算机毕设一套(论文+程序源代码+数据库+演示视频+说明)微信小程序的高校党费收缴系统ssm.zip,https://github.com/fireditoo/AZsIjiEp,1,0,,,2026-08-18T23:25:53Z,2026-08-19,True,Long Context
-1338032278,kkld1684qw/EtuviPFkIq,2022收计算机毕设一套定稿(论文+程序源代码+数据库+答辩ppt+说明)ssm学费管理系统的设计与实现+js.zip,https://github.com/kkld1684qw/EtuviPFkIq,0,0,,,2026-08-18T05:59:27Z,2026-08-19,True,Long Context
-1338114574,id650bchqk/nxDtYljMNX,2022收计算机毕设一套定稿(论文+程序源代码+数据库+说明)ssm503基于SSM框架的餐馆点餐系统的设计+vue.zip,https://github.com/id650bchqk/nxDtYljMNX,0,0,,,2026-08-18T07:36:48Z,2026-08-19,True,Long Context
-1338910184,fireditoo/CgLnRJLq,2022收计算机毕设一套定稿(论文+程序源代码+数据库+演示视频+使用说明 )汽车保养小程序系统+ssm.zip,https://github.com/fireditoo/CgLnRJLq,1,0,,,2026-08-18T23:12:01Z,2026-08-19,True,Long Context
-1338677563,voldenbar/sIocrsqh,2022收计算机毕设一套定稿(论文+程序源代码+数据库+说明)ssm629基于SSM的二手交易平台设计与开发+js.zip,https://github.com/voldenbar/sIocrsqh,1,0,,,2026-08-18T17:36:50Z,2026-08-19,True,Long Context
-1338430392,ibislon/vqCRuWurdQ,2022收计算机毕设一套定稿(论文+程序源代码+数据库+演示视频+使用说明 )考研论坛小程序设计+ssm.zip,https://github.com/ibislon/vqCRuWurdQ,1,0,,,2026-08-18T13:20:46Z,2026-08-19,True,Long Context
-1338796396,ibislon/cpZTWpsCcG,2022收计算机毕设一套定稿(论文+程序源代码+数据库+说明)微信006优购电商小程序的设计与实现+ssm.zip,https://github.com/ibislon/cpZTWpsCcG,1,0,,,2026-08-18T20:05:50Z,2026-08-19,True,Long Context
-1338106974,kc4gsuzxop/daQkOtUsnC,2022收计算机毕设一套定稿(论文+程序源代码+数据库+说明)ssm629基于SSM的二手交易平台设计与开发+js.zip,https://github.com/kc4gsuzxop/daQkOtUsnC,0,0,,,2026-08-18T07:28:21Z,2026-08-19,True,Long Context
-1338428944,ibislon/CtgwDsTqQK,2022收计算机毕设一套定稿(论文+程序源代码+数据库+演示视频+使用说明）在线课堂微信小程序+ssm.zip,https://github.com/ibislon/CtgwDsTqQK,1,0,,,2026-08-18T13:19:34Z,2026-08-19,True,Long Context
-1338799082,ibislon/XRAEslUalo,2022收计算机毕设一套定稿(论文+程序源代码+数据库+说明)微信047校园二手交易平台的小程序+ssm.zip,https://github.com/ibislon/XRAEslUalo,1,0,,,2026-08-18T20:09:23Z,2026-08-19,True,Long Context
-1338609172,gogoore/SGXKZIGI,2022收计算机毕设一套定稿(论文+程序源代码+数据库+说明)ssm601基于ssm框架的校园闲置物品交易平台+jsp.zip,https://github.com/gogoore/SGXKZIGI,1,0,,,2026-08-18T16:18:03Z,2026-08-19,True,Long Context
-1338912272,fireditoo/EmkvFDIo,2022收计算机毕设一套定稿(论文+程序源代码+数据库+演示视频+使用说明 )小程序汽车预约维修系统+ssm.zip,https://github.com/fireditoo/EmkvFDIo,1,0,,,2026-08-18T23:16:14Z,2026-08-19,True,Long Context
-1338921894,fireditoo/KfHtnzac,2022收计算机毕设一套(论文+程序源代码+数据库+演示视频+说明)基于java的餐厅点餐系统微信小程序ssm.zip,https://github.com/fireditoo/KfHtnzac,1,0,,,2026-08-18T23:35:35Z,2026-08-19,True,Long Context
-1338913024,fireditoo/fOMcSVaY,2022收计算机毕设一套定稿(论文+程序源代码+数据库+演示视频+使用说明 )小程序培训咨询微信小程序+ssm.zip,https://github.com/fireditoo/fOMcSVaY,1,0,,,2026-08-18T23:17:37Z,2026-08-19,True,Long Context
-1338595984,gogoore/rRxcLOny,2022收计算机毕设一套定稿(论文+程序源代码+数据库+说明)ssm597基于ssm的线上选课系统的设计与实现+jsp.zip,https://github.com/gogoore/rRxcLOny,1,0,,,2026-08-18T16:04:05Z,2026-08-19,True,Long Context
-1338144053,vfwai7e2ja/FfHeJkMyou,2022收计算机毕设一套定稿(论文+程序源代码+数据库+说明)ssm510基于SSM的高并发慕课网的设计与实现+vue.zip,https://github.com/vfwai7e2ja/FfHeJkMyou,0,0,,,2026-08-18T08:11:46Z,2026-08-19,True,Long Context
-1338503778,boom5497/fpYVVZoZ,2022收计算机毕设一套定稿(论文+程序源代码+数据库+说明)ssm601基于ssm框架的校园闲置物品交易平台+jsp.zip,https://github.com/boom5497/fpYVVZoZ,1,0,,,2026-08-18T14:31:29Z,2026-08-19,True,Long Context
-1338027466,kkld1684qw/nCvzgBEeKM,2022收计算机毕设一套定稿(论文+程序源代码+数据库+说明)ssm316基于ssm的游戏销售系统的设计与实现+vue.zip,https://github.com/kkld1684qw/nCvzgBEeKM,0,0,,,2026-08-18T05:53:48Z,2026-08-19,True,Long Context
-1338964635,TSOFTP-afk/loco,"LoCo (Logos Cortex) 逻各斯皮质 — 词级语言生成引擎 · VITA 人工情感核心的语言表达器官 | Word-level language organ turning intent & emotion into words (CUDA, SSM + semantic tree)",https://github.com/TSOFTP-afk/loco,1,0,Cuda,"artificial-consciousness,chinese-nlp,cuda,emotional-ai,language-model,predictive-coding,spiking-neural-networks,state-space-models",2026-08-19T00:58:31Z,2026-08-19,True,Long Context
-1338594740,gogoore/xvzLvGju,2022收计算机毕设一套定稿(论文+程序源代码+数据库+说明)ssm316基于ssm的游戏销售系统的设计与实现+vue.zip,https://github.com/gogoore/xvzLvGju,1,0,,,2026-08-18T16:02:42Z,2026-08-19,True,Long Context
-1338773288,boom5497/sEgbmpJe,2022收计算机毕设一套定稿(论文+程序源代码+数据库+说明)ssm660基于SSM框架的在线学习系统设计与实现+vue.zip,https://github.com/boom5497/sEgbmpJe,1,0,,,2026-08-18T19:33:54Z,2026-08-19,True,Long Context
-1337965959,n6jx7ld0er/tMCLFNHPWH,2022收计算机毕设一套定稿(论文+程序源代码+数据库+说明)ssm601基于ssm框架的校园闲置物品交易平台+jsp.zip,https://github.com/n6jx7ld0er/tMCLFNHPWH,0,0,,,2026-08-18T04:23:47Z,2026-08-19,True,Long Context
-1338769188,boom5497/JJsQXNEV,2022收计算机毕设一套定稿(论文+程序源代码+数据库+说明)ssm658基于ssm框架的少儿编程在线培训系统+vue.zip,https://github.com/boom5497/JJsQXNEV,1,0,,,2026-08-18T19:28:24Z,2026-08-19,True,Long Context
-1338412197,ibislon/CDeEsRxDQH,2022收计算机毕设一套定稿(论文+程序源代码+数据库+演示视频+使用说明+答辩PPT）微信奶茶点餐小程序ssm.zip,https://github.com/ibislon/CDeEsRxDQH,1,0,,,2026-08-18T13:03:19Z,2026-08-19,True,Long Context
-1338038514,xmdkh8v3th/PuIWlGNa,2025年计算机科学毕设一套(论文+前后端APP程序代码源文件)基于SSM的出租车管理系统设计与实现定稿.zip,https://github.com/xmdkh8v3th/PuIWlGNa,1,0,,,2026-08-18T06:07:13Z,2026-08-19,True,Long Context
-1338434178,ibislon/hvCprLlnev,2022收计算机毕设一套定稿(论文+程序源代码+数据库+演示视频+使用说明 )微信小程序疫苗预约小程序ssm.zip,https://github.com/ibislon/hvCprLlnev,1,0,,,2026-08-18T13:24:14Z,2026-08-19,True,Long Context
-1338921289,fireditoo/oYSwgzUO,2022收计算机毕设一套(论文+程序源代码+数据库+演示视频+说明)基于微信小程序的二手物品交易平台ssm.zip,https://github.com/fireditoo/oYSwgzUO,1,0,,,2026-08-18T23:34:14Z,2026-08-19,True,Long Context
-1337908489,nib82096oz/GzZGrTxUeE,2022收计算机毕设一套定稿(论文+程序源代码+数据库+说明)ssm601基于ssm框架的校园闲置物品交易平台+jsp.zip,https://github.com/nib82096oz/GzZGrTxUeE,1,0,,,2026-08-18T02:53:50Z,2026-08-19,True,Long Context
-1338910881,fireditoo/DlgVmGOl,2022收计算机毕设一套定稿(论文+程序源代码+数据库+演示视频+使用说明 )微信小程序疫苗预约小程序ssm.zip,https://github.com/fireditoo/DlgVmGOl,1,0,,,2026-08-18T23:13:25Z,2026-08-19,True,Long Context
-1338892747,voldenbar/MockkGOe,2022收计算机毕设一套定稿(论文+程序源代码+数据库+演示视频+使用说明+答辩ppt)校园综合服务小程序+ssm.zip,https://github.com/voldenbar/MockkGOe,1,0,,,2026-08-18T22:39:41Z,2026-08-19,True,Long Context
-1338923241,fireditoo/BAtkVipr,2022收计算机毕设一套(论文+程序源代码+数据库+演示视频+说明)便捷饭店点餐小程序的设计与实现ssm.zip,https://github.com/fireditoo/BAtkVipr,1,0,,,2026-08-18T23:38:24Z,2026-08-19,True,Long Context
-1338919224,fireditoo/LAGqYnOx,2022收计算机毕设一套(论文+程序源代码+数据库+演示视频+说明)基于微信平台的购物商城小程序开发ssm.zip,https://github.com/fireditoo/LAGqYnOx,1,0,,,2026-08-18T23:30:06Z,2026-08-19,True,Long Context
-1337941160,lojnp9pn5a/VMUFOYsvpU,2022收计算机毕设一套定稿(论文+程序源代码+数据库+说明)ssm554基于ssm框架的滁艺咖啡在线销售系统+vue.zip,https://github.com/lojnp9pn5a/VMUFOYsvpU,0,0,,,2026-08-18T03:46:12Z,2026-08-19,True,Long Context
-1337937127,boom5497/rcrXZaxt,2025年计算机科学毕设一套基于SSM的电影评论系统(论文+外文翻译开题调研报告源程序代码PDF) 定稿.zip,https://github.com/boom5497/rcrXZaxt,1,0,,,2026-08-18T03:39:49Z,2026-08-19,True,Long Context
-1338115695,fireditoo/HcKGSueQ,2022收计算机毕设一套定稿(论文+程序源代码+数据库+说明)ssm554基于ssm框架的滁艺咖啡在线销售系统+vue.zip,https://github.com/fireditoo/HcKGSueQ,1,0,,,2026-08-18T07:38:02Z,2026-08-19,True,Long Context
-1338827794,owenbrave/dNkFoHZB,2022收计算机毕设一套定稿(论文+程序源代码+数据库+答辩ppt+说明)ssm基于JAVA的中小型企业财务管理+js.zip,https://github.com/owenbrave/dNkFoHZB,1,0,,,2026-08-18T20:50:35Z,2026-08-19,True,Long Context
-1338593374,gogoore/rIUquyBj,2022收计算机毕设一套定稿(论文+程序源代码+数据库+答辩ppt+说明)ssm 基于Java的众惠商城的设计与实现+vue.zip,https://github.com/gogoore/rIUquyBj,1,0,,,2026-08-18T16:01:17Z,2026-08-19,True,Long Context
-1338028579,kkld1684qw/rihpFhRfke,2022收计算机毕设一套定稿(论文+程序源代码+数据库+说明)ssm597基于ssm的线上选课系统的设计与实现+jsp.zip,https://github.com/kkld1684qw/rihpFhRfke,0,0,,,2026-08-18T05:55:12Z,2026-08-19,True,Long Context
-1338040390,px2ysv789z/OiSXvhTOZr,2022收计算机毕设一套定稿(论文+程序源代码+数据库+说明)ssm601基于ssm框架的校园闲置物品交易平台+jsp.zip,https://github.com/px2ysv789z/OiSXvhTOZr,0,0,,,2026-08-18T06:09:32Z,2026-08-19,True,Long Context
-1338714838,fireditoo/iRwwesGy,2022收计算机毕设一套定稿(论文+程序源代码+数据库+说明)ssm510基于SSM的高并发慕课网的设计与实现+vue.zip,https://github.com/fireditoo/iRwwesGy,1,0,,,2026-08-18T18:20:13Z,2026-08-19,True,Long Context
-1338026511,kkld1684qw/YEBtJdnoxE,2022收计算机毕设一套定稿(论文+程序源代码+数据库+答辩ppt+说明)ssm 基于Java的众惠商城的设计与实现+vue.zip,https://github.com/kkld1684qw/YEBtJdnoxE,0,0,,,2026-08-18T05:52:29Z,2026-08-19,True,Long Context
-1338794971,ibislon/WRAleZSTOe,2022收计算机毕设一套定稿(论文+程序源代码+数据库+说明)微信001基于小程序的购物系统设计与实现+ssm.zip,https://github.com/ibislon/WRAleZSTOe,1,0,,,2026-08-18T20:03:42Z,2026-08-19,True,Long Context
-1338771172,boom5497/GgEuQLea,2022收计算机毕设一套定稿(论文+程序源代码+数据库+说明)ssm659基于SSM框架的宿舍管理系统的设计与实现+js.zip,https://github.com/boom5497/GgEuQLea,1,0,,,2026-08-18T19:31:11Z,2026-08-19,True,Long Context
-1337933196,lojnp9pn5a/WZHXLuVLTU,2022收计算机毕设一套定稿(论文+程序源代码+数据库+说明)ssm544基于SSM的蛋糕甜品店管理系统的设计与开发+js.zip,https://github.com/lojnp9pn5a/WZHXLuVLTU,0,0,,,2026-08-18T03:33:33Z,2026-08-19,True,Long Context
-1338431476,ibislon/TXuZGevLup,2022收计算机毕设一套定稿(论文+程序源代码+数据库+演示视频+使用说明 ）电子竞技信息交流平台小程序+ssm.zip,https://github.com/ibislon/TXuZGevLup,1,0,,,2026-08-18T13:21:49Z,2026-08-19,True,Long Context
-1338893451,voldenbar/ikMTHyxo,2022收计算机毕设一套定稿(论文+程序源代码+数据库+演示视频+使用说明+答辩ppt)教师管理微信小程序系统+ssm.zip,https://github.com/voldenbar/ikMTHyxo,1,0,,,2026-08-18T22:41:04Z,2026-08-19,True,Long Context
-1338809633,ibislon/eiPmafhOkJ,2022收计算机毕设一套定稿(论文+程序源代码+数据库+说明)微信183基于小程序宿舍报修系统的设计与实现ssm.zip,https://github.com/ibislon/eiPmafhOkJ,1,0,,,2026-08-18T20:24:19Z,2026-08-19,True,Long Context
-1338783320,boom5497/BYgWcZZB,2022收计算机毕设一套定稿(论文+程序源代码+数据库+说明)ssm521基于SSM框架的成绩管理系统的设计与实现+vue.zip,https://github.com/boom5497/BYgWcZZB,1,0,,,2026-08-18T19:47:38Z,2026-08-19,True,Long Context
-1338915216,fireditoo/QWmliQAN,2022收计算机毕设一套定稿(论文+程序源代码+数据库+演示视频+使用说明 )小程序一次性环保餐具销售系统+ssm.zip,https://github.com/fireditoo/QWmliQAN,1,0,,,2026-08-18T23:21:44Z,2026-08-19,True,Long Context
-1338104340,fireditoo/uvNuoTuW,2022收计算机毕设一套定稿(论文+程序源代码+数据库+说明)ssm544基于SSM的蛋糕甜品店管理系统的设计与开发+js.zip,https://github.com/fireditoo/uvNuoTuW,1,0,,,2026-08-18T07:25:14Z,2026-08-19,True,Long Context
-1338421693,ibislon/fMmnfcNPLF,2022收计算机毕设一套定稿(论文+程序源代码+数据库+演示视频+使用说明)微信小程序高校学生事务管理系统ssm.zip,https://github.com/ibislon/fMmnfcNPLF,1,0,,,2026-08-18T13:12:41Z,2026-08-19,True,Long Context
-1338915892,fireditoo/SxeErnai,2022收计算机毕设一套定稿(论文+程序源代码+数据库+演示视频+使用说明 )小程序 计算机实验室排课与查询系统+ssm.zip,https://github.com/fireditoo/SxeErnai,1,0,,,2026-08-18T23:23:08Z,2026-08-19,True,Long Context
-1338414541,ibislon/xTCtUqMHJc,2022收计算机毕设一套定稿(论文+程序源代码+数据库+演示视频+使用说明+答辩PPT）基于微信小程序的网上商城+ssm.zip,https://github.com/ibislon/xTCtUqMHJc,1,0,,,2026-08-18T13:05:40Z,2026-08-19,True,Long Context
-1338103347,kc4gsuzxop/kQcvnNfsQW,2022收计算机毕设一套定稿(论文+程序源代码+数据库+答辩ppt+说明)ssm基于WEB的人事档案管理系统的设计与实现+js.zip,https://github.com/kc4gsuzxop/kQcvnNfsQW,0,0,,,2026-08-18T07:24:05Z,2026-08-19,True,Long Context
-1338673895,voldenbar/UqCaKmeq,2022收计算机毕设一套定稿(论文+程序源代码+数据库+答辩ppt+说明)ssm基于WEB的人事档案管理系统的设计与实现+js.zip,https://github.com/voldenbar/UqCaKmeq,1,0,,,2026-08-18T17:32:38Z,2026-08-19,True,Long Context
-1337951427,lxekslvjwu/kUlpaBhakg,2022收计算机毕设一套定稿(论文+程序源代码+数据库+说明)ssm565基于SSM的校内信息服务发布系统的设计与实现+vue.zip,https://github.com/lxekslvjwu/kUlpaBhakg,0,0,,,2026-08-18T04:01:54Z,2026-08-19,True,Long Context
-1338029603,kkld1684qw/WScQlFmVbF,2022收计算机毕设一套定稿(论文+程序源代码+数据库+说明)ssm317基于SSM的中学课内小说阅读与学习系统的设计+vue.zip,https://github.com/kkld1684qw/WScQlFmVbF,0,0,,,2026-08-18T05:56:35Z,2026-08-19,True,Long Context
-1338597424,gogoore/vrjyqazl,2022收计算机毕设一套定稿(论文+程序源代码+数据库+说明)ssm317基于SSM的中学课内小说阅读与学习系统的设计+vue.zip,https://github.com/gogoore/vrjyqazl,1,0,,,2026-08-18T16:05:30Z,2026-08-19,True,Long Context
-1338794222,ibislon/KvkcEkTFFi,2022收计算机毕设一套定稿(论文+程序源代码+数据库+说明+答辩ppt)基于微信的原创音乐小程序的设计与实现+ssm.zip,https://github.com/ibislon/KvkcEkTFFi,1,0,,,2026-08-18T20:02:37Z,2026-08-19,True,Long Context
-1338426598,ibislon/gbksRegMoI,2022收计算机毕设一套定稿(论文+程序源代码+数据库+演示视频+使用说明）小程序 培训机构客户管理系统的设计+ssm.zip,https://github.com/ibislon/gbksRegMoI,1,0,,,2026-08-18T13:17:19Z,2026-08-19,True,Long Context
-1338413353,ibislon/WTHgNabZoA,2022收计算机毕设一套定稿(论文+程序源代码+数据库+演示视频+使用说明+答辩ppt)小程序健身房私教预约系统+ssm.zip,https://github.com/ibislon/WTHgNabZoA,1,0,,,2026-08-18T13:04:30Z,2026-08-19,True,Long Context
-1338427688,ibislon/xGAfTWysdX,2022收计算机毕设一套定稿(论文+程序源代码+数据库+演示视频+使用说明)基于微信小程序的校园二手交易平台ssm.zip,https://github.com/ibislon/xGAfTWysdX,1,0,,,2026-08-18T13:18:26Z,2026-08-19,True,Long Context
-1338417870,ibislon/zdBJzUirws,2022收计算机毕设一套定稿(论文+程序源代码+数据库+演示视频+使用说明+答辩ppt)基于微信小程序疫苗预约系统+ssm.zip,https://github.com/ibislon/zdBJzUirws,1,0,,,2026-08-18T13:09:10Z,2026-08-19,True,Long Context
-1338424086,ibislon/rgRgecWosx,2022收计算机毕设一套定稿(论文+程序源代码+数据库+演示视频+使用说明）小程序消防隐患在线举报系统开发+ssm.zip,https://github.com/ibislon/rgRgecWosx,1,0,,,2026-08-18T13:15:01Z,2026-08-19,True,Long Context
-1337979430,owenbrave/CtsOeeDo,2025年软件工程毕设一套基于SSM的学生信息管理系统(论文+外文翻译中期开题调研报告程序源代码清单文档)定稿.zip,https://github.com/owenbrave/CtsOeeDo,1,0,,,2026-08-18T04:44:53Z,2026-08-19,True,Long Context
-1337998886,gogoore/OyEUrvzm,2025年网络工程毕设一套(论文++外文翻译开题调研报告源程序代码清单文档)基于ssm的医院管理系统设计与实现定稿.zip,https://github.com/gogoore/OyEUrvzm,1,0,,,2026-08-18T05:14:26Z,2026-08-19,True,Long Context
-1338913741,fireditoo/TnvFGNwi,2022收计算机毕设一套定稿(论文+程序源代码+数据库+演示视频+使用说明 )小程序停车场微信小程序的设计与实现+ssm.zip,https://github.com/fireditoo/TnvFGNwi,1,0,,,2026-08-18T23:19:02Z,2026-08-19,True,Long Context
-1338914504,fireditoo/olgLnCik,2022收计算机毕设一套定稿(论文+程序源代码+数据库+演示视频+使用说明 )小程序会议发布与预约系统的设计与开发+ssm.zip,https://github.com/fireditoo/olgLnCik,1,0,,,2026-08-18T23:20:24Z,2026-08-19,True,Long Context
-1338795684,ibislon/PgfxtNOfrI,2022收计算机毕设一套定稿(论文+程序源代码+数据库+说明)微信005基于小程序的老孙电子点菜系统开发设计与实现+ssm.zip,https://github.com/ibislon/PgfxtNOfrI,1,0,,,2026-08-18T20:04:48Z,2026-08-19,True,Long Context
-1338415604,ibislon/JilyzxsLXs,2022收计算机毕设一套定稿(论文+程序源代码+数据库+演示视频+使用说明+答辩ppt)基于微信小程序的童装商城的设计与实现+ssm.zip,https://github.com/ibislon/JilyzxsLXs,1,0,,,2026-08-18T13:06:44Z,2026-08-19,True,Long Context
-1338011015,sam-embedded/DiskLLM,"DiskLLM is a pure C inference engine for hybrid SSM/Attention GGUF models, designed to run large models from disk with a small resident memory footprint.  Instead of loading the full model into RAM, DiskLLM streams quantized weights from GGUF files using asynchronous double-buffered I/O, while keeping only essential runtime state resident",https://github.com/sam-embedded/DiskLLM,0,0,C,,2026-08-18T05:31:45Z,2026-08-19,True,Long Context
-1338416687,ibislon/QquAVzdrww,2022收计算机毕设一套定稿(论文+程序源代码+数据库+演示视频+使用说明+答辩PPT）基于微信小程序的学生公寓电费信息管理系统+ssm.zip,https://github.com/ibislon/QquAVzdrww,1,0,,,2026-08-18T13:07:55Z,2026-08-19,True,Long Context
-1338419119,ibislon/cWTmpQdbcw,2022收计算机毕设一套定稿(论文+程序源代码+数据库+演示视频+使用说明+答辩ppt)健身管理系统及会员微信小程序的设计与实现+ssm.zip,https://github.com/ibislon/cWTmpQdbcw,1,0,,,2026-08-18T13:10:20Z,2026-08-19,True,Long Context
-1338411158,ibislon/AqNYebKrTI,2022收计算机毕设一套定稿(论文+程序源代码+数据库+演示视频+使用说明+答辩ppt)微信小程序基于微信小程序的跳蚤市场设计与实现ssm.zip,https://github.com/ibislon/AqNYebKrTI,1,0,,,2026-08-18T13:02:12Z,2026-08-19,True,Long Context
-1338358733,hzySerein/cloudlibrary,基于 SSM (Spring + Spring MVC + MyBatis) 架构与现代化响应式 UI 的全功能云借阅图书管理系统，集成数据可视化大屏、完备的读者/管理员借还流程及 CSRF/CSP 安全防御体系。,https://github.com/hzySerein/cloudlibrary,0,0,Java,,2026-08-18T12:05:56Z,2026-08-19,True,Long Context
-1338652301,amayas67/orbit,Recurrent state-space model for date palm bunch counting and yield estimation from orbital video.,https://github.com/amayas67/orbit,0,0,,,2026-08-18T17:07:29Z,2026-08-19,True,Long Context
+1338545033,kumanday/long-context-evals,Evals for long-context retrieval and reasoning,https://github.com/kumanday/long-context-evals,0,0,,,2026-08-18T15:11:51Z,2026-08-19,False,Long Context
+1338124983,yanceng305-collab/long-context-orchestrator,Codex skill for orchestrating long-context tasks with durable memory and staged synthesis,https://github.com/yanceng305-collab/long-context-orchestrator,0,0,,,2026-08-18T07:48:54Z,2026-08-19,False,Long Context
+1338409374,RC-CHN/ik_llama.cpp,Xeon Max + CUDA long-context inference optimizations for ik_llama.cpp,https://github.com/RC-CHN/ik_llama.cpp,0,0,C++,,2026-08-18T13:00:21Z,2026-08-19,False,Long Context
+1338414880,VishwasJ05/MambaVision-Based-Biometric-Verification,,https://github.com/VishwasJ05/MambaVision-Based-Biometric-Verification,0,0,Python,,2026-08-18T13:05:59Z,2026-08-19,False,Long Context
+1338122004,maksum-rois/VMINet-MambaVisionXAISkinLesion,,https://github.com/maksum-rois/VMINet-MambaVisionXAISkinLesion,0,0,Python,,2026-08-18T07:45:23Z,2026-08-19,False,Long Context
+1338588456,tbah01785-codermamba/Mambarobotics,Siteweb,https://github.com/tbah01785-codermamba/Mambarobotics,0,0,,,2026-08-18T15:56:11Z,2026-08-19,False,Long Context
+1338102006,fillip-technologies/code-mamba,,https://github.com/fillip-technologies/code-mamba,0,0,TypeScript,,2026-08-18T07:22:33Z,2026-08-19,False,Long Context
+1338939414,wang2025-source/PromptRoute-Mamba,Official implementation of PromptRoute-Mamba for reliability-aware infrared-visible image fusion.,https://github.com/wang2025-source/PromptRoute-Mamba,0,0,Python,,2026-08-19T00:10:25Z,2026-08-19,False,Long Context
+1338389890,Abiven-18/Mamba-v2,,https://github.com/Abiven-18/Mamba-v2,0,0,Python,,2026-08-18T12:39:19Z,2026-08-19,False,Long Context
+1338960147,aevrane/CudaMamba1,Mamba-1 Highly optimized on C++ with full control of the CUDA kernel. ,https://github.com/aevrane/CudaMamba1,0,0,C++,,2026-08-19T00:50:26Z,2026-08-19,False,Long Context
+1338548709,zguo5284-svg/AnchorMamba-SCOPE,Official implementation and experimental results for AnchorMamba-SCOPE traffic object detection.,https://github.com/zguo5284-svg/AnchorMamba-SCOPE,0,0,Python,,2026-08-18T15:15:32Z,2026-08-19,False,Long Context
+1338964617,aevrane/CudaMamba3,Mamba3 architecture built in C++ for full control of the CUDA kernels. Built to run on consumer GPUs.,https://github.com/aevrane/CudaMamba3,0,0,C++,,2026-08-19T00:58:30Z,2026-08-19,False,Long Context
+1338772957,Arpansharma7/mamba-arch-recreated,,https://github.com/Arpansharma7/mamba-arch-recreated,0,0,Python,,2026-08-18T19:33:29Z,2026-08-19,False,Long Context
+1338792118,uraniumchonk/vllm-hybrid-mamba-notes,"Field notes: vLLM + hybrid Mamba/GDN + MTP + LMCache. Version matrix, symptoms, and the prefix-hit failure mode.",https://github.com/uraniumchonk/vllm-hybrid-mamba-notes,0,0,,,2026-08-18T19:59:37Z,2026-08-19,False,Long Context
+1338626561,GZempilis/Mamba-SVD-LoRA,,https://github.com/GZempilis/Mamba-SVD-LoRA,0,0,Jupyter Notebook,,2026-08-18T16:37:46Z,2026-08-19,False,Long Context
+1338520048,Kaviyachithra/mamba_u_n_e-t,,https://github.com/Kaviyachithra/mamba_u_n_e-t,0,0,,,2026-08-18T14:47:16Z,2026-08-19,False,Long Context
+1338163613,Ahmadrezanourozii/Project-Time-Series,: To use State Space Models (SSM)/ Mamba for medical time series analysis General research question: Can Mamba models improve the performance of classification models trained to detect Parkinson's disease using gait signals.,https://github.com/Ahmadrezanourozii/Project-Time-Series,0,0,Python,,2026-08-18T08:32:37Z,2026-08-19,False,Long Context
+1338427094,FANTASYFOREVER/Attnmamba,"Code of paper ""AttnMamba: Adaptive Spatial Modeling Mamba for General 3-D Medical Image Segmentation""",https://github.com/FANTASYFOREVER/Attnmamba,0,0,,,2026-08-18T13:17:50Z,2026-08-19,False,Long Context
+1338860641,Omeriqbal-04/Finova,ssm,https://github.com/Omeriqbal-04/Finova,0,0,,,2026-08-18T21:42:54Z,2026-08-19,False,Long Context
+1338002621,ymhyd/ssm016D-,ssm016D 流浪动物救助与领养综合服务平台,https://github.com/ymhyd/ssm016D-,0,0,,,2026-08-18T05:19:45Z,2026-08-19,False,Long Context
+1337931550,ymhyd/ssm015D-,ssm015D 基于SSM的井冈山大学兼职系统,https://github.com/ymhyd/ssm015D-,0,0,,,2026-08-18T03:30:49Z,2026-08-19,False,Long Context
+1337981667,pgs34/ssml,,https://github.com/pgs34/ssml,0,0,Python,,2026-08-18T04:48:14Z,2026-08-19,False,Long Context
+1338258428,Slate-md/SSMNT,,https://github.com/Slate-md/SSMNT,0,0,HTML,,2026-08-18T10:10:59Z,2026-08-19,False,Long Context
+1338035792,amihub2026-sys/ssmobils,,https://github.com/amihub2026-sys/ssmobils,0,0,CSS,,2026-08-18T06:03:49Z,2026-08-19,False,Long Context
+1338911501,suibing15/ASSLM-SSMS,THE GENERal codebase,https://github.com/suibing15/ASSLM-SSMS,0,0,JavaScript,,2026-08-18T23:14:39Z,2026-08-19,False,Long Context
+1338308871,UmmeRija/SSM-Backend,,https://github.com/UmmeRija/SSM-Backend,0,0,JavaScript,,2026-08-18T11:10:29Z,2026-08-19,False,Long Context
+1338287801,harshmalai80952-sudo/-SSM-Sarees,,https://github.com/harshmalai80952-sudo/-SSM-Sarees,0,0,JavaScript,,2026-08-18T10:45:47Z,2026-08-19,False,Long Context
+1338396931,Jagannathpatro/SSMS-ACro,,https://github.com/Jagannathpatro/SSMS-ACro,0,0,,,2026-08-18T12:46:57Z,2026-08-19,False,Long Context
+1338261276,UmmeRija/SSMS-frontend,,https://github.com/UmmeRija/SSMS-frontend,0,0,JavaScript,,2026-08-18T10:14:23Z,2026-08-19,False,Long Context
+1338646087,dineshshelke433-wq/ssmm-mandal-app,"साई सह्याद्री मित्र मंडळ, कोपरखैरणे – Financial Management App",https://github.com/dineshshelke433-wq/ssmm-mandal-app,0,0,,,2026-08-18T17:00:12Z,2026-08-19,False,Long Context
+1338097896,yogema0/docs-9ssman,Reference — perfectrolex.io,https://github.com/yogema0/docs-9ssman,0,0,HTML,,2026-08-18T07:17:27Z,2026-08-19,False,Long Context
+1338891577,asmakhans/weaklyssm_shapeMI,Repository for Weakly SSM for ShapeMI,https://github.com/asmakhans/weaklyssm_shapeMI,0,0,Python,,2026-08-18T22:37:30Z,2026-08-19,False,Long Context
+1338495854,mbmani66-sys/AWS-EC2-SSM-Patch-Management-CloudFormation,AWS-EC2-SSM-Patch-Management-CloudFormation,https://github.com/mbmani66-sys/AWS-EC2-SSM-Patch-Management-CloudFormation,0,0,,,2026-08-18T14:24:02Z,2026-08-19,False,Long Context
+1338218375,SakethkumarBadike/Video-anomaly-detection-using-SSM,,https://github.com/SakethkumarBadike/Video-anomaly-detection-using-SSM,0,0,Jupyter Notebook,,2026-08-18T09:25:38Z,2026-08-19,False,Long Context
+1338205099,istiak769/Anatomy-Change-Aware-Bidirectional-SSM-for-Thoracic-Radiotherapy-Auto-Contouring,,https://github.com/istiak769/Anatomy-Change-Aware-Bidirectional-SSM-for-Thoracic-Radiotherapy-Auto-Contouring,0,0,Python,,2026-08-18T09:11:36Z,2026-08-19,False,Long Context
+1338095843,Hammad1021/ERROR-HANDLING-SQL,USING TECH HEALTH DATA BASE ADDING CUSTOMERS ENSURING THE ERROR HANDLING USING ACID TRANSACTION IN SSMS,https://github.com/Hammad1021/ERROR-HANDLING-SQL,0,0,,,2026-08-18T07:15:07Z,2026-08-19,False,Long Context
+1338937416,d0ppxmu8ez/nneIbgdHWF,2022收计算机毕设一套定稿(论文+程序源代码+数据库+说明)微信小程序295基于ssm选课系统+ssm.zip,https://github.com/d0ppxmu8ez/nneIbgdHWF,0,0,,,2026-08-19T00:06:25Z,2026-08-19,False,Long Context
+1338099795,kc4gsuzxop/xErUWrjSPR,2022收计算机毕设一套定稿(论文+程序源代码+数据库+答辩ppt+说明)ssm基于ssm的学生资助管理系统+vue.zip,https://github.com/kc4gsuzxop/xErUWrjSPR,0,0,,,2026-08-18T07:19:55Z,2026-08-19,False,Long Context
+1338670302,voldenbar/hAzuJYAO,2022收计算机毕设一套定稿(论文+程序源代码+数据库+答辩ppt+说明)ssm基于ssm的学生资助管理系统+vue.zip,https://github.com/voldenbar/hAzuJYAO,1,0,,,2026-08-18T17:28:24Z,2026-08-19,False,Long Context
+1338358398,upbeats12625looping/SQL-Server-Management-Studio-Pro-Toolkit-2026,SQL Server Management Studio (SSMS) – Enhanced productivity suite with advanced query optimization and seamless database management tools for 2026.,https://github.com/upbeats12625looping/SQL-Server-Management-Studio-Pro-Toolkit-2026,0,0,,"backup-restore,data-compare,database-management,database-tools,management-studio,productivity,query-optimization,sql-administration,sql-server,ssms",2026-08-18T12:05:33Z,2026-08-19,False,Long Context
+1338467967,JOELOLUSANYA/Bank-Marketing-Performance-Analysis-,End to end business analytics case study analyzing bank marketing campaign data using SQL Server Management Studio (SSMS) and Power BI to optimize customer conversion strategies.,https://github.com/JOELOLUSANYA/Bank-Marketing-Performance-Analysis-,0,0,,,2026-08-18T13:56:42Z,2026-08-19,False,Long Context
+1338563134,Wasee3/platform-infra,"AWS foundation for an internal developer platform: VPC, EKS, IRSA, Karpenter IAM, and the SSM handoff contract consumed by platform-system. First-party Terraform modules, no long-lived credentials.",https://github.com/Wasee3/platform-infra,0,0,HCL,"aws,devops,eks,gitops,iac,irsa,karpenter,kubernetes,platform-engineering,terraform",2026-08-18T15:30:07Z,2026-08-19,False,Long Context
+1337998289,aquverdy2h/sQacCJvmbG,2023计算机毕设一套(论文+程序源代码)基于SSM框架的琴房预约管理系统.zip,https://github.com/aquverdy2h/sQacCJvmbG,0,0,,,2026-08-18T05:13:33Z,2026-08-19,False,Long Context
+1338556329,b9767te1al/oYqOZKvv,2023计算机毕设一套(论文+程序源代码)基于SSM框架的琴房预约管理系统.zip,https://github.com/b9767te1al/oYqOZKvv,1,0,,,2026-08-18T15:23:07Z,2026-08-19,False,Long Context
+1337995396,jx95jdolc8/XuGqcPnvTl,2023计算机毕设一套定稿(论文+程序源代码 )OA办公流程审批平台基于SSM+Shiro-.zip,https://github.com/jx95jdolc8/XuGqcPnvTl,0,0,,,2026-08-18T05:09:22Z,2026-08-19,False,Long Context
+1338882362,voldenbar/VsLHKXGH,2022计算机毕设一套 基于SSM的仓库管理系统 (论文+程序源代码+数据库)定稿.zip,https://github.com/voldenbar/VsLHKXGH,1,0,,,2026-08-18T22:20:12Z,2026-08-19,False,Long Context
+1338552301,b9767te1al/zAYdBGkP,2023计算机毕设一套定稿(论文+程序源代码 )OA办公流程审批平台基于SSM+Shiro-.zip,https://github.com/b9767te1al/zAYdBGkP,1,0,,,2026-08-18T15:19:03Z,2026-08-19,False,Long Context
+1338892051,voldenbar/lqNAoSLj,2022收计算机毕设一套（论文+源代码+数据库+说明）ssm285基于SSM的旅游管理系统+jsp.zip,https://github.com/voldenbar/lqNAoSLj,1,0,,,2026-08-18T22:38:18Z,2026-08-19,False,Long Context
+1338803167,ibislon/uZZxkTNmid,2022收计算机毕设一套定稿(论文+程序源代码+数据库+说明)微信100宠物小程序+ssm.zip,https://github.com/ibislon/uZZxkTNmid,1,0,,,2026-08-18T20:15:02Z,2026-08-19,False,Long Context
+1338805604,ibislon/HnDukmVdYS,2022收计算机毕设一套定稿(论文+程序源代码+数据库+说明)微信159健身小程序+ssm.zip,https://github.com/ibislon/HnDukmVdYS,1,0,,,2026-08-18T20:18:27Z,2026-08-19,False,Long Context
+1338806479,ibislon/cELjbZLmFh,2022收计算机毕设一套定稿(论文+程序源代码+数据库+说明)微信162博客小程序+ssm.zip,https://github.com/ibislon/cELjbZLmFh,1,0,,,2026-08-18T20:19:40Z,2026-08-19,False,Long Context
+1338607840,gogoore/WztFUCdI,2022收计算机毕设一套定稿(论文+程序源代码+数据库+说明)ssm321基于ssm的软考系统+vue.zip,https://github.com/gogoore/WztFUCdI,1,0,,,2026-08-18T16:16:37Z,2026-08-19,False,Long Context
+1338096001,fireditoo/sOHSsVmU,2022收计算机毕设一套定稿无论文(+程序源代码+数据库+说明)ssm乐购游戏商城系统.zip,https://github.com/fireditoo/sOHSsVmU,1,0,,,2026-08-18T07:15:19Z,2026-08-19,False,Long Context
+1338922605,fireditoo/gHwBNSFB,2022收计算机毕设一套(论文+程序源代码+数据库+演示视频+说明)垃圾分类小程序ssm.zip,https://github.com/fireditoo/gHwBNSFB,1,0,,,2026-08-18T23:36:58Z,2026-08-19,False,Long Context
+1338887658,voldenbar/FCWaaTtL,2022收计算机毕设一套（论文+源代码+数据库+说明）ssm180基于ssm的线上课程管理系统+jsp.zip,https://github.com/voldenbar/FCWaaTtL,1,0,,,2026-08-18T22:29:57Z,2026-08-19,False,Long Context
+1337907867,nib82096oz/vBQSOzZsZc,2022收计算机毕设一套定稿(论文+程序源代码+数据库+说明)ssm321基于ssm的软考系统+vue.zip,https://github.com/nib82096oz/vBQSOzZsZc,1,0,,,2026-08-18T02:52:41Z,2026-08-19,False,Long Context
+1337927056,lojnp9pn5a/EIKBcMHvWY,2022收计算机毕设一套定稿无论文(+程序源代码+数据库+说明)ssm乐购游戏商城系统.zip,https://github.com/lojnp9pn5a/EIKBcMHvWY,0,0,,,2026-08-18T03:23:46Z,2026-08-19,False,Long Context
+1338039118,kkld1684qw/OcXfmCZqJp,2022收计算机毕设一套定稿(论文+程序源代码+数据库+说明)ssm321基于ssm的软考系统+vue.zip,https://github.com/kkld1684qw/OcXfmCZqJp,0,0,,,2026-08-18T06:07:59Z,2026-08-19,False,Long Context
+1338851215,lights-rix/GxLWWGPz,2023计算机毕设一套 基于ssm久久婚纱拍摄网的设计(论文+程序源代码+数据库)定稿.zip,https://github.com/lights-rix/GxLWWGPz,1,0,,,2026-08-18T21:26:58Z,2026-08-19,False,Long Context
+1338800813,ibislon/EagHeTxupn,2022收计算机毕设一套定稿(论文+程序源代码+数据库+说明)微信066家政项目小程序+ssm.zip,https://github.com/ibislon/EagHeTxupn,1,0,,,2026-08-18T20:11:35Z,2026-08-19,False,Long Context
+1338012778,lights-rix/bZbwVIxu,2025年软件工程毕设一套(论文+程序源码文件+数据库)基于SSM的大学生兼职系统定稿.zip,https://github.com/lights-rix/bZbwVIxu,1,0,,,2026-08-18T05:34:16Z,2026-08-19,False,Long Context
+1338033397,kkld1684qw/HgwARnVOvN,2022收计算机毕设一套定稿(论文+程序源代码+数据库+答辩ppt+说明)ssm学籍管理系统+vue.zip,https://github.com/kkld1684qw/HgwARnVOvN,0,0,,,2026-08-18T06:00:49Z,2026-08-19,False,Long Context
+1338797283,ibislon/pfQsYfwZjb,2022收计算机毕设一套定稿(论文+程序源代码+数据库+说明)微信018实习记录小程序+ssm.zip,https://github.com/ibislon/pfQsYfwZjb,1,0,,,2026-08-18T20:07:02Z,2026-08-19,False,Long Context
+1338601292,gogoore/UscpKswT,2022收计算机毕设一套定稿(论文+程序源代码+数据库+答辩ppt+说明)ssm学籍管理系统+vue.zip,https://github.com/gogoore/UscpKswT,1,0,,,2026-08-18T16:09:42Z,2026-08-19,False,Long Context
+1338803955,ibislon/zCezdfasFp,2022收计算机毕设一套定稿(论文+程序源代码+数据库+说明)微信102旅游社交小程序+ssm.zip,https://github.com/ibislon/zCezdfasFp,1,0,,,2026-08-18T20:16:09Z,2026-08-19,False,Long Context
+1338089246,kc4gsuzxop/gVRmHpjwPM,2022收计算机毕设一套定稿(论文+程序源代码+数据库+说明)ssm342基于SSM的宠物领养系统+js.zip,https://github.com/kc4gsuzxop/gVRmHpjwPM,0,0,,,2026-08-18T07:07:14Z,2026-08-19,False,Long Context
+1338779239,boom5497/bVfIwMyL,2022收计算机毕设一套定稿(论文+程序源代码+数据库+说明)ssm520基于SSM的社区管理系统+vue.zip,https://github.com/boom5497/bVfIwMyL,1,0,,,2026-08-18T19:42:07Z,2026-08-19,False,Long Context
+1338067288,vqnmux38ej/ukWvlTuhBh,2022收计算机毕设一套定稿(论文+程序源代码+数据库+说明)ssm615基于ssm的房源管理系统+vue.zip,https://github.com/vqnmux38ej/ukWvlTuhBh,0,0,,,2026-08-18T06:42:20Z,2026-08-19,False,Long Context
+1338801778,b9767te1al/zafUZIPL,2022收计算机毕设一套定稿(论文+程序源代码+数据库+说明)ssm527基于SSM实验室排课系统+vue.zip,https://github.com/b9767te1al/zafUZIPL,1,0,,,2026-08-18T20:12:57Z,2026-08-19,False,Long Context
+1338918555,fireditoo/mjHgxiKe,2022收计算机毕设一套(论文+程序源代码+数据库+演示视频+说明)学习资料库小程序设计ssm.zip,https://github.com/fireditoo/mjHgxiKe,1,0,,,2026-08-18T23:28:42Z,2026-08-19,False,Long Context
+1338804824,ibislon/XKpqGOZrZh,2022收计算机毕设一套定稿(论文+程序源代码+数据库+说明)微信119宿舍管理系统小程序+ssm.zip,https://github.com/ibislon/XKpqGOZrZh,1,0,,,2026-08-18T20:17:19Z,2026-08-19,False,Long Context
+1338808835,ibislon/ZGnVXQxIyu,2022收计算机毕设一套定稿(论文+程序源代码+数据库+说明)微信167校园失物招领小程序ssm.zip,https://github.com/ibislon/ZGnVXQxIyu,1,0,,,2026-08-18T20:23:06Z,2026-08-19,False,Long Context
+1338013831,aquverdy2h/CZiMCLxpHg,2024计算机毕设一套查重30 基于是ssm+java的奶茶店网站管理系统（论文+程序源代码+数据库）.rar,https://github.com/aquverdy2h/CZiMCLxpHg,0,0,,,2026-08-18T05:35:47Z,2026-08-19,False,Long Context
+1338799910,ibislon/oZTEycTDhU,2022收计算机毕设一套定稿(论文+程序源代码+数据库+说明)微信058智能社区服务小程序+ssm.zip,https://github.com/ibislon/oZTEycTDhU,1,0,,,2026-08-18T20:10:26Z,2026-08-19,False,Long Context
+1338578287,owenbrave/RRtjAaGU,2024计算机毕设一套查重30 基于是ssm+java的奶茶店网站管理系统（论文+程序源代码+数据库）.rar,https://github.com/owenbrave/RRtjAaGU,1,0,,,2026-08-18T15:45:43Z,2026-08-19,False,Long Context
+1338819024,owenbrave/aTlsICWU,2022收计算机毕设一套定稿(论文+程序源代码+数据库+说明)ssm535基于SSM的游戏资源管理系统+vue.zip,https://github.com/owenbrave/aTlsICWU,1,0,,,2026-08-18T20:37:58Z,2026-08-19,False,Long Context
+1338048720,px2ysv789z/qyeMUNyBda,2022收计算机毕设一套定稿(论文+程序源代码+数据库+说明)ssm605基于SSM的商城的设计与实现+jsp.zip,https://github.com/px2ysv789z/qyeMUNyBda,0,0,,,2026-08-18T06:19:29Z,2026-08-19,False,Long Context
+1338618327,lights-rix/FhiIWwag,2022收计算机毕设一套定稿(论文+程序源代码+数据库+说明)ssm605基于SSM的商城的设计与实现+jsp.zip,https://github.com/lights-rix/FhiIWwag,1,0,,,2026-08-18T16:28:07Z,2026-08-19,False,Long Context
+1338102153,kc4gsuzxop/VcKOctFyUO,2022收计算机毕设一套定稿(论文+程序源代码+数据库+说明)ssm347基于SSM的药店药品销售系统+vue.zip,https://github.com/kc4gsuzxop/VcKOctFyUO,0,0,,,2026-08-18T07:22:42Z,2026-08-19,False,Long Context
+1338049201,voldenbar/pWsRyHYB,2025年网络工程毕设一套(论文+程序源码文件)基于SSM的课程在线学习系统设计与实现定稿.zip,https://github.com/voldenbar/pWsRyHYB,1,0,,,2026-08-18T06:20:03Z,2026-08-19,False,Long Context
+1338801616,ibislon/YNCOnCgAAg,2022收计算机毕设一套定稿(论文+程序源代码+数据库+说明)微信068电影院订票选座小程序+ssm.zip,https://github.com/ibislon/YNCOnCgAAg,1,0,,,2026-08-18T20:12:43Z,2026-08-19,False,Long Context
+1338672769,voldenbar/HIPFWdKc,2022收计算机毕设一套定稿(论文+程序源代码+数据库+说明)ssm347基于SSM的药店药品销售系统+vue.zip,https://github.com/voldenbar/HIPFWdKc,1,0,,,2026-08-18T17:31:14Z,2026-08-19,False,Long Context
+1337913362,vo54ftydas/fbJoVxoapR,2022收计算机毕设一套定稿(论文+程序源代码+数据库+说明)ssm605基于SSM的商城的设计与实现+jsp.zip,https://github.com/vo54ftydas/fbJoVxoapR,1,0,,,2026-08-18T03:02:01Z,2026-08-19,False,Long Context
+1338036827,kkld1684qw/gwrBmEoGmN,2022收计算机毕设一套定稿(论文+程序源代码+数据库+说明)ssm600基于SSM的毕业生就业管理系统+vue.zip,https://github.com/kkld1684qw/gwrBmEoGmN,0,0,,,2026-08-18T06:05:13Z,2026-08-19,False,Long Context
+1337906476,nib82096oz/MvkYpssHvU,2022收计算机毕设一套定稿(论文+程序源代码+数据库+说明)ssm600基于SSM的毕业生就业管理系统+vue.zip,https://github.com/nib82096oz/MvkYpssHvU,1,0,,,2026-08-18T02:50:27Z,2026-08-19,False,Long Context
+1338031180,kkld1684qw/ejPPpwBrDh,2022收计算机毕设一套定稿(论文+程序源代码+数据库+说明)ssm598基于VUE3+SSM框架的在线宠物商城+vue.zip,https://github.com/kkld1684qw/ejPPpwBrDh,0,0,,,2026-08-18T05:57:58Z,2026-08-19,False,Long Context
+1338798141,ibislon/xmihKlxTPs,2022收计算机毕设一套定稿(论文+程序源代码+数据库+说明)微信030英语学习交流平台小程序+ssm.zip,https://github.com/ibislon/xmihKlxTPs,1,0,,,2026-08-18T20:08:10Z,2026-08-19,False,Long Context
+1338145204,vfwai7e2ja/ByregxBDQq,2022收计算机毕设一套定稿(论文+程序源代码+数据库+说明)ssm640基于ssm框架的博客系统的开发+vue.zip,https://github.com/vfwai7e2ja/ByregxBDQq,0,0,,,2026-08-18T08:13:07Z,2026-08-19,False,Long Context
+1338598670,gogoore/zfzvcbSw,2022收计算机毕设一套定稿(论文+程序源代码+数据库+说明)ssm598基于VUE3+SSM框架的在线宠物商城+vue.zip,https://github.com/gogoore/zfzvcbSw,1,0,,,2026-08-18T16:06:54Z,2026-08-19,False,Long Context
+1338802432,ibislon/ohbQACHCrC,2022收计算机毕设一套定稿(论文+程序源代码+数据库+说明)微信099外卖小程序的研究与开发+ssm.zip,https://github.com/ibislon/ohbQACHCrC,1,0,,,2026-08-18T20:13:54Z,2026-08-19,False,Long Context
+1338716132,fireditoo/IvFqJdbr,2022收计算机毕设一套定稿(论文+程序源代码+数据库+说明)ssm640基于ssm框架的博客系统的开发+vue.zip,https://github.com/fireditoo/IvFqJdbr,1,0,,,2026-08-18T18:21:37Z,2026-08-19,False,Long Context
+1338605320,gogoore/eUZNoACL,2022收计算机毕设一套定稿(论文+程序源代码+数据库+说明)ssm600基于SSM的毕业生就业管理系统+vue.zip,https://github.com/gogoore/eUZNoACL,1,0,,,2026-08-18T16:13:48Z,2026-08-19,False,Long Context
+1338079651,vqnmux38ej/tJQpAusHKe,2022收计算机毕设一套定稿(论文+程序源代码+数据库+说明)ssm337基于SSM框架的高校试题管理系统+vue.zip,https://github.com/vqnmux38ej/tJQpAusHKe,0,0,,,2026-08-18T06:56:12Z,2026-08-19,False,Long Context
+1338425241,ibislon/wWaNanVvXu,2022收计算机毕设一套定稿(论文+程序源代码+数据库+演示视频+使用说明）小程序 居住证申报系统+ssm.zip,https://github.com/ibislon/wWaNanVvXu,1,0,,,2026-08-18T13:16:09Z,2026-08-19,False,Long Context
+1338813374,owenbrave/VsZYSWxC,2022收计算机毕设一套定稿(论文+程序源代码+数据库+说明)ssm391基于ssm框架网络财务设计与实现+js.zip,https://github.com/owenbrave/VsZYSWxC,1,0,,,2026-08-18T20:29:42Z,2026-08-19,False,Long Context
+1338154795,vfwai7e2ja/feBrsVAyZk,2022收计算机毕设一套定稿(论文+程序源代码+数据库+说明)ssm643基于ssm框架的车辆出租管理系统+vue.zip,https://github.com/vfwai7e2ja/feBrsVAyZk,0,0,,,2026-08-18T08:24:11Z,2026-08-19,False,Long Context
+1338432765,ibislon/yHRmhipQQB,2022收计算机毕设一套定稿(论文+程序源代码+数据库+演示视频+使用说明 )汽车保养小程序系统+ssm.zip,https://github.com/ibislon/yHRmhipQQB,1,0,,,2026-08-18T13:23:00Z,2026-08-19,False,Long Context
+1338911569,fireditoo/HklcsHfL,2022收计算机毕设一套定稿(论文+程序源代码+数据库+演示视频+使用说明 )小程序网上商城设计+ssm.zip,https://github.com/fireditoo/HklcsHfL,1,0,,,2026-08-18T23:14:48Z,2026-08-19,False,Long Context
+1338422797,ibislon/KWuLthJvew,2022收计算机毕设一套定稿(论文+程序源代码+数据库+演示视频+使用说明）小说阅读器微信小程序+ssm.zip,https://github.com/ibislon/KWuLthJvew,1,0,,,2026-08-18T13:13:51Z,2026-08-19,False,Long Context
+1338723979,fireditoo/tRaPDQHP,2022收计算机毕设一套定稿(论文+程序源代码+数据库+说明)ssm643基于ssm框架的车辆出租管理系统+vue.zip,https://github.com/fireditoo/tRaPDQHP,1,0,,,2026-08-18T18:31:14Z,2026-08-19,False,Long Context
+1338917197,fireditoo/AZsIjiEp,2022收计算机毕设一套(论文+程序源代码+数据库+演示视频+说明)微信小程序的高校党费收缴系统ssm.zip,https://github.com/fireditoo/AZsIjiEp,1,0,,,2026-08-18T23:25:53Z,2026-08-19,False,Long Context
+1338032278,kkld1684qw/EtuviPFkIq,2022收计算机毕设一套定稿(论文+程序源代码+数据库+答辩ppt+说明)ssm学费管理系统的设计与实现+js.zip,https://github.com/kkld1684qw/EtuviPFkIq,0,0,,,2026-08-18T05:59:27Z,2026-08-19,False,Long Context
+1338114574,id650bchqk/nxDtYljMNX,2022收计算机毕设一套定稿(论文+程序源代码+数据库+说明)ssm503基于SSM框架的餐馆点餐系统的设计+vue.zip,https://github.com/id650bchqk/nxDtYljMNX,0,0,,,2026-08-18T07:36:48Z,2026-08-19,False,Long Context
+1338910184,fireditoo/CgLnRJLq,2022收计算机毕设一套定稿(论文+程序源代码+数据库+演示视频+使用说明 )汽车保养小程序系统+ssm.zip,https://github.com/fireditoo/CgLnRJLq,1,0,,,2026-08-18T23:12:01Z,2026-08-19,False,Long Context
+1338677563,voldenbar/sIocrsqh,2022收计算机毕设一套定稿(论文+程序源代码+数据库+说明)ssm629基于SSM的二手交易平台设计与开发+js.zip,https://github.com/voldenbar/sIocrsqh,1,0,,,2026-08-18T17:36:50Z,2026-08-19,False,Long Context
+1338430392,ibislon/vqCRuWurdQ,2022收计算机毕设一套定稿(论文+程序源代码+数据库+演示视频+使用说明 )考研论坛小程序设计+ssm.zip,https://github.com/ibislon/vqCRuWurdQ,1,0,,,2026-08-18T13:20:46Z,2026-08-19,False,Long Context
+1338796396,ibislon/cpZTWpsCcG,2022收计算机毕设一套定稿(论文+程序源代码+数据库+说明)微信006优购电商小程序的设计与实现+ssm.zip,https://github.com/ibislon/cpZTWpsCcG,1,0,,,2026-08-18T20:05:50Z,2026-08-19,False,Long Context
+1338106974,kc4gsuzxop/daQkOtUsnC,2022收计算机毕设一套定稿(论文+程序源代码+数据库+说明)ssm629基于SSM的二手交易平台设计与开发+js.zip,https://github.com/kc4gsuzxop/daQkOtUsnC,0,0,,,2026-08-18T07:28:21Z,2026-08-19,False,Long Context
+1338428944,ibislon/CtgwDsTqQK,2022收计算机毕设一套定稿(论文+程序源代码+数据库+演示视频+使用说明）在线课堂微信小程序+ssm.zip,https://github.com/ibislon/CtgwDsTqQK,1,0,,,2026-08-18T13:19:34Z,2026-08-19,False,Long Context
+1338799082,ibislon/XRAEslUalo,2022收计算机毕设一套定稿(论文+程序源代码+数据库+说明)微信047校园二手交易平台的小程序+ssm.zip,https://github.com/ibislon/XRAEslUalo,1,0,,,2026-08-18T20:09:23Z,2026-08-19,False,Long Context
+1338609172,gogoore/SGXKZIGI,2022收计算机毕设一套定稿(论文+程序源代码+数据库+说明)ssm601基于ssm框架的校园闲置物品交易平台+jsp.zip,https://github.com/gogoore/SGXKZIGI,1,0,,,2026-08-18T16:18:03Z,2026-08-19,False,Long Context
+1338912272,fireditoo/EmkvFDIo,2022收计算机毕设一套定稿(论文+程序源代码+数据库+演示视频+使用说明 )小程序汽车预约维修系统+ssm.zip,https://github.com/fireditoo/EmkvFDIo,1,0,,,2026-08-18T23:16:14Z,2026-08-19,False,Long Context
+1338921894,fireditoo/KfHtnzac,2022收计算机毕设一套(论文+程序源代码+数据库+演示视频+说明)基于java的餐厅点餐系统微信小程序ssm.zip,https://github.com/fireditoo/KfHtnzac,1,0,,,2026-08-18T23:35:35Z,2026-08-19,False,Long Context
+1338913024,fireditoo/fOMcSVaY,2022收计算机毕设一套定稿(论文+程序源代码+数据库+演示视频+使用说明 )小程序培训咨询微信小程序+ssm.zip,https://github.com/fireditoo/fOMcSVaY,1,0,,,2026-08-18T23:17:37Z,2026-08-19,False,Long Context
+1338595984,gogoore/rRxcLOny,2022收计算机毕设一套定稿(论文+程序源代码+数据库+说明)ssm597基于ssm的线上选课系统的设计与实现+jsp.zip,https://github.com/gogoore/rRxcLOny,1,0,,,2026-08-18T16:04:05Z,2026-08-19,False,Long Context
+1338144053,vfwai7e2ja/FfHeJkMyou,2022收计算机毕设一套定稿(论文+程序源代码+数据库+说明)ssm510基于SSM的高并发慕课网的设计与实现+vue.zip,https://github.com/vfwai7e2ja/FfHeJkMyou,0,0,,,2026-08-18T08:11:46Z,2026-08-19,False,Long Context
+1338503778,boom5497/fpYVVZoZ,2022收计算机毕设一套定稿(论文+程序源代码+数据库+说明)ssm601基于ssm框架的校园闲置物品交易平台+jsp.zip,https://github.com/boom5497/fpYVVZoZ,1,0,,,2026-08-18T14:31:29Z,2026-08-19,False,Long Context
+1338027466,kkld1684qw/nCvzgBEeKM,2022收计算机毕设一套定稿(论文+程序源代码+数据库+说明)ssm316基于ssm的游戏销售系统的设计与实现+vue.zip,https://github.com/kkld1684qw/nCvzgBEeKM,0,0,,,2026-08-18T05:53:48Z,2026-08-19,False,Long Context
+1338964635,TSOFTP-afk/loco,"LoCo (Logos Cortex) 逻各斯皮质 — 词级语言生成引擎 · VITA 人工情感核心的语言表达器官 | Word-level language organ turning intent & emotion into words (CUDA, SSM + semantic tree)",https://github.com/TSOFTP-afk/loco,1,0,Cuda,"artificial-consciousness,chinese-nlp,cuda,emotional-ai,language-model,predictive-coding,spiking-neural-networks,state-space-models",2026-08-19T00:58:31Z,2026-08-19,False,Long Context
+1338594740,gogoore/xvzLvGju,2022收计算机毕设一套定稿(论文+程序源代码+数据库+说明)ssm316基于ssm的游戏销售系统的设计与实现+vue.zip,https://github.com/gogoore/xvzLvGju,1,0,,,2026-08-18T16:02:42Z,2026-08-19,False,Long Context
+1338773288,boom5497/sEgbmpJe,2022收计算机毕设一套定稿(论文+程序源代码+数据库+说明)ssm660基于SSM框架的在线学习系统设计与实现+vue.zip,https://github.com/boom5497/sEgbmpJe,1,0,,,2026-08-18T19:33:54Z,2026-08-19,False,Long Context
+1337965959,n6jx7ld0er/tMCLFNHPWH,2022收计算机毕设一套定稿(论文+程序源代码+数据库+说明)ssm601基于ssm框架的校园闲置物品交易平台+jsp.zip,https://github.com/n6jx7ld0er/tMCLFNHPWH,0,0,,,2026-08-18T04:23:47Z,2026-08-19,False,Long Context
+1338769188,boom5497/JJsQXNEV,2022收计算机毕设一套定稿(论文+程序源代码+数据库+说明)ssm658基于ssm框架的少儿编程在线培训系统+vue.zip,https://github.com/boom5497/JJsQXNEV,1,0,,,2026-08-18T19:28:24Z,2026-08-19,False,Long Context
+1338412197,ibislon/CDeEsRxDQH,2022收计算机毕设一套定稿(论文+程序源代码+数据库+演示视频+使用说明+答辩PPT）微信奶茶点餐小程序ssm.zip,https://github.com/ibislon/CDeEsRxDQH,1,0,,,2026-08-18T13:03:19Z,2026-08-19,False,Long Context
+1338038514,xmdkh8v3th/PuIWlGNa,2025年计算机科学毕设一套(论文+前后端APP程序代码源文件)基于SSM的出租车管理系统设计与实现定稿.zip,https://github.com/xmdkh8v3th/PuIWlGNa,1,0,,,2026-08-18T06:07:13Z,2026-08-19,False,Long Context
+1338434178,ibislon/hvCprLlnev,2022收计算机毕设一套定稿(论文+程序源代码+数据库+演示视频+使用说明 )微信小程序疫苗预约小程序ssm.zip,https://github.com/ibislon/hvCprLlnev,1,0,,,2026-08-18T13:24:14Z,2026-08-19,False,Long Context
+1338921289,fireditoo/oYSwgzUO,2022收计算机毕设一套(论文+程序源代码+数据库+演示视频+说明)基于微信小程序的二手物品交易平台ssm.zip,https://github.com/fireditoo/oYSwgzUO,1,0,,,2026-08-18T23:34:14Z,2026-08-19,False,Long Context
+1337908489,nib82096oz/GzZGrTxUeE,2022收计算机毕设一套定稿(论文+程序源代码+数据库+说明)ssm601基于ssm框架的校园闲置物品交易平台+jsp.zip,https://github.com/nib82096oz/GzZGrTxUeE,1,0,,,2026-08-18T02:53:50Z,2026-08-19,False,Long Context
+1338910881,fireditoo/DlgVmGOl,2022收计算机毕设一套定稿(论文+程序源代码+数据库+演示视频+使用说明 )微信小程序疫苗预约小程序ssm.zip,https://github.com/fireditoo/DlgVmGOl,1,0,,,2026-08-18T23:13:25Z,2026-08-19,False,Long Context
+1338892747,voldenbar/MockkGOe,2022收计算机毕设一套定稿(论文+程序源代码+数据库+演示视频+使用说明+答辩ppt)校园综合服务小程序+ssm.zip,https://github.com/voldenbar/MockkGOe,1,0,,,2026-08-18T22:39:41Z,2026-08-19,False,Long Context
+1338923241,fireditoo/BAtkVipr,2022收计算机毕设一套(论文+程序源代码+数据库+演示视频+说明)便捷饭店点餐小程序的设计与实现ssm.zip,https://github.com/fireditoo/BAtkVipr,1,0,,,2026-08-18T23:38:24Z,2026-08-19,False,Long Context
+1338919224,fireditoo/LAGqYnOx,2022收计算机毕设一套(论文+程序源代码+数据库+演示视频+说明)基于微信平台的购物商城小程序开发ssm.zip,https://github.com/fireditoo/LAGqYnOx,1,0,,,2026-08-18T23:30:06Z,2026-08-19,False,Long Context
+1337941160,lojnp9pn5a/VMUFOYsvpU,2022收计算机毕设一套定稿(论文+程序源代码+数据库+说明)ssm554基于ssm框架的滁艺咖啡在线销售系统+vue.zip,https://github.com/lojnp9pn5a/VMUFOYsvpU,0,0,,,2026-08-18T03:46:12Z,2026-08-19,False,Long Context
+1337937127,boom5497/rcrXZaxt,2025年计算机科学毕设一套基于SSM的电影评论系统(论文+外文翻译开题调研报告源程序代码PDF) 定稿.zip,https://github.com/boom5497/rcrXZaxt,1,0,,,2026-08-18T03:39:49Z,2026-08-19,False,Long Context
+1338115695,fireditoo/HcKGSueQ,2022收计算机毕设一套定稿(论文+程序源代码+数据库+说明)ssm554基于ssm框架的滁艺咖啡在线销售系统+vue.zip,https://github.com/fireditoo/HcKGSueQ,1,0,,,2026-08-18T07:38:02Z,2026-08-19,False,Long Context
+1338827794,owenbrave/dNkFoHZB,2022收计算机毕设一套定稿(论文+程序源代码+数据库+答辩ppt+说明)ssm基于JAVA的中小型企业财务管理+js.zip,https://github.com/owenbrave/dNkFoHZB,1,0,,,2026-08-18T20:50:35Z,2026-08-19,False,Long Context
+1338593374,gogoore/rIUquyBj,2022收计算机毕设一套定稿(论文+程序源代码+数据库+答辩ppt+说明)ssm 基于Java的众惠商城的设计与实现+vue.zip,https://github.com/gogoore/rIUquyBj,1,0,,,2026-08-18T16:01:17Z,2026-08-19,False,Long Context
+1338028579,kkld1684qw/rihpFhRfke,2022收计算机毕设一套定稿(论文+程序源代码+数据库+说明)ssm597基于ssm的线上选课系统的设计与实现+jsp.zip,https://github.com/kkld1684qw/rihpFhRfke,0,0,,,2026-08-18T05:55:12Z,2026-08-19,False,Long Context
+1338040390,px2ysv789z/OiSXvhTOZr,2022收计算机毕设一套定稿(论文+程序源代码+数据库+说明)ssm601基于ssm框架的校园闲置物品交易平台+jsp.zip,https://github.com/px2ysv789z/OiSXvhTOZr,0,0,,,2026-08-18T06:09:32Z,2026-08-19,False,Long Context
+1338714838,fireditoo/iRwwesGy,2022收计算机毕设一套定稿(论文+程序源代码+数据库+说明)ssm510基于SSM的高并发慕课网的设计与实现+vue.zip,https://github.com/fireditoo/iRwwesGy,1,0,,,2026-08-18T18:20:13Z,2026-08-19,False,Long Context
+1338026511,kkld1684qw/YEBtJdnoxE,2022收计算机毕设一套定稿(论文+程序源代码+数据库+答辩ppt+说明)ssm 基于Java的众惠商城的设计与实现+vue.zip,https://github.com/kkld1684qw/YEBtJdnoxE,0,0,,,2026-08-18T05:52:29Z,2026-08-19,False,Long Context
+1338794971,ibislon/WRAleZSTOe,2022收计算机毕设一套定稿(论文+程序源代码+数据库+说明)微信001基于小程序的购物系统设计与实现+ssm.zip,https://github.com/ibislon/WRAleZSTOe,1,0,,,2026-08-18T20:03:42Z,2026-08-19,False,Long Context
+1338771172,boom5497/GgEuQLea,2022收计算机毕设一套定稿(论文+程序源代码+数据库+说明)ssm659基于SSM框架的宿舍管理系统的设计与实现+js.zip,https://github.com/boom5497/GgEuQLea,1,0,,,2026-08-18T19:31:11Z,2026-08-19,False,Long Context
+1337933196,lojnp9pn5a/WZHXLuVLTU,2022收计算机毕设一套定稿(论文+程序源代码+数据库+说明)ssm544基于SSM的蛋糕甜品店管理系统的设计与开发+js.zip,https://github.com/lojnp9pn5a/WZHXLuVLTU,0,0,,,2026-08-18T03:33:33Z,2026-08-19,False,Long Context
+1338431476,ibislon/TXuZGevLup,2022收计算机毕设一套定稿(论文+程序源代码+数据库+演示视频+使用说明 ）电子竞技信息交流平台小程序+ssm.zip,https://github.com/ibislon/TXuZGevLup,1,0,,,2026-08-18T13:21:49Z,2026-08-19,False,Long Context
+1338893451,voldenbar/ikMTHyxo,2022收计算机毕设一套定稿(论文+程序源代码+数据库+演示视频+使用说明+答辩ppt)教师管理微信小程序系统+ssm.zip,https://github.com/voldenbar/ikMTHyxo,1,0,,,2026-08-18T22:41:04Z,2026-08-19,False,Long Context
+1338809633,ibislon/eiPmafhOkJ,2022收计算机毕设一套定稿(论文+程序源代码+数据库+说明)微信183基于小程序宿舍报修系统的设计与实现ssm.zip,https://github.com/ibislon/eiPmafhOkJ,1,0,,,2026-08-18T20:24:19Z,2026-08-19,False,Long Context
+1338783320,boom5497/BYgWcZZB,2022收计算机毕设一套定稿(论文+程序源代码+数据库+说明)ssm521基于SSM框架的成绩管理系统的设计与实现+vue.zip,https://github.com/boom5497/BYgWcZZB,1,0,,,2026-08-18T19:47:38Z,2026-08-19,False,Long Context
+1338915216,fireditoo/QWmliQAN,2022收计算机毕设一套定稿(论文+程序源代码+数据库+演示视频+使用说明 )小程序一次性环保餐具销售系统+ssm.zip,https://github.com/fireditoo/QWmliQAN,1,0,,,2026-08-18T23:21:44Z,2026-08-19,False,Long Context
+1338104340,fireditoo/uvNuoTuW,2022收计算机毕设一套定稿(论文+程序源代码+数据库+说明)ssm544基于SSM的蛋糕甜品店管理系统的设计与开发+js.zip,https://github.com/fireditoo/uvNuoTuW,1,0,,,2026-08-18T07:25:14Z,2026-08-19,False,Long Context
+1338421693,ibislon/fMmnfcNPLF,2022收计算机毕设一套定稿(论文+程序源代码+数据库+演示视频+使用说明)微信小程序高校学生事务管理系统ssm.zip,https://github.com/ibislon/fMmnfcNPLF,1,0,,,2026-08-18T13:12:41Z,2026-08-19,False,Long Context
+1338915892,fireditoo/SxeErnai,2022收计算机毕设一套定稿(论文+程序源代码+数据库+演示视频+使用说明 )小程序 计算机实验室排课与查询系统+ssm.zip,https://github.com/fireditoo/SxeErnai,1,0,,,2026-08-18T23:23:08Z,2026-08-19,False,Long Context
+1338414541,ibislon/xTCtUqMHJc,2022收计算机毕设一套定稿(论文+程序源代码+数据库+演示视频+使用说明+答辩PPT）基于微信小程序的网上商城+ssm.zip,https://github.com/ibislon/xTCtUqMHJc,1,0,,,2026-08-18T13:05:40Z,2026-08-19,False,Long Context
+1338103347,kc4gsuzxop/kQcvnNfsQW,2022收计算机毕设一套定稿(论文+程序源代码+数据库+答辩ppt+说明)ssm基于WEB的人事档案管理系统的设计与实现+js.zip,https://github.com/kc4gsuzxop/kQcvnNfsQW,0,0,,,2026-08-18T07:24:05Z,2026-08-19,False,Long Context
+1338673895,voldenbar/UqCaKmeq,2022收计算机毕设一套定稿(论文+程序源代码+数据库+答辩ppt+说明)ssm基于WEB的人事档案管理系统的设计与实现+js.zip,https://github.com/voldenbar/UqCaKmeq,1,0,,,2026-08-18T17:32:38Z,2026-08-19,False,Long Context
+1337951427,lxekslvjwu/kUlpaBhakg,2022收计算机毕设一套定稿(论文+程序源代码+数据库+说明)ssm565基于SSM的校内信息服务发布系统的设计与实现+vue.zip,https://github.com/lxekslvjwu/kUlpaBhakg,0,0,,,2026-08-18T04:01:54Z,2026-08-19,False,Long Context
+1338029603,kkld1684qw/WScQlFmVbF,2022收计算机毕设一套定稿(论文+程序源代码+数据库+说明)ssm317基于SSM的中学课内小说阅读与学习系统的设计+vue.zip,https://github.com/kkld1684qw/WScQlFmVbF,0,0,,,2026-08-18T05:56:35Z,2026-08-19,False,Long Context
+1338597424,gogoore/vrjyqazl,2022收计算机毕设一套定稿(论文+程序源代码+数据库+说明)ssm317基于SSM的中学课内小说阅读与学习系统的设计+vue.zip,https://github.com/gogoore/vrjyqazl,1,0,,,2026-08-18T16:05:30Z,2026-08-19,False,Long Context
+1338794222,ibislon/KvkcEkTFFi,2022收计算机毕设一套定稿(论文+程序源代码+数据库+说明+答辩ppt)基于微信的原创音乐小程序的设计与实现+ssm.zip,https://github.com/ibislon/KvkcEkTFFi,1,0,,,2026-08-18T20:02:37Z,2026-08-19,False,Long Context
+1338426598,ibislon/gbksRegMoI,2022收计算机毕设一套定稿(论文+程序源代码+数据库+演示视频+使用说明）小程序 培训机构客户管理系统的设计+ssm.zip,https://github.com/ibislon/gbksRegMoI,1,0,,,2026-08-18T13:17:19Z,2026-08-19,False,Long Context
+1338413353,ibislon/WTHgNabZoA,2022收计算机毕设一套定稿(论文+程序源代码+数据库+演示视频+使用说明+答辩ppt)小程序健身房私教预约系统+ssm.zip,https://github.com/ibislon/WTHgNabZoA,1,0,,,2026-08-18T13:04:30Z,2026-08-19,False,Long Context
+1338427688,ibislon/xGAfTWysdX,2022收计算机毕设一套定稿(论文+程序源代码+数据库+演示视频+使用说明)基于微信小程序的校园二手交易平台ssm.zip,https://github.com/ibislon/xGAfTWysdX,1,0,,,2026-08-18T13:18:26Z,2026-08-19,False,Long Context
+1338417870,ibislon/zdBJzUirws,2022收计算机毕设一套定稿(论文+程序源代码+数据库+演示视频+使用说明+答辩ppt)基于微信小程序疫苗预约系统+ssm.zip,https://github.com/ibislon/zdBJzUirws,1,0,,,2026-08-18T13:09:10Z,2026-08-19,False,Long Context
+1338424086,ibislon/rgRgecWosx,2022收计算机毕设一套定稿(论文+程序源代码+数据库+演示视频+使用说明）小程序消防隐患在线举报系统开发+ssm.zip,https://github.com/ibislon/rgRgecWosx,1,0,,,2026-08-18T13:15:01Z,2026-08-19,False,Long Context
+1337979430,owenbrave/CtsOeeDo,2025年软件工程毕设一套基于SSM的学生信息管理系统(论文+外文翻译中期开题调研报告程序源代码清单文档)定稿.zip,https://github.com/owenbrave/CtsOeeDo,1,0,,,2026-08-18T04:44:53Z,2026-08-19,False,Long Context
+1337998886,gogoore/OyEUrvzm,2025年网络工程毕设一套(论文++外文翻译开题调研报告源程序代码清单文档)基于ssm的医院管理系统设计与实现定稿.zip,https://github.com/gogoore/OyEUrvzm,1,0,,,2026-08-18T05:14:26Z,2026-08-19,False,Long Context
+1338913741,fireditoo/TnvFGNwi,2022收计算机毕设一套定稿(论文+程序源代码+数据库+演示视频+使用说明 )小程序停车场微信小程序的设计与实现+ssm.zip,https://github.com/fireditoo/TnvFGNwi,1,0,,,2026-08-18T23:19:02Z,2026-08-19,False,Long Context
+1338914504,fireditoo/olgLnCik,2022收计算机毕设一套定稿(论文+程序源代码+数据库+演示视频+使用说明 )小程序会议发布与预约系统的设计与开发+ssm.zip,https://github.com/fireditoo/olgLnCik,1,0,,,2026-08-18T23:20:24Z,2026-08-19,False,Long Context
+1338795684,ibislon/PgfxtNOfrI,2022收计算机毕设一套定稿(论文+程序源代码+数据库+说明)微信005基于小程序的老孙电子点菜系统开发设计与实现+ssm.zip,https://github.com/ibislon/PgfxtNOfrI,1,0,,,2026-08-18T20:04:48Z,2026-08-19,False,Long Context
+1338415604,ibislon/JilyzxsLXs,2022收计算机毕设一套定稿(论文+程序源代码+数据库+演示视频+使用说明+答辩ppt)基于微信小程序的童装商城的设计与实现+ssm.zip,https://github.com/ibislon/JilyzxsLXs,1,0,,,2026-08-18T13:06:44Z,2026-08-19,False,Long Context
+1338011015,sam-embedded/DiskLLM,"DiskLLM is a pure C inference engine for hybrid SSM/Attention GGUF models, designed to run large models from disk with a small resident memory footprint.  Instead of loading the full model into RAM, DiskLLM streams quantized weights from GGUF files using asynchronous double-buffered I/O, while keeping only essential runtime state resident",https://github.com/sam-embedded/DiskLLM,0,0,C,,2026-08-18T05:31:45Z,2026-08-19,False,Long Context
+1338416687,ibislon/QquAVzdrww,2022收计算机毕设一套定稿(论文+程序源代码+数据库+演示视频+使用说明+答辩PPT）基于微信小程序的学生公寓电费信息管理系统+ssm.zip,https://github.com/ibislon/QquAVzdrww,1,0,,,2026-08-18T13:07:55Z,2026-08-19,False,Long Context
+1338419119,ibislon/cWTmpQdbcw,2022收计算机毕设一套定稿(论文+程序源代码+数据库+演示视频+使用说明+答辩ppt)健身管理系统及会员微信小程序的设计与实现+ssm.zip,https://github.com/ibislon/cWTmpQdbcw,1,0,,,2026-08-18T13:10:20Z,2026-08-19,False,Long Context
+1338411158,ibislon/AqNYebKrTI,2022收计算机毕设一套定稿(论文+程序源代码+数据库+演示视频+使用说明+答辩ppt)微信小程序基于微信小程序的跳蚤市场设计与实现ssm.zip,https://github.com/ibislon/AqNYebKrTI,1,0,,,2026-08-18T13:02:12Z,2026-08-19,False,Long Context
+1338358733,hzySerein/cloudlibrary,基于 SSM (Spring + Spring MVC + MyBatis) 架构与现代化响应式 UI 的全功能云借阅图书管理系统，集成数据可视化大屏、完备的读者/管理员借还流程及 CSRF/CSP 安全防御体系。,https://github.com/hzySerein/cloudlibrary,0,0,Java,,2026-08-18T12:05:56Z,2026-08-19,False,Long Context
+1338652301,amayas67/orbit,Recurrent state-space model for date palm bunch counting and yield estimation from orbital video.,https://github.com/amayas67/orbit,0,0,,,2026-08-18T17:07:29Z,2026-08-19,False,Long Context
