@@ -5185,5 +5185,83 @@
     "url": "https://simonwillison.net/2026/Aug/17/qwen-38-27b-scores-52/",
     "tags": "",
     "created_at": "2026-08-18 02:50:10"
+  },
+  {
+    "id": "rss_https://openai.com/index/pacing-model-development-cyber-capabilities",
+    "company": "OpenAI",
+    "title": "Pacing model development in an era of cyber-critical capabilities",
+    "publish_date": "2026-08-18",
+    "type": "其他",
+    "open_source": "否",
+    "summary": "OpenAI is strengthening monitoring, alignment, and security for frontier AI models. See how new safeguards are guiding the pace of model development.",
+    "details": "",
+    "url": "https://openai.com/index/pacing-model-development-cyber-capabilities",
+    "tags": "",
+    "created_at": "2026-08-19 02:52:20"
+  },
+  {
+    "id": "rss_https://openai.com/index/chatgpt-for-teens",
+    "company": "OpenAI",
+    "title": "Introducing ChatGPT for Teens: Built for learning, backed by protections",
+    "publish_date": "2026-08-18",
+    "type": "其他",
+    "open_source": "否",
+    "summary": "ChatGPT for Teens helps teens learn, think critically, and use AI with confidence, with stronger built-in protections, healthy-use features, and additional controls for parents.",
+    "details": "",
+    "url": "https://openai.com/index/chatgpt-for-teens",
+    "tags": "",
+    "created_at": "2026-08-19 02:52:20"
+  },
+  {
+    "id": "rss_https://openai.com/index/nvidia/chatgpt-work",
+    "company": "OpenAI",
+    "title": "How NVIDIA scales expertise with ChatGPT Work",
+    "publish_date": "2026-08-18",
+    "type": "其他",
+    "open_source": "否",
+    "summary": "NVIDIA teams use ChatGPT Work to reduce manual tasks, connect fast-moving signals, and scale successful workflows globally.",
+    "details": "",
+    "url": "https://openai.com/index/nvidia/chatgpt-work",
+    "tags": "",
+    "created_at": "2026-08-19 02:52:20"
+  },
+  {
+    "id": "rss_https://huggingface.co/blog/ibm-research/altk-evolve-hmm",
+    "company": "Hugging Face",
+    "title": "How Much Memory Does Your Agent Actually Need?",
+    "publish_date": "2026-08-18",
+    "type": "其他",
+    "open_source": "否",
+    "summary": "",
+    "details": "",
+    "url": "https://huggingface.co/blog/ibm-research/altk-evolve-hmm",
+    "tags": "",
+    "created_at": "2026-08-19 02:52:22"
+  },
+  {
+    "id": "rss_https://huggingface.co/blog/multi-vector-encoder",
+    "company": "Hugging Face",
+    "title": "Multi-Vector (Late Interaction) Embedding Models with Sentence Transformers",
+    "publish_date": "2026-08-18",
+    "type": "其他",
+    "open_source": "否",
+    "summary": "",
+    "details": "",
+    "url": "https://huggingface.co/blog/multi-vector-encoder",
+    "tags": "",
+    "created_at": "2026-08-19 02:52:22"
+  },
+  {
+    "id": "rss_https://simonwillison.net/2026/Aug/18/mojo-is-now-open-source/",
+    "company": "Simon Willison",
+    "title": "Mojo🔥 is now open source",
+    "publish_date": "2026-08-18",
+    "type": "其他",
+    "open_source": "否",
+    "summary": "<p><strong><a href=\"https://www.modular.com/blog/mojo-open-source\">Mojo🔥 is now open source</a></strong></p>\nMojo🔥 is now open source</p>\n<p>The Mojo programming language has been promising an open so",
+    "details": "",
+    "url": "https://simonwillison.net/2026/Aug/18/mojo-is-now-open-source/",
+    "tags": "",
+    "created_at": "2026-08-19 02:52:24"
   }
 ]
