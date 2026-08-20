@@ -5263,5 +5263,44 @@
     "url": "https://simonwillison.net/2026/Aug/18/mojo-is-now-open-source/",
     "tags": "",
     "created_at": "2026-08-19 02:52:24"
+  },
+  {
+    "id": "rss_https://openai.com/index/offering-zero-data-retention-for-frontier-models",
+    "company": "OpenAI",
+    "title": "Offering Zero Data Retention for frontier models",
+    "publish_date": "2026-08-19",
+    "type": "其他",
+    "open_source": "否",
+    "summary": "OpenAI reaffirms Zero Data Retention for eligible API customers and previews Private Safety Processing for advanced AI safety without compromising data privacy.",
+    "details": "",
+    "url": "https://openai.com/index/offering-zero-data-retention-for-frontier-models",
+    "tags": "",
+    "created_at": "2026-08-20 02:52:06"
+  },
+  {
+    "id": "rss_https://openai.com/index/replit",
+    "company": "OpenAI",
+    "title": "Replit expands access to software creation with GPT-5.6 Luna",
+    "publish_date": "2026-08-19",
+    "type": "其他",
+    "open_source": "否",
+    "summary": "Replit introduces Free Mode, powered by GPT-5.6 Luna, so anyone can turn ideas into working software without worrying about token costs.",
+    "details": "",
+    "url": "https://openai.com/index/replit",
+    "tags": "",
+    "created_at": "2026-08-20 02:52:06"
+  },
+  {
+    "id": "rss_https://openai.com/index/chatgpt-ads-expands-across-europe",
+    "company": "OpenAI",
+    "title": "ChatGPT Ads expands across Europe",
+    "publish_date": "2026-08-18",
+    "type": "其他",
+    "open_source": "否",
+    "summary": "ChatGPT Ads is expanding to 31 European markets. Learn how advertisers can reach people as they explore, compare options, and make decisions.",
+    "details": "",
+    "url": "https://openai.com/index/chatgpt-ads-expands-across-europe",
+    "tags": "",
+    "created_at": "2026-08-20 02:52:06"
   }
 ]
