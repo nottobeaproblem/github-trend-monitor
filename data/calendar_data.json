@@ -5341,5 +5341,18 @@
     "url": "https://simonwillison.net/2026/Aug/20/bun-webview-json-api/",
     "tags": "",
     "created_at": "2026-08-21 02:57:45"
+  },
+  {
+    "id": "rss_https://deepmind.google/blog/from-atari-to-eve-online-building-on-15-years-of-ai-research-in-games/",
+    "company": "Google DeepMind",
+    "title": "From Atari to EVE Online: Building on 15 Years of AI Research in Games",
+    "publish_date": "2026-08-21",
+    "type": "其他",
+    "open_source": "否",
+    "summary": "Google DeepMind partners with game studios to prototype breakthrough AI gameplay.",
+    "details": "",
+    "url": "https://deepmind.google/blog/from-atari-to-eve-online-building-on-15-years-of-ai-research-in-games/",
+    "tags": "",
+    "created_at": "2026-08-22 02:49:28"
   }
 ]
