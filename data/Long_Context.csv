@@ -31912,3 +31912,63 @@ id,name,description,url,stars,forks,language,topics,created_at,first_seen,is_act
 1343207078,px2ysv789z/XWDxnbkdEq,2022计算机毕设一套 终稿 （论文+程序源代码+数据库+ 答辩PPT）基于SSM的房屋租赁线上交易平台的设计与实现_7cf552db-0649-474a-b74a-5729152f43ff.zip,https://github.com/px2ysv789z/XWDxnbkdEq,0,0,,,2026-08-22T22:19:31Z,2026-08-23,False,Long Context
 1343050437,pq0khqbiue/qNAHUHRRvS,2022软工计算机毕设一套基于SSM+小程序的智慧社区管理系统设计与实现(论文+程序源代码+数据库+安装运行说明) 三稿.zip,https://github.com/pq0khqbiue/qNAHUHRRvS,1,0,,,2026-08-22T18:03:13Z,2026-08-23,False,Long Context
 1343202732,px2ysv789z/RFHtaSBzoo,2022计算机软件工程毕设一套 终稿 （论文+前后端程序源代码+ 数据库+答辩PPT）基于SSM的歌声合成音乐推荐与分享平台_1e05ae3b-890c-449d-bb3a-088f1721b084.zip,https://github.com/px2ysv789z/RFHtaSBzoo,0,0,,,2026-08-22T22:10:02Z,2026-08-23,False,Long Context
+1343325006,SM12X-SOCOM/SM12X-LLM-BENCH,"Click-run SM12X LLM benchmark client: TUI + statistically sampled evals (GSM8K, MMLU-Pro, GPQA, BFCL, NIAH, long-context).",https://github.com/SM12X-SOCOM/SM12X-LLM-BENCH,4,0,Python,,2026-08-23T03:02:12Z,2026-08-24,True,Long Context
+1343704580,simonFelix-Ai/proxy-former,Proxy-Token Transformers for Ultra-Long Contexts and High-Resolution Generative Modeling,https://github.com/simonFelix-Ai/proxy-former,0,0,,,2026-08-23T11:42:28Z,2026-08-24,True,Long Context
+1343970302,laolujava/ox-alpha,"ox-alpha ai llm,A frontier reasoning model for coding, long-context workflows, and agentic work.",https://github.com/laolujava/ox-alpha,0,0,,oxalpha,2026-08-23T16:24:58Z,2026-08-24,True,Long Context
+1343691407,noahdeangelis/RoutingGPT,An experimental GPT architecture using learned token routing to reduce attention cost at long context lengths.,https://github.com/noahdeangelis/RoutingGPT,0,0,Python,"attention,deep-learning,gpt,language-model,llm,machine-learning,pytorch,routing-attention,sparse-attention,transformers",2026-08-23T11:23:06Z,2026-08-24,True,Long Context
+1344213237,The8Darkness/voidinfer,"Native Windows inference engine for Qwen3.8-27B NVFP4 on NVIDIA RTX 5090, with vision, long-context and concurrent agent-workload optimizations.",https://github.com/The8Darkness/voidinfer,0,0,C++,,2026-08-23T20:59:08Z,2026-08-24,True,Long Context
+1344312085,Sojun80/QuantBenchie,"QuantBenchie is an open-source benchmark for measuring behavioral regressions in local LLM variants, including quantized, fine-tuned, merged, and modified models. It compares candidates against a reference model using objective tasks, long-context sessions, answer-class agreement, and reproducible evaluation reports.",https://github.com/Sojun80/QuantBenchie,0,0,Python,,2026-08-23T23:27:56Z,2026-08-24,True,Long Context
+1343338393,SVIL2024/clip-dual-mamba,FD-Mamba,https://github.com/SVIL2024/clip-dual-mamba,0,0,Python,,2026-08-23T03:28:20Z,2026-08-24,True,Long Context
+1343695092,Spellskite-coding/Plague_Mamba_Snake_Game,A snake game written in Python with the skin of Plague Mamba !,https://github.com/Spellskite-coding/Plague_Mamba_Snake_Game,0,0,Python,,2026-08-23T11:28:41Z,2026-08-24,True,Long Context
+1343982659,tudorcoroian17/ssm-mcu-asd-ind,Mamba SSM Anomaly Sound Detection on MCU IND Samples only,https://github.com/tudorcoroian17/ssm-mcu-asd-ind,0,0,Python,,2026-08-23T16:37:11Z,2026-08-24,True,Long Context
+1343972942,bharathvbcr/nanolab,"An instrumented small-LM training lab: attention, Mamba-2, Gated DeltaNet and minGRU mixers behind CLI flags, with chunk-parallel scan kernels, optimizer funnels, and multi-seed ablations reported as intervals.",https://github.com/bharathvbcr/nanolab,0,0,Python,"llm-training,mamba,pytorch,reproducibility",2026-08-23T16:27:49Z,2026-08-24,True,Long Context
+1343904598,CAI-1994/shape-control,"We present a Siamese‑Mamba‑driven sim‑to‑real shape‑control solution for a 7‑DoF integrated TMVR continuum robot, which uses simulation pre‑training and limited real‑robot fine‑tuning to tackle kinematic coupling and sim‑to‑real discrepancy.",https://github.com/CAI-1994/shape-control,0,0,,,2026-08-23T15:15:39Z,2026-08-24,True,Long Context
+1343493535,nihalahmed2423/SSM,,https://github.com/nihalahmed2423/SSM,0,0,,,2026-08-23T07:26:42Z,2026-08-24,True,Long Context
+1344145913,ACHolding/-cat-ssmb14k,$. > PR ,https://github.com/ACHolding/-cat-ssmb14k,0,0,Python,,2026-08-23T19:31:29Z,2026-08-24,True,Long Context
+1343900600,mikalewktertja/ssmbri,,https://github.com/mikalewktertja/ssmbri,0,0,,,2026-08-23T15:11:31Z,2026-08-24,True,Long Context
+1343607242,theosrafipper/ssmqsk,,https://github.com/theosrafipper/ssmqsk,0,0,,,2026-08-23T09:44:54Z,2026-08-24,True,Long Context
+1343498053,ecavendi/ssmpph,,https://github.com/ecavendi/ssmpph,0,0,,,2026-08-23T07:34:39Z,2026-08-24,True,Long Context
+1344437969,knollideo/ssmozd,,https://github.com/knollideo/ssmozd,0,0,,,2026-08-24T02:30:55Z,2026-08-24,True,Long Context
+1344023784,demashow/ssmpfj,,https://github.com/demashow/ssmpfj,0,0,,,2026-08-23T17:17:58Z,2026-08-24,True,Long Context
+1343720806,grohidrowbha/ssmdgx,,https://github.com/grohidrowbha/ssmdgx,0,0,,,2026-08-23T12:01:16Z,2026-08-24,True,Long Context
+1344056656,szwrzselverf/ssmcea,,https://github.com/szwrzselverf/ssmcea,0,0,,,2026-08-23T17:52:37Z,2026-08-24,True,Long Context
+1344080253,allifunbling/ssmtkp,,https://github.com/allifunbling/ssmtkp,0,0,,,2026-08-23T18:17:24Z,2026-08-24,True,Long Context
+1344230176,mikalewktertja/ssmqhe,,https://github.com/mikalewktertja/ssmqhe,0,0,,,2026-08-23T21:22:38Z,2026-08-24,True,Long Context
+1343822301,kingyandude3/ssmcjn,,https://github.com/kingyandude3/ssmcjn,0,0,,,2026-08-23T13:51:12Z,2026-08-24,True,Long Context
+1344359567,edupscovs/ssmnmc,,https://github.com/edupscovs/ssmnmc,0,0,,,2026-08-24T00:41:56Z,2026-08-24,True,Long Context
+1343710476,rj412517/ssmtmc,,https://github.com/rj412517/ssmtmc,0,0,,,2026-08-23T11:50:23Z,2026-08-24,True,Long Context
+1343684605,cmpykuri/ssmqfw,,https://github.com/cmpykuri/ssmqfw,0,0,,,2026-08-23T11:15:02Z,2026-08-24,True,Long Context
+1343554146,jburtin64/ssmgtn,,https://github.com/jburtin64/ssmgtn,0,0,,,2026-08-23T08:41:30Z,2026-08-24,True,Long Context
+1344432523,cmpykuri/ssmnsv,,https://github.com/cmpykuri/ssmnsv,0,0,,,2026-08-24T02:24:08Z,2026-08-24,True,Long Context
+1343980862,saikajaz-win/ssmoem,,https://github.com/saikajaz-win/ssmoem,0,0,,,2026-08-23T16:35:37Z,2026-08-24,True,Long Context
+1343515384,mashiva/ssmpsj,,https://github.com/mashiva/ssmpsj,0,0,,,2026-08-23T07:59:02Z,2026-08-24,True,Long Context
+1343992555,theosrafipper/ssmmgg,,https://github.com/theosrafipper/ssmmgg,0,0,,,2026-08-23T16:46:21Z,2026-08-24,True,Long Context
+1343675642,andyerriwn/ssmcsl,,https://github.com/andyerriwn/ssmcsl,0,0,,,2026-08-23T11:05:28Z,2026-08-24,True,Long Context
+1344163742,musdeal08/ssmfin,,https://github.com/musdeal08/ssmfin,0,0,,,2026-08-23T19:53:44Z,2026-08-24,True,Long Context
+1343726466,2vYxlOm3aDZ56/ssmcgd,,https://github.com/2vYxlOm3aDZ56/ssmcgd,0,0,,,2026-08-23T12:06:55Z,2026-08-24,True,Long Context
+1343562987,may6ixSong/SSM_WEB,,https://github.com/may6ixSong/SSM_WEB,0,0,TypeScript,,2026-08-23T08:53:16Z,2026-08-24,True,Long Context
+1344085388,mysocalledmike/ssms-scheduler,A simple app that makes SSMS schedules look better,https://github.com/mysocalledmike/ssms-scheduler,0,0,JavaScript,,2026-08-23T18:22:45Z,2026-08-24,True,Long Context
+1343698292,patrickpeterson490754901/sgwi1ssmju,,https://github.com/patrickpeterson490754901/sgwi1ssmju,0,0,Shell,,2026-08-23T11:33:12Z,2026-08-24,True,Long Context
+1343570052,Windyhhh/HDFS-Cloud-Disk-SSM,"?? Distributed cloud disk system with SSM (Spring+SpringMVC+MyBatis) + Apache HDFS - user management, file upload/download, JSP dashboard | SSM??+HDFS???????",https://github.com/Windyhhh/HDFS-Cloud-Disk-SSM,0,0,Java,,2026-08-23T09:03:33Z,2026-08-24,True,Long Context
+1343612481,schwartz-lab-NLP/ssm-vs-transformer-geometry,,https://github.com/schwartz-lab-NLP/ssm-vs-transformer-geometry,0,0,Python,,2026-08-23T09:50:11Z,2026-08-24,True,Long Context
+1344457784,arvindcr4/19-ssm-linear-attention,A Toy State-Space / Linear-Attention Model — project 19/34 of the step-by-step LLM engineering roadmap,https://github.com/arvindcr4/19-ssm-linear-attention,0,0,,,2026-08-24T02:55:21Z,2026-08-24,True,Long Context
+1343930781,Ethan-zhujianhao/CHSI-SHyRe,CHSI-SHyRe: candidate-conditioned Graph-to-Hypergraph Support with Selective SSM for supervised hypergraph reconstruction.,https://github.com/Ethan-zhujianhao/CHSI-SHyRe,0,0,Python,,2026-08-23T15:45:07Z,2026-08-24,True,Long Context
+1344148553,Gabriel-Luigi/aws-secure-network-project,"Hands-on project implementing a secure AWS network: private VPC, EC2 without public IP, and VPC Interface/Gateway endpoints enabling IAM-authenticated access via SSM Session Manager.",https://github.com/Gabriel-Luigi/aws-secure-network-project,0,0,,,2026-08-23T19:34:46Z,2026-08-24,True,Long Context
+1344065575,pq0khqbiue/MKGjRobxxq,2022计算机毕设一套 ssm网上心理咨询系(论文+程序源代码+数据库).zip,https://github.com/pq0khqbiue/MKGjRobxxq,1,0,,,2026-08-23T18:01:12Z,2026-08-24,True,Long Context
+1344071968,pq0khqbiue/PceyvtgWgP,2023计算机毕设一套 ssm勤工助学管理系统(论文+程序源代码+数据库).zip,https://github.com/pq0khqbiue/PceyvtgWgP,1,0,,,2026-08-23T18:08:22Z,2026-08-24,True,Long Context
+1344072940,l74o61eg98/QFEfFvpCdy,2023计算机毕设一套 ssm校园新闻管理系统(论文+程序源代码+数据库).zip,https://github.com/l74o61eg98/QFEfFvpCdy,1,0,,,2026-08-23T18:09:32Z,2026-08-24,True,Long Context
+1344063196,pq0khqbiue/KTvpEgpBjr,2021云计算机毕设一套 ssm公益活动管理系统(论文+程序源代码+数据库).zip,https://github.com/pq0khqbiue/KTvpEgpBjr,1,0,,,2026-08-23T17:58:54Z,2026-08-24,True,Long Context
+1344062095,pq0khqbiue/EKFqDqRxek,2021云计算机毕设一套 ssm服装企业库存管理系统(论文+程序源代码+数据库).zip,https://github.com/pq0khqbiue/EKFqDqRxek,1,0,,,2026-08-23T17:57:48Z,2026-08-24,True,Long Context
+1343695154,l74o61eg98/SdbEUVOnEY,2022计算机毕设一套（论文+程序源代码+数据库）基于SSM框架的相册系统的照片资源模块d7aec4838be94b29a244321103df322d.zip,https://github.com/l74o61eg98/SdbEUVOnEY,1,0,,,2026-08-23T11:28:46Z,2026-08-24,True,Long Context
+1343636537,q015r4obh2/wuHDwgCfYb,2022计算机毕设一套 终稿 （论文+程序源代码+数据库）基于SSM框架的在线考试系统_bbc5767d-12dc-480a-845f-ce178ddb253d.zip,https://github.com/q015r4obh2/wuHDwgCfYb,1,0,,,2026-08-23T10:22:26Z,2026-08-24,True,Long Context
+1343329101,vo54ftydas/OSEVtxrNtX,2022计算机毕设一套 终稿 基于SSM的房屋租赁系统的设计与实现_7（论文+前后端程序源代码）d.zip,https://github.com/vo54ftydas/OSEVtxrNtX,1,0,,,2026-08-23T03:10:06Z,2026-08-24,True,Long Context
+1343709749,nib82096oz/AVgBeOxSgj,2022软件工程计算机毕设一套（论文+程序源代码+数据库）_基于SSM框架的相册系统的前端页面6db9b1c58e504335b0759beb4ad1a41a.zip,https://github.com/nib82096oz/AVgBeOxSgj,1,0,,,2026-08-23T11:49:37Z,2026-08-24,True,Long Context
+1343328336,vo54ftydas/kDenGkIewx,2022计算机毕设一套 终稿 基于SSM的房屋租赁系统的设计与实现_7（论文+前后端程序源代码）d.zip,https://github.com/vo54ftydas/kDenGkIewx,1,0,,,2026-08-23T03:08:56Z,2026-08-24,True,Long Context
+1343332046,vo54ftydas/NAMfZAPtyA,2022计算机毕设一套 终稿 （论文+前后端程序源代码+数据库）基于ssm的漫画阅读系统_d6c2c395-86d8-4fc9-ac0b-6b2de67cff5d.zip,https://github.com/vo54ftydas/NAMfZAPtyA,1,0,,,2026-08-23T03:14:40Z,2026-08-24,True,Long Context
+1343362028,ibislon/LLXCvHoWJD,2022计算机毕设一套 终稿 （论文+程序源代码）基于SSM框架的图书商城的设计与实现_b471b6e3-7fba-4189-953f-1d81029ca524.zip,https://github.com/ibislon/LLXCvHoWJD,1,0,,,2026-08-23T04:15:24Z,2026-08-24,True,Long Context
+1343707222,nib82096oz/nBnqYBbQIq,2022计算机毕设一套（论文+程序源代码+数据库）_基于SSM框架的相册系统的总体设计和框架搭建e2f8b8ed788244959035ada2f935d181.zip,https://github.com/nib82096oz/nBnqYBbQIq,1,0,,,2026-08-23T11:46:17Z,2026-08-24,True,Long Context
+1343695847,l74o61eg98/jAIRgrCeju,2022计算机毕设一套（论文+程序源代码+数据库）基于SSM框架的相册系统的相册创建模块和照片上传模块34d5ddf34f894cd79e5d33a778da62df.zip,https://github.com/l74o61eg98/jAIRgrCeju,1,0,,,2026-08-23T11:29:52Z,2026-08-24,True,Long Context
+1343659126,pq0khqbiue/uSeTeoTeCx,2022计算机毕设一套 终稿 （论文+程序源代码+数据库）基于SSM的果蔬销售商城管理系统的设计与实现_9a6fe2c2-d8d8-4240-a41e-798c2b3104af.zip,https://github.com/pq0khqbiue/uSeTeoTeCx,1,0,,,2026-08-23T10:47:58Z,2026-08-24,True,Long Context
+1343710806,nib82096oz/ZUJsOijOlX,2022软件工程计算机毕设一套（论文+程序源代码+数据库）基于SSM框架的相册系统的数据库设计和用户管理模块80f98ffc293a41d084d9c097c41052fc.zip,https://github.com/nib82096oz/ZUJsOijOlX,1,0,,,2026-08-23T11:50:43Z,2026-08-24,True,Long Context
+1344009329,q015r4obh2/HsLcCpoGLY,2023软工计算机毕设一套 维普20%  基于SSM框架的智慧社区信息管理系统的设计与实现（论文+中期+程序源代码+数据库+说明）.zip,https://github.com/q015r4obh2/HsLcCpoGLY,1,0,,,2026-08-23T17:02:52Z,2026-08-24,True,Long Context
+1343824469,ssm123ssm/MEDAC_poster,Sequential Bayesian assurance for adaptive data collection in mechanistic state-space models,https://github.com/ssm123ssm/MEDAC_poster,0,0,HTML,,2026-08-23T13:53:19Z,2026-08-24,True,Long Context
