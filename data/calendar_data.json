@@ -5367,5 +5367,18 @@
     "url": "https://simonwillison.net/2026/Aug/23/anthropics-best-ai-model-struggles-to-attract-users-as-cheaper-t/",
     "tags": "",
     "created_at": "2026-08-24 02:58:24"
+  },
+  {
+    "id": "rss_https://openai.com/index/gpt-5-6-in-kiro",
+    "company": "OpenAI",
+    "title": "Advancing price-performance for developers with GPT‑5.6 in Kiro",
+    "publish_date": "2026-08-24",
+    "type": "其他",
+    "open_source": "否",
+    "summary": "GPT‑5.6 is now available in Kiro, helping developers plan, build, review, and test software with better price-performance.",
+    "details": "",
+    "url": "https://openai.com/index/gpt-5-6-in-kiro",
+    "tags": "",
+    "created_at": "2026-08-25 02:53:42"
   }
 ]
