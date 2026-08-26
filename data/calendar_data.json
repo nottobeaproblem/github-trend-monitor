@@ -5380,5 +5380,31 @@
     "url": "https://openai.com/index/gpt-5-6-in-kiro",
     "tags": "",
     "created_at": "2026-08-25 02:53:42"
+  },
+  {
+    "id": "rss_https://openai.com/index/introducing-admin-plugin",
+    "company": "OpenAI",
+    "title": "Introducing the Admin plugin for ChatGPT Work and Codex",
+    "publish_date": "2026-08-25",
+    "type": "其他",
+    "open_source": "否",
+    "summary": "Use the Admin plugin for ChatGPT Work and Codex to analyze workspace usage, manage members and permissions, adjust limits, and act on admin requests.",
+    "details": "",
+    "url": "https://openai.com/index/introducing-admin-plugin",
+    "tags": "",
+    "created_at": "2026-08-26 02:59:45"
+  },
+  {
+    "id": "rss_https://huggingface.co/blog/MultiverseComputingCAI/quantization-aware-healing",
+    "company": "Hugging Face",
+    "title": "Quantization-Aware Healing: a compressed, 4-bit model that outperforms its full-precision original",
+    "publish_date": "2026-08-25",
+    "type": "其他",
+    "open_source": "否",
+    "summary": "",
+    "details": "",
+    "url": "https://huggingface.co/blog/MultiverseComputingCAI/quantization-aware-healing",
+    "tags": "",
+    "created_at": "2026-08-26 02:59:46"
   }
 ]
