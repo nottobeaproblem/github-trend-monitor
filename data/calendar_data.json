@@ -5406,5 +5406,57 @@
     "url": "https://huggingface.co/blog/MultiverseComputingCAI/quantization-aware-healing",
     "tags": "",
     "created_at": "2026-08-26 02:59:46"
+  },
+  {
+    "id": "rss_https://openai.com/index/bringing-chatgpt-for-teachers-to-more-us-school-districts",
+    "company": "OpenAI",
+    "title": "Bringing ChatGPT for Teachers to more U.S. school districts",
+    "publish_date": "2026-08-26",
+    "type": "其他",
+    "open_source": "否",
+    "summary": "ChatGPT for Teachers is expanding to 55 U.S. school systems, bringing secure AI tools, training, and support to over 100,000 more educators and staff.",
+    "details": "",
+    "url": "https://openai.com/index/bringing-chatgpt-for-teachers-to-more-us-school-districts",
+    "tags": "",
+    "created_at": "2026-08-27 12:11:43"
+  },
+  {
+    "id": "rss_https://deepmind.google/blog/intelligent-transcription-with-gemini-3-5-transcribe/",
+    "company": "Google DeepMind",
+    "title": "Intelligent transcription with Gemini 3.5 Transcribe",
+    "publish_date": "2026-08-26",
+    "type": "其他",
+    "open_source": "否",
+    "summary": "Now you can get more intelligent speech-to-text transcription with Gemini 3.5 Transcribe.",
+    "details": "",
+    "url": "https://deepmind.google/blog/intelligent-transcription-with-gemini-3-5-transcribe/",
+    "tags": "",
+    "created_at": "2026-08-27 12:11:43"
+  },
+  {
+    "id": "rss_https://huggingface.co/blog/train-multi-vector-encoder",
+    "company": "Hugging Face",
+    "title": "Training and Finetuning Multi-Vector Embedding Models with Sentence Transformers",
+    "publish_date": "2026-08-26",
+    "type": "其他",
+    "open_source": "否",
+    "summary": "",
+    "details": "",
+    "url": "https://huggingface.co/blog/train-multi-vector-encoder",
+    "tags": "",
+    "created_at": "2026-08-27 12:11:44"
+  },
+  {
+    "id": "rss_https://simonwillison.net/2026/Aug/26/qwen38-flash-next/",
+    "company": "Simon Willison",
+    "title": "Qwen3.8-Flash-Next",
+    "publish_date": "2026-08-26",
+    "type": "其他",
+    "open_source": "否",
+    "summary": "<p><strong><a href=\"https://qwen.ai/blog?id=qwen3.8-flash-next\">Qwen3.8-Flash-Next</a></strong></p>\nAnother open weights model from Qwen. This one is \"a multimodal MoE model that also serves as an ear",
+    "details": "",
+    "url": "https://simonwillison.net/2026/Aug/26/qwen38-flash-next/",
+    "tags": "",
+    "created_at": "2026-08-27 12:11:46"
   }
 ]
