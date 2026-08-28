@@ -5458,5 +5458,44 @@
     "url": "https://simonwillison.net/2026/Aug/26/qwen38-flash-next/",
     "tags": "",
     "created_at": "2026-08-27 12:11:46"
+  },
+  {
+    "id": "rss_https://openai.com/index/what-students-gain-from-chatgpt-critical-thinking-training",
+    "company": "OpenAI",
+    "title": "Better answers, broader thinking: What students gain from ChatGPT and critical-thinking training",
+    "publish_date": "2026-08-27",
+    "type": "其他",
+    "open_source": "否",
+    "summary": "A randomized study of more than 1,000 students examines ChatGPT, critical thinking, originality, and student performance on a real-world university assignment.",
+    "details": "",
+    "url": "https://openai.com/index/what-students-gain-from-chatgpt-critical-thinking-training",
+    "tags": "",
+    "created_at": "2026-08-28 13:34:34"
+  },
+  {
+    "id": "rss_https://deepmind.google/blog/gemini-omni-1-1-flash-lets-you-build-with-more-control/",
+    "company": "Google DeepMind",
+    "title": "Gemini Omni 1.1 Flash lets you build with more control",
+    "publish_date": "2026-08-27",
+    "type": "其他",
+    "open_source": "否",
+    "summary": "",
+    "details": "",
+    "url": "https://deepmind.google/blog/gemini-omni-1-1-flash-lets-you-build-with-more-control/",
+    "tags": "",
+    "created_at": "2026-08-28 13:34:34"
+  },
+  {
+    "id": "rss_https://simonwillison.net/2026/Aug/27/breaking-claude-code-opus-5-auto-mode/",
+    "company": "Simon Willison",
+    "title": "Breaking Claude Code Opus 5 Auto Mode",
+    "publish_date": "2026-08-27",
+    "type": "其他",
+    "open_source": "否",
+    "summary": "<p><strong><a href=\"https://embracethered.com/blog/posts/2026/breaking-claude-code-opus-5-and-automode/\">Breaking Claude Code Opus 5 Auto Mode</a></strong></p>\nAnthropic are putting a great deal of fa",
+    "details": "",
+    "url": "https://simonwillison.net/2026/Aug/27/breaking-claude-code-opus-5-auto-mode/",
+    "tags": "",
+    "created_at": "2026-08-28 13:34:38"
   }
 ]
