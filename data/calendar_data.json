@@ -5497,5 +5497,18 @@
     "url": "https://simonwillison.net/2026/Aug/27/breaking-claude-code-opus-5-auto-mode/",
     "tags": "",
     "created_at": "2026-08-28 13:34:38"
+  },
+  {
+    "id": "rss_https://simonwillison.net/2026/Aug/30/understanding-chatgpt-work/",
+    "company": "Simon Willison",
+    "title": "Understanding ChatGPT Work",
+    "publish_date": "2026-08-30",
+    "type": "其他",
+    "open_source": "否",
+    "summary": "<p>OpenAI <a href=\"https://openai.com/index/chatgpt-for-your-most-ambitious-work/\">announced ChatGPT Work</a> on July 9th, and have been furiously iterating on it ever since. It is an extraordinarily ",
+    "details": "",
+    "url": "https://simonwillison.net/2026/Aug/30/understanding-chatgpt-work/",
+    "tags": "",
+    "created_at": "2026-08-31 07:55:17"
   }
 ]
