@@ -5510,5 +5510,18 @@
     "url": "https://simonwillison.net/2026/Aug/30/understanding-chatgpt-work/",
     "tags": "",
     "created_at": "2026-08-31 07:55:17"
+  },
+  {
+    "id": "rss_",
+    "company": "Microsoft Research",
+    "title": "GigaPath-Flash and GigaTIME-Flash: Toward population-scale discovery with efficient pathology foundation models",
+    "publish_date": "2026-08-31",
+    "type": "其他",
+    "open_source": "否",
+    "summary": "<p>What if pathology foundation models could do more with less? GigaPath-Flash and GigaTIME-Flash cut computational demands while maintaining strong performance, opening the door to larger studies and",
+    "details": "",
+    "url": "https://www.microsoft.com/en-us/research/blog/gigapath-flash-and-gigatime-flash-toward-population-scale-discovery-with-efficient-pathology-foundation-models/",
+    "tags": "",
+    "created_at": "2026-09-01 07:00:42"
   }
 ]
