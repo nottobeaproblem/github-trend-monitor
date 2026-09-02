@@ -5523,5 +5523,57 @@
     "url": "https://www.microsoft.com/en-us/research/blog/gigapath-flash-and-gigatime-flash-toward-population-scale-discovery-with-efficient-pathology-foundation-models/",
     "tags": "",
     "created_at": "2026-09-01 07:00:42"
+  },
+  {
+    "id": "rss_https://openai.com/index/chatgpt-connects-health-records-and-healthcare-sources",
+    "company": "OpenAI",
+    "title": "Healthcare organizations can now connect EHR and additional industry data to ChatGPT",
+    "publish_date": "2026-09-01",
+    "type": "其他",
+    "open_source": "否",
+    "summary": "ChatGPT can now connect to trusted healthcare data, helping clinicians securely access patient context, medical research, and more.",
+    "details": "",
+    "url": "https://openai.com/index/chatgpt-connects-health-records-and-healthcare-sources",
+    "tags": "",
+    "created_at": "2026-09-02 06:39:44"
+  },
+  {
+    "id": "rss_https://deepmind.google/blog/introducing-agentic-video-in-gemini/",
+    "company": "Google DeepMind",
+    "title": "Introducing agentic video understanding with Gemini",
+    "publish_date": "2026-09-01",
+    "type": "其他",
+    "open_source": "否",
+    "summary": "",
+    "details": "",
+    "url": "https://deepmind.google/blog/introducing-agentic-video-in-gemini/",
+    "tags": "",
+    "created_at": "2026-09-02 06:39:44"
+  },
+  {
+    "id": "rss_https://simonwillison.net/2026/Sep/1/claude-fable-5-1/",
+    "company": "Simon Willison",
+    "title": "Claude Fable 5.1 made me a really nice animated pelican",
+    "publish_date": "2026-09-01",
+    "type": "其他",
+    "open_source": "否",
+    "summary": "<p>Today is <a href=\"https://www.anthropic.com/claude-fable-and-mythos-5-1\">Claude Fable (and Mythos) 5.1 day</a>. Anthropic say that Fable 5.1 \"sets a new standard for coding, knowledge work, and lon",
+    "details": "",
+    "url": "https://simonwillison.net/2026/Sep/1/claude-fable-5-1/",
+    "tags": "",
+    "created_at": "2026-09-02 06:39:47"
+  },
+  {
+    "id": "rss_https://simonwillison.net/2026/Sep/1/datasette-mcp/",
+    "company": "Simon Willison",
+    "title": "datasette-mcp 0.2",
+    "publish_date": "2026-09-01",
+    "type": "其他",
+    "open_source": "否",
+    "summary": "<p><strong>Release:</strong> <a href=\"https://github.com/datasette/datasette-mcp/releases/tag/0.2\">datasette-mcp 0.2</a></p>\n        <blockquote>\n<ul>\n<li><code>\"rows\"</code> from <code>execute_sql</c",
+    "details": "",
+    "url": "https://simonwillison.net/2026/Sep/1/datasette-mcp/",
+    "tags": "",
+    "created_at": "2026-09-02 06:39:47"
   }
 ]
