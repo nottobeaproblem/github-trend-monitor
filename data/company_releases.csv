@@ -622,3 +622,11 @@ rss_https://simonwillison.net/2026/Sep/1/datasette-mcp/,Simon Willison,datasette
         <blockquote>
 <ul>
 <li><code>""rows""</code> from <code>execute_sql</c",,https://simonwillison.net/2026/Sep/1/datasette-mcp/,,2026-09-02 06:39:47
+rss_https://openai.com/index/atv-big-air-tour,OpenAI,ATV Big Air Tour turned 3 days of work into 3 hours with ChatGPT,2026-09-02,其他,否,"ATV Big Air Tour uses ChatGPT Work to speed up marketing, merchandising, and more. It even turned merchandise photos into an inventory website in 15 minutes.",,https://openai.com/index/atv-big-air-tour,,2026-09-03 06:42:29
+rss_https://deepmind.google/blog/introducing-gemini-3-8-flash-and-38-flash-cyber/,Google DeepMind,Introducing Gemini 3.8 Flash and 3.8 Flash Cyber,2026-09-02,其他,否,,,https://deepmind.google/blog/introducing-gemini-3-8-flash-and-38-flash-cyber/,,2026-09-03 06:42:29
+rss_https://huggingface.co/blog/ibm-research/real-time-intelligence,Hugging Face,Real-Time Intelligence with IBM Time Series Models on Confluent,2026-09-02,其他,否,,,https://huggingface.co/blog/ibm-research/real-time-intelligence,,2026-09-03 06:42:31
+rss_https://simonwillison.net/2026/Sep/2/llm-gemini/,Simon Willison,llm-gemini 0.34,2026-09-02,其他,否,"<p><strong>Release:</strong> <a href=""https://github.com/simonw/llm-gemini/releases/tag/0.34"">llm-gemini 0.34</a></p>
+        <blockquote>
+<ul>
+<li>New model <code>gemini-3.8-flash</code> for <a href=",,https://simonwillison.net/2026/Sep/2/llm-gemini/,,2026-09-03 06:42:32
+rss_https://simonwillison.net/2026/Sep/2/claudes-new-system-prompt/,Simon Willison,Claude's new system prompt really doesn't want to reproduce song lyrics,2026-09-02,其他,否,"<p>Anthropic <a href=""https://platform.claude.com/docs/en/release-notes/system-prompts/overview"">publish the system prompts</a> for their Claude consumer applications (<a href=""https://claude.ai/"">Cla",,https://simonwillison.net/2026/Sep/2/claudes-new-system-prompt/,,2026-09-03 06:42:32

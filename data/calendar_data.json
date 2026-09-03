@@ -5575,5 +5575,70 @@
     "url": "https://simonwillison.net/2026/Sep/1/datasette-mcp/",
     "tags": "",
     "created_at": "2026-09-02 06:39:47"
+  },
+  {
+    "id": "rss_https://openai.com/index/atv-big-air-tour",
+    "company": "OpenAI",
+    "title": "ATV Big Air Tour turned 3 days of work into 3 hours with ChatGPT",
+    "publish_date": "2026-09-02",
+    "type": "其他",
+    "open_source": "否",
+    "summary": "ATV Big Air Tour uses ChatGPT Work to speed up marketing, merchandising, and more. It even turned merchandise photos into an inventory website in 15 minutes.",
+    "details": "",
+    "url": "https://openai.com/index/atv-big-air-tour",
+    "tags": "",
+    "created_at": "2026-09-03 06:42:29"
+  },
+  {
+    "id": "rss_https://deepmind.google/blog/introducing-gemini-3-8-flash-and-38-flash-cyber/",
+    "company": "Google DeepMind",
+    "title": "Introducing Gemini 3.8 Flash and 3.8 Flash Cyber",
+    "publish_date": "2026-09-02",
+    "type": "其他",
+    "open_source": "否",
+    "summary": "",
+    "details": "",
+    "url": "https://deepmind.google/blog/introducing-gemini-3-8-flash-and-38-flash-cyber/",
+    "tags": "",
+    "created_at": "2026-09-03 06:42:29"
+  },
+  {
+    "id": "rss_https://huggingface.co/blog/ibm-research/real-time-intelligence",
+    "company": "Hugging Face",
+    "title": "Real-Time Intelligence with IBM Time Series Models on Confluent",
+    "publish_date": "2026-09-02",
+    "type": "其他",
+    "open_source": "否",
+    "summary": "",
+    "details": "",
+    "url": "https://huggingface.co/blog/ibm-research/real-time-intelligence",
+    "tags": "",
+    "created_at": "2026-09-03 06:42:31"
+  },
+  {
+    "id": "rss_https://simonwillison.net/2026/Sep/2/llm-gemini/",
+    "company": "Simon Willison",
+    "title": "llm-gemini 0.34",
+    "publish_date": "2026-09-02",
+    "type": "其他",
+    "open_source": "否",
+    "summary": "<p><strong>Release:</strong> <a href=\"https://github.com/simonw/llm-gemini/releases/tag/0.34\">llm-gemini 0.34</a></p>\n        <blockquote>\n<ul>\n<li>New model <code>gemini-3.8-flash</code> for <a href=",
+    "details": "",
+    "url": "https://simonwillison.net/2026/Sep/2/llm-gemini/",
+    "tags": "",
+    "created_at": "2026-09-03 06:42:32"
+  },
+  {
+    "id": "rss_https://simonwillison.net/2026/Sep/2/claudes-new-system-prompt/",
+    "company": "Simon Willison",
+    "title": "Claude's new system prompt really doesn't want to reproduce song lyrics",
+    "publish_date": "2026-09-02",
+    "type": "其他",
+    "open_source": "否",
+    "summary": "<p>Anthropic <a href=\"https://platform.claude.com/docs/en/release-notes/system-prompts/overview\">publish the system prompts</a> for their Claude consumer applications (<a href=\"https://claude.ai/\">Cla",
+    "details": "",
+    "url": "https://simonwillison.net/2026/Sep/2/claudes-new-system-prompt/",
+    "tags": "",
+    "created_at": "2026-09-03 06:42:32"
   }
 ]
