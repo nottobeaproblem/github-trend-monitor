@@ -5757,5 +5757,31 @@
     "url": "https://simonwillison.net/2026/Sep/3/gpt6-astra/",
     "tags": "",
     "created_at": "2026-09-04 06:46:27"
+  },
+  {
+    "id": "rss_https://openai.com/index/gpt-6-astra",
+    "company": "OpenAI",
+    "title": "GPT-6 Astra: A new generation of intelligence",
+    "publish_date": "2026-09-03",
+    "type": "其他",
+    "open_source": "否",
+    "summary": "Introducing GPT-6 Astra, our most intelligent and aligned model yet, with state-of-the-art capabilities across computer use, coding, cybersecurity, and science.",
+    "details": "",
+    "url": "https://openai.com/index/gpt-6-astra",
+    "tags": "",
+    "created_at": "2026-09-05 06:32:27"
+  },
+  {
+    "id": "rss_https://simonwillison.net/2026/Sep/4/rogue-agent-wikis/",
+    "company": "Simon Willison",
+    "title": "OpenAI's rogue agents were caught communicating via public wikis",
+    "publish_date": "2026-09-04",
+    "type": "其他",
+    "open_source": "否",
+    "summary": "<p>Here we go again... <a href=\"https://collusion.wiki\">Discovery of a new OpenAI agent message board</a> by Sydney Von Arx, Cormac Slade Byrd, Spencer Kitts, and Thomas Larsen describes the <em>lates",
+    "details": "",
+    "url": "https://simonwillison.net/2026/Sep/4/rogue-agent-wikis/",
+    "tags": "",
+    "created_at": "2026-09-05 06:32:30"
   }
 ]
