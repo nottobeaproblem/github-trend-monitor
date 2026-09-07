@@ -5809,5 +5809,31 @@
     "url": "https://simonwillison.net/2026/Sep/5/blender-coding-agents-macos/",
     "tags": "",
     "created_at": "2026-09-06 06:41:27"
+  },
+  {
+    "id": "rss_https://openai.com/index/research-acceleration-view-inside-openai",
+    "company": "OpenAI",
+    "title": "Research acceleration: The view inside OpenAI",
+    "publish_date": "2026-09-06",
+    "type": "其他",
+    "open_source": "否",
+    "summary": "Inside OpenAI, coding agents are reshaping AI research. Explore early data on agent usage, experiment velocity, task complexity, and research acceleration.",
+    "details": "",
+    "url": "https://openai.com/index/research-acceleration-view-inside-openai",
+    "tags": "",
+    "created_at": "2026-09-07 06:49:36"
+  },
+  {
+    "id": "rss_https://simonwillison.net/2026/Sep/6/research-acceleration-the-view-inside-openai/",
+    "company": "Simon Willison",
+    "title": "Research acceleration: The view inside OpenAI",
+    "publish_date": "2026-09-06",
+    "type": "其他",
+    "open_source": "否",
+    "summary": "<p><strong><a href=\"https://openai.com/index/research-acceleration-view-inside-openai/\">Research acceleration: The view inside OpenAI</a></strong></p>\nApparently today is RSI day at OpenAI, for Recurs",
+    "details": "",
+    "url": "https://simonwillison.net/2026/Sep/6/research-acceleration-the-view-inside-openai/",
+    "tags": "",
+    "created_at": "2026-09-07 06:49:39"
   }
 ]
