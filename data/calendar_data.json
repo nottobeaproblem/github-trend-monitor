@@ -5835,5 +5835,57 @@
     "url": "https://simonwillison.net/2026/Sep/6/research-acceleration-the-view-inside-openai/",
     "tags": "",
     "created_at": "2026-09-07 06:49:39"
+  },
+  {
+    "id": "rss_https://openai.com/index/codex-quantum-computing-experiments",
+    "company": "OpenAI",
+    "title": "How GPT-5.6 Sol helps run quantum computing experiments",
+    "publish_date": "2026-09-08",
+    "type": "其他",
+    "open_source": "否",
+    "summary": "See how an MIT researcher uses GPT-5.6 Sol with Codex to autonomously run quantum computing experiments, analyze results, and calibrate qubits.",
+    "details": "",
+    "url": "https://openai.com/index/codex-quantum-computing-experiments",
+    "tags": "",
+    "created_at": "2026-09-09 06:55:49"
+  },
+  {
+    "id": "rss_https://openai.com/index/introducing-chatgpt-images-2-5",
+    "company": "OpenAI",
+    "title": "Introducing ChatGPT Images 2.5",
+    "publish_date": "2026-09-08",
+    "type": "其他",
+    "open_source": "否",
+    "summary": "ChatGPT Images 2.5 helps turn your ideas, sketches, and reference photos into more personalized, polished images that better reflect your ideas.",
+    "details": "",
+    "url": "https://openai.com/index/introducing-chatgpt-images-2-5",
+    "tags": "",
+    "created_at": "2026-09-09 06:55:49"
+  },
+  {
+    "id": "rss_https://openai.com/index/teen-development-research-grants",
+    "company": "OpenAI",
+    "title": "Funding grants for new research into AI and teen development",
+    "publish_date": "2026-09-08",
+    "type": "其他",
+    "open_source": "否",
+    "summary": "Apply now for OpenAI’s $5 million grant program supporting independent research on how generative AI affects teen development, well-being, and safety.",
+    "details": "",
+    "url": "https://openai.com/index/teen-development-research-grants",
+    "tags": "",
+    "created_at": "2026-09-09 06:55:49"
+  },
+  {
+    "id": "rss_https://simonwillison.net/2026/Sep/8/introducing-chatgpt-images-25/",
+    "company": "Simon Willison",
+    "title": "Introducing ChatGPT Images 2.5",
+    "publish_date": "2026-09-08",
+    "type": "其他",
+    "open_source": "否",
+    "summary": "<p><strong><a href=\"https://openai.com/index/introducing-chatgpt-images-2-5/\">Introducing ChatGPT Images 2.5</a></strong></p>\nOpenAI's image generation models are apparently used \"more than 3 billion ",
+    "details": "",
+    "url": "https://simonwillison.net/2026/Sep/8/introducing-chatgpt-images-25/",
+    "tags": "",
+    "created_at": "2026-09-09 06:55:52"
   }
 ]
