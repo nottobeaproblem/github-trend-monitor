@@ -5887,5 +5887,44 @@
     "url": "https://simonwillison.net/2026/Sep/8/introducing-chatgpt-images-25/",
     "tags": "",
     "created_at": "2026-09-09 06:55:52"
+  },
+  {
+    "id": "rss_https://openai.com/index/gpt-6-astra-next-generation-work",
+    "company": "OpenAI",
+    "title": "GPT-6 Astra: The next generation in intelligence for work",
+    "publish_date": "2026-09-09",
+    "type": "其他",
+    "open_source": "否",
+    "summary": "Meet GPT-6 Astra, OpenAI’s most capable model for business, with advanced reasoning, computer use, and stronger writing and design judgment.",
+    "details": "",
+    "url": "https://openai.com/index/gpt-6-astra-next-generation-work",
+    "tags": "",
+    "created_at": "2026-09-10 06:52:12"
+  },
+  {
+    "id": "rss_https://huggingface.co/blog/ibm-research/ibm-releases-sota-granite-time-series",
+    "company": "Hugging Face",
+    "title": "IBM releases SOTA Granite Time Series PatchTST-FM-r2 model with commercial-friendly license",
+    "publish_date": "2026-09-09",
+    "type": "其他",
+    "open_source": "否",
+    "summary": "",
+    "details": "",
+    "url": "https://huggingface.co/blog/ibm-research/ibm-releases-sota-granite-time-series",
+    "tags": "",
+    "created_at": "2026-09-10 06:52:14"
+  },
+  {
+    "id": "rss_https://simonwillison.net/2026/Sep/10/calif-research/",
+    "company": "Simon Willison",
+    "title": "Quoting Calif Research",
+    "publish_date": "2026-09-10",
+    "type": "其他",
+    "open_source": "否",
+    "summary": "<blockquote cite=\"https://calif.io/research/weworm\"><p>Today, we're releasing a demo of WeWorm, the first zero-click worm to spread through WeChat calls across iOS and Android. [...]</p>\n<p>The victim",
+    "details": "",
+    "url": "https://simonwillison.net/2026/Sep/10/calif-research/",
+    "tags": "",
+    "created_at": "2026-09-10 06:52:15"
   }
 ]
