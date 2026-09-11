@@ -5926,5 +5926,70 @@
     "url": "https://simonwillison.net/2026/Sep/10/calif-research/",
     "tags": "",
     "created_at": "2026-09-10 06:52:15"
+  },
+  {
+    "id": "rss_https://openai.com/index/using-codex-chatgpt-to-search-for-new-antimicrobials",
+    "company": "OpenAI",
+    "title": "How a researcher uses Codex and ChatGPT to search for new antimicrobial molecules",
+    "publish_date": "2026-09-10",
+    "type": "其他",
+    "open_source": "否",
+    "summary": "César de la Fuente’s lab uses Codex and ChatGPT to search living and extinct genomes for antimicrobial candidates to fight drug-resistant infections.",
+    "details": "",
+    "url": "https://openai.com/index/using-codex-chatgpt-to-search-for-new-antimicrobials",
+    "tags": "",
+    "created_at": "2026-09-11 06:51:54"
+  },
+  {
+    "id": "rss_https://openai.com/index/introducing-chatgpt-financial-services",
+    "company": "OpenAI",
+    "title": "Introducing ChatGPT for Financial Services",
+    "publish_date": "2026-09-10",
+    "type": "其他",
+    "open_source": "否",
+    "summary": "Introducing ChatGPT for Financial Services, combining built-in financial data and GPT-6 Astra for research, modeling, and client-ready materials.",
+    "details": "",
+    "url": "https://openai.com/index/introducing-chatgpt-financial-services",
+    "tags": "",
+    "created_at": "2026-09-11 06:51:54"
+  },
+  {
+    "id": "rss_https://openai.com/index/introducing-the-agents-api",
+    "company": "OpenAI",
+    "title": "Introducing the Agents API",
+    "publish_date": "2026-09-10",
+    "type": "其他",
+    "open_source": "否",
+    "summary": "Build and launch cloud agents with the Agents API, a managed service powered by the Codex harness for orchestration, long-running sessions, and tool use.",
+    "details": "",
+    "url": "https://openai.com/index/introducing-the-agents-api",
+    "tags": "",
+    "created_at": "2026-09-11 06:51:54"
+  },
+  {
+    "id": "rss_https://openai.com/index/introducing-gpt-live-1-in-the-api",
+    "company": "OpenAI",
+    "title": "Build more natural voice experiences with GPT‑Live‑1 in the API",
+    "publish_date": "2026-09-10",
+    "type": "其他",
+    "open_source": "否",
+    "summary": "GPT‑Live‑1 brings natural, full-duplex voice conversations to the API, with stronger instruction following, custom voices, and telephony support.",
+    "details": "",
+    "url": "https://openai.com/index/introducing-gpt-live-1-in-the-api",
+    "tags": "",
+    "created_at": "2026-09-11 06:51:54"
+  },
+  {
+    "id": "rss_https://simonwillison.net/2026/Sep/11/datasette-security/",
+    "company": "Simon Willison",
+    "title": "Datasette 1.0a39 and 0.65.4 security releases",
+    "publish_date": "2026-09-11",
+    "type": "其他",
+    "open_source": "否",
+    "summary": "<p><strong><a href=\"https://datasette.io/blog/2026/september-security-releases/\">Datasette 1.0a39 and 0.65.4 security releases</a></strong></p>\nToday we're releasing two new security patch versions of",
+    "details": "",
+    "url": "https://simonwillison.net/2026/Sep/11/datasette-security/",
+    "tags": "",
+    "created_at": "2026-09-11 06:51:57"
   }
 ]
