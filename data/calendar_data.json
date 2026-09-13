@@ -6082,5 +6082,18 @@
     "url": "https://simonwillison.net/2026/Sep/11/datasette-2/",
     "tags": "",
     "created_at": "2026-09-12 06:44:04"
+  },
+  {
+    "id": "rss_https://simonwillison.net/2026/Sep/12/astra-running-routes/",
+    "company": "Simon Willison",
+    "title": "Generating running routes with GPT-6 Astra and ChatGPT Work",
+    "publish_date": "2026-09-12",
+    "type": "其他",
+    "open_source": "否",
+    "summary": "<p>Here's a neat thing I had <a href=\"https://simonwillison.net/2026/Aug/30/understanding-chatgpt-work/\">ChatGPT Work</a> with GPT-6 Astra (Max) do this morning:</p>\n<blockquote>\n<p><code>I live at &l",
+    "details": "",
+    "url": "https://simonwillison.net/2026/Sep/12/astra-running-routes/",
+    "tags": "",
+    "created_at": "2026-09-13 07:01:24"
   }
 ]
