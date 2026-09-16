@@ -6095,5 +6095,44 @@
     "url": "https://simonwillison.net/2026/Sep/12/astra-running-routes/",
     "tags": "",
     "created_at": "2026-09-13 07:01:24"
+  },
+  {
+    "id": "rss_https://deepmind.google/blog/introducing-gemini-3-8-live-and-3-8-live-extended-thinking/",
+    "company": "Google DeepMind",
+    "title": "Introducing Gemini 3.8 Live and 3.8 Live Extended Thinking",
+    "publish_date": "2026-09-15",
+    "type": "其他",
+    "open_source": "否",
+    "summary": "",
+    "details": "",
+    "url": "https://deepmind.google/blog/introducing-gemini-3-8-live-and-3-8-live-extended-thinking/",
+    "tags": "",
+    "created_at": "2026-09-16 07:01:48"
+  },
+  {
+    "id": "rss_https://huggingface.co/blog/ibm-research/altk-evolve-consistency",
+    "company": "Hugging Face",
+    "title": "Your Agent Aced the Task. Will It Do It Again?",
+    "publish_date": "2026-09-15",
+    "type": "其他",
+    "open_source": "否",
+    "summary": "",
+    "details": "",
+    "url": "https://huggingface.co/blog/ibm-research/altk-evolve-consistency",
+    "tags": "",
+    "created_at": "2026-09-16 07:01:49"
+  },
+  {
+    "id": "rss_https://simonwillison.net/2026/Sep/15/gemini-live/",
+    "company": "Simon Willison",
+    "title": "Gemini Live audio",
+    "publish_date": "2026-09-15",
+    "type": "其他",
+    "open_source": "否",
+    "summary": "<p><strong>Tool:</strong> <a href=\"https://tools.simonwillison.net/gemini-live\">Gemini Live audio</a></p>\n        <p>Google released <a href=\"https://blog.google/innovation-and-ai/models-and-research/",
+    "details": "",
+    "url": "https://simonwillison.net/2026/Sep/15/gemini-live/",
+    "tags": "",
+    "created_at": "2026-09-16 07:01:51"
   }
 ]
