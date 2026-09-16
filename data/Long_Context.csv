@@ -34431,454 +34431,454 @@ id,name,description,url,stars,forks,language,topics,created_at,first_seen,is_act
 1371033582,pavankalyan75699/light-house,"hands-on AWS DevOps project that takes a web application from local development to production using AWS, Docker, Kubernetes (k3s), GitHub Actions, ECR, RDS, S3, IAM, OIDC, SSM, and Helm. ",https://github.com/pavankalyan75699/light-house,0,0,,,2026-09-15T06:56:50Z,2026-09-15,False,Long Context
 1370266643,Adaeze-Jennifer/nyc-green-taxi-analytics-etl,"An end-to-end data analytics and engineering project utilizing SQL (SSMS) to write data isolation pipelines, resolve million row schema changes via advanced filters, and extract high-value operational insights from NYC TLC taxi records.",https://github.com/Adaeze-Jennifer/nyc-green-taxi-analytics-etl,0,0,,,2026-09-14T16:59:31Z,2026-09-15,False,Long Context
 1370648107,kevinyan0620/Control_System_SchoolProject,"A MATLAB and Simulink project focused on the state-space modeling, linearization, and PID controller tuning for a DC-DC switched-mode converter in a railway signaling system.",https://github.com/kevinyan0620/Control_System_SchoolProject,0,0,,,2026-09-14T23:08:38Z,2026-09-15,False,Long Context
-1372393569,tinyai2425/Long_context_eval,,https://github.com/tinyai2425/Long_context_eval,0,0,Python,,2026-09-16T01:52:26Z,2026-09-16,True,Long Context
-1371763914,shivamshashank/adaptive-memory-transformers,Adaptive memory allocation and KV-cache compression for efficient long-context Transformer inference.,https://github.com/shivamshashank/adaptive-memory-transformers,0,0,,,2026-09-15T16:10:57Z,2026-09-16,True,Long Context
-1372276790,Joshua-Zhang-Jiaquan/Long-RWKV,"Code, contracts and receipts for Depth-Recycled Recurrent Diffusion for Long-Context Agent Workloads",https://github.com/Joshua-Zhang-Jiaquan/Long-RWKV,0,0,Python,,2026-09-15T23:38:30Z,2026-09-16,True,Long Context
-1371501417,HoyeonHan/turbo-quant,Training-free KV-cache compression for long-context LLM inference on Apple Silicon — a from-scratch MLX implementation of TurboQuant (arXiv:2504.19874).,https://github.com/HoyeonHan/turbo-quant,0,0,Python,,2026-09-15T13:14:34Z,2026-09-16,True,Long Context
-1371134147,shanhanhanhan/ATCSA-Net,ATCSA-Net for fine-grained DAS: SCP makes event-centered patches; ACGC builds confusion-guided cascade; CCSTA uses chunk attention for long sequences. ,https://github.com/shanhanhanhan/ATCSA-Net,0,0,Python,,2026-09-15T08:25:43Z,2026-09-16,True,Long Context
-1371740987,lingxianwen/MambaPRE,Structure-aware dual-stream state-space models for protocol field segmentation,https://github.com/lingxianwen/MambaPRE,0,0,Python,,2026-09-15T15:53:31Z,2026-09-16,True,Long Context
-1371119440,EarzuChan/MambaMaid,A truly nice Mermaid Online Editor,https://github.com/EarzuChan/MambaMaid,1,0,TypeScript,"mermaid,mermaid-diagrams,spa,svelte,webapp",2026-09-15T08:12:31Z,2026-09-16,True,Long Context
-1371270414,Saisharathchandranandnetha/-Mamba,,https://github.com/Saisharathchandranandnetha/-Mamba,0,0,C++,,2026-09-15T10:28:18Z,2026-09-16,True,Long Context
-1371465216,PANDALDANIEL/MAMBALOGIC,,https://github.com/PANDALDANIEL/MAMBALOGIC,0,0,HTML,,2026-09-15T12:51:03Z,2026-09-16,True,Long Context
-1371324837,BAITC-Hacks/hack-a3c97760-mamba,Hackathon team repository for mamba,https://github.com/BAITC-Hacks/hack-a3c97760-mamba,0,0,,,2026-09-15T11:16:14Z,2026-09-16,True,Long Context
-1371804773,lichaung-xmu/SFP-Mamba,,https://github.com/lichaung-xmu/SFP-Mamba,0,0,Python,,2026-09-15T16:43:02Z,2026-09-16,True,Long Context
-1371449109,SunWeihahahalife/FG-Mamba,,https://github.com/SunWeihahahalife/FG-Mamba,0,0,,,2026-09-15T12:41:05Z,2026-09-16,True,Long Context
-1371195436,junxiyao18-source/Eco-Mamba,,https://github.com/junxiyao18-source/Eco-Mamba,0,0,Python,,2026-09-15T09:20:23Z,2026-09-16,True,Long Context
-1371453447,sunwei0604/FG-Mamba,,https://github.com/sunwei0604/FG-Mamba,0,0,Python,,2026-09-15T12:43:59Z,2026-09-16,True,Long Context
-1371394037,jiujiu-ok/GMD-Mamba,,https://github.com/jiujiu-ok/GMD-Mamba,0,0,,,2026-09-15T12:02:25Z,2026-09-16,True,Long Context
-1371769520,imrshah05/mamba-selective-ssm,,https://github.com/imrshah05/mamba-selective-ssm,1,0,Python,,2026-09-15T16:15:24Z,2026-09-16,True,Long Context
-1372607745,NguyenMinhTri24072005/Capstone-mambavision-lidc,,https://github.com/NguyenMinhTri24072005/Capstone-mambavision-lidc,0,0,,,2026-09-16T06:18:55Z,2026-09-16,True,Long Context
-1372644619,EurekaElanora-J/VaDeMamba,Official research repository for VaDeMamba: Learning the Value of Mamba Depth for Spatially Adaptive 3D Brain Tumor Segmentation.,https://github.com/EurekaElanora-J/VaDeMamba,0,0,,,2026-09-16T06:54:08Z,2026-09-16,True,Long Context
-1371152454,zmx-666-ux/LiteScaleMamba-CD,Code and figures for remote sensing change detection.,https://github.com/zmx-666-ux/LiteScaleMamba-CD,0,0,Python,,2026-09-15T08:42:04Z,2026-09-16,True,Long Context
-1371876372,expiracy/ppg-sleep-staging-mamba,,https://github.com/expiracy/ppg-sleep-staging-mamba,0,0,,,2026-09-15T17:35:55Z,2026-09-16,True,Long Context
-1372385700,jianwenliu301-ai/UA-Mamba-TKG-experiments,知识图谱V1数据,https://github.com/jianwenliu301-ai/UA-Mamba-TKG-experiments,0,0,,,2026-09-16T01:40:43Z,2026-09-16,True,Long Context
-1372445901,T29VN/Mamba_cnn_-using-to-learning-,,https://github.com/T29VN/Mamba_cnn_-using-to-learning-,0,0,Python,,2026-09-16T03:04:43Z,2026-09-16,True,Long Context
-1371708675,21Q017/FALG-mamba-for-lightweight-audio-deepfake-detection,,https://github.com/21Q017/FALG-mamba-for-lightweight-audio-deepfake-detection,0,0,,,2026-09-15T15:32:01Z,2026-09-16,True,Long Context
-1371233271,bradleyyan/FA-MFMamba,Frequency-Aligned Multimodal Fourier-Mamba for Chinese A-Share Stock Forecasting,https://github.com/bradleyyan/FA-MFMamba,0,0,Python,,2026-09-15T09:53:34Z,2026-09-16,True,Long Context
-1372432627,XHMX0304/IWRMamba,Iterative Wavelet Resampling with Spatial–Spectral Synergistic Mamba Network for Hyperspectral Image Super-Resolution,https://github.com/XHMX0304/IWRMamba,0,0,,,2026-09-16T02:47:28Z,2026-09-16,True,Long Context
-1371371099,boxcode59-source/-Personalized-Breast-Cancer-Survival-and-Treatment-Response-Prediction,A Lightweight Quantum-Mamba Multimodal Framework for Personalized Breast Cancer Survival and Treatment-Response Prediction,https://github.com/boxcode59-source/-Personalized-Breast-Cancer-Survival-and-Treatment-Response-Prediction,0,0,Python,,2026-09-15T11:46:46Z,2026-09-16,True,Long Context
-1371115455,tlstngud/sisa-kernel,Fused attention kernels for SISA — Mamba-3 style state term inside a single softmax (Triton + CUDA/CuTe),https://github.com/tlstngud/sisa-kernel,0,0,Python,,2026-09-15T08:09:01Z,2026-09-16,True,Long Context
-1371206614,boxcode59-source/Prostate-Cancer-Diagnosis-Using-Histopathological-Images,A Lightweight Hybrid Gland Morphology and Mamba-Enhanced Gland  Spatial Feature Modelling for Prostate Cancer Diagnosis Using Histopathological Images,https://github.com/boxcode59-source/Prostate-Cancer-Diagnosis-Using-Histopathological-Images,0,0,Jupyter Notebook,,2026-09-15T09:29:24Z,2026-09-16,True,Long Context
-1371417158,WJN08/CL-SSMamba,CL-SSMamba: A bio-inspired replay-free continual learning framework for hyperspectral anomaly detection with collaborative spatial-spectral Mamba learners.,https://github.com/WJN08/CL-SSMamba,0,0,Python,,2026-09-15T12:19:00Z,2026-09-16,True,Long Context
-1371314947,boxcode59-source/LiteRTG-Net-Lightweight-Multimodal-Brain-Tumor-MRI-Segmentation,"LiteRTG-Net: A Region Growing-Guided, Topology-Aware Graph Attention, and Gated CNN–Mamba Framework for Lightweight Multimodal Brain Tumor MRI Segmentation",https://github.com/boxcode59-source/LiteRTG-Net-Lightweight-Multimodal-Brain-Tumor-MRI-Segmentation,0,0,Python,,2026-09-15T11:08:06Z,2026-09-16,True,Long Context
-1372606857,tlstngud/TriFusion-FP-Kernel,"TriFusion-FP inference kernels and CUDA Graph runtime for NVIDIA L4 (Triton/PTX, BF16, Python API)",https://github.com/tlstngud/TriFusion-FP-Kernel,0,0,Python,"audio,cuda,inference,mamba,nvidia-l4,python,triton",2026-09-16T06:18:00Z,2026-09-16,True,Long Context
-1372147653,leidysoracipa01-wq/SSM,,https://github.com/leidysoracipa01-wq/SSM,0,0,HTML,,2026-09-15T21:26:37Z,2026-09-16,True,Long Context
-1372517328,opsadamgreenzgjp/JAVA-kpjsf-DAIMA,基于SSM的ssm基于SSM的社区管理系统+vue,https://github.com/opsadamgreenzgjp/JAVA-kpjsf-DAIMA,0,0,Java,,2026-09-16T04:35:53Z,2026-09-16,True,Long Context
-1372523468,uxemilytaylorhmhs/JAVA-lpjom-DAIMA,基于SSM的ssm基于ssm的人才招聘网站+jsp,https://github.com/uxemilytaylorhmhs/JAVA-lpjom-DAIMA,0,0,Java,,2026-09-16T04:43:35Z,2026-09-16,True,Long Context
-1372240552,Neomar-Kempv/ssmrufy,,https://github.com/Neomar-Kempv/ssmrufy,0,0,,,2026-09-15T23:02:43Z,2026-09-16,True,Long Context
-1371044358,sidrahadil98-droid/SSMS,,https://github.com/sidrahadil98-droid/SSMS,0,0,,,2026-09-15T07:06:40Z,2026-09-16,True,Long Context
-1372604010,edwardsjoshua505/ssmers,,https://github.com/edwardsjoshua505/ssmers,0,0,,,2026-09-16T06:14:57Z,2026-09-16,True,Long Context
-1372525401,Sanax-Atkinsonl/ssmrtii,,https://github.com/Sanax-Atkinsonl/ssmrtii,0,0,,,2026-09-16T04:45:59Z,2026-09-16,True,Long Context
-1372218855,tryoverflow/ssmhop,,https://github.com/tryoverflow/ssmhop,0,0,Go,,2026-09-15T22:35:09Z,2026-09-16,True,Long Context
-1372277027,alexandermichael3/ssmtcj,,https://github.com/alexandermichael3/ssmtcj,0,0,,,2026-09-15T23:38:45Z,2026-09-16,True,Long Context
-1371127384,jbcbike/SSMS,,https://github.com/jbcbike/SSMS,0,0,,,2026-09-15T08:19:45Z,2026-09-16,True,Long Context
-1372522057,opsadamgreenzgjp/JAVA-mefvt-DAIMA,基于SSM的ssm教师上课系统+vue,https://github.com/opsadamgreenzgjp/JAVA-mefvt-DAIMA,0,0,Java,,2026-09-16T04:41:51Z,2026-09-16,True,Long Context
-1372516842,opsadamgreenzgjp/JAVA-jtcpy-DAIMA,基于SSM的ssm网上挂号系统+jsp,https://github.com/opsadamgreenzgjp/JAVA-jtcpy-DAIMA,0,0,Java,,2026-09-16T04:35:12Z,2026-09-16,True,Long Context
-1372541120,opsadamgreenzgjp/JAVA-tiqmy-DAIMA,基于SSM的ssm电影购票系统+vue,https://github.com/opsadamgreenzgjp/JAVA-tiqmy-DAIMA,0,0,Java,,2026-09-16T05:02:24Z,2026-09-16,True,Long Context
-1371364850,opsadamgreenzgjp/JAVA-pqinh-DAIMA,基于SSM的ssm网络办公系统+jsp,https://github.com/opsadamgreenzgjp/JAVA-pqinh-DAIMA,0,0,Java,,2026-09-15T11:43:29Z,2026-09-16,True,Long Context
-1372505613,uxemilytaylorhmhs/JAVA-fmnnt-DAIMA,基于SSM的ssm网上花店设计+vue,https://github.com/uxemilytaylorhmhs/JAVA-fmnnt-DAIMA,0,0,Java,,2026-09-16T04:21:04Z,2026-09-16,True,Long Context
-1372515917,opsadamgreenzgjp/JAVA-jhtxx-DAIMA,基于SSM的ssm停车管理系统+jsp,https://github.com/opsadamgreenzgjp/JAVA-jhtxx-DAIMA,0,0,Java,,2026-09-16T04:33:59Z,2026-09-16,True,Long Context
-1371402233,opsadamgreenzgjp/JAVA-wsetq-DAIMA,基于SSM的ssm学籍管理系统+vue,https://github.com/opsadamgreenzgjp/JAVA-wsetq-DAIMA,0,0,Java,,2026-09-15T12:08:17Z,2026-09-16,True,Long Context
-1371342221,opsadamgreenzgjp/JAVA-kphqx-DAIMA,基于SSM的ssm课程管理系统+vue,https://github.com/opsadamgreenzgjp/JAVA-kphqx-DAIMA,0,0,Java,,2026-09-15T11:30:05Z,2026-09-16,True,Long Context
-1372501526,opsadamgreenzgjp/JAVA-bkkga-DAIMA,基于SSM的ssm订餐管理系统+jsp,https://github.com/opsadamgreenzgjp/JAVA-bkkga-DAIMA,0,0,Java,,2026-09-16T04:15:44Z,2026-09-16,True,Long Context
-1372503996,uxemilytaylorhmhs/JAVA-eqcze-DAIMA,基于SSM的ssm学生请假系统+jsp,https://github.com/uxemilytaylorhmhs/JAVA-eqcze-DAIMA,0,0,Java,,2026-09-16T04:18:59Z,2026-09-16,True,Long Context
-1372515665,opsadamgreenzgjp/JAVA-jdvvt-DAIMA,基于SSM的ssm医院交互系统+vue,https://github.com/opsadamgreenzgjp/JAVA-jdvvt-DAIMA,0,0,Java,,2026-09-16T04:33:40Z,2026-09-16,True,Long Context
-1372510828,opsadamgreenzgjp/JAVA-gzkva-DAIMA,基于SSM的ssm教材管理系统+vue,https://github.com/opsadamgreenzgjp/JAVA-gzkva-DAIMA,0,0,Java,,2026-09-16T04:27:43Z,2026-09-16,True,Long Context
-1371065786,hrdssmi24-wq/HRISYSTEM-SSMI,,https://github.com/hrdssmi24-wq/HRISYSTEM-SSMI,0,0,HTML,,2026-09-15T07:24:34Z,2026-09-16,True,Long Context
-1371285833,prateekverma26/ssm-dashboard,Super-admin-dashbboard,https://github.com/prateekverma26/ssm-dashboard,0,0,HTML,,2026-09-15T10:41:55Z,2026-09-16,True,Long Context
-1371764051,flank-project/ssms-extension,,https://github.com/flank-project/ssms-extension,0,0,C#,,2026-09-15T16:11:04Z,2026-09-16,True,Long Context
-1372385790,Infiltrator-Projects/ssmithnet.net,Web Page test,https://github.com/Infiltrator-Projects/ssmithnet.net,0,0,HTML,,2026-09-16T01:40:50Z,2026-09-16,True,Long Context
-1371776527,raman-jetbrain/SSM-BACKEND,Spring boot Backend ,https://github.com/raman-jetbrain/SSM-BACKEND,0,0,Java,,2026-09-15T16:20:53Z,2026-09-16,True,Long Context
-1371168940,Sudarshanganwani9/SSM-app,,https://github.com/Sudarshanganwani9/SSM-app,0,0,TypeScript,,2026-09-15T08:56:41Z,2026-09-16,True,Long Context
-1372504325,opsadamgreenzgjp/JAVA-dqriu-DAIMA,基于SSM的ssm剧本杀预约系统+vue,https://github.com/opsadamgreenzgjp/JAVA-dqriu-DAIMA,0,0,Java,,2026-09-16T04:19:26Z,2026-09-16,True,Long Context
-1371623756,salamunrahmuna/Purchase-Done-ssmetyon,,https://github.com/salamunrahmuna/Purchase-Done-ssmetyon,0,0,,,2026-09-15T14:33:57Z,2026-09-16,True,Long Context
-1372531739,opsadamgreenzgjp/JAVA-pwezc-DAIMA,基于SSM的ssm食品安全追溯系统+jsp,https://github.com/opsadamgreenzgjp/JAVA-pwezc-DAIMA,0,0,Java,,2026-09-16T04:52:28Z,2026-09-16,True,Long Context
-1372519359,opsadamgreenzgjp/JAVA-lewur-DAIMA,基于SSM的ssm运动器械购物商城+jsp,https://github.com/opsadamgreenzgjp/JAVA-lewur-DAIMA,0,0,Java,,2026-09-16T04:38:30Z,2026-09-16,True,Long Context
-1372497669,uxemilytaylorhmhs/JAVA-bbuvo-DAIMA,基于SSM的ssm汽车养护管理系统+jsp,https://github.com/uxemilytaylorhmhs/JAVA-bbuvo-DAIMA,0,0,Java,,2026-09-16T04:10:44Z,2026-09-16,True,Long Context
-1372507834,opsadamgreenzgjp/JAVA-frjta-DAIMA,基于SSM的ssm班级事务管理系统+vue,https://github.com/opsadamgreenzgjp/JAVA-frjta-DAIMA,0,0,Java,,2026-09-16T04:23:47Z,2026-09-16,True,Long Context
-1372537175,opsadamgreenzgjp/JAVA-rwrfy-DAIMA,基于SSM的ssm物流信息管理系统+jsp,https://github.com/opsadamgreenzgjp/JAVA-rwrfy-DAIMA,0,0,Java,,2026-09-16T04:57:51Z,2026-09-16,True,Long Context
-1372525670,opsadamgreenzgjp/JAVA-mvuis-DAIMA,基于SSM的ssm孩童收养信息管理+vue,https://github.com/opsadamgreenzgjp/JAVA-mvuis-DAIMA,0,0,Java,,2026-09-16T04:46:20Z,2026-09-16,True,Long Context
-1372540458,uxemilytaylorhmhs/JAVA-tjybo-DAIMA,基于SSM的ssm社区文化宣传网站+jsp,https://github.com/uxemilytaylorhmhs/JAVA-tjybo-DAIMA,0,0,Java,,2026-09-16T05:01:38Z,2026-09-16,True,Long Context
-1372505766,opsadamgreenzgjp/JAVA-ekjrq-DAIMA,基于SSM的ssm杂志在线阅读网站+vue,https://github.com/opsadamgreenzgjp/JAVA-ekjrq-DAIMA,0,0,Java,,2026-09-16T04:21:14Z,2026-09-16,True,Long Context
-1372498231,opsadamgreenzgjp/JAVA-akwtr-DAIMA,基于SSM的ssm二手商品交易平台+vue,https://github.com/opsadamgreenzgjp/JAVA-akwtr-DAIMA,0,0,Java,,2026-09-16T04:11:27Z,2026-09-16,True,Long Context
-1372525071,uxemilytaylorhmhs/JAVA-mfddz-DAIMA,基于SSM的ssm单位人事管理系统+jsp,https://github.com/uxemilytaylorhmhs/JAVA-mfddz-DAIMA,0,0,Java,,2026-09-16T04:45:36Z,2026-09-16,True,Long Context
-1372506049,opsadamgreenzgjp/JAVA-etkpw-DAIMA,基于SSM的ssm政府项目管理平台+vue,https://github.com/opsadamgreenzgjp/JAVA-etkpw-DAIMA,0,0,Java,,2026-09-16T04:21:32Z,2026-09-16,True,Long Context
-1371362684,opsadamgreenzgjp/JAVA-pewnf-DAIMA,基于SSM的ssm游泳会员管理系统+vue,https://github.com/opsadamgreenzgjp/JAVA-pewnf-DAIMA,0,0,Java,,2026-09-15T11:42:19Z,2026-09-16,True,Long Context
-1372535877,opsadamgreenzgjp/JAVA-rfzne-DAIMA,基于SSM的ssm企业人事管理系统+vue,https://github.com/opsadamgreenzgjp/JAVA-rfzne-DAIMA,0,0,Java,,2026-09-16T04:56:29Z,2026-09-16,True,Long Context
-1372511808,opsadamgreenzgjp/JAVA-hdkaf-DAIMA,基于SSM的ssm毕业设计选题系统+jsp,https://github.com/opsadamgreenzgjp/JAVA-hdkaf-DAIMA,0,0,Java,,2026-09-16T04:28:52Z,2026-09-16,True,Long Context
-1372509774,uxemilytaylorhmhs/JAVA-hmytx-DAIMA,基于SSM的ssm学院党员管理系统+jsp,https://github.com/uxemilytaylorhmhs/JAVA-hmytx-DAIMA,0,0,Java,,2026-09-16T04:26:21Z,2026-09-16,True,Long Context
-1372536024,uxemilytaylorhmhs/JAVA-rdlhf-DAIMA,基于SSM的ssm医院门诊挂号系统+jsp,https://github.com/uxemilytaylorhmhs/JAVA-rdlhf-DAIMA,0,0,Java,,2026-09-16T04:56:38Z,2026-09-16,True,Long Context
-1372511132,uxemilytaylorhmhs/JAVA-hsygx-DAIMA,基于SSM的ssm校园美食交流系统+vue,https://github.com/uxemilytaylorhmhs/JAVA-hsygx-DAIMA,0,0,Java,,2026-09-16T04:28:06Z,2026-09-16,True,Long Context
-1372518113,opsadamgreenzgjp/JAVA-lbedm-DAIMA,基于SSM的ssm企业员工管理系统+vue,https://github.com/opsadamgreenzgjp/JAVA-lbedm-DAIMA,0,0,Java,,2026-09-16T04:36:52Z,2026-09-16,True,Long Context
-1372521173,opsadamgreenzgjp/JAVA-lsiyf-DAIMA,基于SSM的ssm资产管理信息系统+vue,https://github.com/opsadamgreenzgjp/JAVA-lsiyf-DAIMA,0,0,Java,,2026-09-16T04:40:46Z,2026-09-16,True,Long Context
-1372507083,opsadamgreenzgjp/JAVA-fhutg-DAIMA,基于SSM的ssm学生档案管理系统+jsp,https://github.com/opsadamgreenzgjp/JAVA-fhutg-DAIMA,0,0,Java,,2026-09-16T04:22:48Z,2026-09-16,True,Long Context
-1372521485,opsadamgreenzgjp/JAVA-lskan-DAIMA,基于SSM的ssm网上购物平台设计+jsp,https://github.com/opsadamgreenzgjp/JAVA-lskan-DAIMA,0,0,Java,,2026-09-16T04:41:09Z,2026-09-16,True,Long Context
-1371354977,opsadamgreenzgjp/JAVA-myymf-DAIMA,基于SSM的ssm线上旅游体验系统+vue,https://github.com/opsadamgreenzgjp/JAVA-myymf-DAIMA,0,0,Java,,2026-09-15T11:38:08Z,2026-09-16,True,Long Context
-1372510347,opsadamgreenzgjp/JAVA-gpxau-DAIMA,基于SSM的ssm驾校预约管理系统+jsp,https://github.com/opsadamgreenzgjp/JAVA-gpxau-DAIMA,0,0,Java,,2026-09-16T04:27:05Z,2026-09-16,True,Long Context
-1372532155,opsadamgreenzgjp/JAVA-qasij-DAIMA,基于SSM的ssm学生社团管理系统+vue,https://github.com/opsadamgreenzgjp/JAVA-qasij-DAIMA,0,0,Java,,2026-09-16T04:52:51Z,2026-09-16,True,Long Context
-1371880714,sheliawe/order-payment-due-by-ssmarie15-gmail.com-i5tctkj2,,https://github.com/sheliawe/order-payment-due-by-ssmarie15-gmail.com-i5tctkj2,0,0,DIGITAL Command Language,,2026-09-15T17:39:16Z,2026-09-16,True,Long Context
-1371376601,opsadamgreenzgjp/JAVA-rriao-DAIMA,基于SSM的ssm网上系统调查的开发+vue,https://github.com/opsadamgreenzgjp/JAVA-rriao-DAIMA,0,0,Java,,2026-09-15T11:49:46Z,2026-09-16,True,Long Context
-1371314108,opsadamgreenzgjp/JAVA-dczsu-DAIMA,基于SSM的基于ssm的电影评论系统+vue,https://github.com/opsadamgreenzgjp/JAVA-dczsu-DAIMA,0,0,Java,,2026-09-15T11:07:20Z,2026-09-16,True,Long Context
-1371321400,opsadamgreenzgjp/JAVA-ezwrt-DAIMA,基于SSM的ssm毕业生学历证明系统+vue,https://github.com/opsadamgreenzgjp/JAVA-ezwrt-DAIMA,0,0,Java,,2026-09-15T11:13:34Z,2026-09-16,True,Long Context
-1372540223,opsadamgreenzgjp/JAVA-tbyhu-DAIMA,基于SSM的ssm旅游网页开发与设计+jsp,https://github.com/opsadamgreenzgjp/JAVA-tbyhu-DAIMA,0,0,Java,,2026-09-16T05:01:22Z,2026-09-16,True,Long Context
-1372530689,opsadamgreenzgjp/JAVA-pjtcy-DAIMA,基于SSM的ssm公交车信息管理系统+vue,https://github.com/opsadamgreenzgjp/JAVA-pjtcy-DAIMA,0,0,Java,,2026-09-16T04:51:23Z,2026-09-16,True,Long Context
-1372520584,opsadamgreenzgjp/JAVA-lmxff-DAIMA,基于SSM的ssm图书馆书库管理系统+vue,https://github.com/opsadamgreenzgjp/JAVA-lmxff-DAIMA,0,0,Java,,2026-09-16T04:40:04Z,2026-09-16,True,Long Context
-1372517836,opsadamgreenzgjp/JAVA-kwaeu-DAIMA,基于SSM的ssm基于Vue的戏剧推广网站+vue,https://github.com/opsadamgreenzgjp/JAVA-kwaeu-DAIMA,0,0,Java,,2026-09-16T04:36:31Z,2026-09-16,True,Long Context
-1371410406,opsadamgreenzgjp/JAVA-ytlys-DAIMA,基于SSM的ssm基于Java的超市管理系统+jsp,https://github.com/opsadamgreenzgjp/JAVA-ytlys-DAIMA,0,0,Java,,2026-09-15T12:14:13Z,2026-09-16,True,Long Context
-1372519007,uxemilytaylorhmhs/JAVA-kpkec-DAIMA,基于SSM的ssm博客系统的设计与实现+vue,https://github.com/uxemilytaylorhmhs/JAVA-kpkec-DAIMA,0,0,Java,,2026-09-16T04:38:02Z,2026-09-16,True,Long Context
-1371308988,opsadamgreenzgjp/JAVA-bqzqo-DAIMA,基于SSM的ssm疫情期间高校防控系统+vue,https://github.com/opsadamgreenzgjp/JAVA-bqzqo-DAIMA,0,0,Java,,2026-09-15T11:02:48Z,2026-09-16,True,Long Context
-1372534257,uxemilytaylorhmhs/JAVA-qvutd-DAIMA,基于SSM的ssm简易版营业厅宽带系统+jsp,https://github.com/uxemilytaylorhmhs/JAVA-qvutd-DAIMA,0,0,Java,,2026-09-16T04:55:00Z,2026-09-16,True,Long Context
-1372514428,opsadamgreenzgjp/JAVA-ilskh-DAIMA,基于SSM的ssm智慧社区电子商务系统+vue,https://github.com/opsadamgreenzgjp/JAVA-ilskh-DAIMA,0,0,Java,,2026-09-16T04:32:08Z,2026-09-16,True,Long Context
-1371325339,opsadamgreenzgjp/JAVA-fsdqj-DAIMA,基于SSM的ssm旅社客房收费管理系统+vue,https://github.com/opsadamgreenzgjp/JAVA-fsdqj-DAIMA,0,0,Java,,2026-09-15T11:16:40Z,2026-09-16,True,Long Context
-1372529718,uxemilytaylorhmhs/JAVA-oddic-DAIMA,基于SSM的ssm基于Java的图书管理系统+jsp,https://github.com/uxemilytaylorhmhs/JAVA-oddic-DAIMA,0,0,Java,,2026-09-16T04:50:28Z,2026-09-16,True,Long Context
-1372518401,opsadamgreenzgjp/JAVA-lbuil-DAIMA,基于SSM的ssm连锁超市会员管理系统+vue,https://github.com/opsadamgreenzgjp/JAVA-lbuil-DAIMA,0,0,Java,,2026-09-16T04:37:13Z,2026-09-16,True,Long Context
-1372520876,opsadamgreenzgjp/JAVA-lnyss-DAIMA,基于SSM的ssm校园二手交易管理系统+vue,https://github.com/opsadamgreenzgjp/JAVA-lnyss-DAIMA,0,0,Java,,2026-09-16T04:40:25Z,2026-09-16,True,Long Context
-1372529552,opsadamgreenzgjp/JAVA-oybum-DAIMA,基于SSM的基于ssm+vue的在线听书网站+vue,https://github.com/opsadamgreenzgjp/JAVA-oybum-DAIMA,0,0,Java,,2026-09-16T04:50:17Z,2026-09-16,True,Long Context
-1372505165,opsadamgreenzgjp/JAVA-dzswq-DAIMA,基于SSM的ssm中医+养老服务平台设计+vue,https://github.com/opsadamgreenzgjp/JAVA-dzswq-DAIMA,0,0,Java,,2026-09-16T04:20:30Z,2026-09-16,True,Long Context
-1372525441,opsadamgreenzgjp/JAVA-mutwl-DAIMA,基于SSM的ssm基于BS的项目监管系统+jsp,https://github.com/opsadamgreenzgjp/JAVA-mutwl-DAIMA,0,0,Java,,2026-09-16T04:46:02Z,2026-09-16,True,Long Context
-1371357418,opsadamgreenzgjp/JAVA-nunkc-DAIMA,基于SSM的ssm学习视频资源库的系统+jsp,https://github.com/opsadamgreenzgjp/JAVA-nunkc-DAIMA,0,0,Java,,2026-09-15T11:39:29Z,2026-09-16,True,Long Context
-1372524399,opsadamgreenzgjp/JAVA-mpfgn-DAIMA,基于SSM的基于ssm的学生资助管理系统+vue,https://github.com/opsadamgreenzgjp/JAVA-mpfgn-DAIMA,0,0,Java,,2026-09-16T04:44:45Z,2026-09-16,True,Long Context
-1372511864,uxemilytaylorhmhs/JAVA-iappd-DAIMA,基于SSM的ssm毕业生就业信息统计系统+vue,https://github.com/uxemilytaylorhmhs/JAVA-iappd-DAIMA,0,0,Java,,2026-09-16T04:28:57Z,2026-09-16,True,Long Context
-1372537629,uxemilytaylorhmhs/JAVA-slfdm-DAIMA,基于SSM的ssm物流管理系统设计与实现+jsp,https://github.com/uxemilytaylorhmhs/JAVA-slfdm-DAIMA,0,0,Java,,2026-09-16T04:58:23Z,2026-09-16,True,Long Context
-1372510538,uxemilytaylorhmhs/JAVA-hqxsp-DAIMA,基于SSM的ssm绿色农产品推广应用网站+vue,https://github.com/uxemilytaylorhmhs/JAVA-hqxsp-DAIMA,0,0,Java,,2026-09-16T04:27:20Z,2026-09-16,True,Long Context
-1372511386,opsadamgreenzgjp/JAVA-hciof-DAIMA,基于SSM的基于SSM的游戏资源管理系统+vue,https://github.com/opsadamgreenzgjp/JAVA-hciof-DAIMA,0,0,Java,,2026-09-16T04:28:25Z,2026-09-16,True,Long Context
-1372509283,opsadamgreenzgjp/JAVA-ggodc-DAIMA,基于SSM的基于VUE3+SSM框架的在线宠物商城,https://github.com/opsadamgreenzgjp/JAVA-ggodc-DAIMA,0,0,Java,,2026-09-16T04:25:43Z,2026-09-16,True,Long Context
-1371339567,opsadamgreenzgjp/JAVA-jyufm-DAIMA,基于SSM的ssm百货中心供应链管理系统+jsp,https://github.com/opsadamgreenzgjp/JAVA-jyufm-DAIMA,0,0,Java,,2026-09-15T11:27:58Z,2026-09-16,True,Long Context
-1372504473,uxemilytaylorhmhs/JAVA-exljv-DAIMA,基于SSM的ssm小学生课外知识学习网站+vue,https://github.com/uxemilytaylorhmhs/JAVA-exljv-DAIMA,0,0,Java,,2026-09-16T04:19:37Z,2026-09-16,True,Long Context
-1372537331,uxemilytaylorhmhs/JAVA-sdevv-DAIMA,基于SSM的ssm学校运动会信息管理系统+jsp,https://github.com/uxemilytaylorhmhs/JAVA-sdevv-DAIMA,0,0,Java,,2026-09-16T04:58:02Z,2026-09-16,True,Long Context
-1371339107,opsadamgreenzgjp/JAVA-jxhhj-DAIMA,基于SSM的SSM框架的宿舍管理系统的设计,https://github.com/opsadamgreenzgjp/JAVA-jxhhj-DAIMA,0,0,Java,,2026-09-15T11:27:38Z,2026-09-16,True,Long Context
-1372519848,opsadamgreenzgjp/JAVA-ljtgg-DAIMA,基于SSM的ssm阅微文学网站的设计与开发+vue,https://github.com/opsadamgreenzgjp/JAVA-ljtgg-DAIMA,0,0,Java,,2026-09-16T04:39:04Z,2026-09-16,True,Long Context
-1372506302,opsadamgreenzgjp/JAVA-evqrk-DAIMA,基于SSM的ssm网上购物商城的设计与实现+jsp,https://github.com/opsadamgreenzgjp/JAVA-evqrk-DAIMA,0,0,Java,,2026-09-16T04:21:49Z,2026-09-16,True,Long Context
-1372496773,opsadamgreenzgjp/JAVA-adzan-DAIMA,基于SSM的ssm基于jsp技术的选课管理系统+jsp,https://github.com/opsadamgreenzgjp/JAVA-adzan-DAIMA,0,0,Java,,2026-09-16T04:09:34Z,2026-09-16,True,Long Context
-1372528813,opsadamgreenzgjp/JAVA-oognh-DAIMA,基于SSM的基于ssm框架的车辆出租管理系统,https://github.com/opsadamgreenzgjp/JAVA-oognh-DAIMA,0,0,Java,,2026-09-16T04:49:31Z,2026-09-16,True,Long Context
-1372507939,uxemilytaylorhmhs/JAVA-gufap-DAIMA,基于SSM的ssm房屋租售网站的设计与实现+jsp,https://github.com/uxemilytaylorhmhs/JAVA-gufap-DAIMA,0,0,Java,,2026-09-16T04:23:54Z,2026-09-16,True,Long Context
-1372538933,opsadamgreenzgjp/JAVA-svgzd-DAIMA,基于SSM的基于ssm框架的博客系统的开发+vue,https://github.com/opsadamgreenzgjp/JAVA-svgzd-DAIMA,0,0,Java,,2026-09-16T05:00:00Z,2026-09-16,True,Long Context
-1371411600,opsadamgreenzgjp/JAVA-zfpkb-DAIMA,基于SSM的基于SSM的旅游论坛设计与实现+vue,https://github.com/opsadamgreenzgjp/JAVA-zfpkb-DAIMA,0,0,Java,,2026-09-15T12:15:05Z,2026-09-16,True,Long Context
-1372523543,opsadamgreenzgjp/JAVA-mlqow-DAIMA,基于SSM的基于SSM的毕业生就业管理系统+vue,https://github.com/opsadamgreenzgjp/JAVA-mlqow-DAIMA,0,0,Java,,2026-09-16T04:43:40Z,2026-09-16,True,Long Context
-1371379666,opsadamgreenzgjp/JAVA-slgzo-DAIMA,基于SSM的ssm教务信息平台的设计与实现+jsp,https://github.com/opsadamgreenzgjp/JAVA-slgzo-DAIMA,0,0,Java,,2026-09-15T11:52:01Z,2026-09-16,True,Long Context
-1371361975,opsadamgreenzgjp/JAVA-pdcvn-DAIMA,基于SSM的ssm框架的少儿编程在线培训系统,https://github.com/opsadamgreenzgjp/JAVA-pdcvn-DAIMA,0,0,Java,,2026-09-15T11:41:56Z,2026-09-16,True,Long Context
-1371378616,opsadamgreenzgjp/JAVA-sakur-DAIMA,基于SSM的ssm中文学习系统的设计与实现+jsp,https://github.com/opsadamgreenzgjp/JAVA-sakur-DAIMA,0,0,Java,,2026-09-15T11:51:14Z,2026-09-16,True,Long Context
-1371304603,opsadamgreenzgjp/JAVA-aqwlo-DAIMA,基于SSM的SSM的在线学习系统设计与实现+vue,https://github.com/opsadamgreenzgjp/JAVA-aqwlo-DAIMA,0,0,Java,,2026-09-15T10:58:49Z,2026-09-16,True,Long Context
-1372504067,opsadamgreenzgjp/JAVA-dgsfa-DAIMA,基于SSM的ssm职业高中学情成绩系统设计+jsp,https://github.com/opsadamgreenzgjp/JAVA-dgsfa-DAIMA,0,0,Java,,2026-09-16T04:19:04Z,2026-09-16,True,Long Context
-1372519009,opsadamgreenzgjp/JAVA-lehus-DAIMA,基于SSM的SSM的高并发慕课网的设计与实现,https://github.com/opsadamgreenzgjp/JAVA-lehus-DAIMA,0,0,Java,,2026-09-16T04:38:02Z,2026-09-16,True,Long Context
-1371323885,opsadamgreenzgjp/JAVA-flenh-DAIMA,基于SSM的基于ssm的高校大学生党建系统+jsp,https://github.com/opsadamgreenzgjp/JAVA-flenh-DAIMA,0,0,Java,,2026-09-15T11:15:28Z,2026-09-16,True,Long Context
-1372502126,opsadamgreenzgjp/JAVA-btprx-DAIMA,基于SSM的ssm文化遗产的保护与旅游开发+jsp,https://github.com/opsadamgreenzgjp/JAVA-btprx-DAIMA,0,0,Java,,2026-09-16T04:16:30Z,2026-09-16,True,Long Context
-1371479038,jefgewfguk25/order-confirm-r85ssmi2,,https://github.com/jefgewfguk25/order-confirm-r85ssmi2,0,0,,,2026-09-15T12:59:38Z,2026-09-16,True,Long Context
-1372150775,THANK-YOU-FOR-YOUR-ORDER-FGSD4/repo-0ssm8mj4,,https://github.com/THANK-YOU-FOR-YOUR-ORDER-FGSD4/repo-0ssm8mj4,0,0,,,2026-09-15T21:29:38Z,2026-09-16,True,Long Context
-1372528150,opsadamgreenzgjp/JAVA-nyxom-DAIMA,基于SSM的基于SSM框架的餐馆点餐系统的设计,https://github.com/opsadamgreenzgjp/JAVA-nyxom-DAIMA,0,0,Java,,2026-09-16T04:48:50Z,2026-09-16,True,Long Context
-1371315039,opsadamgreenzgjp/JAVA-dkywc-DAIMA,基于SSM的基于SSM的校园兼职管理系统设计+vue,https://github.com/opsadamgreenzgjp/JAVA-dkywc-DAIMA,0,0,Java,,2026-09-15T11:08:10Z,2026-09-16,True,Long Context
-1372528591,uxemilytaylorhmhs/JAVA-nvqml-DAIMA,基于SSM的ssm社区管理与服务的设计与实现+jsp,https://github.com/uxemilytaylorhmhs/JAVA-nvqml-DAIMA,0,0,Java,,2026-09-16T04:49:18Z,2026-09-16,True,Long Context
-1372512297,opsadamgreenzgjp/JAVA-hgubc-DAIMA,基于SSM的ssm框架的校园闲置物品交易平台+jsp,https://github.com/opsadamgreenzgjp/JAVA-hgubc-DAIMA,0,0,Java,,2026-09-16T04:29:31Z,2026-09-16,True,Long Context
-1371377095,opsadamgreenzgjp/JAVA-rslfe-DAIMA,基于SSM的ssm课程在线教学平台设计与实现+jsp,https://github.com/opsadamgreenzgjp/JAVA-rslfe-DAIMA,0,0,Java,,2026-09-15T11:50:08Z,2026-09-16,True,Long Context
-1372508741,uxemilytaylorhmhs/JAVA-hjfkf-DAIMA,基于SSM的ssm大学生兼职平台的设计与开发+jsp,https://github.com/uxemilytaylorhmhs/JAVA-hjfkf-DAIMA,0,0,Java,,2026-09-16T04:25:00Z,2026-09-16,True,Long Context
-1371407737,opsadamgreenzgjp/JAVA-ybhnn-DAIMA,基于SSM的基于ssm的网上房屋中介管理系统+vue,https://github.com/opsadamgreenzgjp/JAVA-ybhnn-DAIMA,0,0,Java,,2026-09-15T12:12:17Z,2026-09-16,True,Long Context
-1372527358,opsadamgreenzgjp/JAVA-ntpqq-DAIMA,基于SSM的基于SSM的二手交易平台设计与开发,https://github.com/opsadamgreenzgjp/JAVA-ntpqq-DAIMA,0,0,Java,,2026-09-16T04:48:04Z,2026-09-16,True,Long Context
-1372516239,opsadamgreenzgjp/JAVA-jlhux-DAIMA,基于SSM的基于ssm的星巴克咖啡店管理系统+vue.rar,https://github.com/opsadamgreenzgjp/JAVA-jlhux-DAIMA,0,0,Java,,2026-09-16T04:34:24Z,2026-09-16,True,Long Context
-1371329202,opsadamgreenzgjp/JAVA-gmrcw-DAIMA,基于SSM的基于ssm+vue的中国版Blackboard学习系统实现+vue,https://github.com/opsadamgreenzgjp/JAVA-gmrcw-DAIMA,0,0,Java,,2026-09-15T11:19:47Z,2026-09-16,True,Long Context
-1372402503,SARNI0728/auto_rental,学习ssm之后的项目,https://github.com/SARNI0728/auto_rental,0,0,Java,,2026-09-16T02:06:17Z,2026-09-16,True,Long Context
-1371391473,opsadamgreenzgjp/JAVA-vbcvt-DAIMA,基于SSM的基于SSM的宠物服务平台的设计与实现+vue,https://github.com/opsadamgreenzgjp/JAVA-vbcvt-DAIMA,0,0,Java,,2026-09-15T12:00:35Z,2026-09-16,True,Long Context
-1372510608,opsadamgreenzgjp/JAVA-gqpov-DAIMA,基于SSM的基于SSM框架的二手房中介管理系统+vue.rar,https://github.com/opsadamgreenzgjp/JAVA-gqpov-DAIMA,0,0,Java,,2026-09-16T04:27:26Z,2026-09-16,True,Long Context
-1371394944,opsadamgreenzgjp/JAVA-vmuun-DAIMA,基于SSM的基于SSM框架的P2P借贷网站设计与实现+vue,https://github.com/opsadamgreenzgjp/JAVA-vmuun-DAIMA,0,0,Java,,2026-09-15T12:03:06Z,2026-09-16,True,Long Context
-1371379095,opsadamgreenzgjp/JAVA-siyaq-DAIMA,基于SSM的基于SSM的图书借阅管理系统的设计与开发+vue,https://github.com/opsadamgreenzgjp/JAVA-siyaq-DAIMA,0,0,Java,,2026-09-15T11:51:34Z,2026-09-16,True,Long Context
-1371369344,opsadamgreenzgjp/JAVA-qggod-DAIMA,基于SSM的基于SSM的快递信息管理系统的设计与实现+vue,https://github.com/opsadamgreenzgjp/JAVA-qggod-DAIMA,0,0,Java,,2026-09-15T11:45:51Z,2026-09-16,True,Long Context
-1371390343,opsadamgreenzgjp/JAVA-upvlz-DAIMA,基于SSM的基于SSM的体育用品交易网站的设计与实现+vue,https://github.com/opsadamgreenzgjp/JAVA-upvlz-DAIMA,0,0,Java,,2026-09-15T11:59:46Z,2026-09-16,True,Long Context
-1371340127,opsadamgreenzgjp/JAVA-kbltf-DAIMA,基于SSM的基于SSM框架的漫画阅读系统的设计与开发+vue,https://github.com/opsadamgreenzgjp/JAVA-kbltf-DAIMA,0,0,Java,,2026-09-15T11:28:24Z,2026-09-16,True,Long Context
-1371555919,stuartschoenhal/payment-order-succes-by-stoyanov29-hotmail.com-ssmjwmto,,https://github.com/stuartschoenhal/payment-order-succes-by-stoyanov29-hotmail.com-ssmjwmto,0,0,DIGITAL Command Language,,2026-09-15T13:49:45Z,2026-09-16,True,Long Context
-1371372418,opsadamgreenzgjp/JAVA-qrald-DAIMA,基于SSM的小工程预算+jsp,https://github.com/opsadamgreenzgjp/JAVA-qrald-DAIMA,0,0,Java,,2026-09-15T11:47:29Z,2026-09-16,True,Long Context
-1371412651,opsadamgreenzgjp/JAVA-ztcue-DAIMA,基于SSM的C2C商务网站+vue,https://github.com/opsadamgreenzgjp/JAVA-ztcue-DAIMA,0,0,Java,,2026-09-15T12:15:50Z,2026-09-16,True,Long Context
-1371370870,opsadamgreenzgjp/JAVA-qjytw-DAIMA,基于SSM的基于SSM框架的民宿预订管理系统设计与实现+vue,https://github.com/opsadamgreenzgjp/JAVA-qjytw-DAIMA,0,0,Java,,2026-09-15T11:46:40Z,2026-09-16,True,Long Context
-1371388152,opsadamgreenzgjp/JAVA-udvjv-DAIMA,基于SSM的actual self 服装店+jsp,https://github.com/opsadamgreenzgjp/JAVA-udvjv-DAIMA,0,0,Java,,2026-09-15T11:58:13Z,2026-09-16,True,Long Context
-1372499579,opsadamgreenzgjp/JAVA-arsqr-DAIMA,基于SSM的基于SSM的高校运动会管理系统的设计与实现+vue,https://github.com/opsadamgreenzgjp/JAVA-arsqr-DAIMA,0,0,Java,,2026-09-16T04:13:12Z,2026-09-16,True,Long Context
-1371398879,opsadamgreenzgjp/JAVA-vzzzb-DAIMA,基于SSM的基于ssm的心理预约咨询管理系统的设计与实现+vue,https://github.com/opsadamgreenzgjp/JAVA-vzzzb-DAIMA,0,0,Java,,2026-09-15T12:05:57Z,2026-09-16,True,Long Context
-1371327664,opsadamgreenzgjp/JAVA-gcssw-DAIMA,基于SSM的基于SSM的的农产品线上销售网站的设计与实现+vue,https://github.com/opsadamgreenzgjp/JAVA-gcssw-DAIMA,0,0,Java,,2026-09-15T11:18:32Z,2026-09-16,True,Long Context
-1371345453,opsadamgreenzgjp/JAVA-kxqqg-DAIMA,基于SSM的基于SSM框架的音乐产品购物网站的设计与实现+vue,https://github.com/opsadamgreenzgjp/JAVA-kxqqg-DAIMA,0,0,Java,,2026-09-15T11:32:34Z,2026-09-16,True,Long Context
-1371335382,opsadamgreenzgjp/JAVA-ixlcd-DAIMA,基于SSM的基于ssm技术的金融支付终端管理系统设计与实现+jsp,https://github.com/opsadamgreenzgjp/JAVA-ixlcd-DAIMA,0,0,Java,,2026-09-15T11:24:47Z,2026-09-16,True,Long Context
-1371312668,opsadamgreenzgjp/JAVA-daddd-DAIMA,基于SSM的教务管理系统+vue,https://github.com/opsadamgreenzgjp/JAVA-daddd-DAIMA,0,0,Java,,2026-09-15T11:06:05Z,2026-09-16,True,Long Context
-1372538010,opsadamgreenzgjp/JAVA-smmnl-DAIMA,基于SSM的基于SSM的小码创客教育教学资源库的设计与实现+vue,https://github.com/opsadamgreenzgjp/JAVA-smmnl-DAIMA,0,0,Java,,2026-09-16T04:58:52Z,2026-09-16,True,Long Context
-1371400518,opsadamgreenzgjp/JAVA-wcmaz-DAIMA,基于SSM的网页商城系统+vue,https://github.com/opsadamgreenzgjp/JAVA-wcmaz-DAIMA,0,0,Java,,2026-09-15T12:07:06Z,2026-09-16,True,Long Context
-1371926938,valsoter0/payment-order-succes-by-mraewray-gmail.com-2ssmei5b,,https://github.com/valsoter0/payment-order-succes-by-mraewray-gmail.com-2ssmei5b,0,0,DIGITAL Command Language,,2026-09-15T18:15:20Z,2026-09-16,True,Long Context
-1371311271,opsadamgreenzgjp/JAVA-copgw-DAIMA,基于SSM的ssm673疫苗预约系统+vue,https://github.com/opsadamgreenzgjp/JAVA-copgw-DAIMA,0,0,Java,,2026-09-15T11:04:48Z,2026-09-16,True,Long Context
-1372512599,opsadamgreenzgjp/JAVA-hkxyl-DAIMA,基于SSM的图书管理系统+vue.rar,https://github.com/opsadamgreenzgjp/JAVA-hkxyl-DAIMA,0,0,Java,,2026-09-16T04:29:53Z,2026-09-16,True,Long Context
-1371361196,opsadamgreenzgjp/JAVA-otgqo-DAIMA,基于SSM的实验室预约管理+vue,https://github.com/opsadamgreenzgjp/JAVA-otgqo-DAIMA,0,0,Java,,2026-09-15T11:41:29Z,2026-09-16,True,Long Context
-1371428443,julianegouchie/Order-Already-paid-by-csakers102-comcast.net-6tyv2ssm,,https://github.com/julianegouchie/Order-Already-paid-by-csakers102-comcast.net-6tyv2ssm,0,0,,,2026-09-15T12:27:08Z,2026-09-16,True,Long Context
-1371334880,opsadamgreenzgjp/JAVA-inuuz-DAIMA,基于SSM的高校宿舍管理系统+vue,https://github.com/opsadamgreenzgjp/JAVA-inuuz-DAIMA,0,0,Java,,2026-09-15T11:24:21Z,2026-09-16,True,Long Context
-1371335922,opsadamgreenzgjp/JAVA-jfxzm-DAIMA,基于SSM的学生考勤管理系统+vue,https://github.com/opsadamgreenzgjp/JAVA-jfxzm-DAIMA,0,0,Java,,2026-09-15T11:25:09Z,2026-09-16,True,Long Context
-1371397059,opsadamgreenzgjp/JAVA-vtilo-DAIMA,基于SSM的学术团队管理系统+jsp,https://github.com/opsadamgreenzgjp/JAVA-vtilo-DAIMA,0,0,Java,,2026-09-15T12:04:39Z,2026-09-16,True,Long Context
-1371307252,opsadamgreenzgjp/JAVA-bguwh-DAIMA,基于SSM的政务大厅管理系统+vue,https://github.com/opsadamgreenzgjp/JAVA-bguwh-DAIMA,0,0,Java,,2026-09-15T11:01:14Z,2026-09-16,True,Long Context
-1371370067,opsadamgreenzgjp/JAVA-qicnk-DAIMA,基于SSM的网站的设计与实现+vue,https://github.com/opsadamgreenzgjp/JAVA-qicnk-DAIMA,0,0,Java,,2026-09-15T11:46:14Z,2026-09-16,True,Long Context
-1372533509,opsadamgreenzgjp/JAVA-qkjeb-DAIMA,基于SSM的基于jsp的网上商城+jsp,https://github.com/opsadamgreenzgjp/JAVA-qkjeb-DAIMA,0,0,Java,,2026-09-16T04:54:17Z,2026-09-16,True,Long Context
-1371365628,opsadamgreenzgjp/JAVA-pqket-DAIMA,基于SSM的企业在线培训系统+vue,https://github.com/opsadamgreenzgjp/JAVA-pqket-DAIMA,0,0,Java,,2026-09-15T11:43:56Z,2026-09-16,True,Long Context
-1371328222,opsadamgreenzgjp/JAVA-gjyjj-DAIMA,基于SSM的学生奖惩管理系统+vue,https://github.com/opsadamgreenzgjp/JAVA-gjyjj-DAIMA,0,0,Java,,2026-09-15T11:18:59Z,2026-09-16,True,Long Context
-1371354308,opsadamgreenzgjp/JAVA-mxxhf-DAIMA,基于SSM的社区人员管理系统+vue,https://github.com/opsadamgreenzgjp/JAVA-mxxhf-DAIMA,0,0,Java,,2026-09-15T11:37:45Z,2026-09-16,True,Long Context
-1371319241,opsadamgreenzgjp/JAVA-emffi-DAIMA,基于SSM的学生工作管理系统+jsp,https://github.com/opsadamgreenzgjp/JAVA-emffi-DAIMA,0,0,Java,,2026-09-15T11:11:44Z,2026-09-16,True,Long Context
-1372540535,opsadamgreenzgjp/JAVA-tcioz-DAIMA,基于SSM的老年公寓信息管理+jsp,https://github.com/opsadamgreenzgjp/JAVA-tcioz-DAIMA,0,0,Java,,2026-09-16T05:01:44Z,2026-09-16,True,Long Context
-1371414205,opsadamgreenzgjp/JAVA-zyauu-DAIMA,基于SSM的航空信息管理系统+vue,https://github.com/opsadamgreenzgjp/JAVA-zyauu-DAIMA,0,0,Java,,2026-09-15T12:16:55Z,2026-09-16,True,Long Context
-1371403910,opsadamgreenzgjp/JAVA-wxqhq-DAIMA,基于微信小程序的模拟考试+ssm,https://github.com/opsadamgreenzgjp/JAVA-wxqhq-DAIMA,0,0,Java,,2026-09-15T12:09:33Z,2026-09-16,True,Long Context
-1371352807,opsadamgreenzgjp/JAVA-mstvq-DAIMA,基于SSM的花卉库存管理系统+vue,https://github.com/opsadamgreenzgjp/JAVA-mstvq-DAIMA,0,0,Java,,2026-09-15T11:36:58Z,2026-09-16,True,Long Context
-1371388661,opsadamgreenzgjp/JAVA-ujkre-DAIMA,基于SSM的西安旅游管理系统+vue,https://github.com/opsadamgreenzgjp/JAVA-ujkre-DAIMA,0,0,Java,,2026-09-15T11:58:35Z,2026-09-16,True,Long Context
-1372506789,opsadamgreenzgjp/JAVA-fakkr-DAIMA,基于SSM的中国文学作品网站+vue,https://github.com/opsadamgreenzgjp/JAVA-fakkr-DAIMA,0,0,Java,,2026-09-16T04:22:27Z,2026-09-16,True,Long Context
-1371302505,opsadamgreenzgjp/JAVA-ahfso-DAIMA,基于SSM的校园疫情管控系统+jsp,https://github.com/opsadamgreenzgjp/JAVA-ahfso-DAIMA,0,0,Java,,2026-09-15T10:56:51Z,2026-09-16,True,Long Context
-1371406128,opsadamgreenzgjp/JAVA-xebjk-DAIMA,基于SSM的校园报修管理系统+vue,https://github.com/opsadamgreenzgjp/JAVA-xebjk-DAIMA,0,0,Java,,2026-09-15T12:11:08Z,2026-09-16,True,Long Context
-1371327199,opsadamgreenzgjp/JAVA-fyndy-DAIMA,基于SSM的个人消费管理系统+vue,https://github.com/opsadamgreenzgjp/JAVA-fyndy-DAIMA,0,0,Java,,2026-09-15T11:18:09Z,2026-09-16,True,Long Context
-1372516516,opsadamgreenzgjp/JAVA-jloju-DAIMA,基于SSM的高校勤工助学系统+vue,https://github.com/opsadamgreenzgjp/JAVA-jloju-DAIMA,0,0,Java,,2026-09-16T04:34:46Z,2026-09-16,True,Long Context
-1371306789,opsadamgreenzgjp/JAVA-bgmgp-DAIMA,基于SSM的小区物业管理系统+jsp,https://github.com/opsadamgreenzgjp/JAVA-bgmgp-DAIMA,0,0,Java,,2026-09-15T11:00:51Z,2026-09-16,True,Long Context
-1371402817,opsadamgreenzgjp/JAVA-wshaa-DAIMA,基于SSM的白云会议管理系统+vue,https://github.com/opsadamgreenzgjp/JAVA-wshaa-DAIMA,0,0,Java,,2026-09-15T12:08:43Z,2026-09-16,True,Long Context
-1371382999,opsadamgreenzgjp/JAVA-tkxdn-DAIMA,基于SSM的基于Javaweb的小说阅读平台,https://github.com/opsadamgreenzgjp/JAVA-tkxdn-DAIMA,0,0,Java,,2026-09-15T11:54:29Z,2026-09-16,True,Long Context
-1371413710,opsadamgreenzgjp/JAVA-zxrhg-DAIMA,基于SSM的兰亭序图书管理系统+vue,https://github.com/opsadamgreenzgjp/JAVA-zxrhg-DAIMA,0,0,Java,,2026-09-15T12:16:34Z,2026-09-16,True,Long Context
-1371390962,opsadamgreenzgjp/JAVA-uvcce-DAIMA,基于SSM的大学生成果登记系统+jsp,https://github.com/opsadamgreenzgjp/JAVA-uvcce-DAIMA,0,0,Java,,2026-09-15T12:00:12Z,2026-09-16,True,Long Context
-1372501823,opsadamgreenzgjp/JAVA-bovvu-DAIMA,基于SSM的淘乐乐员工购物商城+jsp,https://github.com/opsadamgreenzgjp/JAVA-bovvu-DAIMA,0,0,Java,,2026-09-16T04:16:05Z,2026-09-16,True,Long Context
-1372523274,opsadamgreenzgjp/JAVA-mjqbi-DAIMA,基于SSM的素材网的设计与实现+vue,https://github.com/opsadamgreenzgjp/JAVA-mjqbi-DAIMA,0,0,Java,,2026-09-16T04:43:18Z,2026-09-16,True,Long Context
-1372496550,opsadamgreenzgjp/JAVA-abqmk-DAIMA,基于SSM的基于vue的个人课表管理+vue,https://github.com/opsadamgreenzgjp/JAVA-abqmk-DAIMA,0,0,Java,,2026-09-16T04:09:16Z,2026-09-16,True,Long Context
-1371316400,opsadamgreenzgjp/JAVA-dxkzu-DAIMA,基于SSM的基于java的游戏后台系统+vue,https://github.com/opsadamgreenzgjp/JAVA-dxkzu-DAIMA,0,0,Java,,2026-09-15T11:09:22Z,2026-09-16,True,Long Context
-1372527002,opsadamgreenzgjp/JAVA-nknmr-DAIMA,基于SSM的马病管理系统设计与实现,https://github.com/opsadamgreenzgjp/JAVA-nknmr-DAIMA,0,0,Java,,2026-09-16T04:47:44Z,2026-09-16,True,Long Context
-1371755166,aryanramz/aws-web-deployment-portfolio,"Terraform-based AWS web deployment with ALB, EC2, SSM, GitHub OIDC, and reviewed infrastructure applies",https://github.com/aryanramz/aws-web-deployment-portfolio,1,0,HCL,,2026-09-15T16:04:01Z,2026-09-16,True,Long Context
-1371314587,opsadamgreenzgjp/JAVA-dekik-DAIMA,基于SSM的精品课程在线学习系统+jsp,https://github.com/opsadamgreenzgjp/JAVA-dekik-DAIMA,0,0,Java,,2026-09-15T11:07:45Z,2026-09-16,True,Long Context
-1371309908,opsadamgreenzgjp/JAVA-cdynw-DAIMA,基于SSM的Javaweb的网上花店系统的设计,https://github.com/opsadamgreenzgjp/JAVA-cdynw-DAIMA,0,0,Java,,2026-09-15T11:03:34Z,2026-09-16,True,Long Context
-1371336434,opsadamgreenzgjp/JAVA-jkqzq-DAIMA,基于SSM的驾考自主学习预约平台+vue,https://github.com/opsadamgreenzgjp/JAVA-jkqzq-DAIMA,0,0,Java,,2026-09-15T11:25:35Z,2026-09-16,True,Long Context
-1372513243,opsadamgreenzgjp/JAVA-huaog-DAIMA,基于SSM的ssmOA办公系统设计与实现+vue,https://github.com/opsadamgreenzgjp/JAVA-huaog-DAIMA,0,0,Java,,2026-09-16T04:30:38Z,2026-09-16,True,Long Context
-1372508141,opsadamgreenzgjp/JAVA-fuwxa-DAIMA,基于SSM的人事档案管理系统的设计,https://github.com/opsadamgreenzgjp/JAVA-fuwxa-DAIMA,0,0,Java,,2026-09-16T04:24:10Z,2026-09-16,True,Long Context
-1371324397,opsadamgreenzgjp/JAVA-fniwp-DAIMA,基于微信小程序的汽车保养系统+ssm,https://github.com/opsadamgreenzgjp/JAVA-fniwp-DAIMA,0,0,Java,,2026-09-15T11:15:53Z,2026-09-16,True,Long Context
-1371345980,opsadamgreenzgjp/JAVA-leerb-DAIMA,基于SSM的科技银行业务管理系统+vue,https://github.com/opsadamgreenzgjp/JAVA-leerb-DAIMA,0,0,Java,,2026-09-15T11:32:59Z,2026-09-16,True,Long Context
-1371306387,opsadamgreenzgjp/JAVA-awizr-DAIMA,基于SSM的基于java 的病房管理系统+vue,https://github.com/opsadamgreenzgjp/JAVA-awizr-DAIMA,0,0,Java,,2026-09-15T11:00:29Z,2026-09-16,True,Long Context
-1372537779,opsadamgreenzgjp/JAVA-shjyc-DAIMA,基于SSM的实验室管理与排课系统+vue,https://github.com/opsadamgreenzgjp/JAVA-shjyc-DAIMA,0,0,Java,,2026-09-16T04:58:33Z,2026-09-16,True,Long Context
-1371321022,opsadamgreenzgjp/JAVA-ezdoz-DAIMA,基于SSM的个人日常事务管理系统+vue,https://github.com/opsadamgreenzgjp/JAVA-ezdoz-DAIMA,0,0,Java,,2026-09-15T11:13:15Z,2026-09-16,True,Long Context
-1371392584,opsadamgreenzgjp/JAVA-vccpf-DAIMA,基于微信小程序的教师管理系统+ssm,https://github.com/opsadamgreenzgjp/JAVA-vccpf-DAIMA,0,0,Java,,2026-09-15T12:01:23Z,2026-09-16,True,Long Context
-1371321909,opsadamgreenzgjp/JAVA-faweb-DAIMA,基于SSM的Java Web的在线电影票购买系统,https://github.com/opsadamgreenzgjp/JAVA-faweb-DAIMA,0,0,Java,,2026-09-15T11:13:58Z,2026-09-16,True,Long Context
-1371311789,opsadamgreenzgjp/JAVA-cvzuu-DAIMA,基于SSM的基于VUE.js的在线教育系统+vue,https://github.com/opsadamgreenzgjp/JAVA-cvzuu-DAIMA,0,0,Java,,2026-09-15T11:05:16Z,2026-09-16,True,Long Context
-1371349912,opsadamgreenzgjp/JAVA-mdqbr-DAIMA,基于SSM的个体户商城的设计与实现+jsp,https://github.com/opsadamgreenzgjp/JAVA-mdqbr-DAIMA,0,0,Java,,2026-09-15T11:35:24Z,2026-09-16,True,Long Context
-1371380758,opsadamgreenzgjp/JAVA-swtwa-DAIMA,基于SSM的课程教学网站设计与实现+vue,https://github.com/opsadamgreenzgjp/JAVA-swtwa-DAIMA,0,0,Java,,2026-09-15T11:52:51Z,2026-09-16,True,Long Context
-1371346929,opsadamgreenzgjp/JAVA-lublb-DAIMA,基于微信小程序的实习记录小程序+ssm,https://github.com/opsadamgreenzgjp/JAVA-lublb-DAIMA,0,0,Java,,2026-09-15T11:33:44Z,2026-09-16,True,Long Context
-1371389158,opsadamgreenzgjp/JAVA-ukita-DAIMA,基于SSM的spring和vue开发的web新闻流媒体,https://github.com/opsadamgreenzgjp/JAVA-ukita-DAIMA,0,0,Java,,2026-09-15T11:58:57Z,2026-09-16,True,Long Context
-1372504593,opsadamgreenzgjp/JAVA-dtclk-DAIMA,基于SSM的健身管理系统开发与设计+jsp,https://github.com/opsadamgreenzgjp/JAVA-dtclk-DAIMA,0,0,Java,,2026-09-16T04:19:47Z,2026-09-16,True,Long Context
-1372503231,opsadamgreenzgjp/JAVA-dagzx-DAIMA,基于SSM的二手车交易平台的设计+jsp.rar,https://github.com/opsadamgreenzgjp/JAVA-dagzx-DAIMA,0,0,Java,,2026-09-16T04:17:58Z,2026-09-16,True,Long Context
-1372533951,opsadamgreenzgjp/JAVA-qsytl-DAIMA,基于SSM的Java Web的怀旧唱片售卖系统+vue,https://github.com/opsadamgreenzgjp/JAVA-qsytl-DAIMA,0,0,Java,,2026-09-16T04:54:43Z,2026-09-16,True,Long Context
-1371308100,opsadamgreenzgjp/JAVA-bllxh-DAIMA,基于SSM的基于Java web的住院管理系统+vue,https://github.com/opsadamgreenzgjp/JAVA-bllxh-DAIMA,0,0,Java,,2026-09-15T11:02:00Z,2026-09-16,True,Long Context
-1371409898,opsadamgreenzgjp/JAVA-ypglf-DAIMA,基于SSM的高校毕业生就业管理系统+jsp,https://github.com/opsadamgreenzgjp/JAVA-ypglf-DAIMA,0,0,Java,,2026-09-15T12:13:51Z,2026-09-16,True,Long Context
-1371363536,opsadamgreenzgjp/JAVA-pnxko-DAIMA,基于SSM的基于SpringMVC网上选课系统的设计,https://github.com/opsadamgreenzgjp/JAVA-pnxko-DAIMA,0,0,Java,,2026-09-15T11:42:44Z,2026-09-16,True,Long Context
-1372538722,uxemilytaylorhmhs/JAVA-stuqn-DAIMA,基于SSM的Java Web 的校园驿站管理系统+jsp,https://github.com/uxemilytaylorhmhs/JAVA-stuqn-DAIMA,0,0,Java,,2026-09-16T04:59:44Z,2026-09-16,True,Long Context
-1371307639,opsadamgreenzgjp/JAVA-bigab-DAIMA,基于SSM的基于Java Web的医疗系统实现+vue,https://github.com/opsadamgreenzgjp/JAVA-bigab-DAIMA,0,0,Java,,2026-09-15T11:01:35Z,2026-09-16,True,Long Context
-1371368526,opsadamgreenzgjp/JAVA-qcpol-DAIMA,基于SSM的Javaweb的网上奶茶店系统的设计,https://github.com/opsadamgreenzgjp/JAVA-qcpol-DAIMA,0,0,Java,,2026-09-15T11:45:24Z,2026-09-16,True,Long Context
-1371393245,opsadamgreenzgjp/JAVA-vezlu-DAIMA,基于SSM的基于电商平台的用户画像+vue,https://github.com/opsadamgreenzgjp/JAVA-vezlu-DAIMA,0,0,Java,,2026-09-15T12:01:50Z,2026-09-16,True,Long Context
-1371346529,opsadamgreenzgjp/JAVA-lgeou-DAIMA,基于微信小程序的微信阅读小程序+ssm,https://github.com/opsadamgreenzgjp/JAVA-lgeou-DAIMA,0,0,Java,,2026-09-15T11:33:25Z,2026-09-16,True,Long Context
-1372509260,uxemilytaylorhmhs/JAVA-hmjpi-DAIMA,基于SSM的小型企业办公自动化系统+vue,https://github.com/uxemilytaylorhmhs/JAVA-hmjpi-DAIMA,0,0,Java,,2026-09-16T04:25:42Z,2026-09-16,True,Long Context
-1371340528,opsadamgreenzgjp/JAVA-kexvt-DAIMA,基于SSM的普通话培训信息管理系统+jsp,https://github.com/opsadamgreenzgjp/JAVA-kexvt-DAIMA,0,0,Java,,2026-09-15T11:28:43Z,2026-09-16,True,Long Context
-1372514164,opsadamgreenzgjp/JAVA-ihbxg-DAIMA,基于SSM的vue框架和elementui组件的手机官网,https://github.com/opsadamgreenzgjp/JAVA-ihbxg-DAIMA,0,0,Java,,2026-09-16T04:31:46Z,2026-09-16,True,Long Context
-1372532492,uxemilytaylorhmhs/JAVA-qmhnj-DAIMA,基于SSM的java+mysql多角色学生管理系统+jsp,https://github.com/uxemilytaylorhmhs/JAVA-qmhnj-DAIMA,0,0,Java,,2026-09-16T04:53:12Z,2026-09-16,True,Long Context
-1372502348,opsadamgreenzgjp/JAVA-cipmb-DAIMA,基于SSM的java web 的QQ村旅游网站的设计,https://github.com/opsadamgreenzgjp/JAVA-cipmb-DAIMA,0,0,Java,,2026-09-16T04:16:49Z,2026-09-16,True,Long Context
-1372510143,opsadamgreenzgjp/JAVA-gppfb-DAIMA,基于SSM的基于Javaee的影视创作论坛的设计,https://github.com/opsadamgreenzgjp/JAVA-gppfb-DAIMA,0,0,Java,,2026-09-16T04:26:48Z,2026-09-16,True,Long Context
-1371326228,opsadamgreenzgjp/JAVA-fvdvj-DAIMA,基于SSM的心理测评系统的设计与实现+vue,https://github.com/opsadamgreenzgjp/JAVA-fvdvj-DAIMA,0,0,Java,,2026-09-15T11:17:22Z,2026-09-16,True,Long Context
-1371410974,opsadamgreenzgjp/JAVA-yucho-DAIMA,基于SSM的长安材料批发市场管理系统+jsp,https://github.com/opsadamgreenzgjp/JAVA-yucho-DAIMA,0,0,Java,,2026-09-15T12:14:37Z,2026-09-16,True,Long Context
-1372503800,opsadamgreenzgjp/JAVA-dgike-DAIMA,基于SSM的基于web 的个人时间管理系统+vue,https://github.com/opsadamgreenzgjp/JAVA-dgike-DAIMA,0,0,Java,,2026-09-16T04:18:43Z,2026-09-16,True,Long Context
-1371325777,opsadamgreenzgjp/JAVA-ftqcs-DAIMA,基于SSM的图书管理系统的设计与实现+vue,https://github.com/opsadamgreenzgjp/JAVA-ftqcs-DAIMA,0,0,Java,,2026-09-15T11:17:01Z,2026-09-16,True,Long Context
-1372514997,opsadamgreenzgjp/JAVA-izqgj-DAIMA,基于SSM的物资物流系统的设计与实现+vue,https://github.com/opsadamgreenzgjp/JAVA-izqgj-DAIMA,0,0,Java,,2026-09-16T04:32:52Z,2026-09-16,True,Long Context
-1371409400,opsadamgreenzgjp/JAVA-ykfjz-DAIMA,基于SSM的JAVA的校园失物招领平台的设计,https://github.com/opsadamgreenzgjp/JAVA-ykfjz-DAIMA,0,0,Java,,2026-09-15T12:13:29Z,2026-09-16,True,Long Context
-1371353516,opsadamgreenzgjp/JAVA-mvktp-DAIMA,基于SSM的基于java的智能训练管理平台+vue,https://github.com/opsadamgreenzgjp/JAVA-mvktp-DAIMA,0,0,Java,,2026-09-15T11:37:20Z,2026-09-16,True,Long Context
-1372497365,opsadamgreenzgjp/JAVA-agjtw-DAIMA,基于SSM的线上选课系统的设计与实现+jsp,https://github.com/opsadamgreenzgjp/JAVA-agjtw-DAIMA,0,0,Java,,2026-09-16T04:10:20Z,2026-09-16,True,Long Context
-1371351413,opsadamgreenzgjp/JAVA-mgtnh-DAIMA,基于SSM的基于JSP的高校听课评价系统+jsp,https://github.com/opsadamgreenzgjp/JAVA-mgtnh-DAIMA,0,0,Java,,2026-09-15T11:36:14Z,2026-09-16,True,Long Context
-1372502689,opsadamgreenzgjp/JAVA-cmsdl-DAIMA,基于SSM的J2EE开发的猎头公司管理系统+vue,https://github.com/opsadamgreenzgjp/JAVA-cmsdl-DAIMA,0,0,Java,,2026-09-16T04:17:14Z,2026-09-16,True,Long Context
-1371329769,opsadamgreenzgjp/JAVA-grmdb-DAIMA,基于SSM的同城蔬菜配送管理系统研究+jsp,https://github.com/opsadamgreenzgjp/JAVA-grmdb-DAIMA,0,0,Java,,2026-09-15T11:20:14Z,2026-09-16,True,Long Context
-1371401092,opsadamgreenzgjp/JAVA-wevle-DAIMA,基于SSM的图片素材网站的设计与实现+vue,https://github.com/opsadamgreenzgjp/JAVA-wevle-DAIMA,0,0,Java,,2026-09-15T12:07:29Z,2026-09-16,True,Long Context
-1371396507,opsadamgreenzgjp/JAVA-vqdwd-DAIMA,基于SSM的Java web的高校学生课堂考勤系统,https://github.com/opsadamgreenzgjp/JAVA-vqdwd-DAIMA,0,0,Java,,2026-09-15T12:04:16Z,2026-09-16,True,Long Context
-1372506555,opsadamgreenzgjp/JAVA-exjjv-DAIMA,基于SSM的基于JAVA的网上订餐管理系统+vue,https://github.com/opsadamgreenzgjp/JAVA-exjjv-DAIMA,0,0,Java,,2026-09-16T04:22:09Z,2026-09-16,True,Long Context
-1372526541,uxemilytaylorhmhs/JAVA-msdxu-DAIMA,基于SSM的龙腾公司员工信息管理系统+jsp,https://github.com/uxemilytaylorhmhs/JAVA-msdxu-DAIMA,0,0,Java,,2026-09-16T04:47:18Z,2026-09-16,True,Long Context
-1372512028,opsadamgreenzgjp/JAVA-hedcg-DAIMA,基于SSM的基于Vue.js的网上招聘系统设计,https://github.com/opsadamgreenzgjp/JAVA-hedcg-DAIMA,0,0,Java,,2026-09-16T04:29:10Z,2026-09-16,True,Long Context
-1372504756,uxemilytaylorhmhs/JAVA-fedic-DAIMA,基于SSM的家居商城系统的设计与实现+jsp,https://github.com/uxemilytaylorhmhs/JAVA-fedic-DAIMA,0,0,Java,,2026-09-16T04:19:59Z,2026-09-16,True,Long Context
-1371393816,opsadamgreenzgjp/JAVA-vhokt-DAIMA,基于SSM的Java Web的学生宿舍管理系统设计,https://github.com/opsadamgreenzgjp/JAVA-vhokt-DAIMA,0,0,Java,,2026-09-15T12:02:16Z,2026-09-16,True,Long Context
-1372507553,opsadamgreenzgjp/JAVA-fineo-DAIMA,基于SSM的基于Java的小区物业管理系统+vue,https://github.com/opsadamgreenzgjp/JAVA-fineo-DAIMA,0,0,Java,,2026-09-16T04:23:26Z,2026-09-16,True,Long Context
-1371349124,opsadamgreenzgjp/JAVA-mbecj-DAIMA,基于SSM的基于Java Web贫困认定管理平台+vue,https://github.com/opsadamgreenzgjp/JAVA-mbecj-DAIMA,0,0,Java,,2026-09-15T11:34:58Z,2026-09-16,True,Long Context
-1371385968,opsadamgreenzgjp/JAVA-twdbh-DAIMA,基于SSM的Javaweb的物流信息管理系统的设计,https://github.com/opsadamgreenzgjp/JAVA-twdbh-DAIMA,0,0,Java,,2026-09-15T11:56:35Z,2026-09-16,True,Long Context
-1371313595,opsadamgreenzgjp/JAVA-dcmmt-DAIMA,基于SSM的公司员工工作日志办公系统+vue,https://github.com/opsadamgreenzgjp/JAVA-dcmmt-DAIMA,0,0,Java,,2026-09-15T11:06:54Z,2026-09-16,True,Long Context
-1371381873,opsadamgreenzgjp/JAVA-tcuho-DAIMA,基于SSM的企业员工岗前培训管理系统+vue,https://github.com/opsadamgreenzgjp/JAVA-tcuho-DAIMA,0,0,Java,,2026-09-15T11:53:40Z,2026-09-16,True,Long Context
-1371407181,opsadamgreenzgjp/JAVA-xsmfy-DAIMA,基于SSM的音乐管理系统的设计与实现+vue,https://github.com/opsadamgreenzgjp/JAVA-xsmfy-DAIMA,0,0,Java,,2026-09-15T12:11:54Z,2026-09-16,True,Long Context
-1371310391,opsadamgreenzgjp/JAVA-cgpks-DAIMA,基于SSM的java的自助医疗服务系统的设计,https://github.com/opsadamgreenzgjp/JAVA-cgpks-DAIMA,0,0,Java,,2026-09-15T11:04:00Z,2026-09-16,True,Long Context
-1371332676,opsadamgreenzgjp/JAVA-hyjko-DAIMA,基于SSM的网上拍卖系统的设计与实现+jsp,https://github.com/opsadamgreenzgjp/JAVA-hyjko-DAIMA,0,0,Java,,2026-09-15T11:22:33Z,2026-09-16,True,Long Context
-1371384228,opsadamgreenzgjp/JAVA-tpcxq-DAIMA,基于SSM的穿戴搭配系统的设计与实现+vue,https://github.com/opsadamgreenzgjp/JAVA-tpcxq-DAIMA,0,0,Java,,2026-09-15T11:55:22Z,2026-09-16,True,Long Context
-1372521767,opsadamgreenzgjp/JAVA-lusam-DAIMA,基于SSM的基于JAVA的图书馆预约占座系统,https://github.com/opsadamgreenzgjp/JAVA-lusam-DAIMA,0,0,Java,,2026-09-16T04:41:30Z,2026-09-16,True,Long Context
-1371367823,opsadamgreenzgjp/JAVA-pyfeq-DAIMA,基于SSM的Java的众惠商城的设计与实现+vue,https://github.com/opsadamgreenzgjp/JAVA-pyfeq-DAIMA,0,0,Java,,2026-09-15T11:45:02Z,2026-09-16,True,Long Context
-1371336994,opsadamgreenzgjp/JAVA-jlisj-DAIMA,基于SSM的影院管理系统的设计与实现+jsp,https://github.com/opsadamgreenzgjp/JAVA-jlisj-DAIMA,0,0,Java,,2026-09-15T11:25:59Z,2026-09-16,True,Long Context
-1372539885,opsadamgreenzgjp/JAVA-szumk-DAIMA,基于SSM的房屋租赁平台的设计与开发+jsp,https://github.com/opsadamgreenzgjp/JAVA-szumk-DAIMA,0,0,Java,,2026-09-16T05:01:01Z,2026-09-16,True,Long Context
-1372526589,opsadamgreenzgjp/JAVA-njpay-DAIMA,基于SSM的基于Vue的量化积分管理系统+vue,https://github.com/opsadamgreenzgjp/JAVA-njpay-DAIMA,0,0,Java,,2026-09-16T04:47:20Z,2026-09-16,True,Long Context
-1371348488,opsadamgreenzgjp/JAVA-maahu-DAIMA,基于SSM的代驾应用系统的设计与实现+jsp,https://github.com/opsadamgreenzgjp/JAVA-maahu-DAIMA,0,0,Java,,2026-09-15T11:34:37Z,2026-09-16,True,Long Context
-1371408868,opsadamgreenzgjp/JAVA-ygxnz-DAIMA,基于SSM的基于JAVA的酒店客房管理系统+vue,https://github.com/opsadamgreenzgjp/JAVA-ygxnz-DAIMA,0,0,Java,,2026-09-15T12:13:06Z,2026-09-16,True,Long Context
-1372527714,opsadamgreenzgjp/JAVA-nwwan-DAIMA,基于SSM的基于java的网上手机销售系统+vue,https://github.com/opsadamgreenzgjp/JAVA-nwwan-DAIMA,0,0,Java,,2026-09-16T04:48:25Z,2026-09-16,True,Long Context
-1372525147,opsadamgreenzgjp/JAVA-mtytt-DAIMA,基于SSM的基于HTML5的交流论坛的设计与实现,https://github.com/opsadamgreenzgjp/JAVA-mtytt-DAIMA,0,0,Java,,2026-09-16T04:45:42Z,2026-09-16,True,Long Context
-1372509060,opsadamgreenzgjp/JAVA-gfxvl-DAIMA,基于SSM的题库管理系统的设计与实现+jsp.rar,https://github.com/opsadamgreenzgjp/JAVA-gfxvl-DAIMA,0,0,Java,,2026-09-16T04:25:25Z,2026-09-16,True,Long Context
-1372507418,uxemilytaylorhmhs/JAVA-gmaxu-DAIMA,基于SSM的亚盛汽车配件销售业绩管理统+jsp,https://github.com/uxemilytaylorhmhs/JAVA-gmaxu-DAIMA,0,0,Java,,2026-09-16T04:23:16Z,2026-09-16,True,Long Context
-1372529126,opsadamgreenzgjp/JAVA-orpzx-DAIMA,基于SSM的vue.js的购物商场的设计与实现+vue,https://github.com/opsadamgreenzgjp/JAVA-orpzx-DAIMA,0,0,Java,,2026-09-16T04:49:51Z,2026-09-16,True,Long Context
-1371352165,opsadamgreenzgjp/JAVA-mjdvj-DAIMA,基于SSM的学生学籍管理系统设计与实现+vue,https://github.com/opsadamgreenzgjp/JAVA-mjdvj-DAIMA,0,0,Java,,2026-09-15T11:36:37Z,2026-09-16,True,Long Context
-1372533155,opsadamgreenzgjp/JAVA-qgjwg-DAIMA,基于SSM的社区团购网站的设计与实现+jsp.rar,https://github.com/opsadamgreenzgjp/JAVA-qgjwg-DAIMA,0,0,Java,,2026-09-16T04:53:55Z,2026-09-16,True,Long Context
-1371319674,opsadamgreenzgjp/JAVA-epymb-DAIMA,基于SSM的java web的防疫工作志愿者服务平台,https://github.com/opsadamgreenzgjp/JAVA-epymb-DAIMA,0,0,Java,,2026-09-15T11:12:05Z,2026-09-16,True,Long Context
-1372520877,uxemilytaylorhmhs/JAVA-kyhmv-DAIMA,基于SSM的基于JSP的乡镇自来水收费系统+jsp,https://github.com/uxemilytaylorhmhs/JAVA-kyhmv-DAIMA,0,0,Java,,2026-09-16T04:40:25Z,2026-09-16,True,Long Context
-1371338699,opsadamgreenzgjp/JAVA-jsnyv-DAIMA,基于SSM的中小型餐厅网站的设计与实现+vue,https://github.com/opsadamgreenzgjp/JAVA-jsnyv-DAIMA,0,0,Java,,2026-09-15T11:27:19Z,2026-09-16,True,Long Context
-1371330279,opsadamgreenzgjp/JAVA-gwgef-DAIMA,基于SSM的基于java的实验室设备管理系统+jsp,https://github.com/opsadamgreenzgjp/JAVA-gwgef-DAIMA,0,0,Java,,2026-09-15T11:20:38Z,2026-09-16,True,Long Context
-1372512996,opsadamgreenzgjp/JAVA-hltbl-DAIMA,基于SSM的疫情防控管理系统设计与实现+vue,https://github.com/opsadamgreenzgjp/JAVA-hltbl-DAIMA,0,0,Java,,2026-09-16T04:30:18Z,2026-09-16,True,Long Context
-1372523825,opsadamgreenzgjp/JAVA-mmeuk-DAIMA,基于SSM的餐厅点餐系统的设计与实现+vue.rar,https://github.com/opsadamgreenzgjp/JAVA-mmeuk-DAIMA,0,0,Java,,2026-09-16T04:44:02Z,2026-09-16,True,Long Context
-1371305987,opsadamgreenzgjp/JAVA-avtbz-DAIMA,基于SSM的出租车管理系统的设计与实现+vue,https://github.com/opsadamgreenzgjp/JAVA-avtbz-DAIMA,0,0,Java,,2026-09-15T11:00:06Z,2026-09-16,True,Long Context
-1372497077,uxemilytaylorhmhs/JAVA-apjyq-DAIMA,基于SSM的基于jsp的精品酒销售管理系统+jsp,https://github.com/uxemilytaylorhmhs/JAVA-apjyq-DAIMA,0,0,Java,,2026-09-16T04:10:00Z,2026-09-16,True,Long Context
-1372539550,opsadamgreenzgjp/JAVA-sycbd-DAIMA,基于SSM的vue的音乐播放器的设计与实现+vue,https://github.com/opsadamgreenzgjp/JAVA-sycbd-DAIMA,0,0,Java,,2026-09-16T05:00:41Z,2026-09-16,True,Long Context
-1371323000,opsadamgreenzgjp/JAVA-fiqiu-DAIMA,基于SSM的基于web办事大厅政务预约系统+vue,https://github.com/opsadamgreenzgjp/JAVA-fiqiu-DAIMA,0,0,Java,,2026-09-15T11:14:48Z,2026-09-16,True,Long Context
-1372242612,teknojaya/devops-production-showcase,"Production DevOps engineering showcase covering AWS, Linux, Nginx, PM2, GitHub Actions, SSM deployment, PostgreSQL operations and infrastructure patterns.",https://github.com/teknojaya/devops-production-showcase,0,0,HCL,"aws,cicd,cloud,devops,docker,github-actions,kubernetes,linux,nginx,pm2,portfolio,postgresql,terraform",2026-09-15T23:05:59Z,2026-09-16,True,Long Context
-1371317272,opsadamgreenzgjp/JAVA-dyqud-DAIMA,基于SSM的Web的数字家庭网站设计与实现+vue,https://github.com/opsadamgreenzgjp/JAVA-dyqud-DAIMA,0,0,Java,,2026-09-15T11:10:08Z,2026-09-16,True,Long Context
-1371320072,opsadamgreenzgjp/JAVA-eqghh-DAIMA,基于SSM的VUE的儿童教育网站的设计与实现,https://github.com/opsadamgreenzgjp/JAVA-eqghh-DAIMA,0,0,Java,,2026-09-15T11:12:27Z,2026-09-16,True,Long Context
-1371401600,opsadamgreenzgjp/JAVA-wmtry-DAIMA,基于SSM的基于Java的壁纸网站设计与实现+vue,https://github.com/opsadamgreenzgjp/JAVA-wmtry-DAIMA,0,0,Java,,2026-09-15T12:07:50Z,2026-09-16,True,Long Context
-1372538624,opsadamgreenzgjp/JAVA-srcvs-DAIMA,基于SSM的echarts的基金交易网站的设计与实现,https://github.com/opsadamgreenzgjp/JAVA-srcvs-DAIMA,0,0,Java,,2026-09-16T04:59:37Z,2026-09-16,True,Long Context
-1372499930,opsadamgreenzgjp/JAVA-asnjo-DAIMA,基于SSM的javaweb的数学竞赛网站的设计与实现,https://github.com/opsadamgreenzgjp/JAVA-asnjo-DAIMA,0,0,Java,,2026-09-16T04:13:37Z,2026-09-16,True,Long Context
-1371333130,opsadamgreenzgjp/JAVA-icplf-DAIMA,基于微信小程序的订餐系统设计与实现+ssm,https://github.com/opsadamgreenzgjp/JAVA-icplf-DAIMA,0,0,Java,,2026-09-15T11:22:54Z,2026-09-16,True,Long Context
-1372505378,opsadamgreenzgjp/JAVA-egpcg-DAIMA,基于SSM的志愿者管理系统的设计与实现+vue,https://github.com/opsadamgreenzgjp/JAVA-egpcg-DAIMA,0,0,Java,,2026-09-16T04:20:49Z,2026-09-16,True,Long Context
-1372532132,uxemilytaylorhmhs/JAVA-qjbgb-DAIMA,基于SSM的健身房管理系统的设计与实现+vue,https://github.com/uxemilytaylorhmhs/JAVA-qjbgb-DAIMA,0,0,Java,,2026-09-16T04:52:50Z,2026-09-16,True,Long Context
-1371344398,opsadamgreenzgjp/JAVA-kvsdi-DAIMA,基于SSM的Web的课堂管理系统设计与实现+vue,https://github.com/opsadamgreenzgjp/JAVA-kvsdi-DAIMA,0,0,Java,,2026-09-15T11:31:46Z,2026-09-16,True,Long Context
-1372500217,opsadamgreenzgjp/JAVA-atksm-DAIMA,基于SSM的基于JavaEE的智能实时疫情监管服务,https://github.com/opsadamgreenzgjp/JAVA-atksm-DAIMA,0,0,Java,,2026-09-16T04:13:59Z,2026-09-16,True,Long Context
-1372531373,opsadamgreenzgjp/JAVA-pvgll-DAIMA,基于SSM的基于JAVA的驾校信息管理系统设计,https://github.com/opsadamgreenzgjp/JAVA-pvgll-DAIMA,0,0,Java,,2026-09-16T04:52:06Z,2026-09-16,True,Long Context
-1372529376,uxemilytaylorhmhs/JAVA-nwgcs-DAIMA,基于SSM的新能源汽车在线租赁管理系统+vue,https://github.com/uxemilytaylorhmhs/JAVA-nwgcs-DAIMA,0,0,Java,,2026-09-16T04:50:06Z,2026-09-16,True,Long Context
-1372497705,opsadamgreenzgjp/JAVA-ahzig-DAIMA,基于SSM的网上茶叶销售平台设计与开发+jsp,https://github.com/opsadamgreenzgjp/JAVA-ahzig-DAIMA,0,0,Java,,2026-09-16T04:10:47Z,2026-09-16,True,Long Context
-1372501090,opsadamgreenzgjp/JAVA-azsfl-DAIMA,基于SSM的基于Vue的健身房会员管理系统+vue,https://github.com/opsadamgreenzgjp/JAVA-azsfl-DAIMA,0,0,Java,,2026-09-16T04:15:09Z,2026-09-16,True,Long Context
-1371310782,opsadamgreenzgjp/JAVA-cmpfu-DAIMA,基于SSM的企业人事管理系统设计与实现+jsp,https://github.com/opsadamgreenzgjp/JAVA-cmpfu-DAIMA,0,0,Java,,2026-09-15T11:04:22Z,2026-09-16,True,Long Context
-1371398287,opsadamgreenzgjp/JAVA-vzgoa-DAIMA,基于SSM的珠江学院大学生自愿者服务网+vue,https://github.com/opsadamgreenzgjp/JAVA-vzgoa-DAIMA,0,0,Java,,2026-09-15T12:05:31Z,2026-09-16,True,Long Context
-1372514717,opsadamgreenzgjp/JAVA-inwac-DAIMA,基于SSM的科研经费管理系统研究与开发+vue,https://github.com/opsadamgreenzgjp/JAVA-inwac-DAIMA,0,0,Java,,2026-09-16T04:32:31Z,2026-09-16,True,Long Context
-1371375913,opsadamgreenzgjp/JAVA-rqdrj-DAIMA,基于SSM的JAVA的咖啡馆管理系统设计与实现,https://github.com/opsadamgreenzgjp/JAVA-rqdrj-DAIMA,0,0,Java,,2026-09-15T11:49:23Z,2026-09-16,True,Long Context
-1372520095,opsadamgreenzgjp/JAVA-lmatd-DAIMA,基于SSM的图书管理系统的设计与实现+jsp.rar,https://github.com/opsadamgreenzgjp/JAVA-lmatd-DAIMA,0,0,Java,,2026-09-16T04:39:25Z,2026-09-16,True,Long Context
-1371391995,opsadamgreenzgjp/JAVA-vbdqm-DAIMA,基于SSM的学生公寓管理系统的设计与开发+jsp,https://github.com/opsadamgreenzgjp/JAVA-vbdqm-DAIMA,0,0,Java,,2026-09-15T12:00:57Z,2026-09-16,True,Long Context
-1371387095,opsadamgreenzgjp/JAVA-tybfj-DAIMA,基于SSM的WEB技术的在线商品交易平台的设计,https://github.com/opsadamgreenzgjp/JAVA-tybfj-DAIMA,0,0,Java,,2026-09-15T11:57:25Z,2026-09-16,True,Long Context
-1371333550,opsadamgreenzgjp/JAVA-iexlv-DAIMA,基于SSM的基于JavaWeb的个人健康信息管理系统+jsp,https://github.com/opsadamgreenzgjp/JAVA-iexlv-DAIMA,0,0,Java,,2026-09-15T11:23:16Z,2026-09-16,True,Long Context
-1372540802,opsadamgreenzgjp/JAVA-tctda-DAIMA,基于SSM的敏捷工贸公司销售管理系统设计+vue,https://github.com/opsadamgreenzgjp/JAVA-tctda-DAIMA,0,0,Java,,2026-09-16T05:02:01Z,2026-09-16,True,Long Context
-1371404486,opsadamgreenzgjp/JAVA-wzhbp-DAIMA,基于SSM的社区流浪动物救助领养系统的设计,https://github.com/opsadamgreenzgjp/JAVA-wzhbp-DAIMA,0,0,Java,,2026-09-15T12:09:58Z,2026-09-16,True,Long Context
-1372497429,uxemilytaylorhmhs/JAVA-avagp-DAIMA,基于SSM的安徽新华学院实验中心管理系统+jsp,https://github.com/uxemilytaylorhmhs/JAVA-avagp-DAIMA,0,0,Java,,2026-09-16T04:10:25Z,2026-09-16,True,Long Context
-1372503519,opsadamgreenzgjp/JAVA-dflnr-DAIMA,基于SSM的咖啡在线销售系统的设计与实现+jsp,https://github.com/opsadamgreenzgjp/JAVA-dflnr-DAIMA,0,0,Java,,2026-09-16T04:18:20Z,2026-09-16,True,Long Context
-1371334463,opsadamgreenzgjp/JAVA-imkqr-DAIMA,基于SSM的学生就业管理系统的设计与实现+vue,https://github.com/opsadamgreenzgjp/JAVA-imkqr-DAIMA,0,0,Java,,2026-09-15T11:24:02Z,2026-09-16,True,Long Context
-1372504834,opsadamgreenzgjp/JAVA-dyoms-DAIMA,基于SSM的大学生社团管理系统的设计与实现,https://github.com/opsadamgreenzgjp/JAVA-dyoms-DAIMA,0,0,Java,,2026-09-16T04:20:05Z,2026-09-16,True,Long Context
-1371331760,opsadamgreenzgjp/JAVA-hmzir-DAIMA,基于SSM的高校外事管理系统的设计与开发+jsp,https://github.com/opsadamgreenzgjp/JAVA-hmzir-DAIMA,0,0,Java,,2026-09-15T11:21:48Z,2026-09-16,True,Long Context
-1371308524,opsadamgreenzgjp/JAVA-bobha-DAIMA,基于SSM的学生考勤管理系统的设计与实现+vue,https://github.com/opsadamgreenzgjp/JAVA-bobha-DAIMA,0,0,Java,,2026-09-15T11:02:23Z,2026-09-16,True,Long Context
-1372507297,opsadamgreenzgjp/JAVA-fiaxl-DAIMA,基于SSM的快餐店点餐结算系统的设计与实现,https://github.com/opsadamgreenzgjp/JAVA-fiaxl-DAIMA,0,0,Java,,2026-09-16T04:23:05Z,2026-09-16,True,Long Context
-1372532780,opsadamgreenzgjp/JAVA-qdgfe-DAIMA,基于SSM的高校智能培训管理系统分析与设计,https://github.com/opsadamgreenzgjp/JAVA-qdgfe-DAIMA,0,0,Java,,2026-09-16T04:53:30Z,2026-09-16,True,Long Context
-1371366513,opsadamgreenzgjp/JAVA-ptelu-DAIMA,基于SSM的果蔬商品管理系统的设计与实现+vue,https://github.com/opsadamgreenzgjp/JAVA-ptelu-DAIMA,0,0,Java,,2026-09-15T11:44:22Z,2026-09-16,True,Long Context
-1371320576,opsadamgreenzgjp/JAVA-eydvm-DAIMA,基于SSM的公司进销存管理系统设计与开发+jsp,https://github.com/opsadamgreenzgjp/JAVA-eydvm-DAIMA,0,0,Java,,2026-09-15T11:12:53Z,2026-09-16,True,Long Context
-1372518666,opsadamgreenzgjp/JAVA-ldzpe-DAIMA,基于SSM的线上学习平台系统的设计与实现+vue,https://github.com/opsadamgreenzgjp/JAVA-ldzpe-DAIMA,0,0,Java,,2026-09-16T04:37:36Z,2026-09-16,True,Long Context
-1372522905,opsadamgreenzgjp/JAVA-mhjoh-DAIMA,基于SSM的大湾区旅游推荐系统的设计与实现,https://github.com/opsadamgreenzgjp/JAVA-mhjoh-DAIMA,0,0,Java,,2026-09-16T04:42:52Z,2026-09-16,True,Long Context
-1372501318,opsadamgreenzgjp/JAVA-bitle-DAIMA,基于SSM的校园二手交易平台的设计与开发+vue,https://github.com/opsadamgreenzgjp/JAVA-bitle-DAIMA,0,0,Java,,2026-09-16T04:15:27Z,2026-09-16,True,Long Context
-1371358796,opsadamgreenzgjp/JAVA-oofmz-DAIMA,基于SSM的基于Java的高校物业工程报修系统+jsp,https://github.com/opsadamgreenzgjp/JAVA-oofmz-DAIMA,0,0,Java,,2026-09-15T11:40:15Z,2026-09-16,True,Long Context
-1371367168,opsadamgreenzgjp/JAVA-pvxpc-DAIMA,基于SSM的基于JSP的家纺用品销售管理系统+jsp,https://github.com/opsadamgreenzgjp/JAVA-pvxpc-DAIMA,0,0,Java,,2026-09-15T11:44:42Z,2026-09-16,True,Long Context
-1372498025,uxemilytaylorhmhs/JAVA-bcgsw-DAIMA,基于SSM的实验室耗材管理系统设计与实现+jsp,https://github.com/uxemilytaylorhmhs/JAVA-bcgsw-DAIMA,0,0,Java,,2026-09-16T04:11:09Z,2026-09-16,True,Long Context
-1372520382,opsadamgreenzgjp/JAVA-lmbfw-DAIMA,基于SSM的智能社区管理系统的设计与实现+vue,https://github.com/opsadamgreenzgjp/JAVA-lmbfw-DAIMA,0,0,Java,,2026-09-16T04:39:47Z,2026-09-16,True,Long Context
-1372538278,opsadamgreenzgjp/JAVA-smvus-DAIMA,基于SSM的高校班级同学录网站设计与实现+jsp,https://github.com/opsadamgreenzgjp/JAVA-smvus-DAIMA,0,0,Java,,2026-09-16T04:59:13Z,2026-09-16,True,Long Context
-1372498508,opsadamgreenzgjp/JAVA-amfnm-DAIMA,基于SSM的物流配送管理系统的设计与实现+vue,https://github.com/opsadamgreenzgjp/JAVA-amfnm-DAIMA,0,0,Java,,2026-09-16T04:11:49Z,2026-09-16,True,Long Context
-1371405050,opsadamgreenzgjp/JAVA-wzurr-DAIMA,基于SSM的Java的药店药品信息管理系统的设计,https://github.com/opsadamgreenzgjp/JAVA-wzurr-DAIMA,0,0,Java,,2026-09-15T12:10:22Z,2026-09-16,True,Long Context
-1372536538,opsadamgreenzgjp/JAVA-rkqqm-DAIMA,基于SSM的便民自行车管理系统的开发与实现,https://github.com/opsadamgreenzgjp/JAVA-rkqqm-DAIMA,0,0,Java,,2026-09-16T04:57:08Z,2026-09-16,True,Long Context
-1372524110,opsadamgreenzgjp/JAVA-mnris-DAIMA,基于SSM的高校就业管理系统的设计与实现+vue,https://github.com/opsadamgreenzgjp/JAVA-mnris-DAIMA,0,0,Java,,2026-09-16T04:44:23Z,2026-09-16,True,Long Context
-1371364083,opsadamgreenzgjp/JAVA-ppjbu-DAIMA,基于SSM的数学课程评价系统的设计与开发+jsp,https://github.com/opsadamgreenzgjp/JAVA-ppjbu-DAIMA,0,0,Java,,2026-09-15T11:43:04Z,2026-09-16,True,Long Context
-1371341838,opsadamgreenzgjp/JAVA-klqcq-DAIMA,基于SSM的基于JSP的电竞交互管理系统开发+jsp,https://github.com/opsadamgreenzgjp/JAVA-klqcq-DAIMA,0,0,Java,,2026-09-15T11:29:48Z,2026-09-16,True,Long Context
-1372535230,opsadamgreenzgjp/JAVA-qzsfj-DAIMA,基于SSM的校园线上订餐系统的设计与实现+vue,https://github.com/opsadamgreenzgjp/JAVA-qzsfj-DAIMA,0,0,Java,,2026-09-16T04:55:49Z,2026-09-16,True,Long Context
-1372502956,opsadamgreenzgjp/JAVA-cwqit-DAIMA,基于SSM的网络游戏交易系统的设计与实现+jsp,https://github.com/opsadamgreenzgjp/JAVA-cwqit-DAIMA,0,0,Java,,2026-09-16T04:17:33Z,2026-09-16,True,Long Context
-1371371636,opsadamgreenzgjp/JAVA-qnqul-DAIMA,基于SSM的基于BS模式的直播电商交流平台+vue,https://github.com/opsadamgreenzgjp/JAVA-qnqul-DAIMA,0,0,Java,,2026-09-15T11:47:02Z,2026-09-16,True,Long Context
-1371383624,opsadamgreenzgjp/JAVA-tnkyf-DAIMA,基于SSM的家乡特产网上商城的设计与实现+vue,https://github.com/opsadamgreenzgjp/JAVA-tnkyf-DAIMA,0,0,Java,,2026-09-15T11:54:54Z,2026-09-16,True,Long Context
-1372532498,opsadamgreenzgjp/JAVA-qcbiw-DAIMA,基于SSM的基于Java的微博网站的设计与实现+vue,https://github.com/opsadamgreenzgjp/JAVA-qcbiw-DAIMA,0,0,Java,,2026-09-16T04:53:12Z,2026-09-16,True,Long Context
-1372496284,opsadamgreenzgjp/JAVA-aaqwj-DAIMA,基于SSM的仓库在线管理系统的设计与实现+vue,https://github.com/opsadamgreenzgjp/JAVA-aaqwj-DAIMA,0,0,Java,,2026-09-16T04:08:54Z,2026-09-16,True,Long Context
-1372134990,yasuwo070809/aws-network-lab,AWS network verification lab Phase 1 (VPC/EC2/SG/NACL/SSM Session Manager/VPC Flow Logs) built with Terraform,https://github.com/yasuwo070809/aws-network-lab,0,0,Shell,,2026-09-15T21:15:19Z,2026-09-16,True,Long Context
-1372499323,opsadamgreenzgjp/JAVA-aqprz-DAIMA,基于SSM的小儿肺炎知识管理系统设计与实现,https://github.com/opsadamgreenzgjp/JAVA-aqprz-DAIMA,0,0,Java,,2026-09-16T04:12:54Z,2026-09-16,True,Long Context
-1372524693,opsadamgreenzgjp/JAVA-mqzyc-DAIMA,基于SSM的经典电影推荐网站的设计与实现+vue,https://github.com/opsadamgreenzgjp/JAVA-mqzyc-DAIMA,0,0,Java,,2026-09-16T04:45:07Z,2026-09-16,True,Long Context
-1372500779,uxemilytaylorhmhs/JAVA-cwjea-DAIMA,基于SSM的蜀都天香酒楼的网站设计与实现+jsp,https://github.com/uxemilytaylorhmhs/JAVA-cwjea-DAIMA,0,0,Java,,2026-09-16T04:14:44Z,2026-09-16,True,Long Context
-1371317702,opsadamgreenzgjp/JAVA-eeedp-DAIMA,基于SSM的大学生校园招聘网的设计与实现+jsp,https://github.com/opsadamgreenzgjp/JAVA-eeedp-DAIMA,0,0,Java,,2026-09-15T11:10:28Z,2026-09-16,True,Long Context
-1372531003,opsadamgreenzgjp/JAVA-pnaeu-DAIMA,基于SSM的基于vue的视频播放器的设计与实现,https://github.com/opsadamgreenzgjp/JAVA-pnaeu-DAIMA,0,0,Java,,2026-09-16T04:51:41Z,2026-09-16,True,Long Context
-1372510248,buildkite/just-works-buildkite-plugin,"Buildkite plugin for pinned IAM OIDC role assumption, ECR login, SSM parameter loading, and opt-in Exchange GitHub authentication",https://github.com/buildkite/just-works-buildkite-plugin,0,0,,,2026-09-16T04:26:56Z,2026-09-16,True,Long Context
-1371373173,opsadamgreenzgjp/JAVA-qxawo-DAIMA,基于SSM的私人定制旅游系统的设计与实现+vue,https://github.com/opsadamgreenzgjp/JAVA-qxawo-DAIMA,0,0,Java,,2026-09-15T11:47:52Z,2026-09-16,True,Long Context
-1372534303,opsadamgreenzgjp/JAVA-qwbgg-DAIMA,基于SSM的基于J2EE的仓库管理系统设计与开发,https://github.com/opsadamgreenzgjp/JAVA-qwbgg-DAIMA,0,0,Java,,2026-09-16T04:55:02Z,2026-09-16,True,Long Context
-1371408344,opsadamgreenzgjp/JAVA-ydpvw-DAIMA,基于SSM的新媒体视域下的中国古诗词展演+vue,https://github.com/opsadamgreenzgjp/JAVA-ydpvw-DAIMA,0,0,Java,,2026-09-15T12:12:43Z,2026-09-16,True,Long Context
-1372500814,opsadamgreenzgjp/JAVA-axvia-DAIMA,基于SSM的职业高中智慧作业试题系统设计+jsp,https://github.com/opsadamgreenzgjp/JAVA-axvia-DAIMA,0,0,Java,,2026-09-16T04:14:47Z,2026-09-16,True,Long Context
-1372513804,opsadamgreenzgjp/JAVA-idegc-DAIMA,基于SSM的教师办公管理系统的设计与实现+jsp,https://github.com/opsadamgreenzgjp/JAVA-idegc-DAIMA,0,0,Java,,2026-09-16T04:31:21Z,2026-09-16,True,Long Context
-1371305089,opsadamgreenzgjp/JAVA-arypc-DAIMA,基于SSM的图书馆智能选座系统设计与实现+jsp,https://github.com/opsadamgreenzgjp/JAVA-arypc-DAIMA,0,0,Java,,2026-09-15T10:59:16Z,2026-09-16,True,Long Context
-1371381381,opsadamgreenzgjp/JAVA-swyvc-DAIMA,基于SSM的青年租房管理系统的设计与开发+vue,https://github.com/opsadamgreenzgjp/JAVA-swyvc-DAIMA,0,0,Java,,2026-09-15T11:53:18Z,2026-09-16,True,Long Context
-1372508719,opsadamgreenzgjp/JAVA-fzqab-DAIMA,基于SSM的VUE的图书馆管理系统的设计与实现,https://github.com/opsadamgreenzgjp/JAVA-fzqab-DAIMA,0,0,Java,,2026-09-16T04:24:58Z,2026-09-16,True,Long Context
-1371395920,opsadamgreenzgjp/JAVA-vpovv-DAIMA,基于SSM的基于BS的库存管理软件设计与实现+vue,https://github.com/opsadamgreenzgjp/JAVA-vpovv-DAIMA,0,0,Java,,2026-09-15T12:03:50Z,2026-09-16,True,Long Context
-1372500495,opsadamgreenzgjp/JAVA-aujkg-DAIMA,基于SSM的中小型医院管理系统的设计与实现+jsp,https://github.com/opsadamgreenzgjp/JAVA-aujkg-DAIMA,0,0,Java,,2026-09-16T04:14:21Z,2026-09-16,True,Long Context
-1372535596,opsadamgreenzgjp/JAVA-rfzkq-DAIMA,基于SSM的一家运动鞋店的产品推广网站的设计,https://github.com/opsadamgreenzgjp/JAVA-rfzkq-DAIMA,0,0,Java,,2026-09-16T04:56:12Z,2026-09-16,True,Long Context
-1372522262,opsadamgreenzgjp/JAVA-mfise-DAIMA,基于SSM的常见小儿疾病中医护理系统的设计+jsp,https://github.com/opsadamgreenzgjp/JAVA-mfise-DAIMA,0,0,Java,,2026-09-16T04:42:08Z,2026-09-16,True,Long Context
-1371350694,opsadamgreenzgjp/JAVA-mdtkw-DAIMA,基于SSM的冀中工程技师校园网站设计与实现+jsp,https://github.com/opsadamgreenzgjp/JAVA-mdtkw-DAIMA,0,0,Java,,2026-09-15T11:35:51Z,2026-09-16,True,Long Context
-1371375181,opsadamgreenzgjp/JAVA-rfosi-DAIMA,基于SSM的健身中心管理系统的的设计与实现+jsp,https://github.com/opsadamgreenzgjp/JAVA-rfosi-DAIMA,0,0,Java,,2026-09-15T11:48:57Z,2026-09-16,True,Long Context
-1372536912,opsadamgreenzgjp/JAVA-rudmp-DAIMA,基于SSM的蛋糕甜品店管理系统的设计与开发+jsp,https://github.com/opsadamgreenzgjp/JAVA-rudmp-DAIMA,0,0,Java,,2026-09-16T04:57:32Z,2026-09-16,True,Long Context
-1371394374,opsadamgreenzgjp/JAVA-vihxx-DAIMA,基于SSM的基于java的珠宝购物网站系统的建设+jsp,https://github.com/opsadamgreenzgjp/JAVA-vihxx-DAIMA,0,0,Java,,2026-09-15T12:02:40Z,2026-09-16,True,Long Context
-1372498729,opsadamgreenzgjp/JAVA-ammgq-DAIMA,基于SSM的基于冲突动态监测算法的健身房预约,https://github.com/opsadamgreenzgjp/JAVA-ammgq-DAIMA,0,0,Java,,2026-09-16T04:12:07Z,2026-09-16,True,Long Context
-1372536189,opsadamgreenzgjp/JAVA-rkiyq-DAIMA,基于SSM的基于vue技术的农家乐内部管理系统+vue,https://github.com/opsadamgreenzgjp/JAVA-rkiyq-DAIMA,0,0,Java,,2026-09-16T04:56:47Z,2026-09-16,True,Long Context
-1371387653,opsadamgreenzgjp/JAVA-ucdex-DAIMA,基于SSM的基于Java疫情期间高校人员管理系统+vue,https://github.com/opsadamgreenzgjp/JAVA-ucdex-DAIMA,0,0,Java,,2026-09-15T11:57:51Z,2026-09-16,True,Long Context
-1372513573,opsadamgreenzgjp/JAVA-icpom-DAIMA,基于SSM的个性化旅游攻略定制系统设计与实现,https://github.com/opsadamgreenzgjp/JAVA-icpom-DAIMA,0,0,Java,,2026-09-16T04:31:02Z,2026-09-16,True,Long Context
-1372496826,uxemilytaylorhmhs/JAVA-akiuy-DAIMA,基于SSM的汽车客运站管理系统的设计与实现+jsp,https://github.com/uxemilytaylorhmhs/JAVA-akiuy-DAIMA,0,0,Java,,2026-09-16T04:09:39Z,2026-09-16,True,Long Context
-1371386523,opsadamgreenzgjp/JAVA-twigj-DAIMA,基于SSM的演出人员与观众疫情信息管理系统+vue,https://github.com/opsadamgreenzgjp/JAVA-twigj-DAIMA,0,0,Java,,2026-09-15T11:57:01Z,2026-09-16,True,Long Context
-1371385387,opsadamgreenzgjp/JAVA-tuvrq-DAIMA,基于SSM的基于java的汇编课程网站设计与实现+vue,https://github.com/opsadamgreenzgjp/JAVA-tuvrq-DAIMA,0,0,Java,,2026-09-15T11:56:12Z,2026-09-16,True,Long Context
-1372088401,Brianbargulet/webshop-sql-project,"My T-SQL & SQL Server learning journey — databases, schemas, tables, constraints, inserts, and queries, built step by step in SSMS.",https://github.com/Brianbargulet/webshop-sql-project,0,0,TSQL,,2026-09-15T20:37:04Z,2026-09-16,True,Long Context
-1372505931,uxemilytaylorhmhs/JAVA-fmszj-DAIMA,基于SSM的网络游戏公司官方平台设计与实现+jsp,https://github.com/uxemilytaylorhmhs/JAVA-fmszj-DAIMA,0,0,Java,,2026-09-16T04:21:25Z,2026-09-16,True,Long Context
-1371378125,opsadamgreenzgjp/JAVA-ryymz-DAIMA,基于微信小程序的教学辅助微信小程序设计+ssm,https://github.com/opsadamgreenzgjp/JAVA-ryymz-DAIMA,0,0,Java,,2026-09-15T11:50:53Z,2026-09-16,True,Long Context
-1371399909,opsadamgreenzgjp/JAVA-wbjmv-DAIMA,基于SSM的基于web技术的税务门户网站的实现+vue,https://github.com/opsadamgreenzgjp/JAVA-wbjmv-DAIMA,0,0,Java,,2026-09-15T12:06:40Z,2026-09-16,True,Long Context
-1371315981,opsadamgreenzgjp/JAVA-dwmtu-DAIMA,基于SSM的中学生课后服务的信息管理与推荐+vue,https://github.com/opsadamgreenzgjp/JAVA-dwmtu-DAIMA,0,0,Java,,2026-09-15T11:08:59Z,2026-09-16,True,Long Context
-1371312211,opsadamgreenzgjp/JAVA-cxkvg-DAIMA,基于微信小程序的家庭记账本的设计与实现+ssm,https://github.com/opsadamgreenzgjp/JAVA-cxkvg-DAIMA,0,0,Java,,2026-09-15T11:05:41Z,2026-09-16,True,Long Context
-1372537483,opsadamgreenzgjp/JAVA-sbjgc-DAIMA,基于SSM的智能交互式在线网上花店的研发+vue.rar,https://github.com/opsadamgreenzgjp/JAVA-sbjgc-DAIMA,0,0,Java,,2026-09-16T04:58:12Z,2026-09-16,True,Long Context
-1372528494,opsadamgreenzgjp/JAVA-omdfa-DAIMA,基于SSM的基于JAVA的酒店管理系统的设计与实现+vue,https://github.com/opsadamgreenzgjp/JAVA-omdfa-DAIMA,0,0,Java,,2026-09-16T04:49:12Z,2026-09-16,True,Long Context
-1372508440,opsadamgreenzgjp/JAVA-fyeci-DAIMA,基于SSM的基于java的可视化高校公寓管理系统+vue.rar,https://github.com/opsadamgreenzgjp/JAVA-fyeci-DAIMA,0,0,Java,,2026-09-16T04:24:35Z,2026-09-16,True,Long Context
-1372509604,opsadamgreenzgjp/JAVA-ghbgn-DAIMA,基于SSM的基于互联网的音乐电影分享系统的设计,https://github.com/opsadamgreenzgjp/JAVA-ghbgn-DAIMA,0,0,Java,,2026-09-16T04:26:08Z,2026-09-16,True,Long Context
-1372515307,opsadamgreenzgjp/JAVA-jdsgm-DAIMA,基于SSM的双减后初小教育课外学习生活活动平台,https://github.com/opsadamgreenzgjp/JAVA-jdsgm-DAIMA,0,0,Java,,2026-09-16T04:33:14Z,2026-09-16,True,Long Context
-1372539275,opsadamgreenzgjp/JAVA-swecb-DAIMA,基于SSM的明嘉新材料公司仓库管理的设计和实现,https://github.com/opsadamgreenzgjp/JAVA-swecb-DAIMA,0,0,Java,,2026-09-16T05:00:18Z,2026-09-16,True,Long Context
-1372529908,opsadamgreenzgjp/JAVA-pfyut-DAIMA,基于SSM的物流配送人员车辆调度管理系统的设计,https://github.com/opsadamgreenzgjp/JAVA-pfyut-DAIMA,0,0,Java,,2026-09-16T04:50:39Z,2026-09-16,True,Long Context
-1372517603,opsadamgreenzgjp/JAVA-kqiey-DAIMA,基于SSM的基于vue的学生宿舍门禁信息管理系统+vue,https://github.com/opsadamgreenzgjp/JAVA-kqiey-DAIMA,0,0,Java,,2026-09-16T04:36:14Z,2026-09-16,True,Long Context
-1372517078,opsadamgreenzgjp/JAVA-kowfm-DAIMA,基于SSM的企业人才管理与测评系统的设计与实现,https://github.com/opsadamgreenzgjp/JAVA-kowfm-DAIMA,0,0,Java,,2026-09-16T04:35:32Z,2026-09-16,True,Long Context
-1371305522,opsadamgreenzgjp/JAVA-asoxu-DAIMA,基于SSM的江苏融汇房地产营销策划有限公司网站,https://github.com/opsadamgreenzgjp/JAVA-asoxu-DAIMA,0,0,Java,,2026-09-15T10:59:42Z,2026-09-16,True,Long Context
-1372526274,opsadamgreenzgjp/JAVA-nfpnn-DAIMA,基于SSM的基于javaweb的疫情管理系统的设计与实现+vue,https://github.com/opsadamgreenzgjp/JAVA-nfpnn-DAIMA,0,0,Java,,2026-09-16T04:47:02Z,2026-09-16,True,Long Context
-1371412135,opsadamgreenzgjp/JAVA-zlpif-DAIMA,基于SSM的新冠病毒校园监控平台的设计与实现+vue,https://github.com/opsadamgreenzgjp/JAVA-zlpif-DAIMA,0,0,Java,,2026-09-15T12:15:28Z,2026-09-16,True,Long Context
-1371397659,opsadamgreenzgjp/JAVA-vwnst-DAIMA,基于SSM的宠物医院信息管理系统的设计与实现+vue,https://github.com/opsadamgreenzgjp/JAVA-vwnst-DAIMA,0,0,Java,,2026-09-15T12:05:06Z,2026-09-16,True,Long Context
-1372522545,opsadamgreenzgjp/JAVA-mflts-DAIMA,基于SSM的玉安农副产品销售系统的设计与实现+jsp,https://github.com/opsadamgreenzgjp/JAVA-mflts-DAIMA,0,0,Java,,2026-09-16T04:42:29Z,2026-09-16,True,Long Context
-1372530307,opsadamgreenzgjp/JAVA-phjrp-DAIMA,基于SSM的协同过滤技术的网上书城的开发与研究,https://github.com/opsadamgreenzgjp/JAVA-phjrp-DAIMA,0,0,Java,,2026-09-16T04:51:01Z,2026-09-16,True,Long Context
-1371337518,opsadamgreenzgjp/JAVA-jnysk-DAIMA,基于SSM的基于java的汽车维修保养智能预约系统+vue,https://github.com/opsadamgreenzgjp/JAVA-jnysk-DAIMA,0,0,Java,,2026-09-15T11:26:25Z,2026-09-16,True,Long Context
-1371406597,opsadamgreenzgjp/JAVA-xnguf-DAIMA,基于微信小程序的基于JAVA微信点餐小程序设计+ssm,https://github.com/opsadamgreenzgjp/JAVA-xnguf-DAIMA,0,0,Java,,2026-09-15T12:11:29Z,2026-09-16,True,Long Context
-1372525985,opsadamgreenzgjp/JAVA-mwhhj-DAIMA,基于SSM的网络游戏交易平台信息管理系统的设计,https://github.com/opsadamgreenzgjp/JAVA-mwhhj-DAIMA,0,0,Java,,2026-09-16T04:46:41Z,2026-09-16,True,Long Context
-1371343302,opsadamgreenzgjp/JAVA-kscqb-DAIMA,基于SSM的校园体育赛事管理系统的设计与实现+vue,https://github.com/opsadamgreenzgjp/JAVA-kscqb-DAIMA,0,0,Java,,2026-09-15T11:30:56Z,2026-09-16,True,Long Context
-1372499025,opsadamgreenzgjp/JAVA-apxav-DAIMA,基于SSM的学生宿舍维修服务平台的设计与实现+vue,https://github.com/opsadamgreenzgjp/JAVA-apxav-DAIMA,0,0,Java,,2026-09-16T04:12:31Z,2026-09-16,True,Long Context
-1371316916,opsadamgreenzgjp/JAVA-dyfdq-DAIMA,基于SSM的民族大学创新学分管理系统分析与设计+vue,https://github.com/opsadamgreenzgjp/JAVA-dyfdq-DAIMA,0,0,Java,,2026-09-15T11:09:49Z,2026-09-16,True,Long Context
-1371413264,opsadamgreenzgjp/JAVA-zwyhf-DAIMA,基于SSM的北关村基本办公管理系统的设计与实现+jsp,https://github.com/opsadamgreenzgjp/JAVA-zwyhf-DAIMA,0,0,Java,,2026-09-15T12:16:15Z,2026-09-16,True,Long Context
-1372209527,LittleAksMax/gatewright,"CLI Tool for bootstrapping new monorepo projects that deploy as a single Docker container using GH Actions, ECR, and EC2 via SSM.",https://github.com/LittleAksMax/gatewright,0,0,,,2026-09-15T22:24:44Z,2026-09-16,True,Long Context
-1372534892,opsadamgreenzgjp/JAVA-qxose-DAIMA,基于SSM的网络类课程思政学习系统的设计与实现+vue,https://github.com/opsadamgreenzgjp/JAVA-qxose-DAIMA,0,0,Java,,2026-09-16T04:55:27Z,2026-09-16,True,Long Context
-1371384793,opsadamgreenzgjp/JAVA-tqlbp-DAIMA,基于SSM的基于Vue的线上书籍查阅系统设计与实现+vue,https://github.com/opsadamgreenzgjp/JAVA-tqlbp-DAIMA,0,0,Java,,2026-09-15T11:55:46Z,2026-09-16,True,Long Context
-1371072916,pavankalyan75699/light-house,"8-Day AWS DevOps project demonstrating infrastructure, Docker, Kubernetes, CI/CD with GitHub Actions, AWS ECR, RDS, S3, OIDC, SSM, and Helm.",https://github.com/pavankalyan75699/light-house,0,0,JavaScript,,2026-09-15T07:30:07Z,2026-09-16,True,Long Context
-1372497984,opsadamgreenzgjp/JAVA-akjae-DAIMA,基于SSM的社区再就业培训管理系统的设计与实现+jsp,https://github.com/opsadamgreenzgjp/JAVA-akjae-DAIMA,0,0,Java,,2026-09-16T04:11:06Z,2026-09-16,True,Long Context
-1372509923,opsadamgreenzgjp/JAVA-ghhsw-DAIMA,基于SSM的基于vue技术的绿色蔬菜销售管理系统+vue.rar,https://github.com/opsadamgreenzgjp/JAVA-ghhsw-DAIMA,0,0,Java,,2026-09-16T04:26:31Z,2026-09-16,True,Long Context
-1371323397,opsadamgreenzgjp/JAVA-fiswm-DAIMA,基于SSM的基于Java Web的“萌宠小知识”网站设计与实现+vue,https://github.com/opsadamgreenzgjp/JAVA-fiswm-DAIMA,0,0,Java,,2026-09-15T11:15:06Z,2026-09-16,True,Long Context
-1371355667,opsadamgreenzgjp/JAVA-npdrb-DAIMA,基于微信小程序的优购电商小程序的设计与实现+ssm,https://github.com/opsadamgreenzgjp/JAVA-npdrb-DAIMA,0,0,Java,,2026-09-15T11:38:30Z,2026-09-16,True,Long Context
-1371356438,opsadamgreenzgjp/JAVA-npjio-DAIMA,基于SSM的基于Java的通讯录管理系统的设计与实现+jsp,https://github.com/opsadamgreenzgjp/JAVA-npjio-DAIMA,0,0,Java,,2026-09-15T11:38:57Z,2026-09-16,True,Long Context
-1371382391,opsadamgreenzgjp/JAVA-tfcaw-DAIMA,基于SSM的基于HTML的中国传统面食介绍网站的搭建+vue,https://github.com/opsadamgreenzgjp/JAVA-tfcaw-DAIMA,0,0,Java,,2026-09-15T11:54:03Z,2026-09-16,True,Long Context
-1372511095,opsadamgreenzgjp/JAVA-hcdgn-DAIMA,基于SSM的驾校收支管理可视化平台的设计与实现+jsp,https://github.com/opsadamgreenzgjp/JAVA-hcdgn-DAIMA,0,0,Java,,2026-09-16T04:28:03Z,2026-09-16,True,Long Context
-1371322321,opsadamgreenzgjp/JAVA-fdsds-DAIMA,基于SSM的基于JSP的游戏虚拟道具交易网站的设计+jsp,https://github.com/opsadamgreenzgjp/JAVA-fdsds-DAIMA,0,0,Java,,2026-09-15T11:14:17Z,2026-09-16,True,Long Context
-1371324950,opsadamgreenzgjp/JAVA-fraey-DAIMA,基于SSM的基于MVC构架的网上食品店的设计与实现+vue,https://github.com/opsadamgreenzgjp/JAVA-fraey-DAIMA,0,0,Java,,2026-09-15T11:16:19Z,2026-09-16,True,Long Context
-1371342718,opsadamgreenzgjp/JAVA-kqyir-DAIMA,基于SSM的基于在线开放课程的Web前端设计与实现+vue,https://github.com/opsadamgreenzgjp/JAVA-kqyir-DAIMA,0,0,Java,,2026-09-15T11:30:31Z,2026-09-16,True,Long Context
-1371377657,opsadamgreenzgjp/JAVA-rynvh-DAIMA,基于SSM的服装品牌的推广及应用网站的设计与实现+vue,https://github.com/opsadamgreenzgjp/JAVA-rynvh-DAIMA,0,0,Java,,2026-09-15T11:50:33Z,2026-09-16,True,Long Context
-1371344904,opsadamgreenzgjp/JAVA-kwcus-DAIMA,基于SSM的基于BS的超市商品管理系统的设计与实现+vue,https://github.com/opsadamgreenzgjp/JAVA-kwcus-DAIMA,0,0,Java,,2026-09-15T11:32:08Z,2026-09-16,True,Long Context
-1371318214,opsadamgreenzgjp/JAVA-eejbc-DAIMA,基于SSM的基于bootstrap的课程辅助教学网站的设计与实现+vue,https://github.com/opsadamgreenzgjp/JAVA-eejbc-DAIMA,0,0,Java,,2026-09-15T11:10:54Z,2026-09-16,True,Long Context
-1371399384,opsadamgreenzgjp/JAVA-wamnl-DAIMA,基于SSM的基于Javaweb的线上招聘问答系统的设计与实现+vue,https://github.com/opsadamgreenzgjp/JAVA-wamnl-DAIMA,0,0,Java,,2026-09-15T12:06:19Z,2026-09-16,True,Long Context
-1371326708,opsadamgreenzgjp/JAVA-fygsz-DAIMA,基于SSM的基于Java的在线日语培训平台的设计与实现+jsp,https://github.com/opsadamgreenzgjp/JAVA-fygsz-DAIMA,0,0,Java,,2026-09-15T11:17:44Z,2026-09-16,True,Long Context
-1371341040,opsadamgreenzgjp/JAVA-khnej-DAIMA,基于SSM的钢铁集团公司安全管理系统的构建与实现+jsp,https://github.com/opsadamgreenzgjp/JAVA-khnej-DAIMA,0,0,Java,,2026-09-15T11:29:08Z,2026-09-16,True,Long Context
-1371302884,opsadamgreenzgjp/JAVA-amoqv-DAIMA,基于SSM的基于JAVA的学生网上请假系统的设计与实现+vue,https://github.com/opsadamgreenzgjp/JAVA-amoqv-DAIMA,0,0,Java,,2026-09-15T10:57:13Z,2026-09-16,True,Long Context
-1371359618,opsadamgreenzgjp/JAVA-ooigh-DAIMA,基于SSM的基于Java的民宿预订管理系统的设计与实现+jsp,https://github.com/opsadamgreenzgjp/JAVA-ooigh-DAIMA,0,0,Java,,2026-09-15T11:40:40Z,2026-09-16,True,Long Context
-1371315507,opsadamgreenzgjp/JAVA-dsnyj-DAIMA,基于微信小程序的个人行政复议在线预约系统开发+ssm,https://github.com/opsadamgreenzgjp/JAVA-dsnyj-DAIMA,0,0,Java,,2026-09-15T11:08:36Z,2026-09-16,True,Long Context
-1371309479,opsadamgreenzgjp/JAVA-bygyp-DAIMA,基于SSM的基于BS的旅客行李管理系统的设计与实现+vue,https://github.com/opsadamgreenzgjp/JAVA-bygyp-DAIMA,0,0,Java,,2026-09-15T11:03:12Z,2026-09-16,True,Long Context
-1371380262,opsadamgreenzgjp/JAVA-somvt-DAIMA,基于SSM的基于javaWeb的高校后勤报修系统的设计与实现+jsp,https://github.com/opsadamgreenzgjp/JAVA-somvt-DAIMA,0,0,Java,,2026-09-15T11:52:27Z,2026-09-16,True,Long Context
-1371328679,opsadamgreenzgjp/JAVA-glqvb-DAIMA,基于SSM的山东红色旅游信息管理系统的设计与实现+jsp,https://github.com/opsadamgreenzgjp/JAVA-glqvb-DAIMA,0,0,Java,,2026-09-15T11:19:22Z,2026-09-16,True,Long Context
-1372497013,opsadamgreenzgjp/JAVA-aerqo-DAIMA,基于SSM的基于javaWeb的長安智慧医疗管理系统设计与实现+vue,https://github.com/opsadamgreenzgjp/JAVA-aerqo-DAIMA,0,0,Java,,2026-09-16T04:09:55Z,2026-09-16,True,Long Context
-1371330834,opsadamgreenzgjp/JAVA-gzdjt-DAIMA,基于微信小程序的基于小程序的购物系统设计与实现+ssm,https://github.com/opsadamgreenzgjp/JAVA-gzdjt-DAIMA,0,0,Java,,2026-09-15T11:21:03Z,2026-09-16,True,Long Context
-1371347763,opsadamgreenzgjp/JAVA-lvwgx-DAIMA,基于SSM的基于Java的校园二手物品交易平台的设计与实现+vue,https://github.com/opsadamgreenzgjp/JAVA-lvwgx-DAIMA,0,0,Java,,2026-09-15T11:34:13Z,2026-09-16,True,Long Context
-1371395362,opsadamgreenzgjp/JAVA-voecd-DAIMA,基于SSM的基于Java的宠物医院预约挂号系统的设计与实现+vue,https://github.com/opsadamgreenzgjp/JAVA-voecd-DAIMA,0,0,Java,,2026-09-15T12:03:25Z,2026-09-16,True,Long Context
-1371313145,opsadamgreenzgjp/JAVA-dauoc-DAIMA,基于SSM的基于java的校园二手物品交易平台的设计与实现+jsp,https://github.com/opsadamgreenzgjp/JAVA-dauoc-DAIMA,0,0,Java,,2026-09-15T11:06:31Z,2026-09-16,True,Long Context
-1371373858,opsadamgreenzgjp/JAVA-rbrka-DAIMA,基于微信小程序的基于Vue.js的校园防疫微信小程序开发+ssm,https://github.com/opsadamgreenzgjp/JAVA-rbrka-DAIMA,0,0,Java,,2026-09-15T11:48:13Z,2026-09-16,True,Long Context
-1372524912,opsadamgreenzgjp/JAVA-mrgsw-DAIMA,基于SSM的重庆理工大学心理咨询管理子系统的分析与实现+jsp,https://github.com/opsadamgreenzgjp/JAVA-mrgsw-DAIMA,0,0,Java,,2026-09-16T04:45:24Z,2026-09-16,True,Long Context
-1371331350,opsadamgreenzgjp/JAVA-hefaj-DAIMA,基于SSM的校园驿站全天候辅助取货管理系统的设计与实现+vue,https://github.com/opsadamgreenzgjp/JAVA-hefaj-DAIMA,0,0,Java,,2026-09-15T11:21:26Z,2026-09-16,True,Long Context
-1371343771,opsadamgreenzgjp/JAVA-kvduz-DAIMA,基于SSM的基于vue的学生宿舍设备报修管理系统的设计与实现+vue,https://github.com/opsadamgreenzgjp/JAVA-kvduz-DAIMA,0,0,Java,,2026-09-15T11:31:20Z,2026-09-16,True,Long Context
-1371358094,opsadamgreenzgjp/JAVA-oepgl-DAIMA,基于微信小程序的校园水电费管理微信小程序的设计与实现+ssm,https://github.com/opsadamgreenzgjp/JAVA-oepgl-DAIMA,0,0,Java,,2026-09-15T11:39:53Z,2026-09-16,True,Long Context
-1371332317,opsadamgreenzgjp/JAVA-hpvgj-DAIMA,基于微信小程序的基于微信平台的旅游出行必备商城小程序+ssm,https://github.com/opsadamgreenzgjp/JAVA-hpvgj-DAIMA,0,0,Java,,2026-09-15T11:22:14Z,2026-09-16,True,Long Context
-1371389787,opsadamgreenzgjp/JAVA-upgsf-DAIMA,基于微信小程序的基于微信小程序的童装商城的设计与实现+ssm,https://github.com/opsadamgreenzgjp/JAVA-upgsf-DAIMA,0,0,Java,,2026-09-15T11:59:23Z,2026-09-16,True,Long Context
-1371360496,opsadamgreenzgjp/JAVA-oqwea-DAIMA,基于微信小程序的基于微信小程序的学生公寓电费信息管理系统+ssm,https://github.com/opsadamgreenzgjp/JAVA-oqwea-DAIMA,0,0,Java,,2026-09-15T11:41:06Z,2026-09-16,True,Long Context
-1371405693,opsadamgreenzgjp/JAVA-xbctz-DAIMA,基于微信小程序的基于微信小程序的科创微应用平台设计与实现+ssm,https://github.com/opsadamgreenzgjp/JAVA-xbctz-DAIMA,0,0,Java,,2026-09-15T12:10:49Z,2026-09-16,True,Long Context
-1371334073,opsadamgreenzgjp/JAVA-iihkj-DAIMA,基于微信小程序的基于微信的设备故障报修管理系统设计与实现+ssm,https://github.com/opsadamgreenzgjp/JAVA-iihkj-DAIMA,0,0,Java,,2026-09-15T11:23:41Z,2026-09-16,True,Long Context
-1371403408,opsadamgreenzgjp/JAVA-wshch-DAIMA,基于微信小程序的健身管理系统及会员微信小程序的设计与实现+ssm,https://github.com/opsadamgreenzgjp/JAVA-wshch-DAIMA,0,0,Java,,2026-09-15T12:09:10Z,2026-09-16,True,Long Context
-1371338098,opsadamgreenzgjp/JAVA-jrjsf-DAIMA,基于微信小程序的基于小程序的老孙电子点菜系统开发设计与实现+ssm,https://github.com/opsadamgreenzgjp/JAVA-jrjsf-DAIMA,0,0,Java,,2026-09-15T11:26:52Z,2026-09-16,True,Long Context
-1372166791,lights-rix/BbSePOoY,2022软工计算机毕设一套基于SSM的校园团购系统的设计与实现  (论文+程序源代码+数据库) 三稿.zip,https://github.com/lights-rix/BbSePOoY,1,0,,,2026-09-15T21:45:02Z,2026-09-16,True,Long Context
-1372096559,owenbrave/tyYycNhN,2022软工计算机毕设一套基于SSM的服装租赁系统的设计与实现 .zip  (论文+程序源代码+数据库) 三稿.zip,https://github.com/owenbrave/tyYycNhN,1,0,,,2026-09-15T20:45:12Z,2026-09-16,True,Long Context
-1372120817,gogoore/DzTGznuj,2022软工计算机毕设一套基于SSM的菜篮子管理系统的设计与实现  (论文+程序源代码+数据库) 三稿.zip,https://github.com/gogoore/DzTGznuj,1,0,,,2026-09-15T21:03:46Z,2026-09-16,True,Long Context
-1372122652,gogoore/lZvwhJdl,2022软工计算机毕设一套基于SSM的菜篮子管理系统的设计与实现  (论文+程序源代码+数据库) 三稿.zip,https://github.com/gogoore/lZvwhJdl,1,0,,,2026-09-15T21:05:13Z,2026-09-16,True,Long Context
-1372264775,fireditoo/bmtbazhY,2022软工计算机毕设一套基于SSM框架的高校科创中心管理系统的设计与实现 (论文+程序源代码+数据库) 三稿.zip,https://github.com/fireditoo/bmtbazhY,1,0,,,2026-09-15T23:28:47Z,2026-09-16,True,Long Context
-1372105175,owenbrave/LEQaIEDx,2022软工计算机毕设一套基于SSM+小程序的智慧旅游系统设计与实现 终稿.zip (论文+程序源代码+数据库) 三稿.zip,https://github.com/owenbrave/LEQaIEDx,1,0,,,2026-09-15T20:52:14Z,2026-09-16,True,Long Context
-1372139594,gogoore/KaddJcYH,2023软工计算机毕设一套 维普22% 基于SSM的校园核酸筛查系统（论文+中期与开题+程序源代码+数据库+说明+答辩PPT+外文翻译）.zip,https://github.com/gogoore/KaddJcYH,1,0,,,2026-09-15T21:19:17Z,2026-09-16,True,Long Context
-1371785825,RiccardoVib/Signal-Flow-Structured-State-Space-Model-of-Optical-DRC,,https://github.com/RiccardoVib/Signal-Flow-Structured-State-Space-Model-of-Optical-DRC,0,0,,,2026-09-15T16:28:17Z,2026-09-16,True,Long Context
-1371096822,Faheem-Rasool/Deep-Learning-project-BirdCliff-2026-,"Multi-model bioacoustic pipeline for BirdCLEF+ 2026 — Perch V2 embeddings, custom selective state-space models (LightProtoSSM, ResidualSSM), contextual priors, and a 3-way rank-blended ensemble (SED + BirdNET) for multi-label species detection in soundscape recordings. Public LB: 0.94727.",https://github.com/Faheem-Rasool/Deep-Learning-project-BirdCliff-2026-,0,0,Jupyter Notebook,,2026-09-15T07:52:01Z,2026-09-16,True,Long Context
+1372393569,tinyai2425/Long_context_eval,,https://github.com/tinyai2425/Long_context_eval,0,0,Python,,2026-09-16T01:52:26Z,2026-09-16,False,Long Context
+1371763914,shivamshashank/adaptive-memory-transformers,Adaptive memory allocation and KV-cache compression for efficient long-context Transformer inference.,https://github.com/shivamshashank/adaptive-memory-transformers,0,0,,,2026-09-15T16:10:57Z,2026-09-16,False,Long Context
+1372276790,Joshua-Zhang-Jiaquan/Long-RWKV,"Code, contracts and receipts for Depth-Recycled Recurrent Diffusion for Long-Context Agent Workloads",https://github.com/Joshua-Zhang-Jiaquan/Long-RWKV,0,0,Python,,2026-09-15T23:38:30Z,2026-09-16,False,Long Context
+1371501417,HoyeonHan/turbo-quant,Training-free KV-cache compression for long-context LLM inference on Apple Silicon — a from-scratch MLX implementation of TurboQuant (arXiv:2504.19874).,https://github.com/HoyeonHan/turbo-quant,0,0,Python,,2026-09-15T13:14:34Z,2026-09-16,False,Long Context
+1371134147,shanhanhanhan/ATCSA-Net,ATCSA-Net for fine-grained DAS: SCP makes event-centered patches; ACGC builds confusion-guided cascade; CCSTA uses chunk attention for long sequences. ,https://github.com/shanhanhanhan/ATCSA-Net,0,0,Python,,2026-09-15T08:25:43Z,2026-09-16,False,Long Context
+1371740987,lingxianwen/MambaPRE,Structure-aware dual-stream state-space models for protocol field segmentation,https://github.com/lingxianwen/MambaPRE,0,0,Python,,2026-09-15T15:53:31Z,2026-09-16,False,Long Context
+1371119440,EarzuChan/MambaMaid,A truly nice Mermaid Online Editor,https://github.com/EarzuChan/MambaMaid,1,0,TypeScript,"mermaid,mermaid-diagrams,spa,svelte,webapp",2026-09-15T08:12:31Z,2026-09-16,False,Long Context
+1371270414,Saisharathchandranandnetha/-Mamba,,https://github.com/Saisharathchandranandnetha/-Mamba,0,0,C++,,2026-09-15T10:28:18Z,2026-09-16,False,Long Context
+1371465216,PANDALDANIEL/MAMBALOGIC,,https://github.com/PANDALDANIEL/MAMBALOGIC,0,0,HTML,,2026-09-15T12:51:03Z,2026-09-16,False,Long Context
+1371324837,BAITC-Hacks/hack-a3c97760-mamba,Hackathon team repository for mamba,https://github.com/BAITC-Hacks/hack-a3c97760-mamba,0,0,,,2026-09-15T11:16:14Z,2026-09-16,False,Long Context
+1371804773,lichaung-xmu/SFP-Mamba,,https://github.com/lichaung-xmu/SFP-Mamba,0,0,Python,,2026-09-15T16:43:02Z,2026-09-16,False,Long Context
+1371449109,SunWeihahahalife/FG-Mamba,,https://github.com/SunWeihahahalife/FG-Mamba,0,0,,,2026-09-15T12:41:05Z,2026-09-16,False,Long Context
+1371195436,junxiyao18-source/Eco-Mamba,,https://github.com/junxiyao18-source/Eco-Mamba,0,0,Python,,2026-09-15T09:20:23Z,2026-09-16,False,Long Context
+1371453447,sunwei0604/FG-Mamba,,https://github.com/sunwei0604/FG-Mamba,0,0,Python,,2026-09-15T12:43:59Z,2026-09-16,False,Long Context
+1371394037,jiujiu-ok/GMD-Mamba,,https://github.com/jiujiu-ok/GMD-Mamba,0,0,,,2026-09-15T12:02:25Z,2026-09-16,False,Long Context
+1371769520,imrshah05/mamba-selective-ssm,,https://github.com/imrshah05/mamba-selective-ssm,1,0,Python,,2026-09-15T16:15:24Z,2026-09-16,False,Long Context
+1372607745,NguyenMinhTri24072005/Capstone-mambavision-lidc,,https://github.com/NguyenMinhTri24072005/Capstone-mambavision-lidc,0,0,,,2026-09-16T06:18:55Z,2026-09-16,False,Long Context
+1372644619,EurekaElanora-J/VaDeMamba,Official research repository for VaDeMamba: Learning the Value of Mamba Depth for Spatially Adaptive 3D Brain Tumor Segmentation.,https://github.com/EurekaElanora-J/VaDeMamba,0,0,,,2026-09-16T06:54:08Z,2026-09-16,False,Long Context
+1371152454,zmx-666-ux/LiteScaleMamba-CD,Code and figures for remote sensing change detection.,https://github.com/zmx-666-ux/LiteScaleMamba-CD,0,0,Python,,2026-09-15T08:42:04Z,2026-09-16,False,Long Context
+1371876372,expiracy/ppg-sleep-staging-mamba,,https://github.com/expiracy/ppg-sleep-staging-mamba,0,0,,,2026-09-15T17:35:55Z,2026-09-16,False,Long Context
+1372385700,jianwenliu301-ai/UA-Mamba-TKG-experiments,知识图谱V1数据,https://github.com/jianwenliu301-ai/UA-Mamba-TKG-experiments,0,0,,,2026-09-16T01:40:43Z,2026-09-16,False,Long Context
+1372445901,T29VN/Mamba_cnn_-using-to-learning-,,https://github.com/T29VN/Mamba_cnn_-using-to-learning-,0,0,Python,,2026-09-16T03:04:43Z,2026-09-16,False,Long Context
+1371708675,21Q017/FALG-mamba-for-lightweight-audio-deepfake-detection,,https://github.com/21Q017/FALG-mamba-for-lightweight-audio-deepfake-detection,0,0,,,2026-09-15T15:32:01Z,2026-09-16,False,Long Context
+1371233271,bradleyyan/FA-MFMamba,Frequency-Aligned Multimodal Fourier-Mamba for Chinese A-Share Stock Forecasting,https://github.com/bradleyyan/FA-MFMamba,0,0,Python,,2026-09-15T09:53:34Z,2026-09-16,False,Long Context
+1372432627,XHMX0304/IWRMamba,Iterative Wavelet Resampling with Spatial–Spectral Synergistic Mamba Network for Hyperspectral Image Super-Resolution,https://github.com/XHMX0304/IWRMamba,0,0,,,2026-09-16T02:47:28Z,2026-09-16,False,Long Context
+1371371099,boxcode59-source/-Personalized-Breast-Cancer-Survival-and-Treatment-Response-Prediction,A Lightweight Quantum-Mamba Multimodal Framework for Personalized Breast Cancer Survival and Treatment-Response Prediction,https://github.com/boxcode59-source/-Personalized-Breast-Cancer-Survival-and-Treatment-Response-Prediction,0,0,Python,,2026-09-15T11:46:46Z,2026-09-16,False,Long Context
+1371115455,tlstngud/sisa-kernel,Fused attention kernels for SISA — Mamba-3 style state term inside a single softmax (Triton + CUDA/CuTe),https://github.com/tlstngud/sisa-kernel,0,0,Python,,2026-09-15T08:09:01Z,2026-09-16,False,Long Context
+1371206614,boxcode59-source/Prostate-Cancer-Diagnosis-Using-Histopathological-Images,A Lightweight Hybrid Gland Morphology and Mamba-Enhanced Gland  Spatial Feature Modelling for Prostate Cancer Diagnosis Using Histopathological Images,https://github.com/boxcode59-source/Prostate-Cancer-Diagnosis-Using-Histopathological-Images,0,0,Jupyter Notebook,,2026-09-15T09:29:24Z,2026-09-16,False,Long Context
+1371417158,WJN08/CL-SSMamba,CL-SSMamba: A bio-inspired replay-free continual learning framework for hyperspectral anomaly detection with collaborative spatial-spectral Mamba learners.,https://github.com/WJN08/CL-SSMamba,0,0,Python,,2026-09-15T12:19:00Z,2026-09-16,False,Long Context
+1371314947,boxcode59-source/LiteRTG-Net-Lightweight-Multimodal-Brain-Tumor-MRI-Segmentation,"LiteRTG-Net: A Region Growing-Guided, Topology-Aware Graph Attention, and Gated CNN–Mamba Framework for Lightweight Multimodal Brain Tumor MRI Segmentation",https://github.com/boxcode59-source/LiteRTG-Net-Lightweight-Multimodal-Brain-Tumor-MRI-Segmentation,0,0,Python,,2026-09-15T11:08:06Z,2026-09-16,False,Long Context
+1372606857,tlstngud/TriFusion-FP-Kernel,"TriFusion-FP inference kernels and CUDA Graph runtime for NVIDIA L4 (Triton/PTX, BF16, Python API)",https://github.com/tlstngud/TriFusion-FP-Kernel,0,0,Python,"audio,cuda,inference,mamba,nvidia-l4,python,triton",2026-09-16T06:18:00Z,2026-09-16,False,Long Context
+1372147653,leidysoracipa01-wq/SSM,,https://github.com/leidysoracipa01-wq/SSM,0,0,HTML,,2026-09-15T21:26:37Z,2026-09-16,False,Long Context
+1372517328,opsadamgreenzgjp/JAVA-kpjsf-DAIMA,基于SSM的ssm基于SSM的社区管理系统+vue,https://github.com/opsadamgreenzgjp/JAVA-kpjsf-DAIMA,0,0,Java,,2026-09-16T04:35:53Z,2026-09-16,False,Long Context
+1372523468,uxemilytaylorhmhs/JAVA-lpjom-DAIMA,基于SSM的ssm基于ssm的人才招聘网站+jsp,https://github.com/uxemilytaylorhmhs/JAVA-lpjom-DAIMA,0,0,Java,,2026-09-16T04:43:35Z,2026-09-16,False,Long Context
+1372240552,Neomar-Kempv/ssmrufy,,https://github.com/Neomar-Kempv/ssmrufy,0,0,,,2026-09-15T23:02:43Z,2026-09-16,False,Long Context
+1371044358,sidrahadil98-droid/SSMS,,https://github.com/sidrahadil98-droid/SSMS,0,0,,,2026-09-15T07:06:40Z,2026-09-16,False,Long Context
+1372604010,edwardsjoshua505/ssmers,,https://github.com/edwardsjoshua505/ssmers,0,0,,,2026-09-16T06:14:57Z,2026-09-16,False,Long Context
+1372525401,Sanax-Atkinsonl/ssmrtii,,https://github.com/Sanax-Atkinsonl/ssmrtii,0,0,,,2026-09-16T04:45:59Z,2026-09-16,False,Long Context
+1372218855,tryoverflow/ssmhop,,https://github.com/tryoverflow/ssmhop,0,0,Go,,2026-09-15T22:35:09Z,2026-09-16,False,Long Context
+1372277027,alexandermichael3/ssmtcj,,https://github.com/alexandermichael3/ssmtcj,0,0,,,2026-09-15T23:38:45Z,2026-09-16,False,Long Context
+1371127384,jbcbike/SSMS,,https://github.com/jbcbike/SSMS,0,0,,,2026-09-15T08:19:45Z,2026-09-16,False,Long Context
+1372522057,opsadamgreenzgjp/JAVA-mefvt-DAIMA,基于SSM的ssm教师上课系统+vue,https://github.com/opsadamgreenzgjp/JAVA-mefvt-DAIMA,0,0,Java,,2026-09-16T04:41:51Z,2026-09-16,False,Long Context
+1372516842,opsadamgreenzgjp/JAVA-jtcpy-DAIMA,基于SSM的ssm网上挂号系统+jsp,https://github.com/opsadamgreenzgjp/JAVA-jtcpy-DAIMA,0,0,Java,,2026-09-16T04:35:12Z,2026-09-16,False,Long Context
+1372541120,opsadamgreenzgjp/JAVA-tiqmy-DAIMA,基于SSM的ssm电影购票系统+vue,https://github.com/opsadamgreenzgjp/JAVA-tiqmy-DAIMA,0,0,Java,,2026-09-16T05:02:24Z,2026-09-16,False,Long Context
+1371364850,opsadamgreenzgjp/JAVA-pqinh-DAIMA,基于SSM的ssm网络办公系统+jsp,https://github.com/opsadamgreenzgjp/JAVA-pqinh-DAIMA,0,0,Java,,2026-09-15T11:43:29Z,2026-09-16,False,Long Context
+1372505613,uxemilytaylorhmhs/JAVA-fmnnt-DAIMA,基于SSM的ssm网上花店设计+vue,https://github.com/uxemilytaylorhmhs/JAVA-fmnnt-DAIMA,0,0,Java,,2026-09-16T04:21:04Z,2026-09-16,False,Long Context
+1372515917,opsadamgreenzgjp/JAVA-jhtxx-DAIMA,基于SSM的ssm停车管理系统+jsp,https://github.com/opsadamgreenzgjp/JAVA-jhtxx-DAIMA,0,0,Java,,2026-09-16T04:33:59Z,2026-09-16,False,Long Context
+1371402233,opsadamgreenzgjp/JAVA-wsetq-DAIMA,基于SSM的ssm学籍管理系统+vue,https://github.com/opsadamgreenzgjp/JAVA-wsetq-DAIMA,0,0,Java,,2026-09-15T12:08:17Z,2026-09-16,False,Long Context
+1371342221,opsadamgreenzgjp/JAVA-kphqx-DAIMA,基于SSM的ssm课程管理系统+vue,https://github.com/opsadamgreenzgjp/JAVA-kphqx-DAIMA,0,0,Java,,2026-09-15T11:30:05Z,2026-09-16,False,Long Context
+1372501526,opsadamgreenzgjp/JAVA-bkkga-DAIMA,基于SSM的ssm订餐管理系统+jsp,https://github.com/opsadamgreenzgjp/JAVA-bkkga-DAIMA,0,0,Java,,2026-09-16T04:15:44Z,2026-09-16,False,Long Context
+1372503996,uxemilytaylorhmhs/JAVA-eqcze-DAIMA,基于SSM的ssm学生请假系统+jsp,https://github.com/uxemilytaylorhmhs/JAVA-eqcze-DAIMA,0,0,Java,,2026-09-16T04:18:59Z,2026-09-16,False,Long Context
+1372515665,opsadamgreenzgjp/JAVA-jdvvt-DAIMA,基于SSM的ssm医院交互系统+vue,https://github.com/opsadamgreenzgjp/JAVA-jdvvt-DAIMA,0,0,Java,,2026-09-16T04:33:40Z,2026-09-16,False,Long Context
+1372510828,opsadamgreenzgjp/JAVA-gzkva-DAIMA,基于SSM的ssm教材管理系统+vue,https://github.com/opsadamgreenzgjp/JAVA-gzkva-DAIMA,0,0,Java,,2026-09-16T04:27:43Z,2026-09-16,False,Long Context
+1371065786,hrdssmi24-wq/HRISYSTEM-SSMI,,https://github.com/hrdssmi24-wq/HRISYSTEM-SSMI,0,0,HTML,,2026-09-15T07:24:34Z,2026-09-16,False,Long Context
+1371285833,prateekverma26/ssm-dashboard,Super-admin-dashbboard,https://github.com/prateekverma26/ssm-dashboard,0,0,HTML,,2026-09-15T10:41:55Z,2026-09-16,False,Long Context
+1371764051,flank-project/ssms-extension,,https://github.com/flank-project/ssms-extension,0,0,C#,,2026-09-15T16:11:04Z,2026-09-16,False,Long Context
+1372385790,Infiltrator-Projects/ssmithnet.net,Web Page test,https://github.com/Infiltrator-Projects/ssmithnet.net,0,0,HTML,,2026-09-16T01:40:50Z,2026-09-16,False,Long Context
+1371776527,raman-jetbrain/SSM-BACKEND,Spring boot Backend ,https://github.com/raman-jetbrain/SSM-BACKEND,0,0,Java,,2026-09-15T16:20:53Z,2026-09-16,False,Long Context
+1371168940,Sudarshanganwani9/SSM-app,,https://github.com/Sudarshanganwani9/SSM-app,0,0,TypeScript,,2026-09-15T08:56:41Z,2026-09-16,False,Long Context
+1372504325,opsadamgreenzgjp/JAVA-dqriu-DAIMA,基于SSM的ssm剧本杀预约系统+vue,https://github.com/opsadamgreenzgjp/JAVA-dqriu-DAIMA,0,0,Java,,2026-09-16T04:19:26Z,2026-09-16,False,Long Context
+1371623756,salamunrahmuna/Purchase-Done-ssmetyon,,https://github.com/salamunrahmuna/Purchase-Done-ssmetyon,0,0,,,2026-09-15T14:33:57Z,2026-09-16,False,Long Context
+1372531739,opsadamgreenzgjp/JAVA-pwezc-DAIMA,基于SSM的ssm食品安全追溯系统+jsp,https://github.com/opsadamgreenzgjp/JAVA-pwezc-DAIMA,0,0,Java,,2026-09-16T04:52:28Z,2026-09-16,False,Long Context
+1372519359,opsadamgreenzgjp/JAVA-lewur-DAIMA,基于SSM的ssm运动器械购物商城+jsp,https://github.com/opsadamgreenzgjp/JAVA-lewur-DAIMA,0,0,Java,,2026-09-16T04:38:30Z,2026-09-16,False,Long Context
+1372497669,uxemilytaylorhmhs/JAVA-bbuvo-DAIMA,基于SSM的ssm汽车养护管理系统+jsp,https://github.com/uxemilytaylorhmhs/JAVA-bbuvo-DAIMA,0,0,Java,,2026-09-16T04:10:44Z,2026-09-16,False,Long Context
+1372507834,opsadamgreenzgjp/JAVA-frjta-DAIMA,基于SSM的ssm班级事务管理系统+vue,https://github.com/opsadamgreenzgjp/JAVA-frjta-DAIMA,0,0,Java,,2026-09-16T04:23:47Z,2026-09-16,False,Long Context
+1372537175,opsadamgreenzgjp/JAVA-rwrfy-DAIMA,基于SSM的ssm物流信息管理系统+jsp,https://github.com/opsadamgreenzgjp/JAVA-rwrfy-DAIMA,0,0,Java,,2026-09-16T04:57:51Z,2026-09-16,False,Long Context
+1372525670,opsadamgreenzgjp/JAVA-mvuis-DAIMA,基于SSM的ssm孩童收养信息管理+vue,https://github.com/opsadamgreenzgjp/JAVA-mvuis-DAIMA,0,0,Java,,2026-09-16T04:46:20Z,2026-09-16,False,Long Context
+1372540458,uxemilytaylorhmhs/JAVA-tjybo-DAIMA,基于SSM的ssm社区文化宣传网站+jsp,https://github.com/uxemilytaylorhmhs/JAVA-tjybo-DAIMA,0,0,Java,,2026-09-16T05:01:38Z,2026-09-16,False,Long Context
+1372505766,opsadamgreenzgjp/JAVA-ekjrq-DAIMA,基于SSM的ssm杂志在线阅读网站+vue,https://github.com/opsadamgreenzgjp/JAVA-ekjrq-DAIMA,0,0,Java,,2026-09-16T04:21:14Z,2026-09-16,False,Long Context
+1372498231,opsadamgreenzgjp/JAVA-akwtr-DAIMA,基于SSM的ssm二手商品交易平台+vue,https://github.com/opsadamgreenzgjp/JAVA-akwtr-DAIMA,0,0,Java,,2026-09-16T04:11:27Z,2026-09-16,False,Long Context
+1372525071,uxemilytaylorhmhs/JAVA-mfddz-DAIMA,基于SSM的ssm单位人事管理系统+jsp,https://github.com/uxemilytaylorhmhs/JAVA-mfddz-DAIMA,0,0,Java,,2026-09-16T04:45:36Z,2026-09-16,False,Long Context
+1372506049,opsadamgreenzgjp/JAVA-etkpw-DAIMA,基于SSM的ssm政府项目管理平台+vue,https://github.com/opsadamgreenzgjp/JAVA-etkpw-DAIMA,0,0,Java,,2026-09-16T04:21:32Z,2026-09-16,False,Long Context
+1371362684,opsadamgreenzgjp/JAVA-pewnf-DAIMA,基于SSM的ssm游泳会员管理系统+vue,https://github.com/opsadamgreenzgjp/JAVA-pewnf-DAIMA,0,0,Java,,2026-09-15T11:42:19Z,2026-09-16,False,Long Context
+1372535877,opsadamgreenzgjp/JAVA-rfzne-DAIMA,基于SSM的ssm企业人事管理系统+vue,https://github.com/opsadamgreenzgjp/JAVA-rfzne-DAIMA,0,0,Java,,2026-09-16T04:56:29Z,2026-09-16,False,Long Context
+1372511808,opsadamgreenzgjp/JAVA-hdkaf-DAIMA,基于SSM的ssm毕业设计选题系统+jsp,https://github.com/opsadamgreenzgjp/JAVA-hdkaf-DAIMA,0,0,Java,,2026-09-16T04:28:52Z,2026-09-16,False,Long Context
+1372509774,uxemilytaylorhmhs/JAVA-hmytx-DAIMA,基于SSM的ssm学院党员管理系统+jsp,https://github.com/uxemilytaylorhmhs/JAVA-hmytx-DAIMA,0,0,Java,,2026-09-16T04:26:21Z,2026-09-16,False,Long Context
+1372536024,uxemilytaylorhmhs/JAVA-rdlhf-DAIMA,基于SSM的ssm医院门诊挂号系统+jsp,https://github.com/uxemilytaylorhmhs/JAVA-rdlhf-DAIMA,0,0,Java,,2026-09-16T04:56:38Z,2026-09-16,False,Long Context
+1372511132,uxemilytaylorhmhs/JAVA-hsygx-DAIMA,基于SSM的ssm校园美食交流系统+vue,https://github.com/uxemilytaylorhmhs/JAVA-hsygx-DAIMA,0,0,Java,,2026-09-16T04:28:06Z,2026-09-16,False,Long Context
+1372518113,opsadamgreenzgjp/JAVA-lbedm-DAIMA,基于SSM的ssm企业员工管理系统+vue,https://github.com/opsadamgreenzgjp/JAVA-lbedm-DAIMA,0,0,Java,,2026-09-16T04:36:52Z,2026-09-16,False,Long Context
+1372521173,opsadamgreenzgjp/JAVA-lsiyf-DAIMA,基于SSM的ssm资产管理信息系统+vue,https://github.com/opsadamgreenzgjp/JAVA-lsiyf-DAIMA,0,0,Java,,2026-09-16T04:40:46Z,2026-09-16,False,Long Context
+1372507083,opsadamgreenzgjp/JAVA-fhutg-DAIMA,基于SSM的ssm学生档案管理系统+jsp,https://github.com/opsadamgreenzgjp/JAVA-fhutg-DAIMA,0,0,Java,,2026-09-16T04:22:48Z,2026-09-16,False,Long Context
+1372521485,opsadamgreenzgjp/JAVA-lskan-DAIMA,基于SSM的ssm网上购物平台设计+jsp,https://github.com/opsadamgreenzgjp/JAVA-lskan-DAIMA,0,0,Java,,2026-09-16T04:41:09Z,2026-09-16,False,Long Context
+1371354977,opsadamgreenzgjp/JAVA-myymf-DAIMA,基于SSM的ssm线上旅游体验系统+vue,https://github.com/opsadamgreenzgjp/JAVA-myymf-DAIMA,0,0,Java,,2026-09-15T11:38:08Z,2026-09-16,False,Long Context
+1372510347,opsadamgreenzgjp/JAVA-gpxau-DAIMA,基于SSM的ssm驾校预约管理系统+jsp,https://github.com/opsadamgreenzgjp/JAVA-gpxau-DAIMA,0,0,Java,,2026-09-16T04:27:05Z,2026-09-16,False,Long Context
+1372532155,opsadamgreenzgjp/JAVA-qasij-DAIMA,基于SSM的ssm学生社团管理系统+vue,https://github.com/opsadamgreenzgjp/JAVA-qasij-DAIMA,0,0,Java,,2026-09-16T04:52:51Z,2026-09-16,False,Long Context
+1371880714,sheliawe/order-payment-due-by-ssmarie15-gmail.com-i5tctkj2,,https://github.com/sheliawe/order-payment-due-by-ssmarie15-gmail.com-i5tctkj2,0,0,DIGITAL Command Language,,2026-09-15T17:39:16Z,2026-09-16,False,Long Context
+1371376601,opsadamgreenzgjp/JAVA-rriao-DAIMA,基于SSM的ssm网上系统调查的开发+vue,https://github.com/opsadamgreenzgjp/JAVA-rriao-DAIMA,0,0,Java,,2026-09-15T11:49:46Z,2026-09-16,False,Long Context
+1371314108,opsadamgreenzgjp/JAVA-dczsu-DAIMA,基于SSM的基于ssm的电影评论系统+vue,https://github.com/opsadamgreenzgjp/JAVA-dczsu-DAIMA,0,0,Java,,2026-09-15T11:07:20Z,2026-09-16,False,Long Context
+1371321400,opsadamgreenzgjp/JAVA-ezwrt-DAIMA,基于SSM的ssm毕业生学历证明系统+vue,https://github.com/opsadamgreenzgjp/JAVA-ezwrt-DAIMA,0,0,Java,,2026-09-15T11:13:34Z,2026-09-16,False,Long Context
+1372540223,opsadamgreenzgjp/JAVA-tbyhu-DAIMA,基于SSM的ssm旅游网页开发与设计+jsp,https://github.com/opsadamgreenzgjp/JAVA-tbyhu-DAIMA,0,0,Java,,2026-09-16T05:01:22Z,2026-09-16,False,Long Context
+1372530689,opsadamgreenzgjp/JAVA-pjtcy-DAIMA,基于SSM的ssm公交车信息管理系统+vue,https://github.com/opsadamgreenzgjp/JAVA-pjtcy-DAIMA,0,0,Java,,2026-09-16T04:51:23Z,2026-09-16,False,Long Context
+1372520584,opsadamgreenzgjp/JAVA-lmxff-DAIMA,基于SSM的ssm图书馆书库管理系统+vue,https://github.com/opsadamgreenzgjp/JAVA-lmxff-DAIMA,0,0,Java,,2026-09-16T04:40:04Z,2026-09-16,False,Long Context
+1372517836,opsadamgreenzgjp/JAVA-kwaeu-DAIMA,基于SSM的ssm基于Vue的戏剧推广网站+vue,https://github.com/opsadamgreenzgjp/JAVA-kwaeu-DAIMA,0,0,Java,,2026-09-16T04:36:31Z,2026-09-16,False,Long Context
+1371410406,opsadamgreenzgjp/JAVA-ytlys-DAIMA,基于SSM的ssm基于Java的超市管理系统+jsp,https://github.com/opsadamgreenzgjp/JAVA-ytlys-DAIMA,0,0,Java,,2026-09-15T12:14:13Z,2026-09-16,False,Long Context
+1372519007,uxemilytaylorhmhs/JAVA-kpkec-DAIMA,基于SSM的ssm博客系统的设计与实现+vue,https://github.com/uxemilytaylorhmhs/JAVA-kpkec-DAIMA,0,0,Java,,2026-09-16T04:38:02Z,2026-09-16,False,Long Context
+1371308988,opsadamgreenzgjp/JAVA-bqzqo-DAIMA,基于SSM的ssm疫情期间高校防控系统+vue,https://github.com/opsadamgreenzgjp/JAVA-bqzqo-DAIMA,0,0,Java,,2026-09-15T11:02:48Z,2026-09-16,False,Long Context
+1372534257,uxemilytaylorhmhs/JAVA-qvutd-DAIMA,基于SSM的ssm简易版营业厅宽带系统+jsp,https://github.com/uxemilytaylorhmhs/JAVA-qvutd-DAIMA,0,0,Java,,2026-09-16T04:55:00Z,2026-09-16,False,Long Context
+1372514428,opsadamgreenzgjp/JAVA-ilskh-DAIMA,基于SSM的ssm智慧社区电子商务系统+vue,https://github.com/opsadamgreenzgjp/JAVA-ilskh-DAIMA,0,0,Java,,2026-09-16T04:32:08Z,2026-09-16,False,Long Context
+1371325339,opsadamgreenzgjp/JAVA-fsdqj-DAIMA,基于SSM的ssm旅社客房收费管理系统+vue,https://github.com/opsadamgreenzgjp/JAVA-fsdqj-DAIMA,0,0,Java,,2026-09-15T11:16:40Z,2026-09-16,False,Long Context
+1372529718,uxemilytaylorhmhs/JAVA-oddic-DAIMA,基于SSM的ssm基于Java的图书管理系统+jsp,https://github.com/uxemilytaylorhmhs/JAVA-oddic-DAIMA,0,0,Java,,2026-09-16T04:50:28Z,2026-09-16,False,Long Context
+1372518401,opsadamgreenzgjp/JAVA-lbuil-DAIMA,基于SSM的ssm连锁超市会员管理系统+vue,https://github.com/opsadamgreenzgjp/JAVA-lbuil-DAIMA,0,0,Java,,2026-09-16T04:37:13Z,2026-09-16,False,Long Context
+1372520876,opsadamgreenzgjp/JAVA-lnyss-DAIMA,基于SSM的ssm校园二手交易管理系统+vue,https://github.com/opsadamgreenzgjp/JAVA-lnyss-DAIMA,0,0,Java,,2026-09-16T04:40:25Z,2026-09-16,False,Long Context
+1372529552,opsadamgreenzgjp/JAVA-oybum-DAIMA,基于SSM的基于ssm+vue的在线听书网站+vue,https://github.com/opsadamgreenzgjp/JAVA-oybum-DAIMA,0,0,Java,,2026-09-16T04:50:17Z,2026-09-16,False,Long Context
+1372505165,opsadamgreenzgjp/JAVA-dzswq-DAIMA,基于SSM的ssm中医+养老服务平台设计+vue,https://github.com/opsadamgreenzgjp/JAVA-dzswq-DAIMA,0,0,Java,,2026-09-16T04:20:30Z,2026-09-16,False,Long Context
+1372525441,opsadamgreenzgjp/JAVA-mutwl-DAIMA,基于SSM的ssm基于BS的项目监管系统+jsp,https://github.com/opsadamgreenzgjp/JAVA-mutwl-DAIMA,0,0,Java,,2026-09-16T04:46:02Z,2026-09-16,False,Long Context
+1371357418,opsadamgreenzgjp/JAVA-nunkc-DAIMA,基于SSM的ssm学习视频资源库的系统+jsp,https://github.com/opsadamgreenzgjp/JAVA-nunkc-DAIMA,0,0,Java,,2026-09-15T11:39:29Z,2026-09-16,False,Long Context
+1372524399,opsadamgreenzgjp/JAVA-mpfgn-DAIMA,基于SSM的基于ssm的学生资助管理系统+vue,https://github.com/opsadamgreenzgjp/JAVA-mpfgn-DAIMA,0,0,Java,,2026-09-16T04:44:45Z,2026-09-16,False,Long Context
+1372511864,uxemilytaylorhmhs/JAVA-iappd-DAIMA,基于SSM的ssm毕业生就业信息统计系统+vue,https://github.com/uxemilytaylorhmhs/JAVA-iappd-DAIMA,0,0,Java,,2026-09-16T04:28:57Z,2026-09-16,False,Long Context
+1372537629,uxemilytaylorhmhs/JAVA-slfdm-DAIMA,基于SSM的ssm物流管理系统设计与实现+jsp,https://github.com/uxemilytaylorhmhs/JAVA-slfdm-DAIMA,0,0,Java,,2026-09-16T04:58:23Z,2026-09-16,False,Long Context
+1372510538,uxemilytaylorhmhs/JAVA-hqxsp-DAIMA,基于SSM的ssm绿色农产品推广应用网站+vue,https://github.com/uxemilytaylorhmhs/JAVA-hqxsp-DAIMA,0,0,Java,,2026-09-16T04:27:20Z,2026-09-16,False,Long Context
+1372511386,opsadamgreenzgjp/JAVA-hciof-DAIMA,基于SSM的基于SSM的游戏资源管理系统+vue,https://github.com/opsadamgreenzgjp/JAVA-hciof-DAIMA,0,0,Java,,2026-09-16T04:28:25Z,2026-09-16,False,Long Context
+1372509283,opsadamgreenzgjp/JAVA-ggodc-DAIMA,基于SSM的基于VUE3+SSM框架的在线宠物商城,https://github.com/opsadamgreenzgjp/JAVA-ggodc-DAIMA,0,0,Java,,2026-09-16T04:25:43Z,2026-09-16,False,Long Context
+1371339567,opsadamgreenzgjp/JAVA-jyufm-DAIMA,基于SSM的ssm百货中心供应链管理系统+jsp,https://github.com/opsadamgreenzgjp/JAVA-jyufm-DAIMA,0,0,Java,,2026-09-15T11:27:58Z,2026-09-16,False,Long Context
+1372504473,uxemilytaylorhmhs/JAVA-exljv-DAIMA,基于SSM的ssm小学生课外知识学习网站+vue,https://github.com/uxemilytaylorhmhs/JAVA-exljv-DAIMA,0,0,Java,,2026-09-16T04:19:37Z,2026-09-16,False,Long Context
+1372537331,uxemilytaylorhmhs/JAVA-sdevv-DAIMA,基于SSM的ssm学校运动会信息管理系统+jsp,https://github.com/uxemilytaylorhmhs/JAVA-sdevv-DAIMA,0,0,Java,,2026-09-16T04:58:02Z,2026-09-16,False,Long Context
+1371339107,opsadamgreenzgjp/JAVA-jxhhj-DAIMA,基于SSM的SSM框架的宿舍管理系统的设计,https://github.com/opsadamgreenzgjp/JAVA-jxhhj-DAIMA,0,0,Java,,2026-09-15T11:27:38Z,2026-09-16,False,Long Context
+1372519848,opsadamgreenzgjp/JAVA-ljtgg-DAIMA,基于SSM的ssm阅微文学网站的设计与开发+vue,https://github.com/opsadamgreenzgjp/JAVA-ljtgg-DAIMA,0,0,Java,,2026-09-16T04:39:04Z,2026-09-16,False,Long Context
+1372506302,opsadamgreenzgjp/JAVA-evqrk-DAIMA,基于SSM的ssm网上购物商城的设计与实现+jsp,https://github.com/opsadamgreenzgjp/JAVA-evqrk-DAIMA,0,0,Java,,2026-09-16T04:21:49Z,2026-09-16,False,Long Context
+1372496773,opsadamgreenzgjp/JAVA-adzan-DAIMA,基于SSM的ssm基于jsp技术的选课管理系统+jsp,https://github.com/opsadamgreenzgjp/JAVA-adzan-DAIMA,0,0,Java,,2026-09-16T04:09:34Z,2026-09-16,False,Long Context
+1372528813,opsadamgreenzgjp/JAVA-oognh-DAIMA,基于SSM的基于ssm框架的车辆出租管理系统,https://github.com/opsadamgreenzgjp/JAVA-oognh-DAIMA,0,0,Java,,2026-09-16T04:49:31Z,2026-09-16,False,Long Context
+1372507939,uxemilytaylorhmhs/JAVA-gufap-DAIMA,基于SSM的ssm房屋租售网站的设计与实现+jsp,https://github.com/uxemilytaylorhmhs/JAVA-gufap-DAIMA,0,0,Java,,2026-09-16T04:23:54Z,2026-09-16,False,Long Context
+1372538933,opsadamgreenzgjp/JAVA-svgzd-DAIMA,基于SSM的基于ssm框架的博客系统的开发+vue,https://github.com/opsadamgreenzgjp/JAVA-svgzd-DAIMA,0,0,Java,,2026-09-16T05:00:00Z,2026-09-16,False,Long Context
+1371411600,opsadamgreenzgjp/JAVA-zfpkb-DAIMA,基于SSM的基于SSM的旅游论坛设计与实现+vue,https://github.com/opsadamgreenzgjp/JAVA-zfpkb-DAIMA,0,0,Java,,2026-09-15T12:15:05Z,2026-09-16,False,Long Context
+1372523543,opsadamgreenzgjp/JAVA-mlqow-DAIMA,基于SSM的基于SSM的毕业生就业管理系统+vue,https://github.com/opsadamgreenzgjp/JAVA-mlqow-DAIMA,0,0,Java,,2026-09-16T04:43:40Z,2026-09-16,False,Long Context
+1371379666,opsadamgreenzgjp/JAVA-slgzo-DAIMA,基于SSM的ssm教务信息平台的设计与实现+jsp,https://github.com/opsadamgreenzgjp/JAVA-slgzo-DAIMA,0,0,Java,,2026-09-15T11:52:01Z,2026-09-16,False,Long Context
+1371361975,opsadamgreenzgjp/JAVA-pdcvn-DAIMA,基于SSM的ssm框架的少儿编程在线培训系统,https://github.com/opsadamgreenzgjp/JAVA-pdcvn-DAIMA,0,0,Java,,2026-09-15T11:41:56Z,2026-09-16,False,Long Context
+1371378616,opsadamgreenzgjp/JAVA-sakur-DAIMA,基于SSM的ssm中文学习系统的设计与实现+jsp,https://github.com/opsadamgreenzgjp/JAVA-sakur-DAIMA,0,0,Java,,2026-09-15T11:51:14Z,2026-09-16,False,Long Context
+1371304603,opsadamgreenzgjp/JAVA-aqwlo-DAIMA,基于SSM的SSM的在线学习系统设计与实现+vue,https://github.com/opsadamgreenzgjp/JAVA-aqwlo-DAIMA,0,0,Java,,2026-09-15T10:58:49Z,2026-09-16,False,Long Context
+1372504067,opsadamgreenzgjp/JAVA-dgsfa-DAIMA,基于SSM的ssm职业高中学情成绩系统设计+jsp,https://github.com/opsadamgreenzgjp/JAVA-dgsfa-DAIMA,0,0,Java,,2026-09-16T04:19:04Z,2026-09-16,False,Long Context
+1372519009,opsadamgreenzgjp/JAVA-lehus-DAIMA,基于SSM的SSM的高并发慕课网的设计与实现,https://github.com/opsadamgreenzgjp/JAVA-lehus-DAIMA,0,0,Java,,2026-09-16T04:38:02Z,2026-09-16,False,Long Context
+1371323885,opsadamgreenzgjp/JAVA-flenh-DAIMA,基于SSM的基于ssm的高校大学生党建系统+jsp,https://github.com/opsadamgreenzgjp/JAVA-flenh-DAIMA,0,0,Java,,2026-09-15T11:15:28Z,2026-09-16,False,Long Context
+1372502126,opsadamgreenzgjp/JAVA-btprx-DAIMA,基于SSM的ssm文化遗产的保护与旅游开发+jsp,https://github.com/opsadamgreenzgjp/JAVA-btprx-DAIMA,0,0,Java,,2026-09-16T04:16:30Z,2026-09-16,False,Long Context
+1371479038,jefgewfguk25/order-confirm-r85ssmi2,,https://github.com/jefgewfguk25/order-confirm-r85ssmi2,0,0,,,2026-09-15T12:59:38Z,2026-09-16,False,Long Context
+1372150775,THANK-YOU-FOR-YOUR-ORDER-FGSD4/repo-0ssm8mj4,,https://github.com/THANK-YOU-FOR-YOUR-ORDER-FGSD4/repo-0ssm8mj4,0,0,,,2026-09-15T21:29:38Z,2026-09-16,False,Long Context
+1372528150,opsadamgreenzgjp/JAVA-nyxom-DAIMA,基于SSM的基于SSM框架的餐馆点餐系统的设计,https://github.com/opsadamgreenzgjp/JAVA-nyxom-DAIMA,0,0,Java,,2026-09-16T04:48:50Z,2026-09-16,False,Long Context
+1371315039,opsadamgreenzgjp/JAVA-dkywc-DAIMA,基于SSM的基于SSM的校园兼职管理系统设计+vue,https://github.com/opsadamgreenzgjp/JAVA-dkywc-DAIMA,0,0,Java,,2026-09-15T11:08:10Z,2026-09-16,False,Long Context
+1372528591,uxemilytaylorhmhs/JAVA-nvqml-DAIMA,基于SSM的ssm社区管理与服务的设计与实现+jsp,https://github.com/uxemilytaylorhmhs/JAVA-nvqml-DAIMA,0,0,Java,,2026-09-16T04:49:18Z,2026-09-16,False,Long Context
+1372512297,opsadamgreenzgjp/JAVA-hgubc-DAIMA,基于SSM的ssm框架的校园闲置物品交易平台+jsp,https://github.com/opsadamgreenzgjp/JAVA-hgubc-DAIMA,0,0,Java,,2026-09-16T04:29:31Z,2026-09-16,False,Long Context
+1371377095,opsadamgreenzgjp/JAVA-rslfe-DAIMA,基于SSM的ssm课程在线教学平台设计与实现+jsp,https://github.com/opsadamgreenzgjp/JAVA-rslfe-DAIMA,0,0,Java,,2026-09-15T11:50:08Z,2026-09-16,False,Long Context
+1372508741,uxemilytaylorhmhs/JAVA-hjfkf-DAIMA,基于SSM的ssm大学生兼职平台的设计与开发+jsp,https://github.com/uxemilytaylorhmhs/JAVA-hjfkf-DAIMA,0,0,Java,,2026-09-16T04:25:00Z,2026-09-16,False,Long Context
+1371407737,opsadamgreenzgjp/JAVA-ybhnn-DAIMA,基于SSM的基于ssm的网上房屋中介管理系统+vue,https://github.com/opsadamgreenzgjp/JAVA-ybhnn-DAIMA,0,0,Java,,2026-09-15T12:12:17Z,2026-09-16,False,Long Context
+1372527358,opsadamgreenzgjp/JAVA-ntpqq-DAIMA,基于SSM的基于SSM的二手交易平台设计与开发,https://github.com/opsadamgreenzgjp/JAVA-ntpqq-DAIMA,0,0,Java,,2026-09-16T04:48:04Z,2026-09-16,False,Long Context
+1372516239,opsadamgreenzgjp/JAVA-jlhux-DAIMA,基于SSM的基于ssm的星巴克咖啡店管理系统+vue.rar,https://github.com/opsadamgreenzgjp/JAVA-jlhux-DAIMA,0,0,Java,,2026-09-16T04:34:24Z,2026-09-16,False,Long Context
+1371329202,opsadamgreenzgjp/JAVA-gmrcw-DAIMA,基于SSM的基于ssm+vue的中国版Blackboard学习系统实现+vue,https://github.com/opsadamgreenzgjp/JAVA-gmrcw-DAIMA,0,0,Java,,2026-09-15T11:19:47Z,2026-09-16,False,Long Context
+1372402503,SARNI0728/auto_rental,学习ssm之后的项目,https://github.com/SARNI0728/auto_rental,0,0,Java,,2026-09-16T02:06:17Z,2026-09-16,False,Long Context
+1371391473,opsadamgreenzgjp/JAVA-vbcvt-DAIMA,基于SSM的基于SSM的宠物服务平台的设计与实现+vue,https://github.com/opsadamgreenzgjp/JAVA-vbcvt-DAIMA,0,0,Java,,2026-09-15T12:00:35Z,2026-09-16,False,Long Context
+1372510608,opsadamgreenzgjp/JAVA-gqpov-DAIMA,基于SSM的基于SSM框架的二手房中介管理系统+vue.rar,https://github.com/opsadamgreenzgjp/JAVA-gqpov-DAIMA,0,0,Java,,2026-09-16T04:27:26Z,2026-09-16,False,Long Context
+1371394944,opsadamgreenzgjp/JAVA-vmuun-DAIMA,基于SSM的基于SSM框架的P2P借贷网站设计与实现+vue,https://github.com/opsadamgreenzgjp/JAVA-vmuun-DAIMA,0,0,Java,,2026-09-15T12:03:06Z,2026-09-16,False,Long Context
+1371379095,opsadamgreenzgjp/JAVA-siyaq-DAIMA,基于SSM的基于SSM的图书借阅管理系统的设计与开发+vue,https://github.com/opsadamgreenzgjp/JAVA-siyaq-DAIMA,0,0,Java,,2026-09-15T11:51:34Z,2026-09-16,False,Long Context
+1371369344,opsadamgreenzgjp/JAVA-qggod-DAIMA,基于SSM的基于SSM的快递信息管理系统的设计与实现+vue,https://github.com/opsadamgreenzgjp/JAVA-qggod-DAIMA,0,0,Java,,2026-09-15T11:45:51Z,2026-09-16,False,Long Context
+1371390343,opsadamgreenzgjp/JAVA-upvlz-DAIMA,基于SSM的基于SSM的体育用品交易网站的设计与实现+vue,https://github.com/opsadamgreenzgjp/JAVA-upvlz-DAIMA,0,0,Java,,2026-09-15T11:59:46Z,2026-09-16,False,Long Context
+1371340127,opsadamgreenzgjp/JAVA-kbltf-DAIMA,基于SSM的基于SSM框架的漫画阅读系统的设计与开发+vue,https://github.com/opsadamgreenzgjp/JAVA-kbltf-DAIMA,0,0,Java,,2026-09-15T11:28:24Z,2026-09-16,False,Long Context
+1371555919,stuartschoenhal/payment-order-succes-by-stoyanov29-hotmail.com-ssmjwmto,,https://github.com/stuartschoenhal/payment-order-succes-by-stoyanov29-hotmail.com-ssmjwmto,0,0,DIGITAL Command Language,,2026-09-15T13:49:45Z,2026-09-16,False,Long Context
+1371372418,opsadamgreenzgjp/JAVA-qrald-DAIMA,基于SSM的小工程预算+jsp,https://github.com/opsadamgreenzgjp/JAVA-qrald-DAIMA,0,0,Java,,2026-09-15T11:47:29Z,2026-09-16,False,Long Context
+1371412651,opsadamgreenzgjp/JAVA-ztcue-DAIMA,基于SSM的C2C商务网站+vue,https://github.com/opsadamgreenzgjp/JAVA-ztcue-DAIMA,0,0,Java,,2026-09-15T12:15:50Z,2026-09-16,False,Long Context
+1371370870,opsadamgreenzgjp/JAVA-qjytw-DAIMA,基于SSM的基于SSM框架的民宿预订管理系统设计与实现+vue,https://github.com/opsadamgreenzgjp/JAVA-qjytw-DAIMA,0,0,Java,,2026-09-15T11:46:40Z,2026-09-16,False,Long Context
+1371388152,opsadamgreenzgjp/JAVA-udvjv-DAIMA,基于SSM的actual self 服装店+jsp,https://github.com/opsadamgreenzgjp/JAVA-udvjv-DAIMA,0,0,Java,,2026-09-15T11:58:13Z,2026-09-16,False,Long Context
+1372499579,opsadamgreenzgjp/JAVA-arsqr-DAIMA,基于SSM的基于SSM的高校运动会管理系统的设计与实现+vue,https://github.com/opsadamgreenzgjp/JAVA-arsqr-DAIMA,0,0,Java,,2026-09-16T04:13:12Z,2026-09-16,False,Long Context
+1371398879,opsadamgreenzgjp/JAVA-vzzzb-DAIMA,基于SSM的基于ssm的心理预约咨询管理系统的设计与实现+vue,https://github.com/opsadamgreenzgjp/JAVA-vzzzb-DAIMA,0,0,Java,,2026-09-15T12:05:57Z,2026-09-16,False,Long Context
+1371327664,opsadamgreenzgjp/JAVA-gcssw-DAIMA,基于SSM的基于SSM的的农产品线上销售网站的设计与实现+vue,https://github.com/opsadamgreenzgjp/JAVA-gcssw-DAIMA,0,0,Java,,2026-09-15T11:18:32Z,2026-09-16,False,Long Context
+1371345453,opsadamgreenzgjp/JAVA-kxqqg-DAIMA,基于SSM的基于SSM框架的音乐产品购物网站的设计与实现+vue,https://github.com/opsadamgreenzgjp/JAVA-kxqqg-DAIMA,0,0,Java,,2026-09-15T11:32:34Z,2026-09-16,False,Long Context
+1371335382,opsadamgreenzgjp/JAVA-ixlcd-DAIMA,基于SSM的基于ssm技术的金融支付终端管理系统设计与实现+jsp,https://github.com/opsadamgreenzgjp/JAVA-ixlcd-DAIMA,0,0,Java,,2026-09-15T11:24:47Z,2026-09-16,False,Long Context
+1371312668,opsadamgreenzgjp/JAVA-daddd-DAIMA,基于SSM的教务管理系统+vue,https://github.com/opsadamgreenzgjp/JAVA-daddd-DAIMA,0,0,Java,,2026-09-15T11:06:05Z,2026-09-16,False,Long Context
+1372538010,opsadamgreenzgjp/JAVA-smmnl-DAIMA,基于SSM的基于SSM的小码创客教育教学资源库的设计与实现+vue,https://github.com/opsadamgreenzgjp/JAVA-smmnl-DAIMA,0,0,Java,,2026-09-16T04:58:52Z,2026-09-16,False,Long Context
+1371400518,opsadamgreenzgjp/JAVA-wcmaz-DAIMA,基于SSM的网页商城系统+vue,https://github.com/opsadamgreenzgjp/JAVA-wcmaz-DAIMA,0,0,Java,,2026-09-15T12:07:06Z,2026-09-16,False,Long Context
+1371926938,valsoter0/payment-order-succes-by-mraewray-gmail.com-2ssmei5b,,https://github.com/valsoter0/payment-order-succes-by-mraewray-gmail.com-2ssmei5b,0,0,DIGITAL Command Language,,2026-09-15T18:15:20Z,2026-09-16,False,Long Context
+1371311271,opsadamgreenzgjp/JAVA-copgw-DAIMA,基于SSM的ssm673疫苗预约系统+vue,https://github.com/opsadamgreenzgjp/JAVA-copgw-DAIMA,0,0,Java,,2026-09-15T11:04:48Z,2026-09-16,False,Long Context
+1372512599,opsadamgreenzgjp/JAVA-hkxyl-DAIMA,基于SSM的图书管理系统+vue.rar,https://github.com/opsadamgreenzgjp/JAVA-hkxyl-DAIMA,0,0,Java,,2026-09-16T04:29:53Z,2026-09-16,False,Long Context
+1371361196,opsadamgreenzgjp/JAVA-otgqo-DAIMA,基于SSM的实验室预约管理+vue,https://github.com/opsadamgreenzgjp/JAVA-otgqo-DAIMA,0,0,Java,,2026-09-15T11:41:29Z,2026-09-16,False,Long Context
+1371428443,julianegouchie/Order-Already-paid-by-csakers102-comcast.net-6tyv2ssm,,https://github.com/julianegouchie/Order-Already-paid-by-csakers102-comcast.net-6tyv2ssm,0,0,,,2026-09-15T12:27:08Z,2026-09-16,False,Long Context
+1371334880,opsadamgreenzgjp/JAVA-inuuz-DAIMA,基于SSM的高校宿舍管理系统+vue,https://github.com/opsadamgreenzgjp/JAVA-inuuz-DAIMA,0,0,Java,,2026-09-15T11:24:21Z,2026-09-16,False,Long Context
+1371335922,opsadamgreenzgjp/JAVA-jfxzm-DAIMA,基于SSM的学生考勤管理系统+vue,https://github.com/opsadamgreenzgjp/JAVA-jfxzm-DAIMA,0,0,Java,,2026-09-15T11:25:09Z,2026-09-16,False,Long Context
+1371397059,opsadamgreenzgjp/JAVA-vtilo-DAIMA,基于SSM的学术团队管理系统+jsp,https://github.com/opsadamgreenzgjp/JAVA-vtilo-DAIMA,0,0,Java,,2026-09-15T12:04:39Z,2026-09-16,False,Long Context
+1371307252,opsadamgreenzgjp/JAVA-bguwh-DAIMA,基于SSM的政务大厅管理系统+vue,https://github.com/opsadamgreenzgjp/JAVA-bguwh-DAIMA,0,0,Java,,2026-09-15T11:01:14Z,2026-09-16,False,Long Context
+1371370067,opsadamgreenzgjp/JAVA-qicnk-DAIMA,基于SSM的网站的设计与实现+vue,https://github.com/opsadamgreenzgjp/JAVA-qicnk-DAIMA,0,0,Java,,2026-09-15T11:46:14Z,2026-09-16,False,Long Context
+1372533509,opsadamgreenzgjp/JAVA-qkjeb-DAIMA,基于SSM的基于jsp的网上商城+jsp,https://github.com/opsadamgreenzgjp/JAVA-qkjeb-DAIMA,0,0,Java,,2026-09-16T04:54:17Z,2026-09-16,False,Long Context
+1371365628,opsadamgreenzgjp/JAVA-pqket-DAIMA,基于SSM的企业在线培训系统+vue,https://github.com/opsadamgreenzgjp/JAVA-pqket-DAIMA,0,0,Java,,2026-09-15T11:43:56Z,2026-09-16,False,Long Context
+1371328222,opsadamgreenzgjp/JAVA-gjyjj-DAIMA,基于SSM的学生奖惩管理系统+vue,https://github.com/opsadamgreenzgjp/JAVA-gjyjj-DAIMA,0,0,Java,,2026-09-15T11:18:59Z,2026-09-16,False,Long Context
+1371354308,opsadamgreenzgjp/JAVA-mxxhf-DAIMA,基于SSM的社区人员管理系统+vue,https://github.com/opsadamgreenzgjp/JAVA-mxxhf-DAIMA,0,0,Java,,2026-09-15T11:37:45Z,2026-09-16,False,Long Context
+1371319241,opsadamgreenzgjp/JAVA-emffi-DAIMA,基于SSM的学生工作管理系统+jsp,https://github.com/opsadamgreenzgjp/JAVA-emffi-DAIMA,0,0,Java,,2026-09-15T11:11:44Z,2026-09-16,False,Long Context
+1372540535,opsadamgreenzgjp/JAVA-tcioz-DAIMA,基于SSM的老年公寓信息管理+jsp,https://github.com/opsadamgreenzgjp/JAVA-tcioz-DAIMA,0,0,Java,,2026-09-16T05:01:44Z,2026-09-16,False,Long Context
+1371414205,opsadamgreenzgjp/JAVA-zyauu-DAIMA,基于SSM的航空信息管理系统+vue,https://github.com/opsadamgreenzgjp/JAVA-zyauu-DAIMA,0,0,Java,,2026-09-15T12:16:55Z,2026-09-16,False,Long Context
+1371403910,opsadamgreenzgjp/JAVA-wxqhq-DAIMA,基于微信小程序的模拟考试+ssm,https://github.com/opsadamgreenzgjp/JAVA-wxqhq-DAIMA,0,0,Java,,2026-09-15T12:09:33Z,2026-09-16,False,Long Context
+1371352807,opsadamgreenzgjp/JAVA-mstvq-DAIMA,基于SSM的花卉库存管理系统+vue,https://github.com/opsadamgreenzgjp/JAVA-mstvq-DAIMA,0,0,Java,,2026-09-15T11:36:58Z,2026-09-16,False,Long Context
+1371388661,opsadamgreenzgjp/JAVA-ujkre-DAIMA,基于SSM的西安旅游管理系统+vue,https://github.com/opsadamgreenzgjp/JAVA-ujkre-DAIMA,0,0,Java,,2026-09-15T11:58:35Z,2026-09-16,False,Long Context
+1372506789,opsadamgreenzgjp/JAVA-fakkr-DAIMA,基于SSM的中国文学作品网站+vue,https://github.com/opsadamgreenzgjp/JAVA-fakkr-DAIMA,0,0,Java,,2026-09-16T04:22:27Z,2026-09-16,False,Long Context
+1371302505,opsadamgreenzgjp/JAVA-ahfso-DAIMA,基于SSM的校园疫情管控系统+jsp,https://github.com/opsadamgreenzgjp/JAVA-ahfso-DAIMA,0,0,Java,,2026-09-15T10:56:51Z,2026-09-16,False,Long Context
+1371406128,opsadamgreenzgjp/JAVA-xebjk-DAIMA,基于SSM的校园报修管理系统+vue,https://github.com/opsadamgreenzgjp/JAVA-xebjk-DAIMA,0,0,Java,,2026-09-15T12:11:08Z,2026-09-16,False,Long Context
+1371327199,opsadamgreenzgjp/JAVA-fyndy-DAIMA,基于SSM的个人消费管理系统+vue,https://github.com/opsadamgreenzgjp/JAVA-fyndy-DAIMA,0,0,Java,,2026-09-15T11:18:09Z,2026-09-16,False,Long Context
+1372516516,opsadamgreenzgjp/JAVA-jloju-DAIMA,基于SSM的高校勤工助学系统+vue,https://github.com/opsadamgreenzgjp/JAVA-jloju-DAIMA,0,0,Java,,2026-09-16T04:34:46Z,2026-09-16,False,Long Context
+1371306789,opsadamgreenzgjp/JAVA-bgmgp-DAIMA,基于SSM的小区物业管理系统+jsp,https://github.com/opsadamgreenzgjp/JAVA-bgmgp-DAIMA,0,0,Java,,2026-09-15T11:00:51Z,2026-09-16,False,Long Context
+1371402817,opsadamgreenzgjp/JAVA-wshaa-DAIMA,基于SSM的白云会议管理系统+vue,https://github.com/opsadamgreenzgjp/JAVA-wshaa-DAIMA,0,0,Java,,2026-09-15T12:08:43Z,2026-09-16,False,Long Context
+1371382999,opsadamgreenzgjp/JAVA-tkxdn-DAIMA,基于SSM的基于Javaweb的小说阅读平台,https://github.com/opsadamgreenzgjp/JAVA-tkxdn-DAIMA,0,0,Java,,2026-09-15T11:54:29Z,2026-09-16,False,Long Context
+1371413710,opsadamgreenzgjp/JAVA-zxrhg-DAIMA,基于SSM的兰亭序图书管理系统+vue,https://github.com/opsadamgreenzgjp/JAVA-zxrhg-DAIMA,0,0,Java,,2026-09-15T12:16:34Z,2026-09-16,False,Long Context
+1371390962,opsadamgreenzgjp/JAVA-uvcce-DAIMA,基于SSM的大学生成果登记系统+jsp,https://github.com/opsadamgreenzgjp/JAVA-uvcce-DAIMA,0,0,Java,,2026-09-15T12:00:12Z,2026-09-16,False,Long Context
+1372501823,opsadamgreenzgjp/JAVA-bovvu-DAIMA,基于SSM的淘乐乐员工购物商城+jsp,https://github.com/opsadamgreenzgjp/JAVA-bovvu-DAIMA,0,0,Java,,2026-09-16T04:16:05Z,2026-09-16,False,Long Context
+1372523274,opsadamgreenzgjp/JAVA-mjqbi-DAIMA,基于SSM的素材网的设计与实现+vue,https://github.com/opsadamgreenzgjp/JAVA-mjqbi-DAIMA,0,0,Java,,2026-09-16T04:43:18Z,2026-09-16,False,Long Context
+1372496550,opsadamgreenzgjp/JAVA-abqmk-DAIMA,基于SSM的基于vue的个人课表管理+vue,https://github.com/opsadamgreenzgjp/JAVA-abqmk-DAIMA,0,0,Java,,2026-09-16T04:09:16Z,2026-09-16,False,Long Context
+1371316400,opsadamgreenzgjp/JAVA-dxkzu-DAIMA,基于SSM的基于java的游戏后台系统+vue,https://github.com/opsadamgreenzgjp/JAVA-dxkzu-DAIMA,0,0,Java,,2026-09-15T11:09:22Z,2026-09-16,False,Long Context
+1372527002,opsadamgreenzgjp/JAVA-nknmr-DAIMA,基于SSM的马病管理系统设计与实现,https://github.com/opsadamgreenzgjp/JAVA-nknmr-DAIMA,0,0,Java,,2026-09-16T04:47:44Z,2026-09-16,False,Long Context
+1371755166,aryanramz/aws-web-deployment-portfolio,"Terraform-based AWS web deployment with ALB, EC2, SSM, GitHub OIDC, and reviewed infrastructure applies",https://github.com/aryanramz/aws-web-deployment-portfolio,1,0,HCL,,2026-09-15T16:04:01Z,2026-09-16,False,Long Context
+1371314587,opsadamgreenzgjp/JAVA-dekik-DAIMA,基于SSM的精品课程在线学习系统+jsp,https://github.com/opsadamgreenzgjp/JAVA-dekik-DAIMA,0,0,Java,,2026-09-15T11:07:45Z,2026-09-16,False,Long Context
+1371309908,opsadamgreenzgjp/JAVA-cdynw-DAIMA,基于SSM的Javaweb的网上花店系统的设计,https://github.com/opsadamgreenzgjp/JAVA-cdynw-DAIMA,0,0,Java,,2026-09-15T11:03:34Z,2026-09-16,False,Long Context
+1371336434,opsadamgreenzgjp/JAVA-jkqzq-DAIMA,基于SSM的驾考自主学习预约平台+vue,https://github.com/opsadamgreenzgjp/JAVA-jkqzq-DAIMA,0,0,Java,,2026-09-15T11:25:35Z,2026-09-16,False,Long Context
+1372513243,opsadamgreenzgjp/JAVA-huaog-DAIMA,基于SSM的ssmOA办公系统设计与实现+vue,https://github.com/opsadamgreenzgjp/JAVA-huaog-DAIMA,0,0,Java,,2026-09-16T04:30:38Z,2026-09-16,False,Long Context
+1372508141,opsadamgreenzgjp/JAVA-fuwxa-DAIMA,基于SSM的人事档案管理系统的设计,https://github.com/opsadamgreenzgjp/JAVA-fuwxa-DAIMA,0,0,Java,,2026-09-16T04:24:10Z,2026-09-16,False,Long Context
+1371324397,opsadamgreenzgjp/JAVA-fniwp-DAIMA,基于微信小程序的汽车保养系统+ssm,https://github.com/opsadamgreenzgjp/JAVA-fniwp-DAIMA,0,0,Java,,2026-09-15T11:15:53Z,2026-09-16,False,Long Context
+1371345980,opsadamgreenzgjp/JAVA-leerb-DAIMA,基于SSM的科技银行业务管理系统+vue,https://github.com/opsadamgreenzgjp/JAVA-leerb-DAIMA,0,0,Java,,2026-09-15T11:32:59Z,2026-09-16,False,Long Context
+1371306387,opsadamgreenzgjp/JAVA-awizr-DAIMA,基于SSM的基于java 的病房管理系统+vue,https://github.com/opsadamgreenzgjp/JAVA-awizr-DAIMA,0,0,Java,,2026-09-15T11:00:29Z,2026-09-16,False,Long Context
+1372537779,opsadamgreenzgjp/JAVA-shjyc-DAIMA,基于SSM的实验室管理与排课系统+vue,https://github.com/opsadamgreenzgjp/JAVA-shjyc-DAIMA,0,0,Java,,2026-09-16T04:58:33Z,2026-09-16,False,Long Context
+1371321022,opsadamgreenzgjp/JAVA-ezdoz-DAIMA,基于SSM的个人日常事务管理系统+vue,https://github.com/opsadamgreenzgjp/JAVA-ezdoz-DAIMA,0,0,Java,,2026-09-15T11:13:15Z,2026-09-16,False,Long Context
+1371392584,opsadamgreenzgjp/JAVA-vccpf-DAIMA,基于微信小程序的教师管理系统+ssm,https://github.com/opsadamgreenzgjp/JAVA-vccpf-DAIMA,0,0,Java,,2026-09-15T12:01:23Z,2026-09-16,False,Long Context
+1371321909,opsadamgreenzgjp/JAVA-faweb-DAIMA,基于SSM的Java Web的在线电影票购买系统,https://github.com/opsadamgreenzgjp/JAVA-faweb-DAIMA,0,0,Java,,2026-09-15T11:13:58Z,2026-09-16,False,Long Context
+1371311789,opsadamgreenzgjp/JAVA-cvzuu-DAIMA,基于SSM的基于VUE.js的在线教育系统+vue,https://github.com/opsadamgreenzgjp/JAVA-cvzuu-DAIMA,0,0,Java,,2026-09-15T11:05:16Z,2026-09-16,False,Long Context
+1371349912,opsadamgreenzgjp/JAVA-mdqbr-DAIMA,基于SSM的个体户商城的设计与实现+jsp,https://github.com/opsadamgreenzgjp/JAVA-mdqbr-DAIMA,0,0,Java,,2026-09-15T11:35:24Z,2026-09-16,False,Long Context
+1371380758,opsadamgreenzgjp/JAVA-swtwa-DAIMA,基于SSM的课程教学网站设计与实现+vue,https://github.com/opsadamgreenzgjp/JAVA-swtwa-DAIMA,0,0,Java,,2026-09-15T11:52:51Z,2026-09-16,False,Long Context
+1371346929,opsadamgreenzgjp/JAVA-lublb-DAIMA,基于微信小程序的实习记录小程序+ssm,https://github.com/opsadamgreenzgjp/JAVA-lublb-DAIMA,0,0,Java,,2026-09-15T11:33:44Z,2026-09-16,False,Long Context
+1371389158,opsadamgreenzgjp/JAVA-ukita-DAIMA,基于SSM的spring和vue开发的web新闻流媒体,https://github.com/opsadamgreenzgjp/JAVA-ukita-DAIMA,0,0,Java,,2026-09-15T11:58:57Z,2026-09-16,False,Long Context
+1372504593,opsadamgreenzgjp/JAVA-dtclk-DAIMA,基于SSM的健身管理系统开发与设计+jsp,https://github.com/opsadamgreenzgjp/JAVA-dtclk-DAIMA,0,0,Java,,2026-09-16T04:19:47Z,2026-09-16,False,Long Context
+1372503231,opsadamgreenzgjp/JAVA-dagzx-DAIMA,基于SSM的二手车交易平台的设计+jsp.rar,https://github.com/opsadamgreenzgjp/JAVA-dagzx-DAIMA,0,0,Java,,2026-09-16T04:17:58Z,2026-09-16,False,Long Context
+1372533951,opsadamgreenzgjp/JAVA-qsytl-DAIMA,基于SSM的Java Web的怀旧唱片售卖系统+vue,https://github.com/opsadamgreenzgjp/JAVA-qsytl-DAIMA,0,0,Java,,2026-09-16T04:54:43Z,2026-09-16,False,Long Context
+1371308100,opsadamgreenzgjp/JAVA-bllxh-DAIMA,基于SSM的基于Java web的住院管理系统+vue,https://github.com/opsadamgreenzgjp/JAVA-bllxh-DAIMA,0,0,Java,,2026-09-15T11:02:00Z,2026-09-16,False,Long Context
+1371409898,opsadamgreenzgjp/JAVA-ypglf-DAIMA,基于SSM的高校毕业生就业管理系统+jsp,https://github.com/opsadamgreenzgjp/JAVA-ypglf-DAIMA,0,0,Java,,2026-09-15T12:13:51Z,2026-09-16,False,Long Context
+1371363536,opsadamgreenzgjp/JAVA-pnxko-DAIMA,基于SSM的基于SpringMVC网上选课系统的设计,https://github.com/opsadamgreenzgjp/JAVA-pnxko-DAIMA,0,0,Java,,2026-09-15T11:42:44Z,2026-09-16,False,Long Context
+1372538722,uxemilytaylorhmhs/JAVA-stuqn-DAIMA,基于SSM的Java Web 的校园驿站管理系统+jsp,https://github.com/uxemilytaylorhmhs/JAVA-stuqn-DAIMA,0,0,Java,,2026-09-16T04:59:44Z,2026-09-16,False,Long Context
+1371307639,opsadamgreenzgjp/JAVA-bigab-DAIMA,基于SSM的基于Java Web的医疗系统实现+vue,https://github.com/opsadamgreenzgjp/JAVA-bigab-DAIMA,0,0,Java,,2026-09-15T11:01:35Z,2026-09-16,False,Long Context
+1371368526,opsadamgreenzgjp/JAVA-qcpol-DAIMA,基于SSM的Javaweb的网上奶茶店系统的设计,https://github.com/opsadamgreenzgjp/JAVA-qcpol-DAIMA,0,0,Java,,2026-09-15T11:45:24Z,2026-09-16,False,Long Context
+1371393245,opsadamgreenzgjp/JAVA-vezlu-DAIMA,基于SSM的基于电商平台的用户画像+vue,https://github.com/opsadamgreenzgjp/JAVA-vezlu-DAIMA,0,0,Java,,2026-09-15T12:01:50Z,2026-09-16,False,Long Context
+1371346529,opsadamgreenzgjp/JAVA-lgeou-DAIMA,基于微信小程序的微信阅读小程序+ssm,https://github.com/opsadamgreenzgjp/JAVA-lgeou-DAIMA,0,0,Java,,2026-09-15T11:33:25Z,2026-09-16,False,Long Context
+1372509260,uxemilytaylorhmhs/JAVA-hmjpi-DAIMA,基于SSM的小型企业办公自动化系统+vue,https://github.com/uxemilytaylorhmhs/JAVA-hmjpi-DAIMA,0,0,Java,,2026-09-16T04:25:42Z,2026-09-16,False,Long Context
+1371340528,opsadamgreenzgjp/JAVA-kexvt-DAIMA,基于SSM的普通话培训信息管理系统+jsp,https://github.com/opsadamgreenzgjp/JAVA-kexvt-DAIMA,0,0,Java,,2026-09-15T11:28:43Z,2026-09-16,False,Long Context
+1372514164,opsadamgreenzgjp/JAVA-ihbxg-DAIMA,基于SSM的vue框架和elementui组件的手机官网,https://github.com/opsadamgreenzgjp/JAVA-ihbxg-DAIMA,0,0,Java,,2026-09-16T04:31:46Z,2026-09-16,False,Long Context
+1372532492,uxemilytaylorhmhs/JAVA-qmhnj-DAIMA,基于SSM的java+mysql多角色学生管理系统+jsp,https://github.com/uxemilytaylorhmhs/JAVA-qmhnj-DAIMA,0,0,Java,,2026-09-16T04:53:12Z,2026-09-16,False,Long Context
+1372502348,opsadamgreenzgjp/JAVA-cipmb-DAIMA,基于SSM的java web 的QQ村旅游网站的设计,https://github.com/opsadamgreenzgjp/JAVA-cipmb-DAIMA,0,0,Java,,2026-09-16T04:16:49Z,2026-09-16,False,Long Context
+1372510143,opsadamgreenzgjp/JAVA-gppfb-DAIMA,基于SSM的基于Javaee的影视创作论坛的设计,https://github.com/opsadamgreenzgjp/JAVA-gppfb-DAIMA,0,0,Java,,2026-09-16T04:26:48Z,2026-09-16,False,Long Context
+1371326228,opsadamgreenzgjp/JAVA-fvdvj-DAIMA,基于SSM的心理测评系统的设计与实现+vue,https://github.com/opsadamgreenzgjp/JAVA-fvdvj-DAIMA,0,0,Java,,2026-09-15T11:17:22Z,2026-09-16,False,Long Context
+1371410974,opsadamgreenzgjp/JAVA-yucho-DAIMA,基于SSM的长安材料批发市场管理系统+jsp,https://github.com/opsadamgreenzgjp/JAVA-yucho-DAIMA,0,0,Java,,2026-09-15T12:14:37Z,2026-09-16,False,Long Context
+1372503800,opsadamgreenzgjp/JAVA-dgike-DAIMA,基于SSM的基于web 的个人时间管理系统+vue,https://github.com/opsadamgreenzgjp/JAVA-dgike-DAIMA,0,0,Java,,2026-09-16T04:18:43Z,2026-09-16,False,Long Context
+1371325777,opsadamgreenzgjp/JAVA-ftqcs-DAIMA,基于SSM的图书管理系统的设计与实现+vue,https://github.com/opsadamgreenzgjp/JAVA-ftqcs-DAIMA,0,0,Java,,2026-09-15T11:17:01Z,2026-09-16,False,Long Context
+1372514997,opsadamgreenzgjp/JAVA-izqgj-DAIMA,基于SSM的物资物流系统的设计与实现+vue,https://github.com/opsadamgreenzgjp/JAVA-izqgj-DAIMA,0,0,Java,,2026-09-16T04:32:52Z,2026-09-16,False,Long Context
+1371409400,opsadamgreenzgjp/JAVA-ykfjz-DAIMA,基于SSM的JAVA的校园失物招领平台的设计,https://github.com/opsadamgreenzgjp/JAVA-ykfjz-DAIMA,0,0,Java,,2026-09-15T12:13:29Z,2026-09-16,False,Long Context
+1371353516,opsadamgreenzgjp/JAVA-mvktp-DAIMA,基于SSM的基于java的智能训练管理平台+vue,https://github.com/opsadamgreenzgjp/JAVA-mvktp-DAIMA,0,0,Java,,2026-09-15T11:37:20Z,2026-09-16,False,Long Context
+1372497365,opsadamgreenzgjp/JAVA-agjtw-DAIMA,基于SSM的线上选课系统的设计与实现+jsp,https://github.com/opsadamgreenzgjp/JAVA-agjtw-DAIMA,0,0,Java,,2026-09-16T04:10:20Z,2026-09-16,False,Long Context
+1371351413,opsadamgreenzgjp/JAVA-mgtnh-DAIMA,基于SSM的基于JSP的高校听课评价系统+jsp,https://github.com/opsadamgreenzgjp/JAVA-mgtnh-DAIMA,0,0,Java,,2026-09-15T11:36:14Z,2026-09-16,False,Long Context
+1372502689,opsadamgreenzgjp/JAVA-cmsdl-DAIMA,基于SSM的J2EE开发的猎头公司管理系统+vue,https://github.com/opsadamgreenzgjp/JAVA-cmsdl-DAIMA,0,0,Java,,2026-09-16T04:17:14Z,2026-09-16,False,Long Context
+1371329769,opsadamgreenzgjp/JAVA-grmdb-DAIMA,基于SSM的同城蔬菜配送管理系统研究+jsp,https://github.com/opsadamgreenzgjp/JAVA-grmdb-DAIMA,0,0,Java,,2026-09-15T11:20:14Z,2026-09-16,False,Long Context
+1371401092,opsadamgreenzgjp/JAVA-wevle-DAIMA,基于SSM的图片素材网站的设计与实现+vue,https://github.com/opsadamgreenzgjp/JAVA-wevle-DAIMA,0,0,Java,,2026-09-15T12:07:29Z,2026-09-16,False,Long Context
+1371396507,opsadamgreenzgjp/JAVA-vqdwd-DAIMA,基于SSM的Java web的高校学生课堂考勤系统,https://github.com/opsadamgreenzgjp/JAVA-vqdwd-DAIMA,0,0,Java,,2026-09-15T12:04:16Z,2026-09-16,False,Long Context
+1372506555,opsadamgreenzgjp/JAVA-exjjv-DAIMA,基于SSM的基于JAVA的网上订餐管理系统+vue,https://github.com/opsadamgreenzgjp/JAVA-exjjv-DAIMA,0,0,Java,,2026-09-16T04:22:09Z,2026-09-16,False,Long Context
+1372526541,uxemilytaylorhmhs/JAVA-msdxu-DAIMA,基于SSM的龙腾公司员工信息管理系统+jsp,https://github.com/uxemilytaylorhmhs/JAVA-msdxu-DAIMA,0,0,Java,,2026-09-16T04:47:18Z,2026-09-16,False,Long Context
+1372512028,opsadamgreenzgjp/JAVA-hedcg-DAIMA,基于SSM的基于Vue.js的网上招聘系统设计,https://github.com/opsadamgreenzgjp/JAVA-hedcg-DAIMA,0,0,Java,,2026-09-16T04:29:10Z,2026-09-16,False,Long Context
+1372504756,uxemilytaylorhmhs/JAVA-fedic-DAIMA,基于SSM的家居商城系统的设计与实现+jsp,https://github.com/uxemilytaylorhmhs/JAVA-fedic-DAIMA,0,0,Java,,2026-09-16T04:19:59Z,2026-09-16,False,Long Context
+1371393816,opsadamgreenzgjp/JAVA-vhokt-DAIMA,基于SSM的Java Web的学生宿舍管理系统设计,https://github.com/opsadamgreenzgjp/JAVA-vhokt-DAIMA,0,0,Java,,2026-09-15T12:02:16Z,2026-09-16,False,Long Context
+1372507553,opsadamgreenzgjp/JAVA-fineo-DAIMA,基于SSM的基于Java的小区物业管理系统+vue,https://github.com/opsadamgreenzgjp/JAVA-fineo-DAIMA,0,0,Java,,2026-09-16T04:23:26Z,2026-09-16,False,Long Context
+1371349124,opsadamgreenzgjp/JAVA-mbecj-DAIMA,基于SSM的基于Java Web贫困认定管理平台+vue,https://github.com/opsadamgreenzgjp/JAVA-mbecj-DAIMA,0,0,Java,,2026-09-15T11:34:58Z,2026-09-16,False,Long Context
+1371385968,opsadamgreenzgjp/JAVA-twdbh-DAIMA,基于SSM的Javaweb的物流信息管理系统的设计,https://github.com/opsadamgreenzgjp/JAVA-twdbh-DAIMA,0,0,Java,,2026-09-15T11:56:35Z,2026-09-16,False,Long Context
+1371313595,opsadamgreenzgjp/JAVA-dcmmt-DAIMA,基于SSM的公司员工工作日志办公系统+vue,https://github.com/opsadamgreenzgjp/JAVA-dcmmt-DAIMA,0,0,Java,,2026-09-15T11:06:54Z,2026-09-16,False,Long Context
+1371381873,opsadamgreenzgjp/JAVA-tcuho-DAIMA,基于SSM的企业员工岗前培训管理系统+vue,https://github.com/opsadamgreenzgjp/JAVA-tcuho-DAIMA,0,0,Java,,2026-09-15T11:53:40Z,2026-09-16,False,Long Context
+1371407181,opsadamgreenzgjp/JAVA-xsmfy-DAIMA,基于SSM的音乐管理系统的设计与实现+vue,https://github.com/opsadamgreenzgjp/JAVA-xsmfy-DAIMA,0,0,Java,,2026-09-15T12:11:54Z,2026-09-16,False,Long Context
+1371310391,opsadamgreenzgjp/JAVA-cgpks-DAIMA,基于SSM的java的自助医疗服务系统的设计,https://github.com/opsadamgreenzgjp/JAVA-cgpks-DAIMA,0,0,Java,,2026-09-15T11:04:00Z,2026-09-16,False,Long Context
+1371332676,opsadamgreenzgjp/JAVA-hyjko-DAIMA,基于SSM的网上拍卖系统的设计与实现+jsp,https://github.com/opsadamgreenzgjp/JAVA-hyjko-DAIMA,0,0,Java,,2026-09-15T11:22:33Z,2026-09-16,False,Long Context
+1371384228,opsadamgreenzgjp/JAVA-tpcxq-DAIMA,基于SSM的穿戴搭配系统的设计与实现+vue,https://github.com/opsadamgreenzgjp/JAVA-tpcxq-DAIMA,0,0,Java,,2026-09-15T11:55:22Z,2026-09-16,False,Long Context
+1372521767,opsadamgreenzgjp/JAVA-lusam-DAIMA,基于SSM的基于JAVA的图书馆预约占座系统,https://github.com/opsadamgreenzgjp/JAVA-lusam-DAIMA,0,0,Java,,2026-09-16T04:41:30Z,2026-09-16,False,Long Context
+1371367823,opsadamgreenzgjp/JAVA-pyfeq-DAIMA,基于SSM的Java的众惠商城的设计与实现+vue,https://github.com/opsadamgreenzgjp/JAVA-pyfeq-DAIMA,0,0,Java,,2026-09-15T11:45:02Z,2026-09-16,False,Long Context
+1371336994,opsadamgreenzgjp/JAVA-jlisj-DAIMA,基于SSM的影院管理系统的设计与实现+jsp,https://github.com/opsadamgreenzgjp/JAVA-jlisj-DAIMA,0,0,Java,,2026-09-15T11:25:59Z,2026-09-16,False,Long Context
+1372539885,opsadamgreenzgjp/JAVA-szumk-DAIMA,基于SSM的房屋租赁平台的设计与开发+jsp,https://github.com/opsadamgreenzgjp/JAVA-szumk-DAIMA,0,0,Java,,2026-09-16T05:01:01Z,2026-09-16,False,Long Context
+1372526589,opsadamgreenzgjp/JAVA-njpay-DAIMA,基于SSM的基于Vue的量化积分管理系统+vue,https://github.com/opsadamgreenzgjp/JAVA-njpay-DAIMA,0,0,Java,,2026-09-16T04:47:20Z,2026-09-16,False,Long Context
+1371348488,opsadamgreenzgjp/JAVA-maahu-DAIMA,基于SSM的代驾应用系统的设计与实现+jsp,https://github.com/opsadamgreenzgjp/JAVA-maahu-DAIMA,0,0,Java,,2026-09-15T11:34:37Z,2026-09-16,False,Long Context
+1371408868,opsadamgreenzgjp/JAVA-ygxnz-DAIMA,基于SSM的基于JAVA的酒店客房管理系统+vue,https://github.com/opsadamgreenzgjp/JAVA-ygxnz-DAIMA,0,0,Java,,2026-09-15T12:13:06Z,2026-09-16,False,Long Context
+1372527714,opsadamgreenzgjp/JAVA-nwwan-DAIMA,基于SSM的基于java的网上手机销售系统+vue,https://github.com/opsadamgreenzgjp/JAVA-nwwan-DAIMA,0,0,Java,,2026-09-16T04:48:25Z,2026-09-16,False,Long Context
+1372525147,opsadamgreenzgjp/JAVA-mtytt-DAIMA,基于SSM的基于HTML5的交流论坛的设计与实现,https://github.com/opsadamgreenzgjp/JAVA-mtytt-DAIMA,0,0,Java,,2026-09-16T04:45:42Z,2026-09-16,False,Long Context
+1372509060,opsadamgreenzgjp/JAVA-gfxvl-DAIMA,基于SSM的题库管理系统的设计与实现+jsp.rar,https://github.com/opsadamgreenzgjp/JAVA-gfxvl-DAIMA,0,0,Java,,2026-09-16T04:25:25Z,2026-09-16,False,Long Context
+1372507418,uxemilytaylorhmhs/JAVA-gmaxu-DAIMA,基于SSM的亚盛汽车配件销售业绩管理统+jsp,https://github.com/uxemilytaylorhmhs/JAVA-gmaxu-DAIMA,0,0,Java,,2026-09-16T04:23:16Z,2026-09-16,False,Long Context
+1372529126,opsadamgreenzgjp/JAVA-orpzx-DAIMA,基于SSM的vue.js的购物商场的设计与实现+vue,https://github.com/opsadamgreenzgjp/JAVA-orpzx-DAIMA,0,0,Java,,2026-09-16T04:49:51Z,2026-09-16,False,Long Context
+1371352165,opsadamgreenzgjp/JAVA-mjdvj-DAIMA,基于SSM的学生学籍管理系统设计与实现+vue,https://github.com/opsadamgreenzgjp/JAVA-mjdvj-DAIMA,0,0,Java,,2026-09-15T11:36:37Z,2026-09-16,False,Long Context
+1372533155,opsadamgreenzgjp/JAVA-qgjwg-DAIMA,基于SSM的社区团购网站的设计与实现+jsp.rar,https://github.com/opsadamgreenzgjp/JAVA-qgjwg-DAIMA,0,0,Java,,2026-09-16T04:53:55Z,2026-09-16,False,Long Context
+1371319674,opsadamgreenzgjp/JAVA-epymb-DAIMA,基于SSM的java web的防疫工作志愿者服务平台,https://github.com/opsadamgreenzgjp/JAVA-epymb-DAIMA,0,0,Java,,2026-09-15T11:12:05Z,2026-09-16,False,Long Context
+1372520877,uxemilytaylorhmhs/JAVA-kyhmv-DAIMA,基于SSM的基于JSP的乡镇自来水收费系统+jsp,https://github.com/uxemilytaylorhmhs/JAVA-kyhmv-DAIMA,0,0,Java,,2026-09-16T04:40:25Z,2026-09-16,False,Long Context
+1371338699,opsadamgreenzgjp/JAVA-jsnyv-DAIMA,基于SSM的中小型餐厅网站的设计与实现+vue,https://github.com/opsadamgreenzgjp/JAVA-jsnyv-DAIMA,0,0,Java,,2026-09-15T11:27:19Z,2026-09-16,False,Long Context
+1371330279,opsadamgreenzgjp/JAVA-gwgef-DAIMA,基于SSM的基于java的实验室设备管理系统+jsp,https://github.com/opsadamgreenzgjp/JAVA-gwgef-DAIMA,0,0,Java,,2026-09-15T11:20:38Z,2026-09-16,False,Long Context
+1372512996,opsadamgreenzgjp/JAVA-hltbl-DAIMA,基于SSM的疫情防控管理系统设计与实现+vue,https://github.com/opsadamgreenzgjp/JAVA-hltbl-DAIMA,0,0,Java,,2026-09-16T04:30:18Z,2026-09-16,False,Long Context
+1372523825,opsadamgreenzgjp/JAVA-mmeuk-DAIMA,基于SSM的餐厅点餐系统的设计与实现+vue.rar,https://github.com/opsadamgreenzgjp/JAVA-mmeuk-DAIMA,0,0,Java,,2026-09-16T04:44:02Z,2026-09-16,False,Long Context
+1371305987,opsadamgreenzgjp/JAVA-avtbz-DAIMA,基于SSM的出租车管理系统的设计与实现+vue,https://github.com/opsadamgreenzgjp/JAVA-avtbz-DAIMA,0,0,Java,,2026-09-15T11:00:06Z,2026-09-16,False,Long Context
+1372497077,uxemilytaylorhmhs/JAVA-apjyq-DAIMA,基于SSM的基于jsp的精品酒销售管理系统+jsp,https://github.com/uxemilytaylorhmhs/JAVA-apjyq-DAIMA,0,0,Java,,2026-09-16T04:10:00Z,2026-09-16,False,Long Context
+1372539550,opsadamgreenzgjp/JAVA-sycbd-DAIMA,基于SSM的vue的音乐播放器的设计与实现+vue,https://github.com/opsadamgreenzgjp/JAVA-sycbd-DAIMA,0,0,Java,,2026-09-16T05:00:41Z,2026-09-16,False,Long Context
+1371323000,opsadamgreenzgjp/JAVA-fiqiu-DAIMA,基于SSM的基于web办事大厅政务预约系统+vue,https://github.com/opsadamgreenzgjp/JAVA-fiqiu-DAIMA,0,0,Java,,2026-09-15T11:14:48Z,2026-09-16,False,Long Context
+1372242612,teknojaya/devops-production-showcase,"Production DevOps engineering showcase covering AWS, Linux, Nginx, PM2, GitHub Actions, SSM deployment, PostgreSQL operations and infrastructure patterns.",https://github.com/teknojaya/devops-production-showcase,0,0,HCL,"aws,cicd,cloud,devops,docker,github-actions,kubernetes,linux,nginx,pm2,portfolio,postgresql,terraform",2026-09-15T23:05:59Z,2026-09-16,False,Long Context
+1371317272,opsadamgreenzgjp/JAVA-dyqud-DAIMA,基于SSM的Web的数字家庭网站设计与实现+vue,https://github.com/opsadamgreenzgjp/JAVA-dyqud-DAIMA,0,0,Java,,2026-09-15T11:10:08Z,2026-09-16,False,Long Context
+1371320072,opsadamgreenzgjp/JAVA-eqghh-DAIMA,基于SSM的VUE的儿童教育网站的设计与实现,https://github.com/opsadamgreenzgjp/JAVA-eqghh-DAIMA,0,0,Java,,2026-09-15T11:12:27Z,2026-09-16,False,Long Context
+1371401600,opsadamgreenzgjp/JAVA-wmtry-DAIMA,基于SSM的基于Java的壁纸网站设计与实现+vue,https://github.com/opsadamgreenzgjp/JAVA-wmtry-DAIMA,0,0,Java,,2026-09-15T12:07:50Z,2026-09-16,False,Long Context
+1372538624,opsadamgreenzgjp/JAVA-srcvs-DAIMA,基于SSM的echarts的基金交易网站的设计与实现,https://github.com/opsadamgreenzgjp/JAVA-srcvs-DAIMA,0,0,Java,,2026-09-16T04:59:37Z,2026-09-16,False,Long Context
+1372499930,opsadamgreenzgjp/JAVA-asnjo-DAIMA,基于SSM的javaweb的数学竞赛网站的设计与实现,https://github.com/opsadamgreenzgjp/JAVA-asnjo-DAIMA,0,0,Java,,2026-09-16T04:13:37Z,2026-09-16,False,Long Context
+1371333130,opsadamgreenzgjp/JAVA-icplf-DAIMA,基于微信小程序的订餐系统设计与实现+ssm,https://github.com/opsadamgreenzgjp/JAVA-icplf-DAIMA,0,0,Java,,2026-09-15T11:22:54Z,2026-09-16,False,Long Context
+1372505378,opsadamgreenzgjp/JAVA-egpcg-DAIMA,基于SSM的志愿者管理系统的设计与实现+vue,https://github.com/opsadamgreenzgjp/JAVA-egpcg-DAIMA,0,0,Java,,2026-09-16T04:20:49Z,2026-09-16,False,Long Context
+1372532132,uxemilytaylorhmhs/JAVA-qjbgb-DAIMA,基于SSM的健身房管理系统的设计与实现+vue,https://github.com/uxemilytaylorhmhs/JAVA-qjbgb-DAIMA,0,0,Java,,2026-09-16T04:52:50Z,2026-09-16,False,Long Context
+1371344398,opsadamgreenzgjp/JAVA-kvsdi-DAIMA,基于SSM的Web的课堂管理系统设计与实现+vue,https://github.com/opsadamgreenzgjp/JAVA-kvsdi-DAIMA,0,0,Java,,2026-09-15T11:31:46Z,2026-09-16,False,Long Context
+1372500217,opsadamgreenzgjp/JAVA-atksm-DAIMA,基于SSM的基于JavaEE的智能实时疫情监管服务,https://github.com/opsadamgreenzgjp/JAVA-atksm-DAIMA,0,0,Java,,2026-09-16T04:13:59Z,2026-09-16,False,Long Context
+1372531373,opsadamgreenzgjp/JAVA-pvgll-DAIMA,基于SSM的基于JAVA的驾校信息管理系统设计,https://github.com/opsadamgreenzgjp/JAVA-pvgll-DAIMA,0,0,Java,,2026-09-16T04:52:06Z,2026-09-16,False,Long Context
+1372529376,uxemilytaylorhmhs/JAVA-nwgcs-DAIMA,基于SSM的新能源汽车在线租赁管理系统+vue,https://github.com/uxemilytaylorhmhs/JAVA-nwgcs-DAIMA,0,0,Java,,2026-09-16T04:50:06Z,2026-09-16,False,Long Context
+1372497705,opsadamgreenzgjp/JAVA-ahzig-DAIMA,基于SSM的网上茶叶销售平台设计与开发+jsp,https://github.com/opsadamgreenzgjp/JAVA-ahzig-DAIMA,0,0,Java,,2026-09-16T04:10:47Z,2026-09-16,False,Long Context
+1372501090,opsadamgreenzgjp/JAVA-azsfl-DAIMA,基于SSM的基于Vue的健身房会员管理系统+vue,https://github.com/opsadamgreenzgjp/JAVA-azsfl-DAIMA,0,0,Java,,2026-09-16T04:15:09Z,2026-09-16,False,Long Context
+1371310782,opsadamgreenzgjp/JAVA-cmpfu-DAIMA,基于SSM的企业人事管理系统设计与实现+jsp,https://github.com/opsadamgreenzgjp/JAVA-cmpfu-DAIMA,0,0,Java,,2026-09-15T11:04:22Z,2026-09-16,False,Long Context
+1371398287,opsadamgreenzgjp/JAVA-vzgoa-DAIMA,基于SSM的珠江学院大学生自愿者服务网+vue,https://github.com/opsadamgreenzgjp/JAVA-vzgoa-DAIMA,0,0,Java,,2026-09-15T12:05:31Z,2026-09-16,False,Long Context
+1372514717,opsadamgreenzgjp/JAVA-inwac-DAIMA,基于SSM的科研经费管理系统研究与开发+vue,https://github.com/opsadamgreenzgjp/JAVA-inwac-DAIMA,0,0,Java,,2026-09-16T04:32:31Z,2026-09-16,False,Long Context
+1371375913,opsadamgreenzgjp/JAVA-rqdrj-DAIMA,基于SSM的JAVA的咖啡馆管理系统设计与实现,https://github.com/opsadamgreenzgjp/JAVA-rqdrj-DAIMA,0,0,Java,,2026-09-15T11:49:23Z,2026-09-16,False,Long Context
+1372520095,opsadamgreenzgjp/JAVA-lmatd-DAIMA,基于SSM的图书管理系统的设计与实现+jsp.rar,https://github.com/opsadamgreenzgjp/JAVA-lmatd-DAIMA,0,0,Java,,2026-09-16T04:39:25Z,2026-09-16,False,Long Context
+1371391995,opsadamgreenzgjp/JAVA-vbdqm-DAIMA,基于SSM的学生公寓管理系统的设计与开发+jsp,https://github.com/opsadamgreenzgjp/JAVA-vbdqm-DAIMA,0,0,Java,,2026-09-15T12:00:57Z,2026-09-16,False,Long Context
+1371387095,opsadamgreenzgjp/JAVA-tybfj-DAIMA,基于SSM的WEB技术的在线商品交易平台的设计,https://github.com/opsadamgreenzgjp/JAVA-tybfj-DAIMA,0,0,Java,,2026-09-15T11:57:25Z,2026-09-16,False,Long Context
+1371333550,opsadamgreenzgjp/JAVA-iexlv-DAIMA,基于SSM的基于JavaWeb的个人健康信息管理系统+jsp,https://github.com/opsadamgreenzgjp/JAVA-iexlv-DAIMA,0,0,Java,,2026-09-15T11:23:16Z,2026-09-16,False,Long Context
+1372540802,opsadamgreenzgjp/JAVA-tctda-DAIMA,基于SSM的敏捷工贸公司销售管理系统设计+vue,https://github.com/opsadamgreenzgjp/JAVA-tctda-DAIMA,0,0,Java,,2026-09-16T05:02:01Z,2026-09-16,False,Long Context
+1371404486,opsadamgreenzgjp/JAVA-wzhbp-DAIMA,基于SSM的社区流浪动物救助领养系统的设计,https://github.com/opsadamgreenzgjp/JAVA-wzhbp-DAIMA,0,0,Java,,2026-09-15T12:09:58Z,2026-09-16,False,Long Context
+1372497429,uxemilytaylorhmhs/JAVA-avagp-DAIMA,基于SSM的安徽新华学院实验中心管理系统+jsp,https://github.com/uxemilytaylorhmhs/JAVA-avagp-DAIMA,0,0,Java,,2026-09-16T04:10:25Z,2026-09-16,False,Long Context
+1372503519,opsadamgreenzgjp/JAVA-dflnr-DAIMA,基于SSM的咖啡在线销售系统的设计与实现+jsp,https://github.com/opsadamgreenzgjp/JAVA-dflnr-DAIMA,0,0,Java,,2026-09-16T04:18:20Z,2026-09-16,False,Long Context
+1371334463,opsadamgreenzgjp/JAVA-imkqr-DAIMA,基于SSM的学生就业管理系统的设计与实现+vue,https://github.com/opsadamgreenzgjp/JAVA-imkqr-DAIMA,0,0,Java,,2026-09-15T11:24:02Z,2026-09-16,False,Long Context
+1372504834,opsadamgreenzgjp/JAVA-dyoms-DAIMA,基于SSM的大学生社团管理系统的设计与实现,https://github.com/opsadamgreenzgjp/JAVA-dyoms-DAIMA,0,0,Java,,2026-09-16T04:20:05Z,2026-09-16,False,Long Context
+1371331760,opsadamgreenzgjp/JAVA-hmzir-DAIMA,基于SSM的高校外事管理系统的设计与开发+jsp,https://github.com/opsadamgreenzgjp/JAVA-hmzir-DAIMA,0,0,Java,,2026-09-15T11:21:48Z,2026-09-16,False,Long Context
+1371308524,opsadamgreenzgjp/JAVA-bobha-DAIMA,基于SSM的学生考勤管理系统的设计与实现+vue,https://github.com/opsadamgreenzgjp/JAVA-bobha-DAIMA,0,0,Java,,2026-09-15T11:02:23Z,2026-09-16,False,Long Context
+1372507297,opsadamgreenzgjp/JAVA-fiaxl-DAIMA,基于SSM的快餐店点餐结算系统的设计与实现,https://github.com/opsadamgreenzgjp/JAVA-fiaxl-DAIMA,0,0,Java,,2026-09-16T04:23:05Z,2026-09-16,False,Long Context
+1372532780,opsadamgreenzgjp/JAVA-qdgfe-DAIMA,基于SSM的高校智能培训管理系统分析与设计,https://github.com/opsadamgreenzgjp/JAVA-qdgfe-DAIMA,0,0,Java,,2026-09-16T04:53:30Z,2026-09-16,False,Long Context
+1371366513,opsadamgreenzgjp/JAVA-ptelu-DAIMA,基于SSM的果蔬商品管理系统的设计与实现+vue,https://github.com/opsadamgreenzgjp/JAVA-ptelu-DAIMA,0,0,Java,,2026-09-15T11:44:22Z,2026-09-16,False,Long Context
+1371320576,opsadamgreenzgjp/JAVA-eydvm-DAIMA,基于SSM的公司进销存管理系统设计与开发+jsp,https://github.com/opsadamgreenzgjp/JAVA-eydvm-DAIMA,0,0,Java,,2026-09-15T11:12:53Z,2026-09-16,False,Long Context
+1372518666,opsadamgreenzgjp/JAVA-ldzpe-DAIMA,基于SSM的线上学习平台系统的设计与实现+vue,https://github.com/opsadamgreenzgjp/JAVA-ldzpe-DAIMA,0,0,Java,,2026-09-16T04:37:36Z,2026-09-16,False,Long Context
+1372522905,opsadamgreenzgjp/JAVA-mhjoh-DAIMA,基于SSM的大湾区旅游推荐系统的设计与实现,https://github.com/opsadamgreenzgjp/JAVA-mhjoh-DAIMA,0,0,Java,,2026-09-16T04:42:52Z,2026-09-16,False,Long Context
+1372501318,opsadamgreenzgjp/JAVA-bitle-DAIMA,基于SSM的校园二手交易平台的设计与开发+vue,https://github.com/opsadamgreenzgjp/JAVA-bitle-DAIMA,0,0,Java,,2026-09-16T04:15:27Z,2026-09-16,False,Long Context
+1371358796,opsadamgreenzgjp/JAVA-oofmz-DAIMA,基于SSM的基于Java的高校物业工程报修系统+jsp,https://github.com/opsadamgreenzgjp/JAVA-oofmz-DAIMA,0,0,Java,,2026-09-15T11:40:15Z,2026-09-16,False,Long Context
+1371367168,opsadamgreenzgjp/JAVA-pvxpc-DAIMA,基于SSM的基于JSP的家纺用品销售管理系统+jsp,https://github.com/opsadamgreenzgjp/JAVA-pvxpc-DAIMA,0,0,Java,,2026-09-15T11:44:42Z,2026-09-16,False,Long Context
+1372498025,uxemilytaylorhmhs/JAVA-bcgsw-DAIMA,基于SSM的实验室耗材管理系统设计与实现+jsp,https://github.com/uxemilytaylorhmhs/JAVA-bcgsw-DAIMA,0,0,Java,,2026-09-16T04:11:09Z,2026-09-16,False,Long Context
+1372520382,opsadamgreenzgjp/JAVA-lmbfw-DAIMA,基于SSM的智能社区管理系统的设计与实现+vue,https://github.com/opsadamgreenzgjp/JAVA-lmbfw-DAIMA,0,0,Java,,2026-09-16T04:39:47Z,2026-09-16,False,Long Context
+1372538278,opsadamgreenzgjp/JAVA-smvus-DAIMA,基于SSM的高校班级同学录网站设计与实现+jsp,https://github.com/opsadamgreenzgjp/JAVA-smvus-DAIMA,0,0,Java,,2026-09-16T04:59:13Z,2026-09-16,False,Long Context
+1372498508,opsadamgreenzgjp/JAVA-amfnm-DAIMA,基于SSM的物流配送管理系统的设计与实现+vue,https://github.com/opsadamgreenzgjp/JAVA-amfnm-DAIMA,0,0,Java,,2026-09-16T04:11:49Z,2026-09-16,False,Long Context
+1371405050,opsadamgreenzgjp/JAVA-wzurr-DAIMA,基于SSM的Java的药店药品信息管理系统的设计,https://github.com/opsadamgreenzgjp/JAVA-wzurr-DAIMA,0,0,Java,,2026-09-15T12:10:22Z,2026-09-16,False,Long Context
+1372536538,opsadamgreenzgjp/JAVA-rkqqm-DAIMA,基于SSM的便民自行车管理系统的开发与实现,https://github.com/opsadamgreenzgjp/JAVA-rkqqm-DAIMA,0,0,Java,,2026-09-16T04:57:08Z,2026-09-16,False,Long Context
+1372524110,opsadamgreenzgjp/JAVA-mnris-DAIMA,基于SSM的高校就业管理系统的设计与实现+vue,https://github.com/opsadamgreenzgjp/JAVA-mnris-DAIMA,0,0,Java,,2026-09-16T04:44:23Z,2026-09-16,False,Long Context
+1371364083,opsadamgreenzgjp/JAVA-ppjbu-DAIMA,基于SSM的数学课程评价系统的设计与开发+jsp,https://github.com/opsadamgreenzgjp/JAVA-ppjbu-DAIMA,0,0,Java,,2026-09-15T11:43:04Z,2026-09-16,False,Long Context
+1371341838,opsadamgreenzgjp/JAVA-klqcq-DAIMA,基于SSM的基于JSP的电竞交互管理系统开发+jsp,https://github.com/opsadamgreenzgjp/JAVA-klqcq-DAIMA,0,0,Java,,2026-09-15T11:29:48Z,2026-09-16,False,Long Context
+1372535230,opsadamgreenzgjp/JAVA-qzsfj-DAIMA,基于SSM的校园线上订餐系统的设计与实现+vue,https://github.com/opsadamgreenzgjp/JAVA-qzsfj-DAIMA,0,0,Java,,2026-09-16T04:55:49Z,2026-09-16,False,Long Context
+1372502956,opsadamgreenzgjp/JAVA-cwqit-DAIMA,基于SSM的网络游戏交易系统的设计与实现+jsp,https://github.com/opsadamgreenzgjp/JAVA-cwqit-DAIMA,0,0,Java,,2026-09-16T04:17:33Z,2026-09-16,False,Long Context
+1371371636,opsadamgreenzgjp/JAVA-qnqul-DAIMA,基于SSM的基于BS模式的直播电商交流平台+vue,https://github.com/opsadamgreenzgjp/JAVA-qnqul-DAIMA,0,0,Java,,2026-09-15T11:47:02Z,2026-09-16,False,Long Context
+1371383624,opsadamgreenzgjp/JAVA-tnkyf-DAIMA,基于SSM的家乡特产网上商城的设计与实现+vue,https://github.com/opsadamgreenzgjp/JAVA-tnkyf-DAIMA,0,0,Java,,2026-09-15T11:54:54Z,2026-09-16,False,Long Context
+1372532498,opsadamgreenzgjp/JAVA-qcbiw-DAIMA,基于SSM的基于Java的微博网站的设计与实现+vue,https://github.com/opsadamgreenzgjp/JAVA-qcbiw-DAIMA,0,0,Java,,2026-09-16T04:53:12Z,2026-09-16,False,Long Context
+1372496284,opsadamgreenzgjp/JAVA-aaqwj-DAIMA,基于SSM的仓库在线管理系统的设计与实现+vue,https://github.com/opsadamgreenzgjp/JAVA-aaqwj-DAIMA,0,0,Java,,2026-09-16T04:08:54Z,2026-09-16,False,Long Context
+1372134990,yasuwo070809/aws-network-lab,AWS network verification lab Phase 1 (VPC/EC2/SG/NACL/SSM Session Manager/VPC Flow Logs) built with Terraform,https://github.com/yasuwo070809/aws-network-lab,0,0,Shell,,2026-09-15T21:15:19Z,2026-09-16,False,Long Context
+1372499323,opsadamgreenzgjp/JAVA-aqprz-DAIMA,基于SSM的小儿肺炎知识管理系统设计与实现,https://github.com/opsadamgreenzgjp/JAVA-aqprz-DAIMA,0,0,Java,,2026-09-16T04:12:54Z,2026-09-16,False,Long Context
+1372524693,opsadamgreenzgjp/JAVA-mqzyc-DAIMA,基于SSM的经典电影推荐网站的设计与实现+vue,https://github.com/opsadamgreenzgjp/JAVA-mqzyc-DAIMA,0,0,Java,,2026-09-16T04:45:07Z,2026-09-16,False,Long Context
+1372500779,uxemilytaylorhmhs/JAVA-cwjea-DAIMA,基于SSM的蜀都天香酒楼的网站设计与实现+jsp,https://github.com/uxemilytaylorhmhs/JAVA-cwjea-DAIMA,0,0,Java,,2026-09-16T04:14:44Z,2026-09-16,False,Long Context
+1371317702,opsadamgreenzgjp/JAVA-eeedp-DAIMA,基于SSM的大学生校园招聘网的设计与实现+jsp,https://github.com/opsadamgreenzgjp/JAVA-eeedp-DAIMA,0,0,Java,,2026-09-15T11:10:28Z,2026-09-16,False,Long Context
+1372531003,opsadamgreenzgjp/JAVA-pnaeu-DAIMA,基于SSM的基于vue的视频播放器的设计与实现,https://github.com/opsadamgreenzgjp/JAVA-pnaeu-DAIMA,0,0,Java,,2026-09-16T04:51:41Z,2026-09-16,False,Long Context
+1372510248,buildkite/just-works-buildkite-plugin,"Buildkite plugin for pinned IAM OIDC role assumption, ECR login, SSM parameter loading, and opt-in Exchange GitHub authentication",https://github.com/buildkite/just-works-buildkite-plugin,0,0,,,2026-09-16T04:26:56Z,2026-09-16,False,Long Context
+1371373173,opsadamgreenzgjp/JAVA-qxawo-DAIMA,基于SSM的私人定制旅游系统的设计与实现+vue,https://github.com/opsadamgreenzgjp/JAVA-qxawo-DAIMA,0,0,Java,,2026-09-15T11:47:52Z,2026-09-16,False,Long Context
+1372534303,opsadamgreenzgjp/JAVA-qwbgg-DAIMA,基于SSM的基于J2EE的仓库管理系统设计与开发,https://github.com/opsadamgreenzgjp/JAVA-qwbgg-DAIMA,0,0,Java,,2026-09-16T04:55:02Z,2026-09-16,False,Long Context
+1371408344,opsadamgreenzgjp/JAVA-ydpvw-DAIMA,基于SSM的新媒体视域下的中国古诗词展演+vue,https://github.com/opsadamgreenzgjp/JAVA-ydpvw-DAIMA,0,0,Java,,2026-09-15T12:12:43Z,2026-09-16,False,Long Context
+1372500814,opsadamgreenzgjp/JAVA-axvia-DAIMA,基于SSM的职业高中智慧作业试题系统设计+jsp,https://github.com/opsadamgreenzgjp/JAVA-axvia-DAIMA,0,0,Java,,2026-09-16T04:14:47Z,2026-09-16,False,Long Context
+1372513804,opsadamgreenzgjp/JAVA-idegc-DAIMA,基于SSM的教师办公管理系统的设计与实现+jsp,https://github.com/opsadamgreenzgjp/JAVA-idegc-DAIMA,0,0,Java,,2026-09-16T04:31:21Z,2026-09-16,False,Long Context
+1371305089,opsadamgreenzgjp/JAVA-arypc-DAIMA,基于SSM的图书馆智能选座系统设计与实现+jsp,https://github.com/opsadamgreenzgjp/JAVA-arypc-DAIMA,0,0,Java,,2026-09-15T10:59:16Z,2026-09-16,False,Long Context
+1371381381,opsadamgreenzgjp/JAVA-swyvc-DAIMA,基于SSM的青年租房管理系统的设计与开发+vue,https://github.com/opsadamgreenzgjp/JAVA-swyvc-DAIMA,0,0,Java,,2026-09-15T11:53:18Z,2026-09-16,False,Long Context
+1372508719,opsadamgreenzgjp/JAVA-fzqab-DAIMA,基于SSM的VUE的图书馆管理系统的设计与实现,https://github.com/opsadamgreenzgjp/JAVA-fzqab-DAIMA,0,0,Java,,2026-09-16T04:24:58Z,2026-09-16,False,Long Context
+1371395920,opsadamgreenzgjp/JAVA-vpovv-DAIMA,基于SSM的基于BS的库存管理软件设计与实现+vue,https://github.com/opsadamgreenzgjp/JAVA-vpovv-DAIMA,0,0,Java,,2026-09-15T12:03:50Z,2026-09-16,False,Long Context
+1372500495,opsadamgreenzgjp/JAVA-aujkg-DAIMA,基于SSM的中小型医院管理系统的设计与实现+jsp,https://github.com/opsadamgreenzgjp/JAVA-aujkg-DAIMA,0,0,Java,,2026-09-16T04:14:21Z,2026-09-16,False,Long Context
+1372535596,opsadamgreenzgjp/JAVA-rfzkq-DAIMA,基于SSM的一家运动鞋店的产品推广网站的设计,https://github.com/opsadamgreenzgjp/JAVA-rfzkq-DAIMA,0,0,Java,,2026-09-16T04:56:12Z,2026-09-16,False,Long Context
+1372522262,opsadamgreenzgjp/JAVA-mfise-DAIMA,基于SSM的常见小儿疾病中医护理系统的设计+jsp,https://github.com/opsadamgreenzgjp/JAVA-mfise-DAIMA,0,0,Java,,2026-09-16T04:42:08Z,2026-09-16,False,Long Context
+1371350694,opsadamgreenzgjp/JAVA-mdtkw-DAIMA,基于SSM的冀中工程技师校园网站设计与实现+jsp,https://github.com/opsadamgreenzgjp/JAVA-mdtkw-DAIMA,0,0,Java,,2026-09-15T11:35:51Z,2026-09-16,False,Long Context
+1371375181,opsadamgreenzgjp/JAVA-rfosi-DAIMA,基于SSM的健身中心管理系统的的设计与实现+jsp,https://github.com/opsadamgreenzgjp/JAVA-rfosi-DAIMA,0,0,Java,,2026-09-15T11:48:57Z,2026-09-16,False,Long Context
+1372536912,opsadamgreenzgjp/JAVA-rudmp-DAIMA,基于SSM的蛋糕甜品店管理系统的设计与开发+jsp,https://github.com/opsadamgreenzgjp/JAVA-rudmp-DAIMA,0,0,Java,,2026-09-16T04:57:32Z,2026-09-16,False,Long Context
+1371394374,opsadamgreenzgjp/JAVA-vihxx-DAIMA,基于SSM的基于java的珠宝购物网站系统的建设+jsp,https://github.com/opsadamgreenzgjp/JAVA-vihxx-DAIMA,0,0,Java,,2026-09-15T12:02:40Z,2026-09-16,False,Long Context
+1372498729,opsadamgreenzgjp/JAVA-ammgq-DAIMA,基于SSM的基于冲突动态监测算法的健身房预约,https://github.com/opsadamgreenzgjp/JAVA-ammgq-DAIMA,0,0,Java,,2026-09-16T04:12:07Z,2026-09-16,False,Long Context
+1372536189,opsadamgreenzgjp/JAVA-rkiyq-DAIMA,基于SSM的基于vue技术的农家乐内部管理系统+vue,https://github.com/opsadamgreenzgjp/JAVA-rkiyq-DAIMA,0,0,Java,,2026-09-16T04:56:47Z,2026-09-16,False,Long Context
+1371387653,opsadamgreenzgjp/JAVA-ucdex-DAIMA,基于SSM的基于Java疫情期间高校人员管理系统+vue,https://github.com/opsadamgreenzgjp/JAVA-ucdex-DAIMA,0,0,Java,,2026-09-15T11:57:51Z,2026-09-16,False,Long Context
+1372513573,opsadamgreenzgjp/JAVA-icpom-DAIMA,基于SSM的个性化旅游攻略定制系统设计与实现,https://github.com/opsadamgreenzgjp/JAVA-icpom-DAIMA,0,0,Java,,2026-09-16T04:31:02Z,2026-09-16,False,Long Context
+1372496826,uxemilytaylorhmhs/JAVA-akiuy-DAIMA,基于SSM的汽车客运站管理系统的设计与实现+jsp,https://github.com/uxemilytaylorhmhs/JAVA-akiuy-DAIMA,0,0,Java,,2026-09-16T04:09:39Z,2026-09-16,False,Long Context
+1371386523,opsadamgreenzgjp/JAVA-twigj-DAIMA,基于SSM的演出人员与观众疫情信息管理系统+vue,https://github.com/opsadamgreenzgjp/JAVA-twigj-DAIMA,0,0,Java,,2026-09-15T11:57:01Z,2026-09-16,False,Long Context
+1371385387,opsadamgreenzgjp/JAVA-tuvrq-DAIMA,基于SSM的基于java的汇编课程网站设计与实现+vue,https://github.com/opsadamgreenzgjp/JAVA-tuvrq-DAIMA,0,0,Java,,2026-09-15T11:56:12Z,2026-09-16,False,Long Context
+1372088401,Brianbargulet/webshop-sql-project,"My T-SQL & SQL Server learning journey — databases, schemas, tables, constraints, inserts, and queries, built step by step in SSMS.",https://github.com/Brianbargulet/webshop-sql-project,0,0,TSQL,,2026-09-15T20:37:04Z,2026-09-16,False,Long Context
+1372505931,uxemilytaylorhmhs/JAVA-fmszj-DAIMA,基于SSM的网络游戏公司官方平台设计与实现+jsp,https://github.com/uxemilytaylorhmhs/JAVA-fmszj-DAIMA,0,0,Java,,2026-09-16T04:21:25Z,2026-09-16,False,Long Context
+1371378125,opsadamgreenzgjp/JAVA-ryymz-DAIMA,基于微信小程序的教学辅助微信小程序设计+ssm,https://github.com/opsadamgreenzgjp/JAVA-ryymz-DAIMA,0,0,Java,,2026-09-15T11:50:53Z,2026-09-16,False,Long Context
+1371399909,opsadamgreenzgjp/JAVA-wbjmv-DAIMA,基于SSM的基于web技术的税务门户网站的实现+vue,https://github.com/opsadamgreenzgjp/JAVA-wbjmv-DAIMA,0,0,Java,,2026-09-15T12:06:40Z,2026-09-16,False,Long Context
+1371315981,opsadamgreenzgjp/JAVA-dwmtu-DAIMA,基于SSM的中学生课后服务的信息管理与推荐+vue,https://github.com/opsadamgreenzgjp/JAVA-dwmtu-DAIMA,0,0,Java,,2026-09-15T11:08:59Z,2026-09-16,False,Long Context
+1371312211,opsadamgreenzgjp/JAVA-cxkvg-DAIMA,基于微信小程序的家庭记账本的设计与实现+ssm,https://github.com/opsadamgreenzgjp/JAVA-cxkvg-DAIMA,0,0,Java,,2026-09-15T11:05:41Z,2026-09-16,False,Long Context
+1372537483,opsadamgreenzgjp/JAVA-sbjgc-DAIMA,基于SSM的智能交互式在线网上花店的研发+vue.rar,https://github.com/opsadamgreenzgjp/JAVA-sbjgc-DAIMA,0,0,Java,,2026-09-16T04:58:12Z,2026-09-16,False,Long Context
+1372528494,opsadamgreenzgjp/JAVA-omdfa-DAIMA,基于SSM的基于JAVA的酒店管理系统的设计与实现+vue,https://github.com/opsadamgreenzgjp/JAVA-omdfa-DAIMA,0,0,Java,,2026-09-16T04:49:12Z,2026-09-16,False,Long Context
+1372508440,opsadamgreenzgjp/JAVA-fyeci-DAIMA,基于SSM的基于java的可视化高校公寓管理系统+vue.rar,https://github.com/opsadamgreenzgjp/JAVA-fyeci-DAIMA,0,0,Java,,2026-09-16T04:24:35Z,2026-09-16,False,Long Context
+1372509604,opsadamgreenzgjp/JAVA-ghbgn-DAIMA,基于SSM的基于互联网的音乐电影分享系统的设计,https://github.com/opsadamgreenzgjp/JAVA-ghbgn-DAIMA,0,0,Java,,2026-09-16T04:26:08Z,2026-09-16,False,Long Context
+1372515307,opsadamgreenzgjp/JAVA-jdsgm-DAIMA,基于SSM的双减后初小教育课外学习生活活动平台,https://github.com/opsadamgreenzgjp/JAVA-jdsgm-DAIMA,0,0,Java,,2026-09-16T04:33:14Z,2026-09-16,False,Long Context
+1372539275,opsadamgreenzgjp/JAVA-swecb-DAIMA,基于SSM的明嘉新材料公司仓库管理的设计和实现,https://github.com/opsadamgreenzgjp/JAVA-swecb-DAIMA,0,0,Java,,2026-09-16T05:00:18Z,2026-09-16,False,Long Context
+1372529908,opsadamgreenzgjp/JAVA-pfyut-DAIMA,基于SSM的物流配送人员车辆调度管理系统的设计,https://github.com/opsadamgreenzgjp/JAVA-pfyut-DAIMA,0,0,Java,,2026-09-16T04:50:39Z,2026-09-16,False,Long Context
+1372517603,opsadamgreenzgjp/JAVA-kqiey-DAIMA,基于SSM的基于vue的学生宿舍门禁信息管理系统+vue,https://github.com/opsadamgreenzgjp/JAVA-kqiey-DAIMA,0,0,Java,,2026-09-16T04:36:14Z,2026-09-16,False,Long Context
+1372517078,opsadamgreenzgjp/JAVA-kowfm-DAIMA,基于SSM的企业人才管理与测评系统的设计与实现,https://github.com/opsadamgreenzgjp/JAVA-kowfm-DAIMA,0,0,Java,,2026-09-16T04:35:32Z,2026-09-16,False,Long Context
+1371305522,opsadamgreenzgjp/JAVA-asoxu-DAIMA,基于SSM的江苏融汇房地产营销策划有限公司网站,https://github.com/opsadamgreenzgjp/JAVA-asoxu-DAIMA,0,0,Java,,2026-09-15T10:59:42Z,2026-09-16,False,Long Context
+1372526274,opsadamgreenzgjp/JAVA-nfpnn-DAIMA,基于SSM的基于javaweb的疫情管理系统的设计与实现+vue,https://github.com/opsadamgreenzgjp/JAVA-nfpnn-DAIMA,0,0,Java,,2026-09-16T04:47:02Z,2026-09-16,False,Long Context
+1371412135,opsadamgreenzgjp/JAVA-zlpif-DAIMA,基于SSM的新冠病毒校园监控平台的设计与实现+vue,https://github.com/opsadamgreenzgjp/JAVA-zlpif-DAIMA,0,0,Java,,2026-09-15T12:15:28Z,2026-09-16,False,Long Context
+1371397659,opsadamgreenzgjp/JAVA-vwnst-DAIMA,基于SSM的宠物医院信息管理系统的设计与实现+vue,https://github.com/opsadamgreenzgjp/JAVA-vwnst-DAIMA,0,0,Java,,2026-09-15T12:05:06Z,2026-09-16,False,Long Context
+1372522545,opsadamgreenzgjp/JAVA-mflts-DAIMA,基于SSM的玉安农副产品销售系统的设计与实现+jsp,https://github.com/opsadamgreenzgjp/JAVA-mflts-DAIMA,0,0,Java,,2026-09-16T04:42:29Z,2026-09-16,False,Long Context
+1372530307,opsadamgreenzgjp/JAVA-phjrp-DAIMA,基于SSM的协同过滤技术的网上书城的开发与研究,https://github.com/opsadamgreenzgjp/JAVA-phjrp-DAIMA,0,0,Java,,2026-09-16T04:51:01Z,2026-09-16,False,Long Context
+1371337518,opsadamgreenzgjp/JAVA-jnysk-DAIMA,基于SSM的基于java的汽车维修保养智能预约系统+vue,https://github.com/opsadamgreenzgjp/JAVA-jnysk-DAIMA,0,0,Java,,2026-09-15T11:26:25Z,2026-09-16,False,Long Context
+1371406597,opsadamgreenzgjp/JAVA-xnguf-DAIMA,基于微信小程序的基于JAVA微信点餐小程序设计+ssm,https://github.com/opsadamgreenzgjp/JAVA-xnguf-DAIMA,0,0,Java,,2026-09-15T12:11:29Z,2026-09-16,False,Long Context
+1372525985,opsadamgreenzgjp/JAVA-mwhhj-DAIMA,基于SSM的网络游戏交易平台信息管理系统的设计,https://github.com/opsadamgreenzgjp/JAVA-mwhhj-DAIMA,0,0,Java,,2026-09-16T04:46:41Z,2026-09-16,False,Long Context
+1371343302,opsadamgreenzgjp/JAVA-kscqb-DAIMA,基于SSM的校园体育赛事管理系统的设计与实现+vue,https://github.com/opsadamgreenzgjp/JAVA-kscqb-DAIMA,0,0,Java,,2026-09-15T11:30:56Z,2026-09-16,False,Long Context
+1372499025,opsadamgreenzgjp/JAVA-apxav-DAIMA,基于SSM的学生宿舍维修服务平台的设计与实现+vue,https://github.com/opsadamgreenzgjp/JAVA-apxav-DAIMA,0,0,Java,,2026-09-16T04:12:31Z,2026-09-16,False,Long Context
+1371316916,opsadamgreenzgjp/JAVA-dyfdq-DAIMA,基于SSM的民族大学创新学分管理系统分析与设计+vue,https://github.com/opsadamgreenzgjp/JAVA-dyfdq-DAIMA,0,0,Java,,2026-09-15T11:09:49Z,2026-09-16,False,Long Context
+1371413264,opsadamgreenzgjp/JAVA-zwyhf-DAIMA,基于SSM的北关村基本办公管理系统的设计与实现+jsp,https://github.com/opsadamgreenzgjp/JAVA-zwyhf-DAIMA,0,0,Java,,2026-09-15T12:16:15Z,2026-09-16,False,Long Context
+1372209527,LittleAksMax/gatewright,"CLI Tool for bootstrapping new monorepo projects that deploy as a single Docker container using GH Actions, ECR, and EC2 via SSM.",https://github.com/LittleAksMax/gatewright,0,0,,,2026-09-15T22:24:44Z,2026-09-16,False,Long Context
+1372534892,opsadamgreenzgjp/JAVA-qxose-DAIMA,基于SSM的网络类课程思政学习系统的设计与实现+vue,https://github.com/opsadamgreenzgjp/JAVA-qxose-DAIMA,0,0,Java,,2026-09-16T04:55:27Z,2026-09-16,False,Long Context
+1371384793,opsadamgreenzgjp/JAVA-tqlbp-DAIMA,基于SSM的基于Vue的线上书籍查阅系统设计与实现+vue,https://github.com/opsadamgreenzgjp/JAVA-tqlbp-DAIMA,0,0,Java,,2026-09-15T11:55:46Z,2026-09-16,False,Long Context
+1371072916,pavankalyan75699/light-house,"8-Day AWS DevOps project demonstrating infrastructure, Docker, Kubernetes, CI/CD with GitHub Actions, AWS ECR, RDS, S3, OIDC, SSM, and Helm.",https://github.com/pavankalyan75699/light-house,0,0,JavaScript,,2026-09-15T07:30:07Z,2026-09-16,False,Long Context
+1372497984,opsadamgreenzgjp/JAVA-akjae-DAIMA,基于SSM的社区再就业培训管理系统的设计与实现+jsp,https://github.com/opsadamgreenzgjp/JAVA-akjae-DAIMA,0,0,Java,,2026-09-16T04:11:06Z,2026-09-16,False,Long Context
+1372509923,opsadamgreenzgjp/JAVA-ghhsw-DAIMA,基于SSM的基于vue技术的绿色蔬菜销售管理系统+vue.rar,https://github.com/opsadamgreenzgjp/JAVA-ghhsw-DAIMA,0,0,Java,,2026-09-16T04:26:31Z,2026-09-16,False,Long Context
+1371323397,opsadamgreenzgjp/JAVA-fiswm-DAIMA,基于SSM的基于Java Web的“萌宠小知识”网站设计与实现+vue,https://github.com/opsadamgreenzgjp/JAVA-fiswm-DAIMA,0,0,Java,,2026-09-15T11:15:06Z,2026-09-16,False,Long Context
+1371355667,opsadamgreenzgjp/JAVA-npdrb-DAIMA,基于微信小程序的优购电商小程序的设计与实现+ssm,https://github.com/opsadamgreenzgjp/JAVA-npdrb-DAIMA,0,0,Java,,2026-09-15T11:38:30Z,2026-09-16,False,Long Context
+1371356438,opsadamgreenzgjp/JAVA-npjio-DAIMA,基于SSM的基于Java的通讯录管理系统的设计与实现+jsp,https://github.com/opsadamgreenzgjp/JAVA-npjio-DAIMA,0,0,Java,,2026-09-15T11:38:57Z,2026-09-16,False,Long Context
+1371382391,opsadamgreenzgjp/JAVA-tfcaw-DAIMA,基于SSM的基于HTML的中国传统面食介绍网站的搭建+vue,https://github.com/opsadamgreenzgjp/JAVA-tfcaw-DAIMA,0,0,Java,,2026-09-15T11:54:03Z,2026-09-16,False,Long Context
+1372511095,opsadamgreenzgjp/JAVA-hcdgn-DAIMA,基于SSM的驾校收支管理可视化平台的设计与实现+jsp,https://github.com/opsadamgreenzgjp/JAVA-hcdgn-DAIMA,0,0,Java,,2026-09-16T04:28:03Z,2026-09-16,False,Long Context
+1371322321,opsadamgreenzgjp/JAVA-fdsds-DAIMA,基于SSM的基于JSP的游戏虚拟道具交易网站的设计+jsp,https://github.com/opsadamgreenzgjp/JAVA-fdsds-DAIMA,0,0,Java,,2026-09-15T11:14:17Z,2026-09-16,False,Long Context
+1371324950,opsadamgreenzgjp/JAVA-fraey-DAIMA,基于SSM的基于MVC构架的网上食品店的设计与实现+vue,https://github.com/opsadamgreenzgjp/JAVA-fraey-DAIMA,0,0,Java,,2026-09-15T11:16:19Z,2026-09-16,False,Long Context
+1371342718,opsadamgreenzgjp/JAVA-kqyir-DAIMA,基于SSM的基于在线开放课程的Web前端设计与实现+vue,https://github.com/opsadamgreenzgjp/JAVA-kqyir-DAIMA,0,0,Java,,2026-09-15T11:30:31Z,2026-09-16,False,Long Context
+1371377657,opsadamgreenzgjp/JAVA-rynvh-DAIMA,基于SSM的服装品牌的推广及应用网站的设计与实现+vue,https://github.com/opsadamgreenzgjp/JAVA-rynvh-DAIMA,0,0,Java,,2026-09-15T11:50:33Z,2026-09-16,False,Long Context
+1371344904,opsadamgreenzgjp/JAVA-kwcus-DAIMA,基于SSM的基于BS的超市商品管理系统的设计与实现+vue,https://github.com/opsadamgreenzgjp/JAVA-kwcus-DAIMA,0,0,Java,,2026-09-15T11:32:08Z,2026-09-16,False,Long Context
+1371318214,opsadamgreenzgjp/JAVA-eejbc-DAIMA,基于SSM的基于bootstrap的课程辅助教学网站的设计与实现+vue,https://github.com/opsadamgreenzgjp/JAVA-eejbc-DAIMA,0,0,Java,,2026-09-15T11:10:54Z,2026-09-16,False,Long Context
+1371399384,opsadamgreenzgjp/JAVA-wamnl-DAIMA,基于SSM的基于Javaweb的线上招聘问答系统的设计与实现+vue,https://github.com/opsadamgreenzgjp/JAVA-wamnl-DAIMA,0,0,Java,,2026-09-15T12:06:19Z,2026-09-16,False,Long Context
+1371326708,opsadamgreenzgjp/JAVA-fygsz-DAIMA,基于SSM的基于Java的在线日语培训平台的设计与实现+jsp,https://github.com/opsadamgreenzgjp/JAVA-fygsz-DAIMA,0,0,Java,,2026-09-15T11:17:44Z,2026-09-16,False,Long Context
+1371341040,opsadamgreenzgjp/JAVA-khnej-DAIMA,基于SSM的钢铁集团公司安全管理系统的构建与实现+jsp,https://github.com/opsadamgreenzgjp/JAVA-khnej-DAIMA,0,0,Java,,2026-09-15T11:29:08Z,2026-09-16,False,Long Context
+1371302884,opsadamgreenzgjp/JAVA-amoqv-DAIMA,基于SSM的基于JAVA的学生网上请假系统的设计与实现+vue,https://github.com/opsadamgreenzgjp/JAVA-amoqv-DAIMA,0,0,Java,,2026-09-15T10:57:13Z,2026-09-16,False,Long Context
+1371359618,opsadamgreenzgjp/JAVA-ooigh-DAIMA,基于SSM的基于Java的民宿预订管理系统的设计与实现+jsp,https://github.com/opsadamgreenzgjp/JAVA-ooigh-DAIMA,0,0,Java,,2026-09-15T11:40:40Z,2026-09-16,False,Long Context
+1371315507,opsadamgreenzgjp/JAVA-dsnyj-DAIMA,基于微信小程序的个人行政复议在线预约系统开发+ssm,https://github.com/opsadamgreenzgjp/JAVA-dsnyj-DAIMA,0,0,Java,,2026-09-15T11:08:36Z,2026-09-16,False,Long Context
+1371309479,opsadamgreenzgjp/JAVA-bygyp-DAIMA,基于SSM的基于BS的旅客行李管理系统的设计与实现+vue,https://github.com/opsadamgreenzgjp/JAVA-bygyp-DAIMA,0,0,Java,,2026-09-15T11:03:12Z,2026-09-16,False,Long Context
+1371380262,opsadamgreenzgjp/JAVA-somvt-DAIMA,基于SSM的基于javaWeb的高校后勤报修系统的设计与实现+jsp,https://github.com/opsadamgreenzgjp/JAVA-somvt-DAIMA,0,0,Java,,2026-09-15T11:52:27Z,2026-09-16,False,Long Context
+1371328679,opsadamgreenzgjp/JAVA-glqvb-DAIMA,基于SSM的山东红色旅游信息管理系统的设计与实现+jsp,https://github.com/opsadamgreenzgjp/JAVA-glqvb-DAIMA,0,0,Java,,2026-09-15T11:19:22Z,2026-09-16,False,Long Context
+1372497013,opsadamgreenzgjp/JAVA-aerqo-DAIMA,基于SSM的基于javaWeb的長安智慧医疗管理系统设计与实现+vue,https://github.com/opsadamgreenzgjp/JAVA-aerqo-DAIMA,0,0,Java,,2026-09-16T04:09:55Z,2026-09-16,False,Long Context
+1371330834,opsadamgreenzgjp/JAVA-gzdjt-DAIMA,基于微信小程序的基于小程序的购物系统设计与实现+ssm,https://github.com/opsadamgreenzgjp/JAVA-gzdjt-DAIMA,0,0,Java,,2026-09-15T11:21:03Z,2026-09-16,False,Long Context
+1371347763,opsadamgreenzgjp/JAVA-lvwgx-DAIMA,基于SSM的基于Java的校园二手物品交易平台的设计与实现+vue,https://github.com/opsadamgreenzgjp/JAVA-lvwgx-DAIMA,0,0,Java,,2026-09-15T11:34:13Z,2026-09-16,False,Long Context
+1371395362,opsadamgreenzgjp/JAVA-voecd-DAIMA,基于SSM的基于Java的宠物医院预约挂号系统的设计与实现+vue,https://github.com/opsadamgreenzgjp/JAVA-voecd-DAIMA,0,0,Java,,2026-09-15T12:03:25Z,2026-09-16,False,Long Context
+1371313145,opsadamgreenzgjp/JAVA-dauoc-DAIMA,基于SSM的基于java的校园二手物品交易平台的设计与实现+jsp,https://github.com/opsadamgreenzgjp/JAVA-dauoc-DAIMA,0,0,Java,,2026-09-15T11:06:31Z,2026-09-16,False,Long Context
+1371373858,opsadamgreenzgjp/JAVA-rbrka-DAIMA,基于微信小程序的基于Vue.js的校园防疫微信小程序开发+ssm,https://github.com/opsadamgreenzgjp/JAVA-rbrka-DAIMA,0,0,Java,,2026-09-15T11:48:13Z,2026-09-16,False,Long Context
+1372524912,opsadamgreenzgjp/JAVA-mrgsw-DAIMA,基于SSM的重庆理工大学心理咨询管理子系统的分析与实现+jsp,https://github.com/opsadamgreenzgjp/JAVA-mrgsw-DAIMA,0,0,Java,,2026-09-16T04:45:24Z,2026-09-16,False,Long Context
+1371331350,opsadamgreenzgjp/JAVA-hefaj-DAIMA,基于SSM的校园驿站全天候辅助取货管理系统的设计与实现+vue,https://github.com/opsadamgreenzgjp/JAVA-hefaj-DAIMA,0,0,Java,,2026-09-15T11:21:26Z,2026-09-16,False,Long Context
+1371343771,opsadamgreenzgjp/JAVA-kvduz-DAIMA,基于SSM的基于vue的学生宿舍设备报修管理系统的设计与实现+vue,https://github.com/opsadamgreenzgjp/JAVA-kvduz-DAIMA,0,0,Java,,2026-09-15T11:31:20Z,2026-09-16,False,Long Context
+1371358094,opsadamgreenzgjp/JAVA-oepgl-DAIMA,基于微信小程序的校园水电费管理微信小程序的设计与实现+ssm,https://github.com/opsadamgreenzgjp/JAVA-oepgl-DAIMA,0,0,Java,,2026-09-15T11:39:53Z,2026-09-16,False,Long Context
+1371332317,opsadamgreenzgjp/JAVA-hpvgj-DAIMA,基于微信小程序的基于微信平台的旅游出行必备商城小程序+ssm,https://github.com/opsadamgreenzgjp/JAVA-hpvgj-DAIMA,0,0,Java,,2026-09-15T11:22:14Z,2026-09-16,False,Long Context
+1371389787,opsadamgreenzgjp/JAVA-upgsf-DAIMA,基于微信小程序的基于微信小程序的童装商城的设计与实现+ssm,https://github.com/opsadamgreenzgjp/JAVA-upgsf-DAIMA,0,0,Java,,2026-09-15T11:59:23Z,2026-09-16,False,Long Context
+1371360496,opsadamgreenzgjp/JAVA-oqwea-DAIMA,基于微信小程序的基于微信小程序的学生公寓电费信息管理系统+ssm,https://github.com/opsadamgreenzgjp/JAVA-oqwea-DAIMA,0,0,Java,,2026-09-15T11:41:06Z,2026-09-16,False,Long Context
+1371405693,opsadamgreenzgjp/JAVA-xbctz-DAIMA,基于微信小程序的基于微信小程序的科创微应用平台设计与实现+ssm,https://github.com/opsadamgreenzgjp/JAVA-xbctz-DAIMA,0,0,Java,,2026-09-15T12:10:49Z,2026-09-16,False,Long Context
+1371334073,opsadamgreenzgjp/JAVA-iihkj-DAIMA,基于微信小程序的基于微信的设备故障报修管理系统设计与实现+ssm,https://github.com/opsadamgreenzgjp/JAVA-iihkj-DAIMA,0,0,Java,,2026-09-15T11:23:41Z,2026-09-16,False,Long Context
+1371403408,opsadamgreenzgjp/JAVA-wshch-DAIMA,基于微信小程序的健身管理系统及会员微信小程序的设计与实现+ssm,https://github.com/opsadamgreenzgjp/JAVA-wshch-DAIMA,0,0,Java,,2026-09-15T12:09:10Z,2026-09-16,False,Long Context
+1371338098,opsadamgreenzgjp/JAVA-jrjsf-DAIMA,基于微信小程序的基于小程序的老孙电子点菜系统开发设计与实现+ssm,https://github.com/opsadamgreenzgjp/JAVA-jrjsf-DAIMA,0,0,Java,,2026-09-15T11:26:52Z,2026-09-16,False,Long Context
+1372166791,lights-rix/BbSePOoY,2022软工计算机毕设一套基于SSM的校园团购系统的设计与实现  (论文+程序源代码+数据库) 三稿.zip,https://github.com/lights-rix/BbSePOoY,1,0,,,2026-09-15T21:45:02Z,2026-09-16,False,Long Context
+1372096559,owenbrave/tyYycNhN,2022软工计算机毕设一套基于SSM的服装租赁系统的设计与实现 .zip  (论文+程序源代码+数据库) 三稿.zip,https://github.com/owenbrave/tyYycNhN,1,0,,,2026-09-15T20:45:12Z,2026-09-16,False,Long Context
+1372120817,gogoore/DzTGznuj,2022软工计算机毕设一套基于SSM的菜篮子管理系统的设计与实现  (论文+程序源代码+数据库) 三稿.zip,https://github.com/gogoore/DzTGznuj,1,0,,,2026-09-15T21:03:46Z,2026-09-16,False,Long Context
+1372122652,gogoore/lZvwhJdl,2022软工计算机毕设一套基于SSM的菜篮子管理系统的设计与实现  (论文+程序源代码+数据库) 三稿.zip,https://github.com/gogoore/lZvwhJdl,1,0,,,2026-09-15T21:05:13Z,2026-09-16,False,Long Context
+1372264775,fireditoo/bmtbazhY,2022软工计算机毕设一套基于SSM框架的高校科创中心管理系统的设计与实现 (论文+程序源代码+数据库) 三稿.zip,https://github.com/fireditoo/bmtbazhY,1,0,,,2026-09-15T23:28:47Z,2026-09-16,False,Long Context
+1372105175,owenbrave/LEQaIEDx,2022软工计算机毕设一套基于SSM+小程序的智慧旅游系统设计与实现 终稿.zip (论文+程序源代码+数据库) 三稿.zip,https://github.com/owenbrave/LEQaIEDx,1,0,,,2026-09-15T20:52:14Z,2026-09-16,False,Long Context
+1372139594,gogoore/KaddJcYH,2023软工计算机毕设一套 维普22% 基于SSM的校园核酸筛查系统（论文+中期与开题+程序源代码+数据库+说明+答辩PPT+外文翻译）.zip,https://github.com/gogoore/KaddJcYH,1,0,,,2026-09-15T21:19:17Z,2026-09-16,False,Long Context
+1371785825,RiccardoVib/Signal-Flow-Structured-State-Space-Model-of-Optical-DRC,,https://github.com/RiccardoVib/Signal-Flow-Structured-State-Space-Model-of-Optical-DRC,0,0,,,2026-09-15T16:28:17Z,2026-09-16,False,Long Context
+1371096822,Faheem-Rasool/Deep-Learning-project-BirdCliff-2026-,"Multi-model bioacoustic pipeline for BirdCLEF+ 2026 — Perch V2 embeddings, custom selective state-space models (LightProtoSSM, ResidualSSM), contextual priors, and a 3-way rank-blended ensemble (SED + BirdNET) for multi-label species detection in soundscape recordings. Public LB: 0.94727.",https://github.com/Faheem-Rasool/Deep-Learning-project-BirdCliff-2026-,0,0,Jupyter Notebook,,2026-09-15T07:52:01Z,2026-09-16,False,Long Context
