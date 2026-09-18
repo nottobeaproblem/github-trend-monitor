@@ -6186,5 +6186,18 @@
     "url": "https://simonwillison.net/2026/Sep/16/one-claude/",
     "tags": "",
     "created_at": "2026-09-17 06:57:25"
+  },
+  {
+    "id": "rss_https://openai.com/index/cooley-gopublic",
+    "company": "OpenAI",
+    "title": "How Cooley is accelerating IPO work with ChatGPT",
+    "publish_date": "2026-09-17",
+    "type": "其他",
+    "open_source": "否",
+    "summary": "Cooley built GO Public with ChatGPT Work to bring intelligence to the IPO process, helping lawyers surface issues earlier and focus judgment where it matters most.",
+    "details": "",
+    "url": "https://openai.com/index/cooley-gopublic",
+    "tags": "",
+    "created_at": "2026-09-18 06:54:35"
   }
 ]
