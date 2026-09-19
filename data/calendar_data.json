@@ -6199,5 +6199,31 @@
     "url": "https://openai.com/index/cooley-gopublic",
     "tags": "",
     "created_at": "2026-09-18 06:54:35"
+  },
+  {
+    "id": "rss_https://openai.com/index/hex-gpt-6-astra",
+    "company": "OpenAI",
+    "title": "Hex turns complex analysis into visual reports with GPT‑6 Astra",
+    "publish_date": "2026-09-16",
+    "type": "其他",
+    "open_source": "否",
+    "summary": "GPT-6 Astra helps Hex’s data agents turn answers into interactive visualizations that employees are proud to share.",
+    "details": "",
+    "url": "https://openai.com/index/hex-gpt-6-astra",
+    "tags": "",
+    "created_at": "2026-09-19 06:53:44"
+  },
+  {
+    "id": "rss_https://simonwillison.net/2026/Sep/18/gemini-hacked-three-companies/",
+    "company": "Simon Willison",
+    "title": "Gemini Hacked Three Companies in First Known Breakout by Google’s AI",
+    "publish_date": "2026-09-18",
+    "type": "其他",
+    "open_source": "否",
+    "summary": "<p><strong><a href=\"https://www.wsj.com/tech/ai/gemini-hacked-three-companies-in-first-known-breakout-by-googles-ai-5c0baba2\">Gemini Hacked Three Companies in First Known Breakout by Google’s AI</a></",
+    "details": "",
+    "url": "https://simonwillison.net/2026/Sep/18/gemini-hacked-three-companies/",
+    "tags": "",
+    "created_at": "2026-09-19 06:53:47"
   }
 ]
