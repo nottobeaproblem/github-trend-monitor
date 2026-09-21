@@ -6238,5 +6238,18 @@
     "url": "https://simonwillison.net/2026/Sep/19/datasette-auth-github/",
     "tags": "",
     "created_at": "2026-09-20 07:17:58"
+  },
+  {
+    "id": "rss_https://simonwillison.net/2026/Sep/20/datasette-explain/",
+    "company": "Simon Willison",
+    "title": "datasette-explain 0.2.2",
+    "publish_date": "2026-09-20",
+    "type": "其他",
+    "open_source": "否",
+    "summary": "<p><strong>Release:</strong> <a href=\"https://github.com/simonw/datasette-explain/releases/tag/0.2.2\">datasette-explain 0.2.2</a></p>\n        <blockquote>\n<ul>\n<li>Explain plans now work on read-only ",
+    "details": "",
+    "url": "https://simonwillison.net/2026/Sep/20/datasette-explain/",
+    "tags": "",
+    "created_at": "2026-09-21 07:27:26"
   }
 ]
