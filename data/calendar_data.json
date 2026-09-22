@@ -6251,5 +6251,44 @@
     "url": "https://simonwillison.net/2026/Sep/20/datasette-explain/",
     "tags": "",
     "created_at": "2026-09-21 07:27:26"
+  },
+  {
+    "id": "rss_https://openai.com/index/higgsfield-from-prompt-to-production-with-astra",
+    "company": "OpenAI",
+    "title": "Higgsfield AI ships new video features in a day with GPT-6 Astra",
+    "publish_date": "2026-09-21",
+    "type": "其他",
+    "open_source": "否",
+    "summary": "With GPT-6 Astra, Higgsfield AI makes video ad creation easier for small businesses and brings new creative tools to market faster.",
+    "details": "",
+    "url": "https://openai.com/index/higgsfield-from-prompt-to-production-with-astra",
+    "tags": "",
+    "created_at": "2026-09-22 07:04:36"
+  },
+  {
+    "id": "rss_https://openai.com/index/v7",
+    "company": "OpenAI",
+    "title": "How V7 gives AI agents institutional memory",
+    "publish_date": "2026-09-21",
+    "type": "其他",
+    "open_source": "否",
+    "summary": "Using GPT-5.6, V7 turns scattered company files into context agents can use to complete complex, source-linked work.",
+    "details": "",
+    "url": "https://openai.com/index/v7",
+    "tags": "",
+    "created_at": "2026-09-22 07:04:36"
+  },
+  {
+    "id": "rss_https://simonwillison.net/2026/Sep/21/jev/",
+    "company": "Simon Willison",
+    "title": "Jev introduces a new shape of LLM - System One, aka Decision Models",
+    "publish_date": "2026-09-21",
+    "type": "其他",
+    "open_source": "否",
+    "summary": "<p>Last week <a href=\"https://typesafe.ai/\">TypeSafe AI</a> unveiled <a href=\"https://typesafe.ai/blog/introducing-system-one-models-and-jev\">Jev</a>, their first example of a new category of model th",
+    "details": "",
+    "url": "https://simonwillison.net/2026/Sep/21/jev/",
+    "tags": "",
+    "created_at": "2026-09-22 07:04:39"
   }
 ]

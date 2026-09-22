@@ -699,3 +699,6 @@ rss_https://simonwillison.net/2026/Sep/20/datasette-explain/,Simon Willison,data
         <blockquote>
 <ul>
 <li>Explain plans now work on read-only ",,https://simonwillison.net/2026/Sep/20/datasette-explain/,,2026-09-21 07:27:26
+rss_https://openai.com/index/higgsfield-from-prompt-to-production-with-astra,OpenAI,Higgsfield AI ships new video features in a day with GPT-6 Astra,2026-09-21,其他,否,"With GPT-6 Astra, Higgsfield AI makes video ad creation easier for small businesses and brings new creative tools to market faster.",,https://openai.com/index/higgsfield-from-prompt-to-production-with-astra,,2026-09-22 07:04:36
+rss_https://openai.com/index/v7,OpenAI,How V7 gives AI agents institutional memory,2026-09-21,其他,否,"Using GPT-5.6, V7 turns scattered company files into context agents can use to complete complex, source-linked work.",,https://openai.com/index/v7,,2026-09-22 07:04:36
+rss_https://simonwillison.net/2026/Sep/21/jev/,Simon Willison,"Jev introduces a new shape of LLM - System One, aka Decision Models",2026-09-21,其他,否,"<p>Last week <a href=""https://typesafe.ai/"">TypeSafe AI</a> unveiled <a href=""https://typesafe.ai/blog/introducing-system-one-models-and-jev"">Jev</a>, their first example of a new category of model th",,https://simonwillison.net/2026/Sep/21/jev/,,2026-09-22 07:04:39
