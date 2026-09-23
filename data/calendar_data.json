@@ -6290,5 +6290,83 @@
     "url": "https://simonwillison.net/2026/Sep/21/jev/",
     "tags": "",
     "created_at": "2026-09-22 07:04:39"
+  },
+  {
+    "id": "rss_https://openai.com/index/better-prompt-caching-for-gpt-6",
+    "company": "OpenAI",
+    "title": "Better prompt caching for GPT-6",
+    "publish_date": "2026-09-22",
+    "type": "其他",
+    "open_source": "否",
+    "summary": "Learn how GPT-6 improves prompt caching with higher cache hit rates, new diagnostics, explicit breakpoints, and controls that reduce latency and costs.",
+    "details": "",
+    "url": "https://openai.com/index/better-prompt-caching-for-gpt-6",
+    "tags": "",
+    "created_at": "2026-09-23 06:59:18"
+  },
+  {
+    "id": "rss_https://openai.com/index/introducing-gpt-6-sol-and-luna",
+    "company": "OpenAI",
+    "title": "Introducing GPT-6 Sol and Luna",
+    "publish_date": "2026-09-22",
+    "type": "其他",
+    "open_source": "否",
+    "summary": "Meet GPT-6 Sol and Luna, two models that bring frontier intelligence to everyday work with different balances of capability and cost.",
+    "details": "",
+    "url": "https://openai.com/index/introducing-gpt-6-sol-and-luna",
+    "tags": "",
+    "created_at": "2026-09-23 06:59:18"
+  },
+  {
+    "id": "rss_https://openai.com/index/parallel-cuts-time-and-cost-with-astra",
+    "company": "OpenAI",
+    "title": "Parallel cut research time and cost in half with GPT‑6 Astra",
+    "publish_date": "2026-09-22",
+    "type": "其他",
+    "open_source": "否",
+    "summary": "GPT‑6 Astra allowed Parallel’s agents to research and synthesize labor-market data in half the time and at half the cost vs. prior models.",
+    "details": "",
+    "url": "https://openai.com/index/parallel-cuts-time-and-cost-with-astra",
+    "tags": "",
+    "created_at": "2026-09-23 06:59:18"
+  },
+  {
+    "id": "rss_https://huggingface.co/blog/transformers-llama-cpp-quants",
+    "company": "Hugging Face",
+    "title": "Transformers now runs llama.cpp quants",
+    "publish_date": "2026-09-22",
+    "type": "其他",
+    "open_source": "否",
+    "summary": "",
+    "details": "",
+    "url": "https://huggingface.co/blog/transformers-llama-cpp-quants",
+    "tags": "",
+    "created_at": "2026-09-23 06:59:20"
+  },
+  {
+    "id": "rss_https://simonwillison.net/2026/Sep/23/bof-agentic-engineering/",
+    "company": "Simon Willison",
+    "title": "SF October 14th: A Birds of a Feather Session on Agentic Engineering",
+    "publish_date": "2026-09-23",
+    "type": "其他",
+    "open_source": "否",
+    "summary": "<p><strong><a href=\"https://luma.com/vxuiuyvg\">SF October 14th: A Birds of a Feather Session on Agentic Engineering</a></strong></p>\nI'm hosting an evening event with Jesse Vincent in San Francisco on",
+    "details": "",
+    "url": "https://simonwillison.net/2026/Sep/23/bof-agentic-engineering/",
+    "tags": "",
+    "created_at": "2026-09-23 06:59:22"
+  },
+  {
+    "id": "rss_https://simonwillison.net/2026/Sep/22/opus-and-sol-and-luna/",
+    "company": "Simon Willison",
+    "title": "Claude Opus 5.5, GPT-6 Sol, GPT-6 Luna, and a new price war",
+    "publish_date": "2026-09-22",
+    "type": "其他",
+    "open_source": "否",
+    "summary": "<p>Yesterday was <a href=\"https://x.ai/news/grok-4-7\">Grok 4.7</a> (<a href=\"https://news.ycombinator.com/item?id=49788838#49790209\">pelicans</a>) and <a href=\"https://mimo.xiaomi.com/mimo-v2-6\">MiMo ",
+    "details": "",
+    "url": "https://simonwillison.net/2026/Sep/22/opus-and-sol-and-luna/",
+    "tags": "",
+    "created_at": "2026-09-23 06:59:22"
   }
 ]

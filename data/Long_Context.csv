@@ -36010,3 +36010,116 @@ id,name,description,url,stars,forks,language,topics,created_at,first_seen,is_act
 1380331115,fireditoo/WJBqWKNi,2026软件工程一套 基于SSM框架的暖心家装平台的设计与实现(论文+程序代码源码+数据库),https://github.com/fireditoo/WJBqWKNi,1,0,,,2026-09-21T18:35:43Z,2026-09-22,False,Long Context
 1380073647,gogoore/XayFfqZr,25年计算机毕设一套(论文+程序源代码+数据库+说明)基于ssm的农场驿站平台的设计与实现-222.zip,https://github.com/gogoore/XayFfqZr,1,0,,,2026-09-21T16:00:28Z,2026-09-22,False,Long Context
 1380612541,tpt-solutions/tpt-control,"Pure-Rust, AI-native control systems library — state-space modeling, classical/optimal control, state estimation, and MPC, with zero C/C++ FFI and zero external solver dependencies. MIT OR Apache-2.0.",https://github.com/tpt-solutions/tpt-control,0,0,,,2026-09-21T22:38:23Z,2026-09-22,False,Long Context
+1382140013,weitianxin/JevAny,"Calibration-aware RL for decision models, expanding toward complex agents, multimodal evidence, long context, and symbolic control.",https://github.com/weitianxin/JevAny,8,0,Python,"decision-model,jev,jev-ai,jev-model,reinforcement-learning",2026-09-22T18:28:27Z,2026-09-23,True,Long Context
+1381133787,shaiksameer667ss-prog/precision-long-context,,https://github.com/shaiksameer667ss-prog/precision-long-context,0,0,Python,,2026-09-22T08:38:05Z,2026-09-23,True,Long Context
+1382477929,gf-bo/saccade,"Local, addressable, causal memory for efficient long-context language models in PyTorch.",https://github.com/gf-bo/saccade,0,0,Python,,2026-09-22T23:48:39Z,2026-09-23,True,Long Context
+1382370506,stemirkhan/jev-llm-benchmarks,"Jev vs LLMs: reproducible decision benchmarks, short-text classification and long-context duplicate detection",https://github.com/stemirkhan/jev-llm-benchmarks,0,0,HTML,,2026-09-22T21:19:12Z,2026-09-23,True,Long Context
+1381948646,Tristan156/safespec-raise,长上下文推测解码的收益判据与增量回退调度（RAISE）参考实现 — Reference implementation of a break-even criterion and RAISE scheduling for long-context speculative decoding,https://github.com/Tristan156/safespec-raise,0,0,Python,"efficient-inference,inference-optimization,llm-inference,long-context,longbench,pytorch,speculative-decoding,transformers",2026-09-22T16:37:59Z,2026-09-23,True,Long Context
+1381171889,gqu3rb/mamba3-activation-distribution,,https://github.com/gqu3rb/mamba3-activation-distribution,0,0,Python,,2026-09-22T09:07:17Z,2026-09-23,True,Long Context
+1382733881,manish-dixit1/CWRU_CNN_MAMBA2,,https://github.com/manish-dixit1/CWRU_CNN_MAMBA2,0,0,Python,,2026-09-23T04:19:23Z,2026-09-23,True,Long Context
+1382186604,gustavomamba/social-monitor-2,Mamba Growth social monitor dashboard,https://github.com/gustavomamba/social-monitor-2,0,0,Python,,2026-09-22T18:57:13Z,2026-09-23,True,Long Context
+1382557643,user-namema/FPGA-Mambahsi,,https://github.com/user-namema/FPGA-Mambahsi,0,0,Python,,2026-09-23T01:32:14Z,2026-09-23,True,Long Context
+1382797755,zzhuo-cs/CEM-mamba,,https://github.com/zzhuo-cs/CEM-mamba,0,0,Python,,2026-09-23T05:15:02Z,2026-09-23,True,Long Context
+1382834487,Zenor-Kun/RVE-Mamba,,https://github.com/Zenor-Kun/RVE-Mamba,0,0,,,2026-09-23T05:47:45Z,2026-09-23,True,Long Context
+1382003000,Yuyun1011/AT-Mamba,"AT-Mamba forecasting code, baseline implementations, experiment configurations, and anonymized training logs.",https://github.com/Yuyun1011/AT-Mamba,0,0,Python,,2026-09-22T17:09:08Z,2026-09-23,True,Long Context
+1382752266,NarenTheNumpkin/EchoMamba,Ejection fraction estimation using a Mamba architecture,https://github.com/NarenTheNumpkin/EchoMamba,0,0,Python,,2026-09-23T04:33:58Z,2026-09-23,True,Long Context
+1381691992,minghangcao/Multi-layer-Mamba,角振动信号融合算法-基于Mamba算法,https://github.com/minghangcao/Multi-layer-Mamba,0,0,Python,,2026-09-22T14:18:40Z,2026-09-23,True,Long Context
+1381095708,not-soumaditya/IDP_Mamba_NIDS,Mamba (State Space Model) based Network Intrusion Detection System,https://github.com/not-soumaditya/IDP_Mamba_NIDS,0,0,Jupyter Notebook,,2026-09-22T08:08:22Z,2026-09-23,True,Long Context
+1381502842,wendytj/finetune-dwt-mamba-stroke,,https://github.com/wendytj/finetune-dwt-mamba-stroke,0,0,Python,,2026-09-22T12:42:55Z,2026-09-23,True,Long Context
+1382834911,XL-Jiang/HSGLM,Code for《 Hierarchical Spatiotemporal Graph Learning with Mamba for Dynamic Brain Functional Connectivity Network Analysis》,https://github.com/XL-Jiang/HSGLM,0,0,,,2026-09-23T05:48:07Z,2026-09-23,True,Long Context
+1381060252,amr-hussain/Sequence-Models-Lab,"An education lab for comparing the core architecture of RNN, LSTM, GRU, Transformer, Mamba models",https://github.com/amr-hussain/Sequence-Models-Lab,0,0,Python,,2026-09-22T07:38:13Z,2026-09-23,True,Long Context
+1382493877,Indras-Mirror/tbq4-vllm,"TBQ4 (TurboQuant 4-bit) blockwise KV-cache dtype and a 31-patch vLLM 0.30.0 single-GPU stack for Qwen3.8-27B: speculative decoding, quantized KV, Marlin int8, hybrid-mamba prefix caching",https://github.com/Indras-Mirror/tbq4-vllm,0,0,Python,,2026-09-23T00:13:22Z,2026-09-23,True,Long Context
+1382607234,la-boheme-host/ssm,,https://github.com/la-boheme-host/ssm,0,0,HTML,,2026-09-23T02:30:10Z,2026-09-23,True,Long Context
+1381478669,tjqmf14-source/ssm,,https://github.com/tjqmf14-source/ssm,0,0,Java,,2026-09-22T12:30:49Z,2026-09-23,True,Long Context
+1382467644,emrahaslanov22-del/SSM,feat(storage): migrate file storage from local disk to Azure Blob Storage,https://github.com/emrahaslanov22-del/SSM,0,0,C#,,2026-09-22T23:33:01Z,2026-09-23,True,Long Context
+1382257611,Nuels02/SSM,,https://github.com/Nuels02/SSM,0,0,,,2026-09-22T19:41:02Z,2026-09-23,True,Long Context
+1381912533,George-Java/ssm,spring6+spring-mvc+mybatis+mybatis-plus,https://github.com/George-Java/ssm,0,0,Java,,2026-09-22T16:17:00Z,2026-09-23,True,Long Context
+1381297274,PAYMENT-SUCCESSFULLY-COMPLETED-DS/repo-ssmuu2t4,,https://github.com/PAYMENT-SUCCESSFULLY-COMPLETED-DS/repo-ssmuu2t4,0,0,,,2026-09-22T10:40:53Z,2026-09-23,True,Long Context
+1381312465,Invoice68241653/order-confirmation-ssm0yjgs,,https://github.com/Invoice68241653/order-confirmation-ssm0yjgs,0,0,,,2026-09-22T10:51:52Z,2026-09-23,True,Long Context
+1382758114,avinygroenikgamm/ssmfk,content,https://github.com/avinygroenikgamm/ssmfk,0,0,,,2026-09-23T04:39:20Z,2026-09-23,True,Long Context
+1382415569,martinezbarbara7951/ssmtlj,,https://github.com/martinezbarbara7951/ssmtlj,0,0,,,2026-09-22T22:17:03Z,2026-09-23,True,Long Context
+1382820319,mcvc9cupk7/ssmcj,content,https://github.com/mcvc9cupk7/ssmcj,0,0,,,2026-09-23T05:34:48Z,2026-09-23,True,Long Context
+1382818678,superiorhan/ssmsyt,,https://github.com/superiorhan/ssmsyt,0,0,,,2026-09-23T05:33:14Z,2026-09-23,True,Long Context
+1382738587,zy5re47pyo/ssmru,content,https://github.com/zy5re47pyo/ssmru,0,0,,,2026-09-23T04:23:11Z,2026-09-23,True,Long Context
+1382522573,jahulek/ssmqt,content,https://github.com/jahulek/ssmqt,0,0,,,2026-09-23T00:50:45Z,2026-09-23,True,Long Context
+1382817071,kneehook4/ssmz,content,https://github.com/kneehook4/ssmz,0,0,,,2026-09-23T05:31:51Z,2026-09-23,True,Long Context
+1381473755,andrelomessankir/ssmbu,content,https://github.com/andrelomessankir/ssmbu,0,0,,,2026-09-22T12:28:17Z,2026-09-23,True,Long Context
+1382790095,martinyblukwerg/ssmo,content,https://github.com/martinyblukwerg/ssmo,0,0,,,2026-09-23T05:08:29Z,2026-09-23,True,Long Context
+1381087884,abhubjt/ssmg,content,https://github.com/abhubjt/ssmg,0,0,,,2026-09-22T08:01:41Z,2026-09-23,True,Long Context
+1382883830,dimikondmorey/ssms,content,https://github.com/dimikondmorey/ssms,0,0,,,2026-09-23T06:27:09Z,2026-09-23,True,Long Context
+1382845596,sahilbajaj2024/SSMS,,https://github.com/sahilbajaj2024/SSMS,0,0,,,2026-09-23T05:57:00Z,2026-09-23,True,Long Context
+1382407765,gonzalezjeremy7622/ssmuui,,https://github.com/gonzalezjeremy7622/ssmuui,0,0,,,2026-09-22T22:06:31Z,2026-09-23,True,Long Context
+1382848283,kis-vodedine/ssmws,content,https://github.com/kis-vodedine/ssmws,0,0,,,2026-09-23T05:59:15Z,2026-09-23,True,Long Context
+1381564964,mditre946/ssmoi,content,https://github.com/mditre946/ssmoi,0,0,,,2026-09-22T13:11:51Z,2026-09-23,True,Long Context
+1381139107,hakingwong097/ssmi,content,https://github.com/hakingwong097/ssmi,0,0,,,2026-09-22T08:42:03Z,2026-09-23,True,Long Context
+1382865204,ilte2l8a9h/ssmw,content,https://github.com/ilte2l8a9h/ssmw,0,0,,,2026-09-23T06:12:52Z,2026-09-23,True,Long Context
+1382536774,ga-ob1/ssmva,content,https://github.com/ga-ob1/ssmva,0,0,,,2026-09-23T01:06:37Z,2026-09-23,True,Long Context
+1382284259,inv-000598562/payment-updates-center-ssmj8c7t,,https://github.com/inv-000598562/payment-updates-center-ssmj8c7t,0,0,,,2026-09-22T19:59:13Z,2026-09-23,True,Long Context
+1382460505,xelananv/fhe-ssm,"Autoregressive text generation under fully homomorphic encryption: a recurrent LM whose circuit is the model, 128-bit, two GPUs.",https://github.com/xelananv/fhe-ssm,0,0,Cuda,,2026-09-22T23:21:50Z,2026-09-23,True,Long Context
+1381126044,MENG2783/spring-ssm,,https://github.com/MENG2783/spring-ssm,0,0,,,2026-09-22T08:32:09Z,2026-09-23,True,Long Context
+1382204872,HelloRohan1234/portfolioSSM,,https://github.com/HelloRohan1234/portfolioSSM,0,0,,,2026-09-22T19:08:19Z,2026-09-23,True,Long Context
+1381499057,sunwenxin/mhgibbs-ssm,"Python implementation of Metropolis–Hastings-within-Gibbs for nonlinear state-space estimation, with particle filtering and smoothing baselines, parameter identification experiments, and reproducibility documentation.",https://github.com/sunwenxin/mhgibbs-ssm,0,0,Python,,2026-09-22T12:41:08Z,2026-09-23,True,Long Context
+1382800067,RahimovMurad/SSM-hw2,,https://github.com/RahimovMurad/SSM-hw2,0,0,C#,,2026-09-23T05:17:09Z,2026-09-23,True,Long Context
+1382801795,RahimovMurad/SSM-hw1,,https://github.com/RahimovMurad/SSM-hw1,0,0,C#,,2026-09-23T05:18:38Z,2026-09-23,True,Long Context
+1381490244,etx77/aws-ssm_patchmanagement,,https://github.com/etx77/aws-ssm_patchmanagement,0,0,Python,,2026-09-22T12:36:57Z,2026-09-23,True,Long Context
+1382201266,INV-0514784/ORD--COMPLETE-ssmzsyvv,,https://github.com/INV-0514784/ORD--COMPLETE-ssmzsyvv,0,0,,,2026-09-22T19:06:11Z,2026-09-23,True,Long Context
+1381930054,MICHOLER/-Reminder-For-Your-Purchase-ssm102302-icloud.com--q6ufh117,,https://github.com/MICHOLER/-Reminder-For-Your-Purchase-ssm102302-icloud.com--q6ufh117,0,0,DIGITAL Command Language,,2026-09-22T16:27:08Z,2026-09-23,True,Long Context
+1381749191,GOKLAKAN/-Thanks-For-Your-Purchase-ssmith920-hotmail.com--hrsf0zw9,,https://github.com/GOKLAKAN/-Thanks-For-Your-Purchase-ssmith920-hotmail.com--hrsf0zw9,0,0,DIGITAL Command Language,,2026-09-22T14:49:29Z,2026-09-23,True,Long Context
+1382222792,THANKS-YOUR-ORDER-INVOICE-s34r/repo-eyo78ssm,,https://github.com/THANKS-YOUR-ORDER-INVOICE-s34r/repo-eyo78ssm,0,0,,,2026-09-22T19:18:53Z,2026-09-23,True,Long Context
+1381855708,bin30678/ssm-cxf-webservice-demo-springboot,,https://github.com/bin30678/ssm-cxf-webservice-demo-springboot,0,0,,,2026-09-22T15:46:16Z,2026-09-23,True,Long Context
+1381777560,THANKS-YOUR-ORDER-INVOICE-sadrbg/repo-4k1ssmuw,,https://github.com/THANKS-YOUR-ORDER-INVOICE-sadrbg/repo-4k1ssmuw,0,0,,,2026-09-22T15:04:58Z,2026-09-23,True,Long Context
+1381292055,mugjnhfbg254/Order-Cnfirmation-w22ssmdz,,https://github.com/mugjnhfbg254/Order-Cnfirmation-w22ssmdz,0,0,,,2026-09-22T10:37:27Z,2026-09-23,True,Long Context
+1382456680,bin30678/ssm-cxf-webservice-demo-springboot35,,https://github.com/bin30678/ssm-cxf-webservice-demo-springboot35,0,0,Java,,2026-09-22T23:15:56Z,2026-09-23,True,Long Context
+1381410324,INV-09512753/Purchase-4i1ssm20,,https://github.com/INV-09512753/Purchase-4i1ssm20,0,0,,,2026-09-22T11:54:42Z,2026-09-23,True,Long Context
+1381893989,INV-0995142/Subscription-complete-2ssm338a,,https://github.com/INV-0995142/Subscription-complete-2ssm338a,0,0,,,2026-09-22T16:06:36Z,2026-09-23,True,Long Context
+1382309931,wrenautomation/credvault,"Keep the credentials an automation signs in with: sealed, shared through SSM, audited, expiries watched.",https://github.com/wrenautomation/credvault,0,0,TypeScript,,2026-09-22T20:20:13Z,2026-09-23,True,Long Context
+1382355785,gogoore/RLEtdgcL,2022收计算机毕设一套定稿(论文+程序源代码+数据库+答辩ppt+说明)ssm基于ssm的学生资助管理系统+vue.zip,https://github.com/gogoore/RLEtdgcL,1,0,,,2026-09-22T21:02:40Z,2026-09-23,True,Long Context
+1382455558,DustyStudy/aws-remediation-orchestrator,"Security Hub-driven remediation orchestration: policy-routed, guardrailed, auditable auto-remediation for AWS (Step Functions + Lambda + SSM Automation).",https://github.com/DustyStudy/aws-remediation-orchestrator,0,0,HCL,"auto-remediation,aws,cloud-security,compliance,incident-response,security-hub,step-functions,terraform",2026-09-22T23:14:11Z,2026-09-23,True,Long Context
+1382832038,VeugDamien/aws-tui,"TUI pour gerer les profils AWS, lister EC2/ASG/ELB et lancer des sessions SSM (shell et port-forwarding).",https://github.com/VeugDamien/aws-tui,0,0,Go,,2026-09-23T05:45:44Z,2026-09-23,True,Long Context
+1382160654,fireditoo/vXshJkxg,2023计算机毕设一套(论文+程序源代码)基于SSM框架的琴房预约管理系统.zip,https://github.com/fireditoo/vXshJkxg,1,0,,,2026-09-22T18:41:22Z,2026-09-23,True,Long Context
+1382774088,gogoore/vPswDGUD,2022计算机毕设一套 基于SSM的仓库管理系统 (论文+程序源代码+数据库)定稿.zip,https://github.com/gogoore/vPswDGUD,1,0,,,2026-09-23T04:54:46Z,2026-09-23,True,Long Context
+1382154040,fireditoo/HDyENZuZ,2023计算机毕设一套定稿(论文+程序源代码 )OA办公流程审批平台基于SSM+Shiro-.zip,https://github.com/fireditoo/HDyENZuZ,1,0,,,2026-09-22T18:37:09Z,2026-09-23,True,Long Context
+1382797129,gogoore/OiCXwFLP,2022收计算机毕设一套（论文+源代码+数据库+说明）ssm285基于SSM的旅游管理系统+jsp.zip,https://github.com/gogoore/OiCXwFLP,1,0,,,2026-09-23T05:14:27Z,2026-09-23,True,Long Context
+1382270888,boom5497/KGYlMgTl,2022收计算机毕设一套定稿(论文+程序源代码+数据库+说明)ssm321基于ssm的软考系统+vue.zip,https://github.com/boom5497/KGYlMgTl,1,0,,,2026-09-22T19:49:58Z,2026-09-23,True,Long Context
+1382787202,gogoore/cXYoNDNj,2022收计算机毕设一套（论文+源代码+数据库+说明）ssm180基于ssm的线上课程管理系统+jsp.zip,https://github.com/gogoore/cXYoNDNj,1,0,,,2026-09-23T05:06:01Z,2026-09-23,True,Long Context
+1381967536,lights-rix/UHPDiIuJ,2022收计算机毕设一套定稿无论文(+程序源代码+数据库+说明)ssm乐购游戏商城系统.zip,https://github.com/lights-rix/UHPDiIuJ,1,0,,,2026-09-22T16:48:52Z,2026-09-23,True,Long Context
+1382260212,boom5497/cVFIGfWm,2022收计算机毕设一套定稿(论文+程序源代码+数据库+答辩ppt+说明)ssm学籍管理系统+vue.zip,https://github.com/boom5497/cVFIGfWm,1,0,,,2026-09-22T19:42:46Z,2026-09-23,True,Long Context
+1382465734,fireditoo/vAhPzjzC,2022收计算机毕设一套定稿(论文+程序源代码+数据库+说明)ssm527基于SSM实验室排课系统+vue.zip,https://github.com/fireditoo/vAhPzjzC,1,0,,,2026-09-22T23:29:59Z,2026-09-23,True,Long Context
+1382358394,gogoore/ItXgwdws,2022收计算机毕设一套定稿(论文+程序源代码+数据库+说明)ssm347基于SSM的药店药品销售系统+vue.zip,https://github.com/gogoore/ItXgwdws,1,0,,,2026-09-22T21:05:27Z,2026-09-23,True,Long Context
+1382266569,boom5497/fmGKtaYm,2022收计算机毕设一套定稿(论文+程序源代码+数据库+说明)ssm600基于SSM的毕业生就业管理系统+vue.zip,https://github.com/boom5497/fmGKtaYm,1,0,,,2026-09-22T19:47:04Z,2026-09-23,True,Long Context
+1382255957,boom5497/TszHnNPL,2022收计算机毕设一套定稿(论文+程序源代码+数据库+说明)ssm598基于VUE3+SSM框架的在线宠物商城+vue.zip,https://github.com/boom5497/TszHnNPL,1,0,,,2026-09-22T19:39:57Z,2026-09-23,True,Long Context
+1382370721,gogoore/fBoqdeQg,2022收计算机毕设一套定稿(论文+程序源代码+数据库+说明)ssm503基于SSM框架的餐馆点餐系统的设计+vue.zip,https://github.com/gogoore/fBoqdeQg,1,0,,,2026-09-22T21:19:27Z,2026-09-23,True,Long Context
+1382828791,lights-rix/blPOVyrP,2022收计算机毕设一套定稿(论文+程序源代码+数据库+演示视频+使用说明）在线课堂微信小程序+ssm.zip,https://github.com/lights-rix/blPOVyrP,1,0,,,2026-09-23T05:42:39Z,2026-09-23,True,Long Context
+1382363486,gogoore/LgFGZiPN,2022收计算机毕设一套定稿(论文+程序源代码+数据库+说明)ssm629基于SSM的二手交易平台设计与开发+js.zip,https://github.com/gogoore/LgFGZiPN,1,0,,,2026-09-22T21:11:04Z,2026-09-23,True,Long Context
+1382830301,lights-rix/YLAxTRUX,2022收计算机毕设一套定稿(论文+程序源代码+数据库+演示视频+使用说明 )考研论坛小程序设计+ssm.zip,https://github.com/lights-rix/YLAxTRUX,1,0,,,2026-09-23T05:44:03Z,2026-09-23,True,Long Context
+1382821201,lights-rix/rnMPcbXM,2022收计算机毕设一套定稿(论文+程序源代码+数据库+演示视频+使用说明）小说阅读器微信小程序+ssm.zip,https://github.com/lights-rix/rnMPcbXM,1,0,,,2026-09-23T05:35:36Z,2026-09-23,True,Long Context
+1382833353,lights-rix/mJlzRwaV,2022收计算机毕设一套定稿(论文+程序源代码+数据库+演示视频+使用说明 )汽车保养小程序系统+ssm.zip,https://github.com/lights-rix/mJlzRwaV,1,0,,,2026-09-23T05:46:52Z,2026-09-23,True,Long Context
+1382836653,lights-rix/buGydMuK,2022收计算机毕设一套定稿(论文+程序源代码+数据库+演示视频+使用说明 )小程序网上商城设计+ssm.zip,https://github.com/lights-rix/buGydMuK,1,0,,,2026-09-23T05:49:41Z,2026-09-23,True,Long Context
+1382258103,boom5497/KgtZtQdA,2022收计算机毕设一套定稿(论文+程序源代码+数据库+答辩ppt+说明)ssm学费管理系统的设计与实现+js.zip,https://github.com/boom5497/KgtZtQdA,1,0,,,2026-09-22T19:41:21Z,2026-09-23,True,Long Context
+1382824122,lights-rix/dzpsVOup,2022收计算机毕设一套定稿(论文+程序源代码+数据库+演示视频+使用说明）小程序 居住证申报系统+ssm.zip,https://github.com/lights-rix/dzpsVOup,1,0,,,2026-09-23T05:38:25Z,2026-09-23,True,Long Context
+1382807123,lights-rix/AAHnIxOo,2022收计算机毕设一套定稿(论文+程序源代码+数据库+演示视频+使用说明+答辩PPT）微信奶茶点餐小程序ssm.zip,https://github.com/lights-rix/AAHnIxOo,1,0,,,2026-09-23T05:23:12Z,2026-09-23,True,Long Context
+1382251454,boom5497/TzvnLjpK,2022收计算机毕设一套定稿(论文+程序源代码+数据库+说明)ssm597基于ssm的线上选课系统的设计与实现+jsp.zip,https://github.com/boom5497/TzvnLjpK,1,0,,,2026-09-22T19:37:05Z,2026-09-23,True,Long Context
+1382249362,boom5497/wruqjOOG,2022收计算机毕设一套定稿(论文+程序源代码+数据库+说明)ssm316基于ssm的游戏销售系统的设计与实现+vue.zip,https://github.com/boom5497/wruqjOOG,1,0,,,2026-09-22T19:35:44Z,2026-09-23,True,Long Context
+1382272964,boom5497/ttKgmngR,2022收计算机毕设一套定稿(论文+程序源代码+数据库+说明)ssm601基于ssm框架的校园闲置物品交易平台+jsp.zip,https://github.com/boom5497/ttKgmngR,1,0,,,2026-09-22T19:51:21Z,2026-09-23,True,Long Context
+1382798689,gogoore/SzzkOBsp,2022收计算机毕设一套定稿(论文+程序源代码+数据库+演示视频+使用说明+答辩ppt)校园综合服务小程序+ssm.zip,https://github.com/gogoore/SzzkOBsp,1,0,,,2026-09-23T05:15:53Z,2026-09-23,True,Long Context
+1382835062,lights-rix/yObeqgSr,2022收计算机毕设一套定稿(论文+程序源代码+数据库+演示视频+使用说明 )微信小程序疫苗预约小程序ssm.zip,https://github.com/lights-rix/yObeqgSr,1,0,,,2026-09-23T05:48:16Z,2026-09-23,True,Long Context
+1382247288,boom5497/HVFIysAY,2022收计算机毕设一套定稿(论文+程序源代码+数据库+答辩ppt+说明)ssm 基于Java的众惠商城的设计与实现+vue.zip,https://github.com/boom5497/HVFIysAY,1,0,,,2026-09-22T19:34:21Z,2026-09-23,True,Long Context
+1381095209,BrijitMaity/Spider_SQL,"A browser-based SQL Server Management Studio (SSMS) clone built with React, Express & SQLite. Features multi-tab query editor, object explorer, results grid, table designer, AI assistant, and a built-in MSSQL → SQLite translation engine for practicing T-SQL in the browser.",https://github.com/BrijitMaity/Spider_SQL,0,0,TypeScript,,2026-09-22T08:08:00Z,2026-09-23,True,Long Context
+1382831760,lights-rix/LiGQPjHc,2022收计算机毕设一套定稿(论文+程序源代码+数据库+演示视频+使用说明 ）电子竞技信息交流平台小程序+ssm.zip,https://github.com/lights-rix/LiGQPjHc,1,0,,,2026-09-23T05:45:28Z,2026-09-23,True,Long Context
+1382800313,gogoore/hVpnlrQG,2022收计算机毕设一套定稿(论文+程序源代码+数据库+演示视频+使用说明+答辩ppt)教师管理微信小程序系统+ssm.zip,https://github.com/gogoore/hVpnlrQG,1,0,,,2026-09-23T05:17:21Z,2026-09-23,True,Long Context
+1382815163,lights-rix/PZuWyNAk,2022收计算机毕设一套定稿(论文+程序源代码+数据库+演示视频+使用说明+答辩ppt)基于微信小程序疫苗预约系统+ssm.zip,https://github.com/lights-rix/PZuWyNAk,1,0,,,2026-09-23T05:30:04Z,2026-09-23,True,Long Context
+1382810564,lights-rix/qRqRueDR,2022收计算机毕设一套定稿(论文+程序源代码+数据库+演示视频+使用说明+答辩PPT）基于微信小程序的网上商城+ssm.zip,https://github.com/lights-rix/qRqRueDR,1,0,,,2026-09-23T05:25:57Z,2026-09-23,True,Long Context
+1382359731,gogoore/avxOGGmZ,2022收计算机毕设一套定稿(论文+程序源代码+数据库+答辩ppt+说明)ssm基于WEB的人事档案管理系统的设计与实现+js.zip,https://github.com/gogoore/avxOGGmZ,1,0,,,2026-09-22T21:06:53Z,2026-09-23,True,Long Context
+1382825695,lights-rix/NSIGZvep,2022收计算机毕设一套定稿(论文+程序源代码+数据库+演示视频+使用说明）小程序 培训机构客户管理系统的设计+ssm.zip,https://github.com/lights-rix/NSIGZvep,1,0,,,2026-09-23T05:39:50Z,2026-09-23,True,Long Context
+1382808787,lights-rix/XdMLMMhp,2022收计算机毕设一套定稿(论文+程序源代码+数据库+演示视频+使用说明+答辩ppt)小程序健身房私教预约系统+ssm.zip,https://github.com/lights-rix/XdMLMMhp,1,0,,,2026-09-23T05:24:33Z,2026-09-23,True,Long Context
+1382822564,lights-rix/QlinrcrJ,2022收计算机毕设一套定稿(论文+程序源代码+数据库+演示视频+使用说明）小程序消防隐患在线举报系统开发+ssm.zip,https://github.com/lights-rix/QlinrcrJ,1,0,,,2026-09-23T05:37:00Z,2026-09-23,True,Long Context
+1382253702,boom5497/WlBpXdoW,2022收计算机毕设一套定稿(论文+程序源代码+数据库+说明)ssm317基于SSM的中学课内小说阅读与学习系统的设计+vue.zip,https://github.com/boom5497/WlBpXdoW,1,0,,,2026-09-22T19:38:30Z,2026-09-23,True,Long Context
+1382827180,lights-rix/LKYgDJJZ,2022收计算机毕设一套定稿(论文+程序源代码+数据库+演示视频+使用说明)基于微信小程序的校园二手交易平台ssm.zip,https://github.com/lights-rix/LKYgDJJZ,1,0,,,2026-09-23T05:41:14Z,2026-09-23,True,Long Context
+1382819675,lights-rix/mmwbwCgo,2022收计算机毕设一套定稿(论文+程序源代码+数据库+演示视频+使用说明)微信小程序高校学生事务管理系统ssm.zip,https://github.com/lights-rix/mmwbwCgo,1,0,,,2026-09-23T05:34:12Z,2026-09-23,True,Long Context
+1381743035,boom5497/uaqYhkJz,2025年网络工程毕设一套(论文++外文翻译开题调研报告源程序代码清单文档)基于ssm的医院管理系统设计与实现定稿.zip,https://github.com/boom5497/uaqYhkJz,1,0,,,2026-09-22T14:46:06Z,2026-09-23,True,Long Context
+1382396847,mariam-elelidy/Contractive-Asynchronous-Channel-Equilibrium,"Designed a falsifiable test of a novel sequence-modeling mechanism (CACE) for asynchronous multi-channel clinical data; confirmed exact order-invariance and 5–10x greater robustness to timing noise over Neural CDE/SSM/GRU-D baselines on real ICU data, while transparently reporting a falsified scaling hypothesis and its diagnosed cause.",https://github.com/mariam-elelidy/Contractive-Asynchronous-Channel-Equilibrium,0,0,Python,,2026-09-22T21:52:16Z,2026-09-23,True,Long Context
+1382812084,lights-rix/gXtoxXyG,2022收计算机毕设一套定稿(论文+程序源代码+数据库+演示视频+使用说明+答辩ppt)基于微信小程序的童装商城的设计与实现+ssm.zip,https://github.com/lights-rix/gXtoxXyG,1,0,,,2026-09-23T05:27:19Z,2026-09-23,True,Long Context
+1382813588,lights-rix/FIqEJHcA,2022收计算机毕设一套定稿(论文+程序源代码+数据库+演示视频+使用说明+答辩PPT）基于微信小程序的学生公寓电费信息管理系统+ssm.zip,https://github.com/lights-rix/FIqEJHcA,1,0,,,2026-09-23T05:28:41Z,2026-09-23,True,Long Context
+1382816603,lights-rix/FVqJShbN,2022收计算机毕设一套定稿(论文+程序源代码+数据库+演示视频+使用说明+答辩ppt)健身管理系统及会员微信小程序的设计与实现+ssm.zip,https://github.com/lights-rix/FVqJShbN,1,0,,,2026-09-23T05:31:26Z,2026-09-23,True,Long Context
+1382805273,gogoore/bRcWbdic,2022收计算机毕设一套定稿(论文+程序源代码+数据库+演示视频+使用说明+答辩ppt)微信小程序基于微信小程序的跳蚤市场设计与实现ssm.zip,https://github.com/gogoore/bRcWbdic,1,0,,,2026-09-23T05:21:36Z,2026-09-23,True,Long Context
+1381822694,pankaj-kulkarni-telecomai/6g-semantic-baseband,"Local CPU-bound prototyping framework for 6G Intelligent RAN using discrete linear state-space models, sparse matrix operations, and vector-quantized semantic tracking to optimize real-time L1 baseband power and channel estimation.",https://github.com/pankaj-kulkarni-telecomai/6g-semantic-baseband,0,0,,,2026-09-22T15:28:35Z,2026-09-23,True,Long Context
