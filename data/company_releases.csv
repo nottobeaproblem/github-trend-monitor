@@ -721,3 +721,4 @@ rss_https://deepmind.google/blog/introducing-gemini-38-live-with-live-avatar/,Go
 rss_https://huggingface.co/blog/LiquidAI/lfm2-5-vl-dspark,Hugging Face,Accelerating vision-language models with LFM2.5-VL-DSpark,2026-09-24,其他,否,,,https://huggingface.co/blog/LiquidAI/lfm2-5-vl-dspark,,2026-09-25 06:52:48
 rss_https://simonwillison.net/2026/Sep/24/datasette/,Simon Willison,datasette 1.0a41,2026-09-24,其他,否,"<p><strong>Release:</strong> <a href=""https://github.com/simonw/datasette/releases/tag/1.0a41"">datasette 1.0a41</a></p>
         <p>Alec Garcia added <a href=""https://docs.datasette.io/en/latest/intern",,https://simonwillison.net/2026/Sep/24/datasette/,,2026-09-25 06:52:49
+rss_https://openai.com/index/v7,OpenAI,V7 cuts costs 78% while boosting accuracy with GPT-5.6 Luna,2026-09-21,其他,否,"Using GPT-5.6, V7 turns scattered company files into context agents can use to complete complex, source-linked work.",,https://openai.com/index/v7,,2026-09-26 06:52:31

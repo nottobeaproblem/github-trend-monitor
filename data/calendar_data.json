@@ -6498,5 +6498,18 @@
     "url": "https://simonwillison.net/2026/Sep/24/datasette/",
     "tags": "",
     "created_at": "2026-09-25 06:52:49"
+  },
+  {
+    "id": "rss_https://openai.com/index/v7",
+    "company": "OpenAI",
+    "title": "V7 cuts costs 78% while boosting accuracy with GPT-5.6 Luna",
+    "publish_date": "2026-09-21",
+    "type": "其他",
+    "open_source": "否",
+    "summary": "Using GPT-5.6, V7 turns scattered company files into context agents can use to complete complex, source-linked work.",
+    "details": "",
+    "url": "https://openai.com/index/v7",
+    "tags": "",
+    "created_at": "2026-09-26 06:52:31"
   }
 ]
