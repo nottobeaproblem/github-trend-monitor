@@ -6511,5 +6511,18 @@
     "url": "https://openai.com/index/v7",
     "tags": "",
     "created_at": "2026-09-26 06:52:31"
+  },
+  {
+    "id": "rss_https://simonwillison.net/2026/Sep/28/muse-ai-agent/",
+    "company": "Simon Willison",
+    "title": "Quoting Muse AI Agent",
+    "publish_date": "2026-09-28",
+    "type": "其他",
+    "open_source": "否",
+    "summary": "<blockquote cite=\"https://www.threads.com/share/_oWfPufYJ/\"><p>Bad news on the MX Keys Mini pickup. Usman showed up at your building around 9:15 and waited, messaged a bunch of times, and nobody came ",
+    "details": "",
+    "url": "https://simonwillison.net/2026/Sep/28/muse-ai-agent/",
+    "tags": "",
+    "created_at": "2026-09-28 07:58:04"
   }
 ]
