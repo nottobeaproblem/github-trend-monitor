@@ -36907,88 +36907,88 @@ id,name,description,url,stars,forks,language,topics,created_at,first_seen,is_act
 1389304744,donggil113/Sampling-Consistent-Selective-State-Space-Models,,https://github.com/donggil113/Sampling-Consistent-Selective-State-Space-Models,0,0,Python,,2026-09-26T14:06:19Z,2026-09-27,False,Long Context
 1389331885,donggil113/Sampling-Consistent-State-Space-Models-with-Fixed-Time-Nonlinearities,,https://github.com/donggil113/Sampling-Consistent-State-Space-Models-with-Fixed-Time-Nonlinearities,0,0,Python,,2026-09-26T14:28:57Z,2026-09-27,False,Long Context
 1389745316,epi13/mncs-models,"Canonical MNCS model construction layer for defining, composing, and instantiating machine-native ML/AI architectures, from compact classifiers and recurrent systems to transformers, state-space models, mixtures of experts, multimodal models, and dynamically composed model stacks.",https://github.com/epi13/mncs-models,0,0,,,2026-09-26T20:03:26Z,2026-09-27,False,Long Context
-1392088796,H-y-hoon/Long-context,,https://github.com/H-y-hoon/Long-context,0,0,Python,,2026-09-28T07:10:25Z,2026-09-28,True,Long Context
-1390462112,bharathreddyboddu/Digital-Signal-Processing-Projects,"Real-time audio signal processing using FFT-based Overlap-Add (OLA) and Overlap-Save (OLS) methods for efficient long-sequence convolution, with computational performance analysis in MATLAB.",https://github.com/bharathreddyboddu/Digital-Signal-Processing-Projects,0,0,MATLAB,,2026-09-27T08:24:42Z,2026-09-28,True,Long Context
-1390587844,OfficialSpyder/MambaCipher,Cipher Tech,https://github.com/OfficialSpyder/MambaCipher,0,0,Python,,2026-09-27T09:50:55Z,2026-09-28,True,Long Context
-1391811702,fzhao70/Mamba3_Torch,A simple implementation for Mamba v3 using the torch port from the Triton and TileLang,https://github.com/fzhao70/Mamba3_Torch,0,0,Python,,2026-09-28T04:42:17Z,2026-09-28,True,Long Context
-1391502186,EndlessChasing/mamba2-8b-e8w5,Reproducible E8/W5 compression for NVIDIA Mamba-2 8B; measured model size and quality,https://github.com/EndlessChasing/mamba2-8b-e8w5,0,0,Python,,2026-09-27T23:38:47Z,2026-09-28,True,Long Context
-1391059842,Arjun13-git/CardioMamba,,https://github.com/Arjun13-git/CardioMamba,0,0,Python,,2026-09-27T15:42:13Z,2026-09-28,True,Long Context
-1392016366,0416zyl/CueMamba,,https://github.com/0416zyl/CueMamba,0,0,Python,,2026-09-28T06:32:15Z,2026-09-28,True,Long Context
-1390924976,ccode-wang/MemMamba,,https://github.com/ccode-wang/MemMamba,0,0,,,2026-09-27T13:59:31Z,2026-09-28,True,Long Context
-1391849156,lixincheng-xcl/RetiVes-Mamba,RetiVes-Mamba: Structure-aware state-space modeling for retinal vessel segmentation and cross-task medical segmentation evaluation.,https://github.com/lixincheng-xcl/RetiVes-Mamba,0,0,,,2026-09-28T05:09:37Z,2026-09-28,True,Long Context
-1390694333,Indroneel-roy/EdgeMambaFormer,Controlled multi-seed ablation of boundary-attention modules for polyp segmentation.,https://github.com/Indroneel-roy/EdgeMambaFormer,0,0,Python,"ablation-study,colonoscopy,deep-learning,mamba,mamba-state-space-models,medical-image-segmentation,polyp-segmentation,pytorch,wavelet-transform",2026-09-27T11:25:01Z,2026-09-28,True,Long Context
-1391160286,MB-Team-THI/Evidential-Mamba-for-Localization,Uncertainty-Aware Velocity Correction for Proprioceptive Vehicle Localization using Evidential Mamba,https://github.com/MB-Team-THI/Evidential-Mamba-for-Localization,0,0,Python,,2026-09-27T16:50:31Z,2026-09-28,True,Long Context
-1390625858,xKathy99/mambaout-cardiac-rvip-detection,,https://github.com/xKathy99/mambaout-cardiac-rvip-detection,0,0,Python,,2026-09-27T10:22:28Z,2026-09-28,True,Long Context
-1390731053,krishankb-de/legal_ai_hybrid_mamba_xlstm_model,This is a Legal AI model trained on DACH legal cases built on the Mamba and XLSTM architecture.,https://github.com/krishankb-de/legal_ai_hybrid_mamba_xlstm_model,0,0,Python,,2026-09-27T11:50:27Z,2026-09-28,True,Long Context
-1390662376,bo-jerry/DHMMDFI,Official implementation of DHMMDFI: A dual-view heterogeneous graph learning framework with meta-path Mamba for drug-food interaction prediction.,https://github.com/bo-jerry/DHMMDFI,0,0,Python,,2026-09-27T11:00:03Z,2026-09-28,True,Long Context
-1390488495,MIThriade/sami-surgical-pruner,"Zero-dequantization surgical layer pruner and block dropper for hybrid SSM-Transformer LLMs (Qwen3.5, Mamba, GQA). Sub-4GB VRAM target.",https://github.com/MIThriade/sami-surgical-pruner,1,0,Python,,2026-09-27T08:41:55Z,2026-09-28,True,Long Context
-1390395092,naveenk2608/RAFT-Net,Boundary-aware forensic fusion on a Vision Mamba backbone for image forgery localization. Code and Kaggle notebooks for the RAFT-Net paper.,https://github.com/naveenk2608/RAFT-Net,0,0,Jupyter Notebook,,2026-09-27T07:39:18Z,2026-09-28,True,Long Context
-1391170956,indraart/ssm2,,https://github.com/indraart/ssm2,0,0,HTML,,2026-09-27T16:58:24Z,2026-09-28,True,Long Context
-1391162052,indraart/ssm,,https://github.com/indraart/ssm,0,0,HTML,,2026-09-27T16:51:43Z,2026-09-28,True,Long Context
-1390869877,codagoc101ash/SsmA-330,bulk publishing repository,https://github.com/codagoc101ash/SsmA-330,0,0,,,2026-09-27T13:21:57Z,2026-09-28,True,Long Context
-1391048070,larsonalyssa53/ssmb,content,https://github.com/larsonalyssa53/ssmb,0,0,,,2026-09-27T15:35:25Z,2026-09-28,True,Long Context
-1390659177,atkinsonkenneth796/ssma,content,https://github.com/atkinsonkenneth796/ssma,0,0,,,2026-09-27T10:56:55Z,2026-09-28,True,Long Context
-1391967888,simmonsangela05/ssmj,content,https://github.com/simmonsangela05/ssmj,0,0,,,2026-09-28T06:05:26Z,2026-09-28,True,Long Context
-1390553200,jeyesr/ssmo,content,https://github.com/jeyesr/ssmo,0,0,,,2026-09-27T09:27:07Z,2026-09-28,True,Long Context
-1391086920,wrightthomas50/ssmg,content,https://github.com/wrightthomas50/ssmg,0,0,,,2026-09-27T15:59:52Z,2026-09-28,True,Long Context
-1391455636,ryanalicia80/ssmooq,,https://github.com/ryanalicia80/ssmooq,0,0,,,2026-09-27T22:22:24Z,2026-09-28,True,Long Context
-1390665282,holmesjames7/ssms,content,https://github.com/holmesjames7/ssms,0,0,,,2026-09-27T11:02:45Z,2026-09-28,True,Long Context
-1391665856,anaendenniett/ssmic,content,https://github.com/anaendenniett/ssmic,0,0,,,2026-09-28T03:05:59Z,2026-09-28,True,Long Context
-1390507253,drug0trail/ssmz,content,https://github.com/drug0trail/ssmz,0,0,,,2026-09-27T08:52:36Z,2026-09-28,True,Long Context
-1390825221,iyuwan-ishak-ik9/ssmxo,content,https://github.com/iyuwan-ishak-ik9/ssmxo,0,0,,,2026-09-27T12:51:58Z,2026-09-28,True,Long Context
-1390402998,cttarby/ssmuo,content,https://github.com/cttarby/ssmuo,0,0,,,2026-09-27T07:44:43Z,2026-09-28,True,Long Context
-1391045923,padillarhonda593/ssms,content,https://github.com/padillarhonda593/ssms,0,0,,,2026-09-27T15:34:03Z,2026-09-28,True,Long Context
-1392068744,hyiavedgnrklnc/ssmw,content,https://github.com/hyiavedgnrklnc/ssmw,0,0,,,2026-09-28T06:59:42Z,2026-09-28,True,Long Context
-1390949091,fladebic/ssmc,content,https://github.com/fladebic/ssmc,0,0,,,2026-09-27T14:19:45Z,2026-09-28,True,Long Context
-1392131266,kfhhzhhamqilpl/ssmc,content,https://github.com/kfhhzhhamqilpl/ssmc,0,0,,,2026-09-28T07:34:12Z,2026-09-28,True,Long Context
-1390520789,martincatherine3268/ssmlw,content,https://github.com/martincatherine3268/ssmlw,0,0,,,2026-09-27T09:01:36Z,2026-09-28,True,Long Context
-1391018082,westcarolyn29/ssmlyq,,https://github.com/westcarolyn29/ssmlyq,0,0,,,2026-09-27T15:17:04Z,2026-09-28,True,Long Context
-1390985506,dtc245160010-bit/ssms,,https://github.com/dtc245160010-bit/ssms,0,0,TSQL,,2026-09-27T14:51:12Z,2026-09-28,True,Long Context
-1391942007,mcknightlauren085/ssmqvub,,https://github.com/mcknightlauren085/ssmqvub,0,0,,,2026-09-28T05:52:58Z,2026-09-28,True,Long Context
-1391045980,sandersmatthew5192/ssmjfi,,https://github.com/sandersmatthew5192/ssmjfi,0,0,,,2026-09-27T15:34:05Z,2026-09-28,True,Long Context
-1390891645,yygityd/ssmu,content,https://github.com/yygityd/ssmu,0,0,,,2026-09-27T13:36:19Z,2026-09-28,True,Long Context
-1391778494,eimason8/ssmeb,content,https://github.com/eimason8/ssmeb,0,0,,,2026-09-28T04:18:39Z,2026-09-28,True,Long Context
-1391642968,renegameco/ssmpg,content,https://github.com/renegameco/ssmpg,0,0,,,2026-09-28T02:49:15Z,2026-09-28,True,Long Context
-1391214595,deankelly20/ssmfd,content,https://github.com/deankelly20/ssmfd,0,0,,,2026-09-27T17:33:15Z,2026-09-28,True,Long Context
-1391093191,lawsonethan21/ssmqc,content,https://github.com/lawsonethan21/ssmqc,0,0,,,2026-09-27T16:04:11Z,2026-09-28,True,Long Context
-1392095824,johnsonjesse253/ssmto,content,https://github.com/johnsonjesse253/ssmto,0,0,,,2026-09-28T07:14:31Z,2026-09-28,True,Long Context
-1391110448,ordibskrutseldro/ssmxd,content,https://github.com/ordibskrutseldro/ssmxd,0,0,,,2026-09-27T16:15:21Z,2026-09-28,True,Long Context
-1391184225,jesus-heav/ssmg,content,https://github.com/jesus-heav/ssmg,0,0,,,2026-09-27T17:08:25Z,2026-09-28,True,Long Context
-1391688875,hsoow/ssmf,content,https://github.com/hsoow/ssmf,0,0,,,2026-09-28T03:19:01Z,2026-09-28,True,Long Context
-1391855938,ryanjason205/ssmr,content,https://github.com/ryanjason205/ssmr,0,0,,,2026-09-28T05:13:58Z,2026-09-28,True,Long Context
-1390992028,byepi/ssmomw,,https://github.com/byepi/ssmomw,0,0,,,2026-09-27T14:57:14Z,2026-09-28,True,Long Context
-1391980305,ShiYeZS/BC-SSM,,https://github.com/ShiYeZS/BC-SSM,0,0,Python,,2026-09-28T06:11:53Z,2026-09-28,True,Long Context
-1391105543,gadisliakisaran-del/fajar-ssm-,Website Suntik Sosmed,https://github.com/gadisliakisaran-del/fajar-ssm-,0,0,HTML,,2026-09-27T16:12:13Z,2026-09-28,True,Long Context
-1390500067,thepiericic/SSMF-426,bulk publishing repository,https://github.com/thepiericic/SSMF-426,0,0,,,2026-09-27T08:48:27Z,2026-09-28,True,Long Context
-1391571421,simar-s2/ssm-access,,https://github.com/simar-s2/ssm-access,0,0,HCL,,2026-09-28T01:29:01Z,2026-09-28,True,Long Context
-1391098374,gadisliakisaran-del/fajar-ssm,Website Suntik Sosmed,https://github.com/gadisliakisaran-del/fajar-ssm,0,0,,,2026-09-27T16:07:28Z,2026-09-28,True,Long Context
-1391770951,pabraj-s-sing/SsMF-477,bulk publishing repository,https://github.com/pabraj-s-sing/SsMF-477,0,0,,,2026-09-28T04:13:10Z,2026-09-28,True,Long Context
-1390897056,yeizleshewok/eSSm-376,bulk publishing repository,https://github.com/yeizleshewok/eSSm-376,0,0,,,2026-09-27T13:39:53Z,2026-09-28,True,Long Context
-1391652201,lzhkaya98/Global_SSM_Variation,,https://github.com/lzhkaya98/Global_SSM_Variation,0,0,Jupyter Notebook,,2026-09-28T02:55:55Z,2026-09-28,True,Long Context
-1391905216,simmerccoden/ySsm-217,bulk publishing repository,https://github.com/simmerccoden/ySsm-217,0,0,,,2026-09-28T05:36:56Z,2026-09-28,True,Long Context
-1391131325,emrahaslanov22-del/SSM_New_Version,"feat(friends,feed): remove-friend action, re-accept fix, post search, online contacts",https://github.com/emrahaslanov22-del/SSM_New_Version,0,0,C#,,2026-09-27T16:29:21Z,2026-09-28,True,Long Context
-1392054413,JiwaFinancials/Jiwa-Database-SSMS-Snippets,"A set of Jiwa related SQL scripts that can be used via the SQL Server Management Studio (SMSS) ""Insert Snippet"" mechanism.",https://github.com/JiwaFinancials/Jiwa-Database-SSMS-Snippets,0,0,Vim Snippet,,2026-09-28T06:52:21Z,2026-09-28,True,Long Context
-1390966707,kinhalepuja31-cmd/Customer-Order-Count-in-SSMS,,https://github.com/kinhalepuja31-cmd/Customer-Order-Count-in-SSMS,0,0,,,2026-09-27T14:34:28Z,2026-09-28,True,Long Context
-1390479064,RaGuL-IND/SSMS-MAIN-Smart-Student-Monitoring-System-,,https://github.com/RaGuL-IND/SSMS-MAIN-Smart-Student-Monitoring-System-,0,0,Python,,2026-09-27T08:35:44Z,2026-09-28,True,Long Context
-1391111068,GillesCooper2287/team-muk0ssmp-a5932d-001,Created with Repo Pilot • job a5932dfb-0b04-4673-bdbe-506be9bd43ca-0,https://github.com/GillesCooper2287/team-muk0ssmp-a5932d-001,0,0,,,2026-09-27T16:15:47Z,2026-09-28,True,Long Context
-1390811043,jrbeverly/aws-cloudformation-reusable-ec2-bootstraps,Reusable CloudFormation stack for an SSM-only EC2 instance that can be snoozed through SSM Automation and deletes itself at expiry via EventBridge Scheduler.,https://github.com/jrbeverly/aws-cloudformation-reusable-ec2-bootstraps,0,0,Makefile,"aws,cloudformation,ec2,ssm",2026-09-27T12:43:35Z,2026-09-28,True,Long Context
-1391264686,michaljakubowski2001/aws-devops-portfolio,Terraform and SSM deployment of a reusable Ansible DevOps stack on AWS,https://github.com/michaljakubowski2001/aws-devops-portfolio,0,0,HCL,"ansible,aws,aws-ssm,devops,github-actions,infrastructure-as-code,oidc,terraform",2026-09-27T18:18:07Z,2026-09-28,True,Long Context
-1391530573,jlchmura/mssqltop,"Terminal activity monitor for Microsoft SQL Server, modeled after the SSMS Activity Monitor",https://github.com/jlchmura/mssqltop,0,0,TypeScript,,2026-09-28T00:28:01Z,2026-09-28,True,Long Context
-1390905790,shikharvermasv/cloud-infrastructure-provisioner,"AWS cloud infrastructure provisioning using Terraform, including VPC, EC2, IAM, private subnet, VPC endpoints, and SSM",https://github.com/shikharvermasv/cloud-infrastructure-provisioner,0,0,HCL,,2026-09-27T13:45:18Z,2026-09-28,True,Long Context
-1390806643,deeheber/private-vllm-aws,"CloudFormation for a private, self-hosted vLLM endpoint on AWS - GPU EC2 Spot, reached via SSM tunnel, for Claude Code",https://github.com/deeheber/private-vllm-aws,1,0,Shell,"aws,claude-code,cloudformation,ec2,gpu,llm,llm-inference,self-hosted,spot-instances,ssm,vllm",2026-09-27T12:40:45Z,2026-09-28,True,Long Context
-1391461903,Nikhilthakare2389/self-healing-ec2-nginx,"Self-healing AWS infrastructure that auto-detects and recovers from Nginx failures using CloudWatch, SNS, Lambda, and SSM — no manual intervention needed.",https://github.com/Nikhilthakare2389/self-healing-ec2-nginx,0,0,Shell,,2026-09-27T22:33:03Z,2026-09-28,True,Long Context
-1391971123,amahjoshdevsec/aws-automated-ec2-forensics,"Approval-gated EC2 forensics on AWS: Step Functions,Lambda, SSM, KMS and Terraform. Snapshot, analyse (Seuth Kit, ClamAV, YARA), chain of custody, isolation.",https://github.com/amahjoshdevsec/aws-automated-ec2-forensics,0,0,HCL,,2026-09-28T06:07:06Z,2026-09-28,True,Long Context
-1391473497,poojadhaker765/Todo-App-AWS-Cloud-Deployment,"AWS cloud deployment of a full-stack Todo application with VPC, EC2, Load Balancer, Auto Scaling, S3, MongoDB, Lambda, SSM, EventBridge and SNS.",https://github.com/poojadhaker765/Todo-App-AWS-Cloud-Deployment,0,0,,,2026-09-27T22:51:47Z,2026-09-28,True,Long Context
-1391600051,subhamay-bhattacharyya/aws-chatopsbot,"🏗️ ChatOps automation for AWS operations via Slack. Real-time alerts,  Lambda/SSM automation, and secure access control integrated with  CloudWatch and EventBridge for faster incident response.",https://github.com/subhamay-bhattacharyya/aws-chatopsbot,0,0,JavaScript,zero-to-cloud,2026-09-28T02:09:24Z,2026-09-28,True,Long Context
-1391612291,subhamay-bhattacharyya/aws-cost-waste-detection-automation,"🏗️ AWS cost optimization automation framework that detects and eliminates  wasteful resources across EC2, EBS, S3, and RDS using SSM Automation  Documents with governance workflows and approval gates.",https://github.com/subhamay-bhattacharyya/aws-cost-waste-detection-automation,0,0,JavaScript,zero-to-cloud,2026-09-28T02:21:26Z,2026-09-28,True,Long Context
-1390371173,fireditoo/XpHUMeYt,2022软工计算机毕设一套基于SSM框架技术的网上工艺品销售系统的设计与实现（论文+程序源代码） 三稿.zip,https://github.com/fireditoo/XpHUMeYt,1,0,,,2026-09-27T07:24:05Z,2026-09-28,True,Long Context
-1390366442,fireditoo/AXZxfYbi,2022软工计算机毕设一套基于SSM框架的个人服装定制系统的设计与实现 (论文+程序源代码+数据库) 三稿.zip,https://github.com/fireditoo/AXZxfYbi,1,0,,,2026-09-27T07:21:14Z,2026-09-28,True,Long Context
-1390373301,fireditoo/lXCNMwfn,2022软工计算机毕设一套基于SSM框架技术的民航售票管理系统的设计与实现  (论文+程序源代码+数据库) 三稿.zip,https://github.com/fireditoo/lXCNMwfn,1,0,,,2026-09-27T07:25:29Z,2026-09-28,True,Long Context
-1390368732,fireditoo/jFjjLUab,2022软工计算机毕设一套基于SSM框架技术的课堂考勤管理系统的设计与实现  (论文+程序源代码+数据库) 三稿.zip,https://github.com/fireditoo/jFjjLUab,1,0,,,2026-09-27T07:22:39Z,2026-09-28,True,Long Context
-1390377827,fireditoo/UpYwoOAo,2022软工计算机毕设一套基于SSM+小程序的智慧旅游系统设计与实现 终稿.zip (论文+程序源代码+数据库) 三稿.zip,https://github.com/fireditoo/UpYwoOAo,1,0,,,2026-09-27T07:28:20Z,2026-09-28,True,Long Context
-1391278413,fireditoo/EboEjkUc,2022计算机网络工程毕设一套 基于SSM框架的家教信息网站的设计与实现。答辩稿（论文+程序源代码+数据库+答辩PPT）.zip,https://github.com/fireditoo/EboEjkUc,1,0,,,2026-09-27T18:32:10Z,2026-09-28,True,Long Context
-1390375589,fireditoo/oIvNGaFJ,2022软工计算机毕设一套基于SSM+小程序的智慧社区管理系统设计与实现(论文+程序源代码+数据库+安装运行说明) 三稿.zip,https://github.com/fireditoo/oIvNGaFJ,1,0,,,2026-09-27T07:26:56Z,2026-09-28,True,Long Context
-1391232265,namanjain24-sudo/state-space-models,,https://github.com/namanjain24-sudo/state-space-models,0,0,,,2026-09-27T17:48:17Z,2026-09-28,True,Long Context
-1390597573,ibitec7/mark-page,Project website for MaRK: Markov-adapted Recurrent Kernels for Dynamic Operator Conditioning in State Space Models,https://github.com/ibitec7/mark-page,0,0,JavaScript,"diffusion-models,machine-learning,project-page,research,state-space-models",2026-09-27T09:56:44Z,2026-09-28,True,Long Context
-1391271184,Salah-Mohamed-Ilyes/HybridSR,Official implementation of HybridSR: A Hybrid Window Self-Attention and State Space Model Architecture for Single Image Super-Resolution.,https://github.com/Salah-Mohamed-Ilyes/HybridSR,0,0,Python,,2026-09-27T18:24:37Z,2026-09-28,True,Long Context
-1390819000,iriartet84/nowcasting-fed-yields,"A live fixed-income research platform that estimates, decomposes, and forecasts the U.S. Treasury yield curve using state-space models, high-frequency information, and financial-market data.",https://github.com/iriartet84/nowcasting-fed-yields,0,0,,,2026-09-27T12:48:10Z,2026-09-28,True,Long Context
+1392088796,H-y-hoon/Long-context,,https://github.com/H-y-hoon/Long-context,0,0,Python,,2026-09-28T07:10:25Z,2026-09-28,False,Long Context
+1390462112,bharathreddyboddu/Digital-Signal-Processing-Projects,"Real-time audio signal processing using FFT-based Overlap-Add (OLA) and Overlap-Save (OLS) methods for efficient long-sequence convolution, with computational performance analysis in MATLAB.",https://github.com/bharathreddyboddu/Digital-Signal-Processing-Projects,0,0,MATLAB,,2026-09-27T08:24:42Z,2026-09-28,False,Long Context
+1390587844,OfficialSpyder/MambaCipher,Cipher Tech,https://github.com/OfficialSpyder/MambaCipher,0,0,Python,,2026-09-27T09:50:55Z,2026-09-28,False,Long Context
+1391811702,fzhao70/Mamba3_Torch,A simple implementation for Mamba v3 using the torch port from the Triton and TileLang,https://github.com/fzhao70/Mamba3_Torch,0,0,Python,,2026-09-28T04:42:17Z,2026-09-28,False,Long Context
+1391502186,EndlessChasing/mamba2-8b-e8w5,Reproducible E8/W5 compression for NVIDIA Mamba-2 8B; measured model size and quality,https://github.com/EndlessChasing/mamba2-8b-e8w5,0,0,Python,,2026-09-27T23:38:47Z,2026-09-28,False,Long Context
+1391059842,Arjun13-git/CardioMamba,,https://github.com/Arjun13-git/CardioMamba,0,0,Python,,2026-09-27T15:42:13Z,2026-09-28,False,Long Context
+1392016366,0416zyl/CueMamba,,https://github.com/0416zyl/CueMamba,0,0,Python,,2026-09-28T06:32:15Z,2026-09-28,False,Long Context
+1390924976,ccode-wang/MemMamba,,https://github.com/ccode-wang/MemMamba,0,0,,,2026-09-27T13:59:31Z,2026-09-28,False,Long Context
+1391849156,lixincheng-xcl/RetiVes-Mamba,RetiVes-Mamba: Structure-aware state-space modeling for retinal vessel segmentation and cross-task medical segmentation evaluation.,https://github.com/lixincheng-xcl/RetiVes-Mamba,0,0,,,2026-09-28T05:09:37Z,2026-09-28,False,Long Context
+1390694333,Indroneel-roy/EdgeMambaFormer,Controlled multi-seed ablation of boundary-attention modules for polyp segmentation.,https://github.com/Indroneel-roy/EdgeMambaFormer,0,0,Python,"ablation-study,colonoscopy,deep-learning,mamba,mamba-state-space-models,medical-image-segmentation,polyp-segmentation,pytorch,wavelet-transform",2026-09-27T11:25:01Z,2026-09-28,False,Long Context
+1391160286,MB-Team-THI/Evidential-Mamba-for-Localization,Uncertainty-Aware Velocity Correction for Proprioceptive Vehicle Localization using Evidential Mamba,https://github.com/MB-Team-THI/Evidential-Mamba-for-Localization,0,0,Python,,2026-09-27T16:50:31Z,2026-09-28,False,Long Context
+1390625858,xKathy99/mambaout-cardiac-rvip-detection,,https://github.com/xKathy99/mambaout-cardiac-rvip-detection,0,0,Python,,2026-09-27T10:22:28Z,2026-09-28,False,Long Context
+1390731053,krishankb-de/legal_ai_hybrid_mamba_xlstm_model,This is a Legal AI model trained on DACH legal cases built on the Mamba and XLSTM architecture.,https://github.com/krishankb-de/legal_ai_hybrid_mamba_xlstm_model,0,0,Python,,2026-09-27T11:50:27Z,2026-09-28,False,Long Context
+1390662376,bo-jerry/DHMMDFI,Official implementation of DHMMDFI: A dual-view heterogeneous graph learning framework with meta-path Mamba for drug-food interaction prediction.,https://github.com/bo-jerry/DHMMDFI,0,0,Python,,2026-09-27T11:00:03Z,2026-09-28,False,Long Context
+1390488495,MIThriade/sami-surgical-pruner,"Zero-dequantization surgical layer pruner and block dropper for hybrid SSM-Transformer LLMs (Qwen3.5, Mamba, GQA). Sub-4GB VRAM target.",https://github.com/MIThriade/sami-surgical-pruner,1,0,Python,,2026-09-27T08:41:55Z,2026-09-28,False,Long Context
+1390395092,naveenk2608/RAFT-Net,Boundary-aware forensic fusion on a Vision Mamba backbone for image forgery localization. Code and Kaggle notebooks for the RAFT-Net paper.,https://github.com/naveenk2608/RAFT-Net,0,0,Jupyter Notebook,,2026-09-27T07:39:18Z,2026-09-28,False,Long Context
+1391170956,indraart/ssm2,,https://github.com/indraart/ssm2,0,0,HTML,,2026-09-27T16:58:24Z,2026-09-28,False,Long Context
+1391162052,indraart/ssm,,https://github.com/indraart/ssm,0,0,HTML,,2026-09-27T16:51:43Z,2026-09-28,False,Long Context
+1390869877,codagoc101ash/SsmA-330,bulk publishing repository,https://github.com/codagoc101ash/SsmA-330,0,0,,,2026-09-27T13:21:57Z,2026-09-28,False,Long Context
+1391048070,larsonalyssa53/ssmb,content,https://github.com/larsonalyssa53/ssmb,0,0,,,2026-09-27T15:35:25Z,2026-09-28,False,Long Context
+1390659177,atkinsonkenneth796/ssma,content,https://github.com/atkinsonkenneth796/ssma,0,0,,,2026-09-27T10:56:55Z,2026-09-28,False,Long Context
+1391967888,simmonsangela05/ssmj,content,https://github.com/simmonsangela05/ssmj,0,0,,,2026-09-28T06:05:26Z,2026-09-28,False,Long Context
+1390553200,jeyesr/ssmo,content,https://github.com/jeyesr/ssmo,0,0,,,2026-09-27T09:27:07Z,2026-09-28,False,Long Context
+1391086920,wrightthomas50/ssmg,content,https://github.com/wrightthomas50/ssmg,0,0,,,2026-09-27T15:59:52Z,2026-09-28,False,Long Context
+1391455636,ryanalicia80/ssmooq,,https://github.com/ryanalicia80/ssmooq,0,0,,,2026-09-27T22:22:24Z,2026-09-28,False,Long Context
+1390665282,holmesjames7/ssms,content,https://github.com/holmesjames7/ssms,0,0,,,2026-09-27T11:02:45Z,2026-09-28,False,Long Context
+1391665856,anaendenniett/ssmic,content,https://github.com/anaendenniett/ssmic,0,0,,,2026-09-28T03:05:59Z,2026-09-28,False,Long Context
+1390507253,drug0trail/ssmz,content,https://github.com/drug0trail/ssmz,0,0,,,2026-09-27T08:52:36Z,2026-09-28,False,Long Context
+1390825221,iyuwan-ishak-ik9/ssmxo,content,https://github.com/iyuwan-ishak-ik9/ssmxo,0,0,,,2026-09-27T12:51:58Z,2026-09-28,False,Long Context
+1390402998,cttarby/ssmuo,content,https://github.com/cttarby/ssmuo,0,0,,,2026-09-27T07:44:43Z,2026-09-28,False,Long Context
+1391045923,padillarhonda593/ssms,content,https://github.com/padillarhonda593/ssms,0,0,,,2026-09-27T15:34:03Z,2026-09-28,False,Long Context
+1392068744,hyiavedgnrklnc/ssmw,content,https://github.com/hyiavedgnrklnc/ssmw,0,0,,,2026-09-28T06:59:42Z,2026-09-28,False,Long Context
+1390949091,fladebic/ssmc,content,https://github.com/fladebic/ssmc,0,0,,,2026-09-27T14:19:45Z,2026-09-28,False,Long Context
+1392131266,kfhhzhhamqilpl/ssmc,content,https://github.com/kfhhzhhamqilpl/ssmc,0,0,,,2026-09-28T07:34:12Z,2026-09-28,False,Long Context
+1390520789,martincatherine3268/ssmlw,content,https://github.com/martincatherine3268/ssmlw,0,0,,,2026-09-27T09:01:36Z,2026-09-28,False,Long Context
+1391018082,westcarolyn29/ssmlyq,,https://github.com/westcarolyn29/ssmlyq,0,0,,,2026-09-27T15:17:04Z,2026-09-28,False,Long Context
+1390985506,dtc245160010-bit/ssms,,https://github.com/dtc245160010-bit/ssms,0,0,TSQL,,2026-09-27T14:51:12Z,2026-09-28,False,Long Context
+1391942007,mcknightlauren085/ssmqvub,,https://github.com/mcknightlauren085/ssmqvub,0,0,,,2026-09-28T05:52:58Z,2026-09-28,False,Long Context
+1391045980,sandersmatthew5192/ssmjfi,,https://github.com/sandersmatthew5192/ssmjfi,0,0,,,2026-09-27T15:34:05Z,2026-09-28,False,Long Context
+1390891645,yygityd/ssmu,content,https://github.com/yygityd/ssmu,0,0,,,2026-09-27T13:36:19Z,2026-09-28,False,Long Context
+1391778494,eimason8/ssmeb,content,https://github.com/eimason8/ssmeb,0,0,,,2026-09-28T04:18:39Z,2026-09-28,False,Long Context
+1391642968,renegameco/ssmpg,content,https://github.com/renegameco/ssmpg,0,0,,,2026-09-28T02:49:15Z,2026-09-28,False,Long Context
+1391214595,deankelly20/ssmfd,content,https://github.com/deankelly20/ssmfd,0,0,,,2026-09-27T17:33:15Z,2026-09-28,False,Long Context
+1391093191,lawsonethan21/ssmqc,content,https://github.com/lawsonethan21/ssmqc,0,0,,,2026-09-27T16:04:11Z,2026-09-28,False,Long Context
+1392095824,johnsonjesse253/ssmto,content,https://github.com/johnsonjesse253/ssmto,0,0,,,2026-09-28T07:14:31Z,2026-09-28,False,Long Context
+1391110448,ordibskrutseldro/ssmxd,content,https://github.com/ordibskrutseldro/ssmxd,0,0,,,2026-09-27T16:15:21Z,2026-09-28,False,Long Context
+1391184225,jesus-heav/ssmg,content,https://github.com/jesus-heav/ssmg,0,0,,,2026-09-27T17:08:25Z,2026-09-28,False,Long Context
+1391688875,hsoow/ssmf,content,https://github.com/hsoow/ssmf,0,0,,,2026-09-28T03:19:01Z,2026-09-28,False,Long Context
+1391855938,ryanjason205/ssmr,content,https://github.com/ryanjason205/ssmr,0,0,,,2026-09-28T05:13:58Z,2026-09-28,False,Long Context
+1390992028,byepi/ssmomw,,https://github.com/byepi/ssmomw,0,0,,,2026-09-27T14:57:14Z,2026-09-28,False,Long Context
+1391980305,ShiYeZS/BC-SSM,,https://github.com/ShiYeZS/BC-SSM,0,0,Python,,2026-09-28T06:11:53Z,2026-09-28,False,Long Context
+1391105543,gadisliakisaran-del/fajar-ssm-,Website Suntik Sosmed,https://github.com/gadisliakisaran-del/fajar-ssm-,0,0,HTML,,2026-09-27T16:12:13Z,2026-09-28,False,Long Context
+1390500067,thepiericic/SSMF-426,bulk publishing repository,https://github.com/thepiericic/SSMF-426,0,0,,,2026-09-27T08:48:27Z,2026-09-28,False,Long Context
+1391571421,simar-s2/ssm-access,,https://github.com/simar-s2/ssm-access,0,0,HCL,,2026-09-28T01:29:01Z,2026-09-28,False,Long Context
+1391098374,gadisliakisaran-del/fajar-ssm,Website Suntik Sosmed,https://github.com/gadisliakisaran-del/fajar-ssm,0,0,,,2026-09-27T16:07:28Z,2026-09-28,False,Long Context
+1391770951,pabraj-s-sing/SsMF-477,bulk publishing repository,https://github.com/pabraj-s-sing/SsMF-477,0,0,,,2026-09-28T04:13:10Z,2026-09-28,False,Long Context
+1390897056,yeizleshewok/eSSm-376,bulk publishing repository,https://github.com/yeizleshewok/eSSm-376,0,0,,,2026-09-27T13:39:53Z,2026-09-28,False,Long Context
+1391652201,lzhkaya98/Global_SSM_Variation,,https://github.com/lzhkaya98/Global_SSM_Variation,0,0,Jupyter Notebook,,2026-09-28T02:55:55Z,2026-09-28,False,Long Context
+1391905216,simmerccoden/ySsm-217,bulk publishing repository,https://github.com/simmerccoden/ySsm-217,0,0,,,2026-09-28T05:36:56Z,2026-09-28,False,Long Context
+1391131325,emrahaslanov22-del/SSM_New_Version,"feat(friends,feed): remove-friend action, re-accept fix, post search, online contacts",https://github.com/emrahaslanov22-del/SSM_New_Version,0,0,C#,,2026-09-27T16:29:21Z,2026-09-28,False,Long Context
+1392054413,JiwaFinancials/Jiwa-Database-SSMS-Snippets,"A set of Jiwa related SQL scripts that can be used via the SQL Server Management Studio (SMSS) ""Insert Snippet"" mechanism.",https://github.com/JiwaFinancials/Jiwa-Database-SSMS-Snippets,0,0,Vim Snippet,,2026-09-28T06:52:21Z,2026-09-28,False,Long Context
+1390966707,kinhalepuja31-cmd/Customer-Order-Count-in-SSMS,,https://github.com/kinhalepuja31-cmd/Customer-Order-Count-in-SSMS,0,0,,,2026-09-27T14:34:28Z,2026-09-28,False,Long Context
+1390479064,RaGuL-IND/SSMS-MAIN-Smart-Student-Monitoring-System-,,https://github.com/RaGuL-IND/SSMS-MAIN-Smart-Student-Monitoring-System-,0,0,Python,,2026-09-27T08:35:44Z,2026-09-28,False,Long Context
+1391111068,GillesCooper2287/team-muk0ssmp-a5932d-001,Created with Repo Pilot • job a5932dfb-0b04-4673-bdbe-506be9bd43ca-0,https://github.com/GillesCooper2287/team-muk0ssmp-a5932d-001,0,0,,,2026-09-27T16:15:47Z,2026-09-28,False,Long Context
+1390811043,jrbeverly/aws-cloudformation-reusable-ec2-bootstraps,Reusable CloudFormation stack for an SSM-only EC2 instance that can be snoozed through SSM Automation and deletes itself at expiry via EventBridge Scheduler.,https://github.com/jrbeverly/aws-cloudformation-reusable-ec2-bootstraps,0,0,Makefile,"aws,cloudformation,ec2,ssm",2026-09-27T12:43:35Z,2026-09-28,False,Long Context
+1391264686,michaljakubowski2001/aws-devops-portfolio,Terraform and SSM deployment of a reusable Ansible DevOps stack on AWS,https://github.com/michaljakubowski2001/aws-devops-portfolio,0,0,HCL,"ansible,aws,aws-ssm,devops,github-actions,infrastructure-as-code,oidc,terraform",2026-09-27T18:18:07Z,2026-09-28,False,Long Context
+1391530573,jlchmura/mssqltop,"Terminal activity monitor for Microsoft SQL Server, modeled after the SSMS Activity Monitor",https://github.com/jlchmura/mssqltop,0,0,TypeScript,,2026-09-28T00:28:01Z,2026-09-28,False,Long Context
+1390905790,shikharvermasv/cloud-infrastructure-provisioner,"AWS cloud infrastructure provisioning using Terraform, including VPC, EC2, IAM, private subnet, VPC endpoints, and SSM",https://github.com/shikharvermasv/cloud-infrastructure-provisioner,0,0,HCL,,2026-09-27T13:45:18Z,2026-09-28,False,Long Context
+1390806643,deeheber/private-vllm-aws,"CloudFormation for a private, self-hosted vLLM endpoint on AWS - GPU EC2 Spot, reached via SSM tunnel, for Claude Code",https://github.com/deeheber/private-vllm-aws,1,0,Shell,"aws,claude-code,cloudformation,ec2,gpu,llm,llm-inference,self-hosted,spot-instances,ssm,vllm",2026-09-27T12:40:45Z,2026-09-28,False,Long Context
+1391461903,Nikhilthakare2389/self-healing-ec2-nginx,"Self-healing AWS infrastructure that auto-detects and recovers from Nginx failures using CloudWatch, SNS, Lambda, and SSM — no manual intervention needed.",https://github.com/Nikhilthakare2389/self-healing-ec2-nginx,0,0,Shell,,2026-09-27T22:33:03Z,2026-09-28,False,Long Context
+1391971123,amahjoshdevsec/aws-automated-ec2-forensics,"Approval-gated EC2 forensics on AWS: Step Functions,Lambda, SSM, KMS and Terraform. Snapshot, analyse (Seuth Kit, ClamAV, YARA), chain of custody, isolation.",https://github.com/amahjoshdevsec/aws-automated-ec2-forensics,0,0,HCL,,2026-09-28T06:07:06Z,2026-09-28,False,Long Context
+1391473497,poojadhaker765/Todo-App-AWS-Cloud-Deployment,"AWS cloud deployment of a full-stack Todo application with VPC, EC2, Load Balancer, Auto Scaling, S3, MongoDB, Lambda, SSM, EventBridge and SNS.",https://github.com/poojadhaker765/Todo-App-AWS-Cloud-Deployment,0,0,,,2026-09-27T22:51:47Z,2026-09-28,False,Long Context
+1391600051,subhamay-bhattacharyya/aws-chatopsbot,"🏗️ ChatOps automation for AWS operations via Slack. Real-time alerts,  Lambda/SSM automation, and secure access control integrated with  CloudWatch and EventBridge for faster incident response.",https://github.com/subhamay-bhattacharyya/aws-chatopsbot,0,0,JavaScript,zero-to-cloud,2026-09-28T02:09:24Z,2026-09-28,False,Long Context
+1391612291,subhamay-bhattacharyya/aws-cost-waste-detection-automation,"🏗️ AWS cost optimization automation framework that detects and eliminates  wasteful resources across EC2, EBS, S3, and RDS using SSM Automation  Documents with governance workflows and approval gates.",https://github.com/subhamay-bhattacharyya/aws-cost-waste-detection-automation,0,0,JavaScript,zero-to-cloud,2026-09-28T02:21:26Z,2026-09-28,False,Long Context
+1390371173,fireditoo/XpHUMeYt,2022软工计算机毕设一套基于SSM框架技术的网上工艺品销售系统的设计与实现（论文+程序源代码） 三稿.zip,https://github.com/fireditoo/XpHUMeYt,1,0,,,2026-09-27T07:24:05Z,2026-09-28,False,Long Context
+1390366442,fireditoo/AXZxfYbi,2022软工计算机毕设一套基于SSM框架的个人服装定制系统的设计与实现 (论文+程序源代码+数据库) 三稿.zip,https://github.com/fireditoo/AXZxfYbi,1,0,,,2026-09-27T07:21:14Z,2026-09-28,False,Long Context
+1390373301,fireditoo/lXCNMwfn,2022软工计算机毕设一套基于SSM框架技术的民航售票管理系统的设计与实现  (论文+程序源代码+数据库) 三稿.zip,https://github.com/fireditoo/lXCNMwfn,1,0,,,2026-09-27T07:25:29Z,2026-09-28,False,Long Context
+1390368732,fireditoo/jFjjLUab,2022软工计算机毕设一套基于SSM框架技术的课堂考勤管理系统的设计与实现  (论文+程序源代码+数据库) 三稿.zip,https://github.com/fireditoo/jFjjLUab,1,0,,,2026-09-27T07:22:39Z,2026-09-28,False,Long Context
+1390377827,fireditoo/UpYwoOAo,2022软工计算机毕设一套基于SSM+小程序的智慧旅游系统设计与实现 终稿.zip (论文+程序源代码+数据库) 三稿.zip,https://github.com/fireditoo/UpYwoOAo,1,0,,,2026-09-27T07:28:20Z,2026-09-28,False,Long Context
+1391278413,fireditoo/EboEjkUc,2022计算机网络工程毕设一套 基于SSM框架的家教信息网站的设计与实现。答辩稿（论文+程序源代码+数据库+答辩PPT）.zip,https://github.com/fireditoo/EboEjkUc,1,0,,,2026-09-27T18:32:10Z,2026-09-28,False,Long Context
+1390375589,fireditoo/oIvNGaFJ,2022软工计算机毕设一套基于SSM+小程序的智慧社区管理系统设计与实现(论文+程序源代码+数据库+安装运行说明) 三稿.zip,https://github.com/fireditoo/oIvNGaFJ,1,0,,,2026-09-27T07:26:56Z,2026-09-28,False,Long Context
+1391232265,namanjain24-sudo/state-space-models,,https://github.com/namanjain24-sudo/state-space-models,0,0,,,2026-09-27T17:48:17Z,2026-09-28,False,Long Context
+1390597573,ibitec7/mark-page,Project website for MaRK: Markov-adapted Recurrent Kernels for Dynamic Operator Conditioning in State Space Models,https://github.com/ibitec7/mark-page,0,0,JavaScript,"diffusion-models,machine-learning,project-page,research,state-space-models",2026-09-27T09:56:44Z,2026-09-28,False,Long Context
+1391271184,Salah-Mohamed-Ilyes/HybridSR,Official implementation of HybridSR: A Hybrid Window Self-Attention and State Space Model Architecture for Single Image Super-Resolution.,https://github.com/Salah-Mohamed-Ilyes/HybridSR,0,0,Python,,2026-09-27T18:24:37Z,2026-09-28,False,Long Context
+1390819000,iriartet84/nowcasting-fed-yields,"A live fixed-income research platform that estimates, decomposes, and forecasts the U.S. Treasury yield curve using state-space models, high-frequency information, and financial-market data.",https://github.com/iriartet84/nowcasting-fed-yields,0,0,,,2026-09-27T12:48:10Z,2026-09-28,False,Long Context
