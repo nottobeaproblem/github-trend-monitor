@@ -6524,5 +6524,57 @@
     "url": "https://simonwillison.net/2026/Sep/28/muse-ai-agent/",
     "tags": "",
     "created_at": "2026-09-28 07:58:04"
+  },
+  {
+    "id": "rss_https://openai.com/index/basis-tax-workbook-with-astra",
+    "company": "OpenAI",
+    "title": "Basis completes a tax workbook 2x faster with GPT-6 Astra",
+    "publish_date": "2026-09-28",
+    "type": "其他",
+    "open_source": "否",
+    "summary": "GPT-6 Astra completed a 50-tab tax workbook twice as fast as GPT-5.6 Sol, and its stronger understanding of user intent gives Basis more confidence in real-world use.",
+    "details": "",
+    "url": "https://openai.com/index/basis-tax-workbook-with-astra",
+    "tags": "",
+    "created_at": "2026-09-29 07:42:25"
+  },
+  {
+    "id": "rss_https://huggingface.co/blog/Hcompany/holo4",
+    "company": "Hugging Face",
+    "title": "Holo4: powering generalist computer-use agents",
+    "publish_date": "2026-09-28",
+    "type": "其他",
+    "open_source": "否",
+    "summary": "",
+    "details": "",
+    "url": "https://huggingface.co/blog/Hcompany/holo4",
+    "tags": "",
+    "created_at": "2026-09-29 07:42:26"
+  },
+  {
+    "id": "rss_https://www.microsoft.com/en-us/research/?p=1186954",
+    "company": "Microsoft Research",
+    "title": "One year in: How Microsoft Research Asia – Singapore is advancing research, partnership and talent for real-world impact",
+    "publish_date": "2026-09-28",
+    "type": "其他",
+    "open_source": "否",
+    "summary": "<p>Since launching a year ago, the Microsoft Research Asia — Singapore lab has established a strong foundation, deepened collaboration across government, academia, and industry, and explored how front",
+    "details": "",
+    "url": "https://www.microsoft.com/en-us/research/blog/one-year-in-how-microsoft-research-asia-singapore-is-advancing-research-partnership-and-talent-for-real-world-impact/",
+    "tags": "",
+    "created_at": "2026-09-29 07:42:28"
+  },
+  {
+    "id": "rss_https://simonwillison.net/2026/Sep/28/claude-sonnet-5-5/",
+    "company": "Simon Willison",
+    "title": "Claude Sonnet 5.5",
+    "publish_date": "2026-09-28",
+    "type": "其他",
+    "open_source": "否",
+    "summary": "<p><strong><a href=\"https://www.anthropic.com/claude-sonnet-5-5\">Claude Sonnet 5.5</a></strong></p>\nNew Sonnet model from Anthropic today. They say it \"runs 30%+ faster, and costs up to 30% less for m",
+    "details": "",
+    "url": "https://simonwillison.net/2026/Sep/28/claude-sonnet-5-5/",
+    "tags": "",
+    "created_at": "2026-09-29 07:42:28"
   }
 ]
