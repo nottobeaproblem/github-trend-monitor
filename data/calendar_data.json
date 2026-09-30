@@ -6576,5 +6576,57 @@
     "url": "https://simonwillison.net/2026/Sep/28/claude-sonnet-5-5/",
     "tags": "",
     "created_at": "2026-09-29 07:42:28"
+  },
+  {
+    "id": "rss_https://openai.com/index/introducing-gpt-6-1-sol",
+    "company": "OpenAI",
+    "title": "Introducing GPT-6.1 Sol",
+    "publish_date": "2026-09-29",
+    "type": "其他",
+    "open_source": "否",
+    "summary": "Meet GPT-6.1 Sol: near-Astra intelligence for coding, computer use, and professional work at one-fifth of Astra’s standard API input and output token prices.",
+    "details": "",
+    "url": "https://openai.com/index/introducing-gpt-6-1-sol",
+    "tags": "",
+    "created_at": "2026-09-30 07:44:20"
+  },
+  {
+    "id": "rss_https://huggingface.co/blog/MultiverseComputingCAI/getting-the-source-right-not-just-the-fact-source",
+    "company": "Hugging Face",
+    "title": "Getting the Source Right, Not Just the Fact: Source-Aware Verification for MCP Agents",
+    "publish_date": "2026-09-29",
+    "type": "其他",
+    "open_source": "否",
+    "summary": "",
+    "details": "",
+    "url": "https://huggingface.co/blog/MultiverseComputingCAI/getting-the-source-right-not-just-the-fact-source",
+    "tags": "",
+    "created_at": "2026-09-30 07:44:21"
+  },
+  {
+    "id": "rss_https://www.microsoft.com/en-us/research/?p=1186958",
+    "company": "Microsoft Research",
+    "title": "Introducing Quine: An AI research system designed for the complexity of biology",
+    "publish_date": "2026-09-29",
+    "type": "其他",
+    "open_source": "否",
+    "summary": "<p>Biology doesn't operate in silos, and neither should the AI representation of it. Quine is an early-stage research effort to create a multimodal world model of biology. By connecting insights acros",
+    "details": "",
+    "url": "https://www.microsoft.com/en-us/research/blog/introducing-quine-an-ai-research-system-designed-for-the-complexity-of-biology/",
+    "tags": "",
+    "created_at": "2026-09-30 07:44:22"
+  },
+  {
+    "id": "rss_https://simonwillison.net/2026/Sep/29/hn-49898129/",
+    "company": "Simon Willison",
+    "title": "GPT 6.1 Sol: Near-Astra intelligence for a fifth of the price",
+    "publish_date": "2026-09-29",
+    "type": "其他",
+    "open_source": "否",
+    "summary": "<p><a href=\"https://news.ycombinator.com/item?id=49896586#49898129\">My comment</a> on <a href=\"https://news.ycombinator.com/item?id=49896586\">GPT 6.1 Sol: Near-Astra intelligence for a fifth of the pr",
+    "details": "",
+    "url": "https://simonwillison.net/2026/Sep/29/hn-49898129/",
+    "tags": "",
+    "created_at": "2026-09-30 07:44:23"
   }
 ]
