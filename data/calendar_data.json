@@ -6628,5 +6628,31 @@
     "url": "https://simonwillison.net/2026/Sep/29/hn-49898129/",
     "tags": "",
     "created_at": "2026-09-30 07:44:23"
+  },
+  {
+    "id": "rss_https://openai.com/index/disrupting-a-coordinated-model-distillation-campaign",
+    "company": "OpenAI",
+    "title": "Disrupting a coordinated model-distillation campaign",
+    "publish_date": "2026-09-30",
+    "type": "其他",
+    "open_source": "否",
+    "summary": "Learn how OpenAI disrupted a campaign to extract protected model reasoning and is strengthening defenses against adversarial distillation.",
+    "details": "",
+    "url": "https://openai.com/index/disrupting-a-coordinated-model-distillation-campaign",
+    "tags": "",
+    "created_at": "2026-10-01 08:01:52"
+  },
+  {
+    "id": "rss_https://deepmind.google/blog/gemini-4-argon-our-next-era-of-frontier-intelligence/",
+    "company": "Google DeepMind",
+    "title": "Gemini 4 Argon: our next era of frontier intelligence",
+    "publish_date": "2026-09-30",
+    "type": "其他",
+    "open_source": "否",
+    "summary": "",
+    "details": "",
+    "url": "https://deepmind.google/blog/gemini-4-argon-our-next-era-of-frontier-intelligence/",
+    "tags": "",
+    "created_at": "2026-10-01 08:01:52"
   }
 ]
