@@ -37227,3 +37227,72 @@ id,name,description,url,stars,forks,language,topics,created_at,first_seen,is_act
 1398087023,smaranje/google-deepmind-hackathon,"Long-horizon forecasting of ten black-box simulators: GRU state-space models, a differentiable physics model, and negative results (Google DeepMind GroundTruth challenge)",https://github.com/smaranje/google-deepmind-hackathon,0,0,Python,,2026-09-30T13:39:53Z,2026-10-01,False,Long Context
 1398953626,alexanderm10/nba_career_curves,"Bayesian state-space model of NBA shooting development, 2002–2026. Separates permanent talent, short-term form and sampling luck in R and Stan, and scores every model against simple rules on held-out seasons.",https://github.com/alexanderm10/nba_career_curves,0,0,HTML,"basketball,bayesian,hoopr,nba,r,sports-analytics,stan,state-space-model",2026-10-01T02:38:17Z,2026-10-01,False,Long Context
 1398371437,Engr-Mujeeb-Rahman/physics-guided-gait-s4d,"Physics-informed diagonal state-space model (S4D) with FiLM speed conditioning for generalizable lower-limb joint kinetics prediction. Includes torque-jerk and power-consistency regularization, LOSO cross-validation, zero-shot cross-dataset transfer, and ONNX CPU deployment.",https://github.com/Engr-Mujeeb-Rahman/physics-guided-gait-s4d,0,0,Python,,2026-09-30T15:23:35Z,2026-10-01,False,Long Context
+1400355478,backdrop-contrib/ai_provider_moonshot,"Moonshot AI (Kimi) provider offering long-context reasoning, code, and chat models.",https://github.com/backdrop-contrib/ai_provider_moonshot,0,1,PHP,,2026-10-01T16:24:05Z,2026-10-02,True,Long Context
+1400555440,MadGoatHaz/crucible-llm,"Terminal-based LLM inference benchmarking suite — speed, concurrency, reasoning, long-context, structured output, and energy profiling for OpenAI-compatible servers.",https://github.com/MadGoatHaz/crucible-llm,0,0,Rust,,2026-10-01T18:33:14Z,2026-10-02,True,Long Context
+1400255455,taswar/ClaudeOpus5.5-Csharp-Demo,"C# demo for Claude Opus 5.5 — long‑context reasoning, agentic coding workflows, and structured responses using Microsoft.Extensions.AI + Azure Foundry.",https://github.com/taswar/ClaudeOpus5.5-Csharp-Demo,0,0,C#,"agentic-coding,ai-engineering,anthropic,azure-foundry,claude-opus-5-5,csharp,dotnet,long-context,microsoft-extensions-ai,prompt-engineering",2026-10-01T15:32:34Z,2026-10-02,True,Long Context
+1400716015,Jeber811/Feed-forward-3D-reconstruction-VGGT-for-long-sequences-streaming-memory-token-merging-quantization,,https://github.com/Jeber811/Feed-forward-3D-reconstruction-VGGT-for-long-sequences-streaming-memory-token-merging-quantization,0,0,,,2026-10-01T21:01:18Z,2026-10-02,True,Long Context
+1399884007,JanderC/mambabistrobar,interfaz mamba,https://github.com/JanderC/mambabistrobar,0,0,TypeScript,,2026-10-01T11:57:59Z,2026-10-02,True,Long Context
+1400751807,sedgewickmm18/mamba2-explainer,,https://github.com/sedgewickmm18/mamba2-explainer,0,0,Svelte,,2026-10-01T21:45:25Z,2026-10-02,True,Long Context
+1399901443,JanderC/mamba-backend,backend del bar restaurant mamba,https://github.com/JanderC/mamba-backend,0,0,TypeScript,,2026-10-01T12:08:31Z,2026-10-02,True,Long Context
+1400772158,CornellDataScience/adhd,SSM LLM utilizing Mamba 3 ,https://github.com/CornellDataScience/adhd,0,0,,,2026-10-01T22:13:05Z,2026-10-02,True,Long Context
+1401312787,ChanAndy/MSTA-Mamba,,https://github.com/ChanAndy/MSTA-Mamba,0,0,,,2026-10-02T07:28:11Z,2026-10-02,True,Long Context
+1400000243,kazemini/mamba-imdb,,https://github.com/kazemini/mamba-imdb,0,0,Jupyter Notebook,,2026-10-01T13:01:33Z,2026-10-02,True,Long Context
+1399602038,fifinagustiana/eeg-stroke-msaf-mamba,,https://github.com/fifinagustiana/eeg-stroke-msaf-mamba,0,0,Python,,2026-10-01T09:01:54Z,2026-10-02,True,Long Context
+1400791858,louiss0/mamba_test_task_cli,Persistent task list manager CLI and TUI (merged from the gpt-6.1-sol and space-bunny-alpha worktrees).,https://github.com/louiss0/mamba_test_task_cli,0,0,Dart,,2026-10-01T22:42:22Z,2026-10-02,True,Long Context
+1400517630,shriar/Mamba_vs_LSTM_Streamflow_prediction,,https://github.com/shriar/Mamba_vs_LSTM_Streamflow_prediction,0,0,Python,,2026-10-01T18:06:04Z,2026-10-02,True,Long Context
+1400291684,mel0k1/Sputnik-AI,"Tiny LLM: linear attention + RWKV/Mamba, micro-expert MoE with adaptive router, morphology-aware Russian tokenizer",https://github.com/mel0k1/Sputnik-AI,0,0,Python,,2026-10-01T15:51:52Z,2026-10-02,True,Long Context
+1399824747,mambalabsdev/mcp-expert-witness-directory,"MCP server for the Mamba Labs Expert Witness Directory actor on Apify: US and Australian expert witness records, one per person.",https://github.com/mambalabsdev/mcp-expert-witness-directory,0,0,TypeScript,,2026-10-01T11:23:13Z,2026-10-02,True,Long Context
+1400378428,Efs-O/NemotronGR,Case study: Greek LoRA fine-tune of NVIDIA Nemotron 3 Nano 30B-A3B on 44 GB of consumer GPUs,https://github.com/Efs-O/NemotronGR,0,0,Python,"case-study,fine-tuning,gguf,greek,llama-cpp,lora,mamba,nemotron,windows",2026-10-01T16:36:59Z,2026-10-02,True,Long Context
+1400704300,iamdiplo/SSMTOpenSource,,https://github.com/iamdiplo/SSMTOpenSource,0,0,,,2026-10-01T20:48:16Z,2026-10-02,True,Long Context
+1400797006,hugochint/ssm,,https://github.com/hugochint/ssm,0,0,Python,,2026-10-01T22:50:08Z,2026-10-02,True,Long Context
+1401330029,Giles9928/update-subscription-ssm2r43l,,https://github.com/Giles9928/update-subscription-ssm2r43l,0,0,,,2026-10-02T07:43:59Z,2026-10-02,True,Long Context
+1401170073,cddst/ssms,content,https://github.com/cddst/ssms,0,0,,,2026-10-02T05:42:43Z,2026-10-02,True,Long Context
+1400305042,lvyarias/ssmk,content,https://github.com/lvyarias/ssmk,0,0,,,2026-10-01T15:58:30Z,2026-10-02,True,Long Context
+1399995979,webstatius/ssmm,content,https://github.com/webstatius/ssmm,0,0,,,2026-10-01T12:59:32Z,2026-10-02,True,Long Context
+1400112966,iwbx0s2y4n/ssmll,content,https://github.com/iwbx0s2y4n/ssmll,0,0,,,2026-10-01T14:11:33Z,2026-10-02,True,Long Context
+1401106808,gccaland/ssmd,content,https://github.com/gccaland/ssmd,0,0,,,2026-10-02T05:02:50Z,2026-10-02,True,Long Context
+1401155921,antilasak/ssmgz,content,https://github.com/antilasak/ssmgz,0,0,,,2026-10-02T05:35:05Z,2026-10-02,True,Long Context
+1399562092,ntchangos2/ssmrb,content,https://github.com/ntchangos2/ssmrb,0,0,,,2026-10-01T08:42:43Z,2026-10-02,True,Long Context
+1400421993,gitsikore/ssmw,content,https://github.com/gitsikore/ssmw,0,0,,,2026-10-01T17:03:21Z,2026-10-02,True,Long Context
+1401144931,217-nguyen/ssmgg,content,https://github.com/217-nguyen/ssmgg,0,0,,,2026-10-02T05:29:11Z,2026-10-02,True,Long Context
+1400194749,markpviet/ssmgf,content,https://github.com/markpviet/ssmgf,0,0,,,2026-10-01T14:56:06Z,2026-10-02,True,Long Context
+1401048199,wilsonjade265/ssmo,content,https://github.com/wilsonjade265/ssmo,0,0,,,2026-10-02T04:12:41Z,2026-10-02,True,Long Context
+1401137513,beard88cod/ssmx,content,https://github.com/beard88cod/ssmx,0,0,,,2026-10-02T05:24:47Z,2026-10-02,True,Long Context
+1399746701,dixonleah0131/ssmr,content,https://github.com/dixonleah0131/ssmr,0,0,,,2026-10-01T10:28:06Z,2026-10-02,True,Long Context
+1401025557,hernandezjessica705/ssmdid,,https://github.com/hernandezjessica705/ssmdid,0,0,,,2026-10-02T03:52:08Z,2026-10-02,True,Long Context
+1400058967,mrddssbvqjicoi/ssmqy,content,https://github.com/mrddssbvqjicoi/ssmqy,0,0,,,2026-10-01T13:39:55Z,2026-10-02,True,Long Context
+1399844764,schneiderdavid1/ssme,content,https://github.com/schneiderdavid1/ssme,0,0,,,2026-10-01T11:36:08Z,2026-10-02,True,Long Context
+1400050451,xqtlyvmuuuvujy/ssmq,content,https://github.com/xqtlyvmuuuvujy/ssmq,0,0,,,2026-10-01T13:34:47Z,2026-10-02,True,Long Context
+1400970398,brooksjeffrey439/ssms,content,https://github.com/brooksjeffrey439/ssms,0,0,,,2026-10-02T02:59:13Z,2026-10-02,True,Long Context
+1401313049,rainercauu/ssmrv,content,https://github.com/rainercauu/ssmrv,0,0,,,2026-10-02T07:28:26Z,2026-10-02,True,Long Context
+1399626237,kkczurswel/ssmwuv,,https://github.com/kkczurswel/ssmwuv,0,0,,,2026-10-01T09:15:01Z,2026-10-02,True,Long Context
+1399788123,r6u92aft5f/ssmqpw,,https://github.com/r6u92aft5f/ssmqpw,0,0,,,2026-10-01T10:59:06Z,2026-10-02,True,Long Context
+1401211476,gioldesman/ssmhf,content,https://github.com/gioldesman/ssmhf,0,0,,,2026-10-02T06:10:39Z,2026-10-02,True,Long Context
+1399682300,jz3din2lhj/ssmtzo,,https://github.com/jz3din2lhj/ssmtzo,0,0,,,2026-10-01T09:46:31Z,2026-10-02,True,Long Context
+1401098267,johnsonsarah688/ssmluc,,https://github.com/johnsonsarah688/ssmluc,0,0,,,2026-10-02T04:55:46Z,2026-10-02,True,Long Context
+1401065748,monivlz/ssmd,content,https://github.com/monivlz/ssmd,0,0,,,2026-10-02T04:28:12Z,2026-10-02,True,Long Context
+1401130482,levelyisco/ssmoa,content,https://github.com/levelyisco/ssmoa,0,0,,,2026-10-02T05:20:30Z,2026-10-02,True,Long Context
+1400252490,pablosohon/ssmd,content,https://github.com/pablosohon/ssmd,0,0,,,2026-10-01T15:30:51Z,2026-10-02,True,Long Context
+1400435795,boothchristine07/ssmmed,,https://github.com/boothchristine07/ssmmed,0,0,,,2026-10-01T17:12:20Z,2026-10-02,True,Long Context
+1401125115,allenmatthew13/ssm-nig,,https://github.com/allenmatthew13/ssm-nig,0,0,,,2026-10-02T05:16:55Z,2026-10-02,True,Long Context
+1399567487,lilfire/ssms-mcp,,https://github.com/lilfire/ssms-mcp,0,0,C#,,2026-10-01T08:45:22Z,2026-10-02,True,Long Context
+1399961067,gurgenmartirosyan111-del/S.Ssm,,https://github.com/gurgenmartirosyan111-del/S.Ssm,0,0,,,2026-10-01T12:42:38Z,2026-10-02,True,Long Context
+1400932327,grantalicia6351/yu-ssm,,https://github.com/grantalicia6351/yu-ssm,0,0,,,2026-10-02T02:20:09Z,2026-10-02,True,Long Context
+1400792591,ayush11z/audio-ssm-quant,,https://github.com/ayush11z/audio-ssm-quant,0,0,Python,,2026-10-01T22:43:31Z,2026-10-02,True,Long Context
+1399593965,artistajuny/ssm-v4,,https://github.com/artistajuny/ssm-v4,0,0,Python,,2026-10-01T08:57:48Z,2026-10-02,True,Long Context
+1400321642,Paras65/ssm-app-apk,,https://github.com/Paras65/ssm-app-apk,0,0,,,2026-10-01T16:06:57Z,2026-10-02,True,Long Context
+1399635239,williamli250/LoCoSSM,,https://github.com/williamli250/LoCoSSM,0,0,Python,,2026-10-01T09:19:50Z,2026-10-02,True,Long Context
+1399503796,phunkie24/ssms--data-engineering,,https://github.com/phunkie24/ssms--data-engineering,0,0,,,2026-10-01T08:15:06Z,2026-10-02,True,Long Context
+1400665729,luisrudas/ScriptBD_SSMS_TiendaRopa,Un proyecto de practica para entender el manejo de INNER JOINS,https://github.com/luisrudas/ScriptBD_SSMS_TiendaRopa,0,0,TSQL,,2026-10-01T20:09:40Z,2026-10-02,True,Long Context
+1399832918,youssef0abbas/Hospital-Management-System-SQL_,"Hospital Management System database built with SQL Server (SSMS) including DDL, DML, Functions, Views, Stored Procedures, and Triggers.",https://github.com/youssef0abbas/Hospital-Management-System-SQL_,0,0,TSQL,,2026-10-01T11:28:47Z,2026-10-02,True,Long Context
+1400814257,fireditoo/xfajzcbJ,2022计算机毕设一套 ssm网上心理咨询系(论文+程序源代码+数据库).zip,https://github.com/fireditoo/xfajzcbJ,1,0,,,2026-10-01T23:16:21Z,2026-10-02,True,Long Context
+1400820242,fireditoo/JAdzvghQ,2023计算机毕设一套 ssm校园新闻管理系统(论文+程序源代码+数据库).zip,https://github.com/fireditoo/JAdzvghQ,1,0,,,2026-10-01T23:26:22Z,2026-10-02,True,Long Context
+1400819331,fireditoo/sJLaGCLi,2023计算机毕设一套 ssm勤工助学管理系统(论文+程序源代码+数据库).zip,https://github.com/fireditoo/sJLaGCLi,1,0,,,2026-10-01T23:24:56Z,2026-10-02,True,Long Context
+1401126303,sainikethkosaraju/aws-self-healing-ec2,"Self-healing EC2 on AWS as code: status-check auto-recovery and reboot, a Lambda that diagnoses runaway CPU over SSM before acting, optional Auto Scaling replacement, SNS alerts. CloudFormation + Python.",https://github.com/sainikethkosaraju/aws-self-healing-ec2,0,0,Python,,2026-10-02T05:17:41Z,2026-10-02,True,Long Context
+1400399565,lights-rix/OuNiwVGU,2022软件工程毕设一套 终稿 基于SSM框架的游戏商城系统_（论文+前后端程序源代码+数据库） f.zip,https://github.com/lights-rix/OuNiwVGU,1,0,,,2026-10-01T16:49:14Z,2026-10-02,True,Long Context
+1400352169,lights-rix/BFehDzYO,2022计算机毕设一套 终稿 （论文+程序源代码）基于SSM框架的图书商城的设计与实现_b471b6e3-7fba-4189-953f-1d81029ca524.zip,https://github.com/lights-rix/BFehDzYO,1,0,,,2026-10-01T16:22:15Z,2026-10-02,True,Long Context
+1400385042,lights-rix/uWuYgIFg,2022软件工程毕设一套 终稿 （论文+前后端程序源代码+数据库）基于SSM宠物社区系统与实现_带答辩PPT.zip,https://github.com/lights-rix/uWuYgIFg,1,0,,,2026-10-01T16:40:44Z,2026-10-02,True,Long Context
+1400747987,lights-rix/qkYQnFGy,2023软工计算机毕设一套 维普17% 基于 SSM 的校园二手交易系统（论文+中期与开题+程序源代码+数据库+说明）.zip,https://github.com/lights-rix/qkYQnFGy,1,0,,,2026-10-01T21:40:29Z,2026-10-02,True,Long Context
+1400753446,lights-rix/ukBlVBwq,2023软工计算机毕设一套 维普22% 基于SSM的校园核酸筛查系统（论文+中期与开题+程序源代码+数据库+说明+答辩PPT+外文翻译）.zip,https://github.com/lights-rix/ukBlVBwq,1,0,,,2026-10-01T21:47:30Z,2026-10-02,True,Long Context
+1400751316,lights-rix/guJFuWuU,2023软工计算机毕设一套 维普19% 基于SSM的教学项目管理与服务系统的设计与实现（论文+中期与开题+程序源代码+数据库+说明+答辩PPT+外文翻译）.zip,https://github.com/lights-rix/guJFuWuU,1,0,,,2026-10-01T21:44:46Z,2026-10-02,True,Long Context
+1400275896,AnoopPatel582/neural-architectures-lab,"CNN, RNN/LSTM, Transformer, and state space model notebooks for vision and NLP.",https://github.com/AnoopPatel582/neural-architectures-lab,0,0,Jupyter Notebook,,2026-10-01T15:43:43Z,2026-10-02,True,Long Context

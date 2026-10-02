@@ -6654,5 +6654,31 @@
     "url": "https://deepmind.google/blog/gemini-4-argon-our-next-era-of-frontier-intelligence/",
     "tags": "",
     "created_at": "2026-10-01 08:01:52"
+  },
+  {
+    "id": "rss_https://openai.com/index/the-den-family-social",
+    "company": "OpenAI",
+    "title": "The Den frees up 10-15 hours a week to grow with ChatGPT Work",
+    "publish_date": "2026-10-01",
+    "type": "其他",
+    "open_source": "否",
+    "summary": "As it opens a new location, the social club prepares grant applications in 2 hours instead of 3 days and liquor-license materials in 3 hours instead of 4 days.",
+    "details": "",
+    "url": "https://openai.com/index/the-den-family-social",
+    "tags": "",
+    "created_at": "2026-10-02 07:46:26"
+  },
+  {
+    "id": "rss_https://huggingface.co/blog/ServiceNow-AI/autosynthdata",
+    "company": "Hugging Face",
+    "title": "AutoSynthData: Generating Training Data for Enterprise Agents",
+    "publish_date": "2026-10-02",
+    "type": "其他",
+    "open_source": "否",
+    "summary": "",
+    "details": "",
+    "url": "https://huggingface.co/blog/ServiceNow-AI/autosynthdata",
+    "tags": "",
+    "created_at": "2026-10-02 07:46:28"
   }
 ]
