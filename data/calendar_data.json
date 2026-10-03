@@ -6680,5 +6680,44 @@
     "url": "https://huggingface.co/blog/ServiceNow-AI/autosynthdata",
     "tags": "",
     "created_at": "2026-10-02 07:46:28"
+  },
+  {
+    "id": "rss_https://openai.com/index/practical-guide-building-gpt-6",
+    "company": "OpenAI",
+    "title": "A model guide for the GPT-6 family",
+    "publish_date": "2026-10-02",
+    "type": "其他",
+    "open_source": "否",
+    "summary": "Learn how startups can choose GPT-6 models, tune reasoning effort, improve prompts and skills, coordinate tools, and prepare workflows for production.",
+    "details": "",
+    "url": "https://openai.com/index/practical-guide-building-gpt-6",
+    "tags": "",
+    "created_at": "2026-10-03 07:18:52"
+  },
+  {
+    "id": "rss_https://openai.com/index/chatham-financial",
+    "company": "OpenAI",
+    "title": "Chatham scales its capital markets expertise with OpenAI",
+    "publish_date": "2026-10-02",
+    "type": "其他",
+    "open_source": "否",
+    "summary": "Chatham Financial uses Codex and GPT-5.6 to build technology and redesign workflows, cutting trade validation from 30 minutes to under 4.",
+    "details": "",
+    "url": "https://openai.com/index/chatham-financial",
+    "tags": "",
+    "created_at": "2026-10-03 07:18:52"
+  },
+  {
+    "id": "rss_https://huggingface.co/blog/allenai/astabrief",
+    "company": "Hugging Face",
+    "title": "Open-sourcing AstaBrief, the fast report-generation model in Asta",
+    "publish_date": "2026-10-02",
+    "type": "其他",
+    "open_source": "否",
+    "summary": "",
+    "details": "",
+    "url": "https://huggingface.co/blog/allenai/astabrief",
+    "tags": "",
+    "created_at": "2026-10-03 07:18:54"
   }
 ]
