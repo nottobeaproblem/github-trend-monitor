@@ -6719,5 +6719,18 @@
     "url": "https://huggingface.co/blog/allenai/astabrief",
     "tags": "",
     "created_at": "2026-10-03 07:18:54"
+  },
+  {
+    "id": "rss_https://huggingface.co/blog/microsoft/thinkingbox",
+    "company": "Hugging Face",
+    "title": "The Agent Said It Was Done. The Database Disagreed.",
+    "publish_date": "2026-10-03",
+    "type": "其他",
+    "open_source": "否",
+    "summary": "",
+    "details": "",
+    "url": "https://huggingface.co/blog/microsoft/thinkingbox",
+    "tags": "",
+    "created_at": "2026-10-04 07:36:53"
   }
 ]
