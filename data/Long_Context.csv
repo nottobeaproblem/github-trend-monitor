@@ -37343,49 +37343,49 @@ id,name,description,url,stars,forks,language,topics,created_at,first_seen,is_act
 1402224053,Sayantan-da/DriftShieldAI,"An autonomic cloud compliance & remediation SaaS built with Amazon Q Developer. Continuously monitors enterprise clusters, detects configuration drift, and executes real-time serverless self-healing workflows via AWS Lambda & Systems Manager (SSM).",https://github.com/Sayantan-da/DriftShieldAI,0,0,JavaScript,,2026-10-02T18:45:54Z,2026-10-03,False,Long Context
 1402523493,angia-marova/DC-Motor-State-Space-Modeling,"DC motor state-space modeling and simulation using MATLAB ODE45, Simulink, and Simscape.",https://github.com/angia-marova/DC-Motor-State-Space-Modeling,0,0,MATLAB,,2026-10-03T01:35:52Z,2026-10-03,False,Long Context
 1402098199,alexxthiery/jax-da,"State-space models, scoring, and oracles for testing data assimilation algorithms in JAX",https://github.com/alexxthiery/jax-da,0,0,Python,,2026-10-02T16:56:34Z,2026-10-03,False,Long Context
-1402996505,aarnavsaboo/long-context-lab,,https://github.com/aarnavsaboo/long-context-lab,0,0,Python,,2026-10-03T10:18:27Z,2026-10-04,True,Long Context
-1404023492,Lexsi-Labs/BRIEF,Code for the NeurIPS Workshop paper on Long Context Foundational Models (LCFM),https://github.com/Lexsi-Labs/BRIEF,0,0,,,2026-10-04T06:40:49Z,2026-10-04,True,Long Context
-1403945063,Sanmu-27/CentralKV-,Project page for CentralKV: Compressing Long-Context LLMs via Attention-Graph Centrality.,https://github.com/Sanmu-27/CentralKV-,0,0,JavaScript,,2026-10-04T05:27:21Z,2026-10-04,True,Long Context
-1403590887,zapsyq/tc_harness,"TC_Harness —— 让小模型稳定调用工具的智能体框架 / Tool-calling agent harness for small language models — connect MCP tools, compress long context, auto-repair malformed JSON/tool history, and retry broken turns automatically.",https://github.com/zapsyq/tc_harness,1,0,Python,"agent,ai,ai-agent,harness,llm,mcp,mcp-server,pi,python,slm",2026-10-03T19:58:28Z,2026-10-04,True,Long Context
-1403608540,123renhong321/p11-infinite-context,完美阿轲 · P11 无限上下文服务 — 结构检索 · 词形级确定性匹配 · 接入口令按申请发放（394263721@qq.com）,https://github.com/123renhong321/p11-infinite-context,0,0,,,2026-10-03T20:24:24Z,2026-10-04,True,Long Context
-1403008456,morpho-creator/BMC-Mamba,,https://github.com/morpho-creator/BMC-Mamba,0,0,,,2026-10-03T10:32:28Z,2026-10-04,True,Long Context
-1404068121,SafaBAtitallah/awesome-graph-mamba,Interactive Graph Mamba Survey and Taxonomy,https://github.com/SafaBAtitallah/awesome-graph-mamba,0,0,,,2026-10-04T07:23:25Z,2026-10-04,True,Long Context
-1403930689,LaMambaKukun/LaMambaKukun,,https://github.com/LaMambaKukun/LaMambaKukun,0,0,,,2026-10-04T05:13:49Z,2026-10-04,True,Long Context
-1403729080,DingdongD/PointMamba_Quantization,,https://github.com/DingdongD/PointMamba_Quantization,0,0,Python,,2026-10-03T23:58:57Z,2026-10-04,True,Long Context
-1403296864,tiktoksprzedajacy-rgb/ssm,,https://github.com/tiktoksprzedajacy-rgb/ssm,0,0,Python,,2026-10-03T14:40:00Z,2026-10-04,True,Long Context
-1402955138,narendok/ssmone1,,https://github.com/narendok/ssmone1,0,0,TypeScript,,2026-10-03T09:32:54Z,2026-10-04,True,Long Context
-1403183210,thigopier/ssmgm,content,https://github.com/thigopier/ssmgm,0,0,,,2026-10-03T13:09:53Z,2026-10-04,True,Long Context
-1403421945,newandcore/ssmav,content,https://github.com/newandcore/ssmav,0,0,,,2026-10-03T16:43:39Z,2026-10-04,True,Long Context
-1403851142,armsberti8/ssmj,content,https://github.com/armsberti8/ssmj,0,0,,,2026-10-04T03:39:32Z,2026-10-04,True,Long Context
-1402999048,sanateina/ssmh,content,https://github.com/sanateina/ssmh,0,0,,,2026-10-03T10:21:25Z,2026-10-04,True,Long Context
-1403891197,silver-ion93/ssmoj,content,https://github.com/silver-ion93/ssmoj,0,0,,,2026-10-04T04:33:05Z,2026-10-04,True,Long Context
-1404045102,h889i63gxquw/ssmnq,content,https://github.com/h889i63gxquw/ssmnq,0,0,,,2026-10-04T07:01:39Z,2026-10-04,True,Long Context
-1403799283,nikkeng/ssmzz,content,https://github.com/nikkeng/ssmzz,0,0,,,2026-10-04T02:20:50Z,2026-10-04,True,Long Context
-1403276711,efonnet/ssmb,content,https://github.com/efonnet/ssmb,0,0,,,2026-10-03T14:23:03Z,2026-10-04,True,Long Context
-1403119516,solarnebula97/ssmcp,content,https://github.com/solarnebula97/ssmcp,0,0,,,2026-10-03T12:11:04Z,2026-10-04,True,Long Context
-1403483666,sampaware/ssmkc,content,https://github.com/sampaware/ssmkc,0,0,,,2026-10-03T17:47:17Z,2026-10-04,True,Long Context
-1403492375,beepultins/ssmg,content,https://github.com/beepultins/ssmg,0,0,,,2026-10-03T17:56:55Z,2026-10-04,True,Long Context
-1403198720,v99xsdd03y/ssmo,content,https://github.com/v99xsdd03y/ssmo,0,0,,,2026-10-03T13:24:16Z,2026-10-04,True,Long Context
-1403979560,coopererika2/ssmlvcc,,https://github.com/coopererika2/ssmlvcc,0,0,,,2026-10-04T05:59:35Z,2026-10-04,True,Long Context
-1403113039,kandurala/ssma,content,https://github.com/kandurala/ssma,0,0,,,2026-10-03T12:05:26Z,2026-10-04,True,Long Context
-1403259106,omz973iq/ssmvf,content,https://github.com/omz973iq/ssmvf,0,0,,,2026-10-03T14:09:14Z,2026-10-04,True,Long Context
-1403945386,liver7ray/ssmafe,,https://github.com/liver7ray/ssmafe,0,0,,,2026-10-04T05:27:42Z,2026-10-04,True,Long Context
-1403925428,olive-zephyr60/ssmfj,content,https://github.com/olive-zephyr60/ssmfj,0,0,,,2026-10-04T05:07:27Z,2026-10-04,True,Long Context
-1402863475,jigarathia/ssmo,content,https://github.com/jigarathia/ssmo,0,0,,,2026-10-03T08:06:49Z,2026-10-04,True,Long Context
-1403204539,recess5cro/ssmz,content,https://github.com/recess5cro/ssmz,0,0,,,2026-10-03T13:28:27Z,2026-10-04,True,Long Context
-1403565478,accassjang/ssmp,content,https://github.com/accassjang/ssmp,0,0,,,2026-10-03T19:24:02Z,2026-10-04,True,Long Context
-1403801690,apxaf6f454/ssmx,content,https://github.com/apxaf6f454/ssmx,0,0,,,2026-10-04T02:23:58Z,2026-10-04,True,Long Context
-1403304219,nobletimber57/ssmw,content,https://github.com/nobletimber57/ssmw,0,0,,,2026-10-03T14:46:58Z,2026-10-04,True,Long Context
-1403410723,fireers/ssmtn,content,https://github.com/fireers/ssmtn,0,0,,,2026-10-03T16:33:17Z,2026-10-04,True,Long Context
-1403342211,ssmaa-m/ssmaa-m,,https://github.com/ssmaa-m/ssmaa-m,0,0,,,2026-10-03T15:25:47Z,2026-10-04,True,Long Context
-1403758615,joey-augustin/SSMS.Driving.Range,"I built a relational database, Joey's Driving Range, for a fictional driving range business with tee box rentals, ball bucket purchases, and golf tournaments. It covers customers, the range facility, tee boxes, tournaments, entries, and purchases. This was a project for CWEB2126 - Database II.",https://github.com/joey-augustin/SSMS.Driving.Range,0,0,,,2026-10-04T01:03:08Z,2026-10-04,True,Long Context
-1402895182,HsinyuanZhang/SSM_Neural_Decoding,,https://github.com/HsinyuanZhang/SSM_Neural_Decoding,0,0,Python,,2026-10-03T08:35:57Z,2026-10-04,True,Long Context
-1403857745,kl2400032691/ssm-patch-management-fleet,,https://github.com/kl2400032691/ssm-patch-management-fleet,0,0,Shell,,2026-10-04T03:48:03Z,2026-10-04,True,Long Context
-1403692297,alonsovargas3/devbox-kit,"A replicable personal remote dev box on AWS for agentic development: SSM SSH, persistent volume, idle auto-stop, laptop command routing, Claude Code ready",https://github.com/alonsovargas3/devbox-kit,0,0,Shell,"aws,claude-code,developer-tools,ec2,remote-development,ssm",2026-10-03T22:44:51Z,2026-10-04,True,Long Context
-1403157198,kuan404/aws-alb-rds-terraform,"Terraform-provisioned AWS stack — VPC, public/private subnetting, ALB, EC2 (SSM-managed), and private RDS MySQL.",https://github.com/kuan404/aws-alb-rds-terraform,0,0,HCL,,2026-10-03T12:46:30Z,2026-10-04,True,Long Context
-1403819434,ike-barnes/aws-3tier-terraform-,"Highly available 3-tier AWS architecture with Terraform modules: multi-AZ VPC, ALB, Auto Scaling, RDS, SSM access",https://github.com/ike-barnes/aws-3tier-terraform-,0,0,,,2026-10-04T02:53:18Z,2026-10-04,True,Long Context
-1403872096,ngocp-0847/localaws,"A small AWS emulator that runs things for real: S3, EventBridge, Step Functions, ECS, CloudWatch Logs, SSM in one Go binary",https://github.com/ngocp-0847/localaws,0,0,Go,,2026-10-04T04:07:38Z,2026-10-04,True,Long Context
-1403542093,Teejer/smss-offline-layout-downloader-wine,Build a self-contained SSMS 22 offline install layout on Linux with Wine. Documents the Wine code-signing root fix (0x80096004) and the scripts to reproduce it.,https://github.com/Teejer/smss-offline-layout-downloader-wine,0,0,Python,,2026-10-03T18:54:04Z,2026-10-04,True,Long Context
-1403646779,excelpic/Palm-Oil-Weighbridge-System,"A desktop-based Palm Oil Weighbridge Management Software for managing vehicle weighing, CPO transactions, ticket printing, reporting, and audit records using VB.NET Microsoft SQL Server, Visual Studio, and SSMS.",https://github.com/excelpic/Palm-Oil-Weighbridge-System,0,0,Visual Basic .NET,,2026-10-03T21:22:27Z,2026-10-04,True,Long Context
-1403282585,andrem-eberle/vinf-3080ti,"LLM inference engine for the NVIDIA RTX 3080 Ti: runs hybrid SSM/attention Qwen3.8-27B GGUF models larger than VRAM, with MTP and DFlash 2 speculative decoding, at up to 12 tok/s.",https://github.com/andrem-eberle/vinf-3080ti,0,0,Python,,2026-10-03T14:27:36Z,2026-10-04,True,Long Context
-1402832714,lotushansstudio-maker/lotushansstudio-maker.github.io,"Lotus  Out of the noise, a signal.Quantitative finance, with an art-school eye. From state-space models to generative visuals.",https://github.com/lotushansstudio-maker/lotushansstudio-maker.github.io,0,0,HTML,,2026-10-03T07:41:00Z,2026-10-04,True,Long Context
+1402996505,aarnavsaboo/long-context-lab,,https://github.com/aarnavsaboo/long-context-lab,0,0,Python,,2026-10-03T10:18:27Z,2026-10-04,False,Long Context
+1404023492,Lexsi-Labs/BRIEF,Code for the NeurIPS Workshop paper on Long Context Foundational Models (LCFM),https://github.com/Lexsi-Labs/BRIEF,0,0,,,2026-10-04T06:40:49Z,2026-10-04,False,Long Context
+1403945063,Sanmu-27/CentralKV-,Project page for CentralKV: Compressing Long-Context LLMs via Attention-Graph Centrality.,https://github.com/Sanmu-27/CentralKV-,0,0,JavaScript,,2026-10-04T05:27:21Z,2026-10-04,False,Long Context
+1403590887,zapsyq/tc_harness,"TC_Harness —— 让小模型稳定调用工具的智能体框架 / Tool-calling agent harness for small language models — connect MCP tools, compress long context, auto-repair malformed JSON/tool history, and retry broken turns automatically.",https://github.com/zapsyq/tc_harness,1,0,Python,"agent,ai,ai-agent,harness,llm,mcp,mcp-server,pi,python,slm",2026-10-03T19:58:28Z,2026-10-04,False,Long Context
+1403608540,123renhong321/p11-infinite-context,完美阿轲 · P11 无限上下文服务 — 结构检索 · 词形级确定性匹配 · 接入口令按申请发放（394263721@qq.com）,https://github.com/123renhong321/p11-infinite-context,0,0,,,2026-10-03T20:24:24Z,2026-10-04,False,Long Context
+1403008456,morpho-creator/BMC-Mamba,,https://github.com/morpho-creator/BMC-Mamba,0,0,,,2026-10-03T10:32:28Z,2026-10-04,False,Long Context
+1404068121,SafaBAtitallah/awesome-graph-mamba,Interactive Graph Mamba Survey and Taxonomy,https://github.com/SafaBAtitallah/awesome-graph-mamba,0,0,,,2026-10-04T07:23:25Z,2026-10-04,False,Long Context
+1403930689,LaMambaKukun/LaMambaKukun,,https://github.com/LaMambaKukun/LaMambaKukun,0,0,,,2026-10-04T05:13:49Z,2026-10-04,False,Long Context
+1403729080,DingdongD/PointMamba_Quantization,,https://github.com/DingdongD/PointMamba_Quantization,0,0,Python,,2026-10-03T23:58:57Z,2026-10-04,False,Long Context
+1403296864,tiktoksprzedajacy-rgb/ssm,,https://github.com/tiktoksprzedajacy-rgb/ssm,0,0,Python,,2026-10-03T14:40:00Z,2026-10-04,False,Long Context
+1402955138,narendok/ssmone1,,https://github.com/narendok/ssmone1,0,0,TypeScript,,2026-10-03T09:32:54Z,2026-10-04,False,Long Context
+1403183210,thigopier/ssmgm,content,https://github.com/thigopier/ssmgm,0,0,,,2026-10-03T13:09:53Z,2026-10-04,False,Long Context
+1403421945,newandcore/ssmav,content,https://github.com/newandcore/ssmav,0,0,,,2026-10-03T16:43:39Z,2026-10-04,False,Long Context
+1403851142,armsberti8/ssmj,content,https://github.com/armsberti8/ssmj,0,0,,,2026-10-04T03:39:32Z,2026-10-04,False,Long Context
+1402999048,sanateina/ssmh,content,https://github.com/sanateina/ssmh,0,0,,,2026-10-03T10:21:25Z,2026-10-04,False,Long Context
+1403891197,silver-ion93/ssmoj,content,https://github.com/silver-ion93/ssmoj,0,0,,,2026-10-04T04:33:05Z,2026-10-04,False,Long Context
+1404045102,h889i63gxquw/ssmnq,content,https://github.com/h889i63gxquw/ssmnq,0,0,,,2026-10-04T07:01:39Z,2026-10-04,False,Long Context
+1403799283,nikkeng/ssmzz,content,https://github.com/nikkeng/ssmzz,0,0,,,2026-10-04T02:20:50Z,2026-10-04,False,Long Context
+1403276711,efonnet/ssmb,content,https://github.com/efonnet/ssmb,0,0,,,2026-10-03T14:23:03Z,2026-10-04,False,Long Context
+1403119516,solarnebula97/ssmcp,content,https://github.com/solarnebula97/ssmcp,0,0,,,2026-10-03T12:11:04Z,2026-10-04,False,Long Context
+1403483666,sampaware/ssmkc,content,https://github.com/sampaware/ssmkc,0,0,,,2026-10-03T17:47:17Z,2026-10-04,False,Long Context
+1403492375,beepultins/ssmg,content,https://github.com/beepultins/ssmg,0,0,,,2026-10-03T17:56:55Z,2026-10-04,False,Long Context
+1403198720,v99xsdd03y/ssmo,content,https://github.com/v99xsdd03y/ssmo,0,0,,,2026-10-03T13:24:16Z,2026-10-04,False,Long Context
+1403979560,coopererika2/ssmlvcc,,https://github.com/coopererika2/ssmlvcc,0,0,,,2026-10-04T05:59:35Z,2026-10-04,False,Long Context
+1403113039,kandurala/ssma,content,https://github.com/kandurala/ssma,0,0,,,2026-10-03T12:05:26Z,2026-10-04,False,Long Context
+1403259106,omz973iq/ssmvf,content,https://github.com/omz973iq/ssmvf,0,0,,,2026-10-03T14:09:14Z,2026-10-04,False,Long Context
+1403945386,liver7ray/ssmafe,,https://github.com/liver7ray/ssmafe,0,0,,,2026-10-04T05:27:42Z,2026-10-04,False,Long Context
+1403925428,olive-zephyr60/ssmfj,content,https://github.com/olive-zephyr60/ssmfj,0,0,,,2026-10-04T05:07:27Z,2026-10-04,False,Long Context
+1402863475,jigarathia/ssmo,content,https://github.com/jigarathia/ssmo,0,0,,,2026-10-03T08:06:49Z,2026-10-04,False,Long Context
+1403204539,recess5cro/ssmz,content,https://github.com/recess5cro/ssmz,0,0,,,2026-10-03T13:28:27Z,2026-10-04,False,Long Context
+1403565478,accassjang/ssmp,content,https://github.com/accassjang/ssmp,0,0,,,2026-10-03T19:24:02Z,2026-10-04,False,Long Context
+1403801690,apxaf6f454/ssmx,content,https://github.com/apxaf6f454/ssmx,0,0,,,2026-10-04T02:23:58Z,2026-10-04,False,Long Context
+1403304219,nobletimber57/ssmw,content,https://github.com/nobletimber57/ssmw,0,0,,,2026-10-03T14:46:58Z,2026-10-04,False,Long Context
+1403410723,fireers/ssmtn,content,https://github.com/fireers/ssmtn,0,0,,,2026-10-03T16:33:17Z,2026-10-04,False,Long Context
+1403342211,ssmaa-m/ssmaa-m,,https://github.com/ssmaa-m/ssmaa-m,0,0,,,2026-10-03T15:25:47Z,2026-10-04,False,Long Context
+1403758615,joey-augustin/SSMS.Driving.Range,"I built a relational database, Joey's Driving Range, for a fictional driving range business with tee box rentals, ball bucket purchases, and golf tournaments. It covers customers, the range facility, tee boxes, tournaments, entries, and purchases. This was a project for CWEB2126 - Database II.",https://github.com/joey-augustin/SSMS.Driving.Range,0,0,,,2026-10-04T01:03:08Z,2026-10-04,False,Long Context
+1402895182,HsinyuanZhang/SSM_Neural_Decoding,,https://github.com/HsinyuanZhang/SSM_Neural_Decoding,0,0,Python,,2026-10-03T08:35:57Z,2026-10-04,False,Long Context
+1403857745,kl2400032691/ssm-patch-management-fleet,,https://github.com/kl2400032691/ssm-patch-management-fleet,0,0,Shell,,2026-10-04T03:48:03Z,2026-10-04,False,Long Context
+1403692297,alonsovargas3/devbox-kit,"A replicable personal remote dev box on AWS for agentic development: SSM SSH, persistent volume, idle auto-stop, laptop command routing, Claude Code ready",https://github.com/alonsovargas3/devbox-kit,0,0,Shell,"aws,claude-code,developer-tools,ec2,remote-development,ssm",2026-10-03T22:44:51Z,2026-10-04,False,Long Context
+1403157198,kuan404/aws-alb-rds-terraform,"Terraform-provisioned AWS stack — VPC, public/private subnetting, ALB, EC2 (SSM-managed), and private RDS MySQL.",https://github.com/kuan404/aws-alb-rds-terraform,0,0,HCL,,2026-10-03T12:46:30Z,2026-10-04,False,Long Context
+1403819434,ike-barnes/aws-3tier-terraform-,"Highly available 3-tier AWS architecture with Terraform modules: multi-AZ VPC, ALB, Auto Scaling, RDS, SSM access",https://github.com/ike-barnes/aws-3tier-terraform-,0,0,,,2026-10-04T02:53:18Z,2026-10-04,False,Long Context
+1403872096,ngocp-0847/localaws,"A small AWS emulator that runs things for real: S3, EventBridge, Step Functions, ECS, CloudWatch Logs, SSM in one Go binary",https://github.com/ngocp-0847/localaws,0,0,Go,,2026-10-04T04:07:38Z,2026-10-04,False,Long Context
+1403542093,Teejer/smss-offline-layout-downloader-wine,Build a self-contained SSMS 22 offline install layout on Linux with Wine. Documents the Wine code-signing root fix (0x80096004) and the scripts to reproduce it.,https://github.com/Teejer/smss-offline-layout-downloader-wine,0,0,Python,,2026-10-03T18:54:04Z,2026-10-04,False,Long Context
+1403646779,excelpic/Palm-Oil-Weighbridge-System,"A desktop-based Palm Oil Weighbridge Management Software for managing vehicle weighing, CPO transactions, ticket printing, reporting, and audit records using VB.NET Microsoft SQL Server, Visual Studio, and SSMS.",https://github.com/excelpic/Palm-Oil-Weighbridge-System,0,0,Visual Basic .NET,,2026-10-03T21:22:27Z,2026-10-04,False,Long Context
+1403282585,andrem-eberle/vinf-3080ti,"LLM inference engine for the NVIDIA RTX 3080 Ti: runs hybrid SSM/attention Qwen3.8-27B GGUF models larger than VRAM, with MTP and DFlash 2 speculative decoding, at up to 12 tok/s.",https://github.com/andrem-eberle/vinf-3080ti,0,0,Python,,2026-10-03T14:27:36Z,2026-10-04,False,Long Context
+1402832714,lotushansstudio-maker/lotushansstudio-maker.github.io,"Lotus  Out of the noise, a signal.Quantitative finance, with an art-school eye. From state-space models to generative visuals.",https://github.com/lotushansstudio-maker/lotushansstudio-maker.github.io,0,0,HTML,,2026-10-03T07:41:00Z,2026-10-04,False,Long Context
