@@ -9927,3 +9927,77 @@ id,name,description,url,stars,forks,language,topics,created_at,first_seen,is_act
 1404500001,aeroavi09/F-15C-Eagle-RCAIDE-Modeling,My work creating and modeling the F-15C aircraft in the RCAIDE and OpenVSP softwares and simulating a flight path,https://github.com/aeroavi09/F-15C-Eagle-RCAIDE-Modeling,0,0,Python,,2026-10-04T14:20:39Z,2026-10-05,False,Speculative Model
 1404637880,XueDugu/dlink-eaglepro-easymesh-mqtt-credential-evidence,,https://github.com/XueDugu/dlink-eaglepro-easymesh-mqtt-credential-evidence,0,0,Python,,2026-10-04T16:48:29Z,2026-10-05,False,Speculative Model
 1404534252,ratul-hossen/mercy,"Mindful Empathetic Responsive Companion for You. Personal AI assistant of Md Ratul Hossen: Next.js on Vercel, Neon Postgres + pgvector, Gemini → Groq key rotation, hybrid RAG, web search, Bangla/English voice, 3D eagle avatar, and an admin panel for knowledge, identity and branding.",https://github.com/ratul-hossen/mercy,0,0,TypeScript,,2026-10-04T14:53:39Z,2026-10-05,False,Speculative Model
+1406852258,hyuqi/sp2ec,SP2EC: Adaptive Self-Speculative Decoding for Vision-Language Models,https://github.com/hyuqi/sp2ec,0,0,Python,,2026-10-06T07:02:03Z,2026-10-06,True,Speculative Model
+1405425790,johnexzy/ragged-int8-attention,Project Dynamo task: ragged paged INT8 attention for speculative decode,https://github.com/johnexzy/ragged-int8-attention,0,0,Cuda,,2026-10-05T08:36:15Z,2026-10-06,True,Speculative Model
+1405865127,invaliddayta/llm-opt,"Making a 27B model decode fast on one RTX 3090: kernels, benchmarks and measurements for llama.cpp speculative decoding",https://github.com/invaliddayta/llm-opt,0,0,Python,,2026-10-05T14:03:20Z,2026-10-06,True,Speculative Model
+1405865219,invaliddayta/llama.cpp-opt,"llama.cpp fork tuned for speculative decoding on sm_86: int8 small-batch GEMM, fused q4 KV attention, GPU tool grammar, DFlash2",https://github.com/invaliddayta/llama.cpp-opt,0,0,C++,,2026-10-05T14:03:24Z,2026-10-06,True,Speculative Model
+1406903450,zedong-peng/qwen38-4090-decode,"Qwen3.8-27B speculative decoding on one RTX 4090: 245 tok/s on the official weights, 322 with better ones. Write-up, engine patches, tools.",https://github.com/zedong-peng/qwen38-4090-decode,0,0,HTML,"cuda,llm-inference,quantization,rtx-4090,speculative-decoding",2026-10-06T07:42:11Z,2026-10-06,True,Speculative Model
+1405526372,Mitsuasa513/V100-bonsai2-FAST,"Unofficial Tesla V100 (sm_70) tuning of the PrismML llama.cpp fork for ternary Bonsai 2 27B: bit-exact CUDA fusions + MTP speculative decoding, with the full measurement log.",https://github.com/Mitsuasa513/V100-bonsai2-FAST,0,0,C++,,2026-10-05T09:51:42Z,2026-10-06,True,Speculative Model
+1406334140,bkisonka/llmhost,"Local neural-net host on vanilla llama.cpp: learning memory planner, multi-model LRU router, speculative decoding (draft + MTP), MoE experts in RAM, OpenAI-compatible API. Same “install and forget” as Ollama — but the automation is per-model and it learns. Linux.",https://github.com/bkisonka/llmhost,0,0,C++,,2026-10-05T20:14:08Z,2026-10-06,True,Speculative Model
+1405881399,2024bse015-stack/MEDUSA,commercial ,https://github.com/2024bse015-stack/MEDUSA,0,0,,,2026-10-05T14:14:34Z,2026-10-06,True,Speculative Model
+1406100938,michaelhannasadek-arch/medusa,,https://github.com/michaelhannasadek-arch/medusa,0,0,CSS,,2026-10-05T16:51:06Z,2026-10-06,True,Speculative Model
+1406566095,renan-dev-dev/desafio-medusa,,https://github.com/renan-dev-dev/desafio-medusa,0,0,,,2026-10-06T01:46:13Z,2026-10-06,True,Speculative Model
+1406463448,jpccmedicine-svg/project-medusa,Project Medusa Beta v0.1 - Suite de Evaluación Clínica Dermatológica y Psoriasis,https://github.com/jpccmedicine-svg/project-medusa,0,0,JavaScript,,2026-10-05T23:03:22Z,2026-10-06,True,Speculative Model
+1406692846,Maleesha101/medusa-infrastructure,,https://github.com/Maleesha101/medusa-infrastructure,0,0,,,2026-10-06T04:33:51Z,2026-10-06,True,Speculative Model
+1406692350,Maleesha101/medusa-challenges,,https://github.com/Maleesha101/medusa-challenges,0,0,,,2026-10-06T04:33:15Z,2026-10-06,True,Speculative Model
+1405966042,medusa-custody/.github,Public profile for the Medusa Custody organization.,https://github.com/medusa-custody/.github,0,0,,,2026-10-05T15:15:24Z,2026-10-06,True,Speculative Model
+1406691742,Maleesha101/medusa-ctfd-plugins,,https://github.com/Maleesha101/medusa-ctfd-plugins,0,0,,,2026-10-06T04:32:34Z,2026-10-06,True,Speculative Model
+1405897793,dnwandana/medusa-ecommerce-template,,https://github.com/dnwandana/medusa-ecommerce-template,0,0,TypeScript,,2026-10-05T14:25:40Z,2026-10-06,True,Speculative Model
+1406691171,Maleesha101/medusa-ctfd-theme,,https://github.com/Maleesha101/medusa-ctfd-theme,0,0,,,2026-10-06T04:31:55Z,2026-10-06,True,Speculative Model
+1406692073,Maleesha101/medusa-sandbox-controller,,https://github.com/Maleesha101/medusa-sandbox-controller,0,0,,,2026-10-06T04:32:56Z,2026-10-06,True,Speculative Model
+1406338483,geykelalpha/medusa-b2b-starter,A customized version of the Official Medusa B2B Starter template.,https://github.com/geykelalpha/medusa-b2b-starter,0,0,TypeScript,,2026-10-05T20:18:30Z,2026-10-06,True,Speculative Model
+1406230395,MatheusdeOliveirasouza/projetomedusacybersecurity,"Projeto prático de auditoria de segurança com Kali Linux, Medusa, Metasploitable 2 e DVWA.",https://github.com/MatheusdeOliveirasouza/projetomedusacybersecurity,0,0,,,2026-10-05T18:36:23Z,2026-10-06,True,Speculative Model
+1405708292,tanjilahsan64-ux/Eagle-eye,Eagle-eye,https://github.com/tanjilahsan64-ux/Eagle-eye,0,0,Dart,,2026-10-05T12:21:32Z,2026-10-06,True,Speculative Model
+1406068612,MarcWelke/Eagle,,https://github.com/MarcWelke/Eagle,0,0,,,2026-10-05T16:27:29Z,2026-10-06,True,Speculative Model
+1405988651,falconed984-commits/eagle,aa,https://github.com/falconed984-commits/eagle,0,0,HTML,,2026-10-05T15:30:59Z,2026-10-06,True,Speculative Model
+1406069391,eaglestellar23522/eaglestellar23522,My GitHub Profile,https://github.com/eaglestellar23522/eaglestellar23522,0,0,,,2026-10-05T16:28:04Z,2026-10-06,True,Speculative Model
+1406019680,nkippy/attempt-4,Eagler craft 1.12,https://github.com/nkippy/attempt-4,0,0,,,2026-10-05T15:52:05Z,2026-10-06,True,Speculative Model
+1405943957,rahulr782008/Eagle-Technology-0.2,Eagle Technology 0.2,https://github.com/rahulr782008/Eagle-Technology-0.2,0,0,,,2026-10-05T14:59:33Z,2026-10-06,True,Speculative Model
+1405740481,SMalone16/EaglerAirplaneMod,,https://github.com/SMalone16/EaglerAirplaneMod,0,0,Java,,2026-10-05T12:42:13Z,2026-10-06,True,Speculative Model
+1406525911,eaglercrafty767/eaglercrafty767.github.io,,https://github.com/eaglercrafty767/eaglercrafty767.github.io,0,0,,,2026-10-06T00:42:45Z,2026-10-06,True,Speculative Model
+1405991242,falconed984-commits/eagleeee,vfvfv,https://github.com/falconed984-commits/eagleeee,0,0,HTML,,2026-10-05T15:32:46Z,2026-10-06,True,Speculative Model
+1406688819,19082-commits/-eagler,,https://github.com/19082-commits/-eagler,0,0,,,2026-10-06T04:29:10Z,2026-10-06,True,Speculative Model
+1406006977,quantmaxamilist/eaglenation,,https://github.com/quantmaxamilist/eaglenation,0,0,Astro,,2026-10-05T15:43:09Z,2026-10-06,True,Speculative Model
+1406444547,MyntBlue/eagler,pixelclient for thingy,https://github.com/MyntBlue/eagler,0,0,HTML,,2026-10-05T22:34:04Z,2026-10-06,True,Speculative Model
+1405764124,Hexorod/eagler,,https://github.com/Hexorod/eagler,0,0,,,2026-10-05T12:57:50Z,2026-10-06,True,Speculative Model
+1406812937,pranyprany/eaglesbrae,repository for the eagles brae landing page,https://github.com/pranyprany/eaglesbrae,0,0,,,2026-10-06T06:29:18Z,2026-10-06,True,Speculative Model
+1405839964,eloimbot/eagler,,https://github.com/eloimbot/eagler,0,0,HTML,,2026-10-05T13:46:55Z,2026-10-06,True,Speculative Model
+1405922418,brayd6n/eaglercrap,,https://github.com/brayd6n/eaglercrap,0,0,HTML,,2026-10-05T14:43:35Z,2026-10-06,True,Speculative Model
+1405698721,bhawani-300d/eagleeducation,a larning app class 10to all compition exams,https://github.com/bhawani-300d/eagleeducation,0,0,,,2026-10-05T12:15:38Z,2026-10-06,True,Speculative Model
+1405903310,brayd6n/eaglercraft,,https://github.com/brayd6n/eaglercraft,0,0,HTML,,2026-10-05T14:29:33Z,2026-10-06,True,Speculative Model
+1406662390,19082-commits/eagler,,https://github.com/19082-commits/eagler,0,0,,,2026-10-06T03:55:42Z,2026-10-06,True,Speculative Model
+1406491401,nodoid/GoldenEagle,"Golden Eagle (L'Aigle d'Or): a high-resolution MonoGame remake of the 1984 Oric castle adventure, for iOS, Android, macOS and Windows, in English and French",https://github.com/nodoid/GoldenEagle,0,0,C#,,2026-10-05T23:45:49Z,2026-10-06,True,Speculative Model
+1406537235,djserverdev67/eagler-proxy,ignore this shyt,https://github.com/djserverdev67/eagler-proxy,0,0,JavaScript,,2026-10-06T01:00:39Z,2026-10-06,True,Speculative Model
+1405753694,affigiraffi/Eagle-Eye,,https://github.com/affigiraffi/Eagle-Eye,0,0,HTML,,2026-10-05T12:50:55Z,2026-10-06,True,Speculative Model
+1406600070,Coolboy8297/veyaora-eaglercraft,,https://github.com/Coolboy8297/veyaora-eaglercraft,0,0,HTML,,2026-10-06T02:35:39Z,2026-10-06,True,Speculative Model
+1405516598,SamikshaKamble01/EAGLE-EYE,,https://github.com/SamikshaKamble01/EAGLE-EYE,0,0,TypeScript,,2026-10-05T09:43:18Z,2026-10-06,True,Speculative Model
+1405913986,badoxDEV/eagler-server,,https://github.com/badoxDEV/eagler-server,0,0,,,2026-10-05T14:37:10Z,2026-10-06,True,Speculative Model
+1405476698,WAWA3322/wawa-eaglercraft,wawa's eaglercraft,https://github.com/WAWA3322/wawa-eaglercraft,0,0,HTML,,2026-10-05T09:12:50Z,2026-10-06,True,Speculative Model
+1406157162,rolimjeferson26-cyber/eagles-barbearia,,https://github.com/rolimjeferson26-cyber/eagles-barbearia,0,0,HTML,,2026-10-05T17:36:26Z,2026-10-06,True,Speculative Model
+1406186056,assisi-francis/eagletech-mobile,An ecommerce app for Eagle Tech Stores built using react expo,https://github.com/assisi-francis/eagletech-mobile,0,0,TypeScript,,2026-10-05T17:58:03Z,2026-10-06,True,Speculative Model
+1406009225,homigopreiner-cmd/foodEagle,Exclusive food delivery app for CSU Carig Campus,https://github.com/homigopreiner-cmd/foodEagle,0,0,TypeScript,,2026-10-05T15:44:42Z,2026-10-06,True,Speculative Model
+1406694124,RainskyCG/Eagle-AssetLink,本地资产浏览器：在 Eagle 中定位、浏览和预览本地源资产。,https://github.com/RainskyCG/Eagle-AssetLink,0,0,JavaScript,,2026-10-06T04:35:27Z,2026-10-06,True,Speculative Model
+1406488326,Affedzie/rebel-eagle-480,Vmix Crack 무료 다운로드 — 2026 최신 버전.,https://github.com/Affedzie/rebel-eagle-480,0,0,,,2026-10-05T23:41:06Z,2026-10-06,True,Speculative Model
+1406941682,Gokulraj002/MMB-Eagle-media,,https://github.com/Gokulraj002/MMB-Eagle-media,0,0,JavaScript,,2026-10-06T08:11:33Z,2026-10-06,True,Speculative Model
+1405970805,gopzz-coder/pristine-eagle-744,Kms Pico Office 365：無料ダウンロード、動作環境、インストールガイド。,https://github.com/gopzz-coder/pristine-eagle-744,0,0,,,2026-10-05T15:18:56Z,2026-10-06,True,Speculative Model
+1406477900,ss-nyven/rugged-eagle-179,Daemon Tools Pro Crack: бесплатное скачивание и установка.,https://github.com/ss-nyven/rugged-eagle-179,0,0,,,2026-10-05T23:25:18Z,2026-10-06,True,Speculative Model
+1405808718,juliannizah-26/hollow-eagle-434,Simple information about Kms Auto 2026.,https://github.com/juliannizah-26/hollow-eagle-434,0,0,,,2026-10-05T13:26:45Z,2026-10-06,True,Speculative Model
+1405984704,zamulele/curious-eagle-828,"Windows 11 Education Activator : téléchargement gratuit, config et guide d'installation.",https://github.com/zamulele/curious-eagle-828,0,0,,,2026-10-05T15:28:19Z,2026-10-06,True,Speculative Model
+1406543949,Sekiro98/bright-eagle-482,Télécharger Adobe Animate 2026 Crack gratuitement — version 2026.,https://github.com/Sekiro98/bright-eagle-482,0,0,,,2026-10-06T01:11:11Z,2026-10-06,True,Speculative Model
+1405484084,veerasivasatyavaraprasad-netizen/Red-Sea-Eagle,,https://github.com/veerasivasatyavaraprasad-netizen/Red-Sea-Eagle,0,0,,,2026-10-05T09:17:46Z,2026-10-06,True,Speculative Model
+1406200166,EagleIX-Solutions/eagleix-landing-page,Landing Page,https://github.com/EagleIX-Solutions/eagleix-landing-page,0,0,TypeScript,,2026-10-05T18:09:34Z,2026-10-06,True,Speculative Model
+1406826495,grishkadam023-creator/keen-eagle-307,حمّل Adobe Photoshop Repack (2026) — مجاني ومختبر.,https://github.com/grishkadam023-creator/keen-eagle-307,0,0,,,2026-10-06T06:40:24Z,2026-10-06,True,Speculative Model
+1405434803,dhruveshradaye-ops/eagle-attire-hub,Modern fashion e-commerce web application for Eagle Attire Hub,https://github.com/dhruveshradaye-ops/eagle-attire-hub,0,0,,,2026-10-05T08:43:19Z,2026-10-06,True,Speculative Model
+1405936939,forsakenHacker/eagler-ws-proxyy,,https://github.com/forsakenHacker/eagler-ws-proxyy,0,0,JavaScript,,2026-10-05T14:54:31Z,2026-10-06,True,Speculative Model
+1406949086,nurfarazi/agents-eagle-eye,,https://github.com/nurfarazi/agents-eagle-eye,0,0,TypeScript,,2026-10-06T08:17:59Z,2026-10-06,True,Speculative Model
+1406359940,Aditszz/Aditszz-Eagle-Eye,,https://github.com/Aditszz/Aditszz-Eagle-Eye,0,0,,,2026-10-05T20:42:46Z,2026-10-06,True,Speculative Model
+1406528707,Altieresjp/rebel-eagle-832,تحميل Coreldraw Crack مجاناً — إصدار 2026.,https://github.com/Altieresjp/rebel-eagle-832,0,0,,,2026-10-06T00:47:13Z,2026-10-06,True,Speculative Model
+1405933980,forsakenHacker/eagler-ws-proxy,,https://github.com/forsakenHacker/eagler-ws-proxy,0,0,JavaScript,,2026-10-05T14:52:13Z,2026-10-06,True,Speculative Model
+1406555373,Ashish0011-ashu/modular-eagle-500,Descargar Proteus Crack gratis — versión 2026.,https://github.com/Ashish0011-ashu/modular-eagle-500,0,0,,,2026-10-06T01:29:03Z,2026-10-06,True,Speculative Model
+1405871044,JohnOrlan67/Black-eagle-cybersecurity-assessment,,https://github.com/JohnOrlan67/Black-eagle-cybersecurity-assessment,0,0,,,2026-10-05T14:07:16Z,2026-10-06,True,Speculative Model
+1406229664,hudsonty/Eaglercraft-1.12.2,,https://github.com/hudsonty/Eaglercraft-1.12.2,0,0,,,2026-10-05T18:35:46Z,2026-10-06,True,Speculative Model
+1406007509,nh-007/toy_ds_project,"Owen P. Elliot ""Runs with the Eagles"" Moose Knuckle Bateman",https://github.com/nh-007/toy_ds_project,0,0,Jupyter Notebook,,2026-10-05T15:43:32Z,2026-10-06,True,Speculative Model
+1406396594,EagleBound/troop32-website,"Official website for Scouting America Troop 32, Santa Rosa, California. Eagle Bound!",https://github.com/EagleBound/troop32-website,0,0,,,2026-10-05T21:26:15Z,2026-10-06,True,Speculative Model
+1406597225,ragesband1/October-6-2026-Chapter-39-An-Eagle-And-A-Lion,,https://github.com/ragesband1/October-6-2026-Chapter-39-An-Eagle-And-A-Lion,0,0,HTML,,2026-10-06T02:31:38Z,2026-10-06,True,Speculative Model
+1405530219,ashookk0608-del/Ashok-," All Rounders Sports Academy webpage with:  🦅 Eagle-style academy branding  🏐 Volleyball, 🏏 Cricket, ⚽ Football, 🏑 Hockey, Handball, Athletics & Basketball  👨‍👩‍👧‍👦 Men & women  🎯 Age: 6–36 years  📍 Dasanaikenpatty, Salem, Tamil Nadu  👤 Owner: ASHOK  📞 Click-to-call phone number  ⏰ Training hours: 5:00 AM–10:00 PM  📱 ",https://github.com/ashookk0608-del/Ashok-,0,0,,,2026-10-05T09:55:02Z,2026-10-06,True,Speculative Model
+1405376991,KIRA-01010/Fake-News-Detector,"End-to-end machine learning pipeline that classifies news text as REAL or FAKE using TF-IDF features. Benchmarks Passive-Aggressive and Logistic Regression models, with single-text and batch CSV prediction, confidence scores, and saved models for fast inference.",https://github.com/KIRA-01010/Fake-News-Detector,0,0,Python,,2026-10-05T08:01:12Z,2026-10-06,True,Speculative Model
