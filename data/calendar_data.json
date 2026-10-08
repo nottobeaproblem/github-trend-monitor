@@ -6849,5 +6849,83 @@
     "url": "https://simonwillison.net/2026/Oct/6/datasette-atom/",
     "tags": "",
     "created_at": "2026-10-07 07:56:30"
+  },
+  {
+    "id": "rss_https://openai.com/index/radisson",
+    "company": "OpenAI",
+    "title": "Radisson Hotel Group brings hotel discovery into ChatGPT",
+    "publish_date": "2026-10-07",
+    "type": "其他",
+    "open_source": "否",
+    "summary": "Radisson partnered with Accenture to build a ChatGPT plugin using OpenAI technology, helping travelers find, compare, and book hotels while planning their trips.",
+    "details": "",
+    "url": "https://openai.com/index/radisson",
+    "tags": "",
+    "created_at": "2026-10-08 08:12:36"
+  },
+  {
+    "id": "rss_https://openai.com/index/gpt-6-for-everyone",
+    "company": "OpenAI",
+    "title": "GPT-6 and Intelligent UI for everyone",
+    "publish_date": "2026-10-07",
+    "type": "其他",
+    "open_source": "否",
+    "summary": "GPT‑6 is rolling out globally in ChatGPT with Intelligent UI, delivering faster responses with visuals and interactive experiences you can explore and use directly.",
+    "details": "",
+    "url": "https://openai.com/index/gpt-6-for-everyone",
+    "tags": "",
+    "created_at": "2026-10-08 08:12:36"
+  },
+  {
+    "id": "rss_https://huggingface.co/blog/LiquidAI/open-d1",
+    "company": "Hugging Face",
+    "title": "Multimodal open d1 decision models for the edge",
+    "publish_date": "2026-10-07",
+    "type": "其他",
+    "open_source": "否",
+    "summary": "",
+    "details": "",
+    "url": "https://huggingface.co/blog/LiquidAI/open-d1",
+    "tags": "",
+    "created_at": "2026-10-08 08:12:47"
+  },
+  {
+    "id": "rss_https://huggingface.co/blog/nvidia/nemotron-ioi-and-imo-2026",
+    "company": "Hugging Face",
+    "title": "One Model Family, Two Gold-Level Results: Fine-Tuning Nemotron for IOI and IMO",
+    "publish_date": "2026-10-07",
+    "type": "其他",
+    "open_source": "否",
+    "summary": "",
+    "details": "",
+    "url": "https://huggingface.co/blog/nvidia/nemotron-ioi-and-imo-2026",
+    "tags": "",
+    "created_at": "2026-10-08 08:12:47"
+  },
+  {
+    "id": "rss_https://www.microsoft.com/en-us/research/?p=1187920",
+    "company": "Microsoft Research",
+    "title": "Agent Lightning v1.0: A 3,500-Line Lightweight Agentic RL Framework for Training Agents with Real Harnesses",
+    "publish_date": "2026-10-07",
+    "type": "其他",
+    "open_source": "否",
+    "summary": "<p>Training AI agents with reinforcement learning can be challenging because their tools, context, and decision-making are managed by complex frameworks. Agent Lightning connects existing agents to RL",
+    "details": "",
+    "url": "https://www.microsoft.com/en-us/research/blog/agent-lightning-v1-0-a-3500-line-lightweight-agentic-rl-framework-for-training-agents-with-real-harnesses/",
+    "tags": "",
+    "created_at": "2026-10-08 08:12:48"
+  },
+  {
+    "id": "rss_https://simonwillison.net/2026/Oct/7/claude-haiku-5-5/",
+    "company": "Simon Willison",
+    "title": "Claude Haiku 5.5",
+    "publish_date": "2026-10-07",
+    "type": "其他",
+    "open_source": "否",
+    "summary": "<p>As previously <a href=\"https://simonwillison.net/2026/Sep/28/claude-sonnet-5-5/\">promised</a>, here's Anthropic's new fast, low cost model: <a href=\"https://www.anthropic.com/claude-haiku-5-5\">Intr",
+    "details": "",
+    "url": "https://simonwillison.net/2026/Oct/7/claude-haiku-5-5/",
+    "tags": "",
+    "created_at": "2026-10-08 08:12:49"
   }
 ]
