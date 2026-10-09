@@ -6927,5 +6927,31 @@
     "url": "https://simonwillison.net/2026/Oct/7/claude-haiku-5-5/",
     "tags": "",
     "created_at": "2026-10-08 08:12:49"
+  },
+  {
+    "id": "rss_https://openai.com/index/oracle",
+    "company": "OpenAI",
+    "title": "How Oracle turns days of work into minutes with ChatGPT and Codex",
+    "publish_date": "2026-10-08",
+    "type": "其他",
+    "open_source": "否",
+    "summary": "Across recruiting, engineering, and operations, Oracle turns specialist knowledge into fast, repeatable workflows with ChatGPT Work and Codex.",
+    "details": "",
+    "url": "https://openai.com/index/oracle",
+    "tags": "",
+    "created_at": "2026-10-09 08:12:12"
+  },
+  {
+    "id": "rss_https://huggingface.co/blog/building-with-ml-intern",
+    "company": "Hugging Face",
+    "title": "The model that didn't exist, so you made it yourself",
+    "publish_date": "2026-10-08",
+    "type": "其他",
+    "open_source": "否",
+    "summary": "",
+    "details": "",
+    "url": "https://huggingface.co/blog/building-with-ml-intern",
+    "tags": "",
+    "created_at": "2026-10-09 08:12:14"
   }
 ]
