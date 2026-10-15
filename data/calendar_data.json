@@ -7070,5 +7070,44 @@
     "url": "https://simonwillison.net/2026/Oct/13/llm-gemini/",
     "tags": "",
     "created_at": "2026-10-14 06:56:01"
+  },
+  {
+    "id": "rss_https://openai.com/index/amp-beyond-coding",
+    "company": "OpenAI",
+    "title": "Amp puts AI agents to work beyond code with OpenAI models",
+    "publish_date": "2026-10-14",
+    "type": "其他",
+    "open_source": "否",
+    "summary": "See how Amp pushes the frontier of what agents can do with GPT-6 Astra, Ultrafast, GPT-Live-1, and Sign in with ChatGPT.",
+    "details": "",
+    "url": "https://openai.com/index/amp-beyond-coding",
+    "tags": "",
+    "created_at": "2026-10-15 06:44:25"
+  },
+  {
+    "id": "rss_https://openai.com/index/third-moment-research",
+    "company": "OpenAI",
+    "title": "How Third Moment Research runs 10,000 agents for 36+ hours",
+    "publish_date": "2026-10-14",
+    "type": "其他",
+    "open_source": "否",
+    "summary": "With GPT-6 Astra and GPT-6.1 Sol, Codex, and Daybreak for cybersecurity, this AI lab builds agents that focus for days and improve with use.",
+    "details": "",
+    "url": "https://openai.com/index/third-moment-research",
+    "tags": "",
+    "created_at": "2026-10-15 06:44:25"
+  },
+  {
+    "id": "rss_https://openai.com/index/the-eus-next-chapter-in-ai-is-agentic",
+    "company": "OpenAI",
+    "title": "The EU’s next chapter in AI is agentic",
+    "publish_date": "2026-10-14",
+    "type": "其他",
+    "open_source": "否",
+    "summary": "New analysis shows how agentic AI adoption is growing across EU enterprises and small businesses—and where deeper use could unlock more value.",
+    "details": "",
+    "url": "https://openai.com/index/the-eus-next-chapter-in-ai-is-agentic",
+    "tags": "",
+    "created_at": "2026-10-15 06:44:25"
   }
 ]
