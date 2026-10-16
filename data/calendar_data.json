@@ -7109,5 +7109,31 @@
     "url": "https://openai.com/index/the-eus-next-chapter-in-ai-is-agentic",
     "tags": "",
     "created_at": "2026-10-15 06:44:25"
+  },
+  {
+    "id": "rss_https://openai.com/index/introducing-the-rosalind-academic-plan",
+    "company": "OpenAI",
+    "title": "Bringing GPT-Rosalind to academic research labs",
+    "publish_date": "2026-10-15",
+    "type": "其他",
+    "open_source": "否",
+    "summary": "Introducing the Rosalind Academic Plan, offering eligible academic labs sponsored access to GPT-Rosalind and tools to advance life sciences research.",
+    "details": "",
+    "url": "https://openai.com/index/introducing-the-rosalind-academic-plan",
+    "tags": "",
+    "created_at": "2026-10-16 06:36:45"
+  },
+  {
+    "id": "rss_https://huggingface.co/blog/meta-muse-spark-open",
+    "company": "Hugging Face",
+    "title": "Welcome Muse Spark Open: open-weight frontier multimodal mixture-of-experts model from Meta",
+    "publish_date": "2026-10-15",
+    "type": "其他",
+    "open_source": "否",
+    "summary": "",
+    "details": "",
+    "url": "https://huggingface.co/blog/meta-muse-spark-open",
+    "tags": "",
+    "created_at": "2026-10-16 06:36:47"
   }
 ]
