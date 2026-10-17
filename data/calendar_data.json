@@ -7135,5 +7135,31 @@
     "url": "https://huggingface.co/blog/meta-muse-spark-open",
     "tags": "",
     "created_at": "2026-10-16 06:36:47"
+  },
+  {
+    "id": "rss_https://openai.com/index/stack-overflow-chatgpt-plugin",
+    "company": "OpenAI",
+    "title": "Stack Overflow for Agents triples signups with ChatGPT plugin",
+    "publish_date": "2026-10-16",
+    "type": "其他",
+    "open_source": "否",
+    "summary": "Two engineers shipped Stack Overflow for Agents in a few weeks with Codex, and its ChatGPT plugin helped drive up to 10× growth in agent creation.",
+    "details": "",
+    "url": "https://openai.com/index/stack-overflow-chatgpt-plugin",
+    "tags": "",
+    "created_at": "2026-10-17 06:25:55"
+  },
+  {
+    "id": "rss_https://huggingface.co/blog/reflection-beam",
+    "company": "Hugging Face",
+    "title": "Welcome Beam: a 501B open model you can own, customize, and scale",
+    "publish_date": "2026-10-16",
+    "type": "其他",
+    "open_source": "否",
+    "summary": "",
+    "details": "",
+    "url": "https://huggingface.co/blog/reflection-beam",
+    "tags": "",
+    "created_at": "2026-10-17 06:25:56"
   }
 ]
