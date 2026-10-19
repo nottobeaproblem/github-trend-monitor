@@ -7161,5 +7161,18 @@
     "url": "https://huggingface.co/blog/reflection-beam",
     "tags": "",
     "created_at": "2026-10-17 06:25:56"
+  },
+  {
+    "id": "rss_https://simonwillison.net/2026/Oct/18/llm-tools-datasette/",
+    "company": "Simon Willison",
+    "title": "llm-tools-datasette 0.1.1",
+    "publish_date": "2026-10-18",
+    "type": "其他",
+    "open_source": "否",
+    "summary": "<p><strong>Release:</strong> <a href=\"https://github.com/simonw/llm-tools-datasette/releases/tag/0.1.1\">llm-tools-datasette 0.1.1</a></p>\n        <p>When I switched LLM over to <a href=\"https://github",
+    "details": "",
+    "url": "https://simonwillison.net/2026/Oct/18/llm-tools-datasette/",
+    "tags": "",
+    "created_at": "2026-10-19 07:09:03"
   }
 ]
