@@ -7174,5 +7174,31 @@
     "url": "https://simonwillison.net/2026/Oct/18/llm-tools-datasette/",
     "tags": "",
     "created_at": "2026-10-19 07:09:03"
+  },
+  {
+    "id": "rss_https://huggingface.co/blog/hf-torchneuron",
+    "company": "Hugging Face",
+    "title": "TorchNeuron: running HF models on AWS Trainium is easier than ever",
+    "publish_date": "2026-10-19",
+    "type": "其他",
+    "open_source": "否",
+    "summary": "",
+    "details": "",
+    "url": "https://huggingface.co/blog/hf-torchneuron",
+    "tags": "",
+    "created_at": "2026-10-20 06:53:47"
+  },
+  {
+    "id": "rss_https://huggingface.co/blog/swiss-ai/apertus-v15-release-notes",
+    "company": "Hugging Face",
+    "title": "Apertus 1.5 Release Notes",
+    "publish_date": "2026-10-15",
+    "type": "其他",
+    "open_source": "否",
+    "summary": "",
+    "details": "",
+    "url": "https://huggingface.co/blog/swiss-ai/apertus-v15-release-notes",
+    "tags": "",
+    "created_at": "2026-10-20 06:53:47"
   }
 ]

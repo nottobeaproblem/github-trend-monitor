@@ -783,3 +783,5 @@ rss_https://openai.com/index/stack-overflow-chatgpt-plugin,OpenAI,Stack Overflow
 rss_https://huggingface.co/blog/reflection-beam,Hugging Face,"Welcome Beam: a 501B open model you can own, customize, and scale",2026-10-16,其他,否,,,https://huggingface.co/blog/reflection-beam,,2026-10-17 06:25:56
 rss_https://simonwillison.net/2026/Oct/18/llm-tools-datasette/,Simon Willison,llm-tools-datasette 0.1.1,2026-10-18,其他,否,"<p><strong>Release:</strong> <a href=""https://github.com/simonw/llm-tools-datasette/releases/tag/0.1.1"">llm-tools-datasette 0.1.1</a></p>
         <p>When I switched LLM over to <a href=""https://github",,https://simonwillison.net/2026/Oct/18/llm-tools-datasette/,,2026-10-19 07:09:03
+rss_https://huggingface.co/blog/hf-torchneuron,Hugging Face,TorchNeuron: running HF models on AWS Trainium is easier than ever,2026-10-19,其他,否,,,https://huggingface.co/blog/hf-torchneuron,,2026-10-20 06:53:47
+rss_https://huggingface.co/blog/swiss-ai/apertus-v15-release-notes,Hugging Face,Apertus 1.5 Release Notes,2026-10-15,其他,否,,,https://huggingface.co/blog/swiss-ai/apertus-v15-release-notes,,2026-10-20 06:53:47
