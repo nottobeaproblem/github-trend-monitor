@@ -7200,5 +7200,70 @@
     "url": "https://huggingface.co/blog/swiss-ai/apertus-v15-release-notes",
     "tags": "",
     "created_at": "2026-10-20 06:53:47"
+  },
+  {
+    "id": "rss_https://openai.com/index/ted-taylor-restaurant",
+    "company": "OpenAI",
+    "title": "Franchisee reconciles cash in 94% less time with ChatGPT Work",
+    "publish_date": "2026-10-20",
+    "type": "其他",
+    "open_source": "否",
+    "summary": "An independent Schlotzsky’s and Cinnabon franchisee cut menu repricing time by 95% and built a workflow that could free up $100K in cash flow.",
+    "details": "",
+    "url": "https://openai.com/index/ted-taylor-restaurant",
+    "tags": "",
+    "created_at": "2026-10-21 06:48:50"
+  },
+  {
+    "id": "rss_https://openai.com/index/terminal-x",
+    "company": "OpenAI",
+    "title": "Terminal X matches senior investor judgment 88.6% with GPT-6.1",
+    "publish_date": "2026-10-20",
+    "type": "其他",
+    "open_source": "否",
+    "summary": "Terminal X’s Eval Agent grades outputs against a 54-criterion rubric, catching 25% more deviances from a fund’s mandate with GPT-6.1 Sol.",
+    "details": "",
+    "url": "https://openai.com/index/terminal-x",
+    "tags": "",
+    "created_at": "2026-10-21 06:48:50"
+  },
+  {
+    "id": "rss_https://huggingface.co/blog/ibm-research/altk-evolve-bc",
+    "company": "Hugging Face",
+    "title": "ALTK-Evolve: How learned memory tops the τ²-bench leaderboard on customer service tasks without a frontier model",
+    "publish_date": "2026-10-20",
+    "type": "其他",
+    "open_source": "否",
+    "summary": "",
+    "details": "",
+    "url": "https://huggingface.co/blog/ibm-research/altk-evolve-bc",
+    "tags": "",
+    "created_at": "2026-10-21 06:48:52"
+  },
+  {
+    "id": "rss_https://huggingface.co/blog/anylanguagemodel-1-0",
+    "company": "Hugging Face",
+    "title": "AnyLanguageModel 1.0: One Year of Local Models on Apple Platforms",
+    "publish_date": "2026-10-20",
+    "type": "其他",
+    "open_source": "否",
+    "summary": "",
+    "details": "",
+    "url": "https://huggingface.co/blog/anylanguagemodel-1-0",
+    "tags": "",
+    "created_at": "2026-10-21 06:48:52"
+  },
+  {
+    "id": "rss_https://www.microsoft.com/en-us/research/?p=1185073",
+    "company": "Microsoft Research",
+    "title": "Called to serve: Tech, research, and positive impact",
+    "publish_date": "2026-10-20",
+    "type": "其他",
+    "open_source": "否",
+    "summary": "<p>Lab Director Chris White has worked on research challenges with real-world implications—from new approaches to wartime data analysis to tools for combating human trafficking. He talks to program ma",
+    "details": "",
+    "url": "https://www.microsoft.com/en-us/research/podcast/called-to-serve-tech-research-and-positive-impact-with-chris-white/",
+    "tags": "",
+    "created_at": "2026-10-21 06:48:53"
   }
 ]
