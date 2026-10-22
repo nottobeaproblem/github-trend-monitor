@@ -7265,5 +7265,83 @@
     "url": "https://www.microsoft.com/en-us/research/podcast/called-to-serve-tech-research-and-positive-impact-with-chris-white/",
     "tags": "",
     "created_at": "2026-10-21 06:48:53"
+  },
+  {
+    "id": "rss_https://openai.com/index/openai-models-google-cloud",
+    "company": "OpenAI",
+    "title": "OpenAI models are coming to Google Cloud",
+    "publish_date": "2026-10-21",
+    "type": "其他",
+    "open_source": "否",
+    "summary": "OpenAI and Google Cloud are bringing frontier models and Codex workflows to Gemini’s Model Garden, available through Google Cloud Marketplace.",
+    "details": "",
+    "url": "https://openai.com/index/openai-models-google-cloud",
+    "tags": "",
+    "created_at": "2026-10-22 06:51:39"
+  },
+  {
+    "id": "rss_https://openai.com/index/coordinated-disclosure-of-critical-vulnerabilities",
+    "company": "OpenAI",
+    "title": "Patch the Planet: global response coordination as agents uncover critical vulnerabilities",
+    "publish_date": "2026-10-21",
+    "type": "其他",
+    "open_source": "否",
+    "summary": "Patch the Planet connects security researchers, maintainers, and incident responders to help address critical vulnerabilities across open source.",
+    "details": "",
+    "url": "https://openai.com/index/coordinated-disclosure-of-critical-vulnerabilities",
+    "tags": "",
+    "created_at": "2026-10-22 06:51:39"
+  },
+  {
+    "id": "rss_https://openai.com/index/chatgpt-ads-expands-26-new-countries",
+    "company": "OpenAI",
+    "title": "ChatGPT Ads expands to 26 new countries as over 100,000 advertisers have used the platform",
+    "publish_date": "2026-10-21",
+    "type": "其他",
+    "open_source": "否",
+    "summary": "From local businesses to global brands, more advertisers can now reach people as they explore, compare and decide what to buy in ChatGPT.",
+    "details": "",
+    "url": "https://openai.com/index/chatgpt-ads-expands-26-new-countries",
+    "tags": "",
+    "created_at": "2026-10-22 06:51:39"
+  },
+  {
+    "id": "rss_https://openai.com/index/scaling-ai-research-for-complex-biological-data",
+    "company": "OpenAI",
+    "title": "Using thousands of AI agents to uncover new leads in biological data",
+    "publish_date": "2026-10-21",
+    "type": "其他",
+    "open_source": "否",
+    "summary": "See how OpenAI, PerturbAI, and Scripps Research used distributed AI agents to uncover promising research leads in data from millions of brain cells.",
+    "details": "",
+    "url": "https://openai.com/index/scaling-ai-research-for-complex-biological-data",
+    "tags": "",
+    "created_at": "2026-10-22 06:51:39"
+  },
+  {
+    "id": "rss_https://openai.com/index/building-chatgpt-ad-stack",
+    "company": "OpenAI",
+    "title": "How we built ChatGPT’s novel ad stack for user trust and relevance",
+    "publish_date": "2026-10-21",
+    "type": "其他",
+    "open_source": "否",
+    "summary": "Learn how OpenAI built ChatGPT’s LLM-powered ad stack to understand conversational intent, keep ads separate from answers, and deliver relevant ads at scale.",
+    "details": "",
+    "url": "https://openai.com/index/building-chatgpt-ad-stack",
+    "tags": "",
+    "created_at": "2026-10-22 06:51:39"
+  },
+  {
+    "id": "rss_https://simonwillison.net/2026/Oct/21/php-security-release/",
+    "company": "Simon Willison",
+    "title": "Today's PHP Security Release, and How We're Strengthening PHP Security",
+    "publish_date": "2026-10-21",
+    "type": "其他",
+    "open_source": "否",
+    "summary": "<p><strong><a href=\"https://thephp.foundation/blog/2026/10/21/todays-php-security-release-and-how-were-strengthening-php-security/\">Today&#x27;s PHP Security Release, and How We&#x27;re Strengthening ",
+    "details": "",
+    "url": "https://simonwillison.net/2026/Oct/21/php-security-release/",
+    "tags": "",
+    "created_at": "2026-10-22 06:51:41"
   }
 ]
