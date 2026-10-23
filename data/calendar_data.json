@@ -7343,5 +7343,70 @@
     "url": "https://simonwillison.net/2026/Oct/21/php-security-release/",
     "tags": "",
     "created_at": "2026-10-22 06:51:41"
+  },
+  {
+    "id": "rss_https://openai.com/index/decisions-api",
+    "company": "OpenAI",
+    "title": "Build more responsive apps with the Decisions API",
+    "publish_date": "2026-10-22",
+    "type": "其他",
+    "open_source": "否",
+    "summary": "Fast, focused, low-cost decisions for any application.",
+    "details": "",
+    "url": "https://openai.com/index/decisions-api",
+    "tags": "",
+    "created_at": "2026-10-23 06:45:19"
+  },
+  {
+    "id": "rss_https://openai.com/index/uber-chatgpt-work-rollout",
+    "company": "OpenAI",
+    "title": "Uber brings ChatGPT Work to all employees with OpenAI",
+    "publish_date": "2026-10-22",
+    "type": "其他",
+    "open_source": "否",
+    "summary": "Uber is rolling out ChatGPT Work to more than 30,000 employees, helping teams research, analyze data, create presentations, and complete complex workflows.",
+    "details": "",
+    "url": "https://openai.com/index/uber-chatgpt-work-rollout",
+    "tags": "",
+    "created_at": "2026-10-23 06:45:19"
+  },
+  {
+    "id": "rss_https://huggingface.co/blog/microsoft/thinkingbox-training",
+    "company": "Hugging Face",
+    "title": "Turning Database Grading into RL Rewards: Post-Training Agents with ThinkingBox",
+    "publish_date": "2026-10-22",
+    "type": "其他",
+    "open_source": "否",
+    "summary": "",
+    "details": "",
+    "url": "https://huggingface.co/blog/microsoft/thinkingbox-training",
+    "tags": "",
+    "created_at": "2026-10-23 06:45:20"
+  },
+  {
+    "id": "rss_https://huggingface.co/blog/ibm-research/granite-timeseries-ensemble-r1",
+    "company": "Hugging Face",
+    "title": "Ensemble forecasting with IBM Granite time-series models",
+    "publish_date": "2026-10-22",
+    "type": "其他",
+    "open_source": "否",
+    "summary": "",
+    "details": "",
+    "url": "https://huggingface.co/blog/ibm-research/granite-timeseries-ensemble-r1",
+    "tags": "",
+    "created_at": "2026-10-23 06:45:20"
+  },
+  {
+    "id": "rss_https://simonwillison.net/2026/Oct/22/donating-agent-skills/",
+    "company": "Simon Willison",
+    "title": "Donating Agent Skills to the Agentic AI Foundation",
+    "publish_date": "2026-10-22",
+    "type": "其他",
+    "open_source": "否",
+    "summary": "<p><strong><a href=\"https://www.anthropic.com/news/donating-agent-skills-to-the-agentic-ai-foundation\">Donating Agent Skills to the Agentic AI Foundation</a></strong></p>\nNews today from Anthropic:</p",
+    "details": "",
+    "url": "https://simonwillison.net/2026/Oct/22/donating-agent-skills/",
+    "tags": "",
+    "created_at": "2026-10-23 06:45:22"
   }
 ]
