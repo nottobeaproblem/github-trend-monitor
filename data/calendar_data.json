@@ -7408,5 +7408,57 @@
     "url": "https://simonwillison.net/2026/Oct/22/donating-agent-skills/",
     "tags": "",
     "created_at": "2026-10-23 06:45:22"
+  },
+  {
+    "id": "rss_https://openai.com/index/scaling-storage-one-billion-users-part-two",
+    "company": "OpenAI",
+    "title": "Rapidly scaling online storage to serve over 1 billion ChatGPT users (Part II)",
+    "publish_date": "2026-10-23",
+    "type": "其他",
+    "open_source": "否",
+    "summary": "Learn how OpenAI scaled Habitat with reliable multi-tenancy, global caching, and Azure Cosmos DB to deliver 12× faster reads for ChatGPT.",
+    "details": "",
+    "url": "https://openai.com/index/scaling-storage-one-billion-users-part-two",
+    "tags": "",
+    "created_at": "2026-10-24 06:42:47"
+  },
+  {
+    "id": "rss_https://openai.com/index/securing-our-frontier-model-training-environment",
+    "company": "OpenAI",
+    "title": "Securing our frontier model training environment",
+    "publish_date": "2026-10-23",
+    "type": "其他",
+    "open_source": "否",
+    "summary": "OpenAI explains how we strengthened containment for frontier model training and evaluation, including offline environments and high-compute red-teaming.",
+    "details": "",
+    "url": "https://openai.com/index/securing-our-frontier-model-training-environment",
+    "tags": "",
+    "created_at": "2026-10-24 06:42:47"
+  },
+  {
+    "id": "rss_https://huggingface.co/blog/allenai/litpivot",
+    "company": "Hugging Face",
+    "title": "LitPivot: Developing research ideas through dynamic contextualization within the literature landscape",
+    "publish_date": "2026-10-23",
+    "type": "其他",
+    "open_source": "否",
+    "summary": "",
+    "details": "",
+    "url": "https://huggingface.co/blog/allenai/litpivot",
+    "tags": "",
+    "created_at": "2026-10-24 06:42:49"
+  },
+  {
+    "id": "rss_https://huggingface.co/blog/torch-neuronx-model-support",
+    "company": "Hugging Face",
+    "title": "Does Your Model Run on AWS Trainium? Look It Up",
+    "publish_date": "2026-10-23",
+    "type": "其他",
+    "open_source": "否",
+    "summary": "",
+    "details": "",
+    "url": "https://huggingface.co/blog/torch-neuronx-model-support",
+    "tags": "",
+    "created_at": "2026-10-24 06:42:49"
   }
 ]
