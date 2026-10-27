@@ -7460,5 +7460,70 @@
     "url": "https://huggingface.co/blog/torch-neuronx-model-support",
     "tags": "",
     "created_at": "2026-10-24 06:42:49"
+  },
+  {
+    "id": "rss_https://openai.com/index/greptile-code-review-codex-astra",
+    "company": "OpenAI",
+    "title": "Greptile takes bug detection beyond code review with GPT-6 Astra",
+    "publish_date": "2026-10-26",
+    "type": "其他",
+    "open_source": "否",
+    "summary": "How Greptile uses GPT-6 Astra to test user workflows, Daybreak to strengthen security, and Codex to reduce rework.",
+    "details": "",
+    "url": "https://openai.com/index/greptile-code-review-codex-astra",
+    "tags": "",
+    "created_at": "2026-10-27 07:03:43"
+  },
+  {
+    "id": "rss_https://openai.com/index/gpt-6-1-sol-coderabbit-code-security",
+    "company": "OpenAI",
+    "title": "GPT-6.1 Sol helps CodeRabbit strengthen security across complex codebases",
+    "publish_date": "2026-10-26",
+    "type": "其他",
+    "open_source": "否",
+    "summary": "CodeRabbit uses GPT-6.1 Sol to investigate security risks across complex codebases. Its security agent helps developers review findings and proposed fixes.",
+    "details": "",
+    "url": "https://openai.com/index/gpt-6-1-sol-coderabbit-code-security",
+    "tags": "",
+    "created_at": "2026-10-27 07:03:43"
+  },
+  {
+    "id": "rss_https://openai.com/index/chatgpt-expanding-world-of-work",
+    "company": "OpenAI",
+    "title": "ChatGPT’s expanding world of work",
+    "publish_date": "2026-10-26",
+    "type": "其他",
+    "open_source": "否",
+    "summary": "Explore OpenAI Signals data on 165 work activities across nearly 100 countries, revealing how people use ChatGPT for work and how usage changes over time.",
+    "details": "",
+    "url": "https://openai.com/index/chatgpt-expanding-world-of-work",
+    "tags": "",
+    "created_at": "2026-10-27 07:03:43"
+  },
+  {
+    "id": "rss_https://openai.com/index/introducing-gpt-6-1-terra",
+    "company": "OpenAI",
+    "title": "Introducing GPT-6.1 Terra",
+    "publish_date": "2026-10-26",
+    "type": "其他",
+    "open_source": "否",
+    "summary": "Bringing fast and capable computer use to everyone",
+    "details": "",
+    "url": "https://openai.com/index/introducing-gpt-6-1-terra",
+    "tags": "",
+    "created_at": "2026-10-27 07:03:43"
+  },
+  {
+    "id": "rss_https://simonwillison.net/2026/Oct/26/gpt-61-terra/",
+    "company": "Simon Willison",
+    "title": "GPT-6.1 Terra",
+    "publish_date": "2026-10-26",
+    "type": "其他",
+    "open_source": "否",
+    "summary": "<p><strong><a href=\"https://openai.com/index/introducing-gpt-6-1-terra/\">GPT-6.1 Terra</a></strong></p>\nIt's always interesting to note which aspects of a new model are emphasized in the release annou",
+    "details": "",
+    "url": "https://simonwillison.net/2026/Oct/26/gpt-61-terra/",
+    "tags": "",
+    "created_at": "2026-10-27 07:03:46"
   }
 ]
