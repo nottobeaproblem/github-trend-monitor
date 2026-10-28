@@ -7525,5 +7525,83 @@
     "url": "https://simonwillison.net/2026/Oct/26/gpt-61-terra/",
     "tags": "",
     "created_at": "2026-10-27 07:03:46"
+  },
+  {
+    "id": "rss_https://openai.com/index/retell-ai",
+    "company": "OpenAI",
+    "title": "Retell uses OpenAI models to help power 100M monthly calls",
+    "publish_date": "2026-10-27",
+    "type": "其他",
+    "open_source": "否",
+    "summary": "GPT-6 Astra tops Retell’s voice agent benchmark, while Codex helps it reach a $1.6M annual revenue run rate per employee.",
+    "details": "",
+    "url": "https://openai.com/index/retell-ai",
+    "tags": "",
+    "created_at": "2026-10-28 07:46:13"
+  },
+  {
+    "id": "rss_https://openai.com/index/oracle-apps-in-chatgpt",
+    "company": "OpenAI",
+    "title": "OpenAI expands partnership with Oracle to bring its apps to ChatGPT",
+    "publish_date": "2026-10-27",
+    "type": "其他",
+    "open_source": "否",
+    "summary": "OpenAI and Oracle are expanding their partnership to bring business applications and AI agents into ChatGPT and power new Oracle offerings.",
+    "details": "",
+    "url": "https://openai.com/index/oracle-apps-in-chatgpt",
+    "tags": "",
+    "created_at": "2026-10-28 07:46:13"
+  },
+  {
+    "id": "rss_https://openai.com/index/check-point-daybreak",
+    "company": "OpenAI",
+    "title": "How Check Point accelerates vulnerability research with Daybreak",
+    "publish_date": "2026-10-27",
+    "type": "其他",
+    "open_source": "否",
+    "summary": "With OpenAI Daybreak, Check Point speeds up the research behind new security protections, enabling its analysts to turn vulnerability intelligence into customer defenses faster.",
+    "details": "",
+    "url": "https://openai.com/index/check-point-daybreak",
+    "tags": "",
+    "created_at": "2026-10-28 07:46:13"
+  },
+  {
+    "id": "rss_https://openai.com/index/anima",
+    "company": "OpenAI",
+    "title": "Anima helps clinics cut call waits by 75% with GPT-6 and GPT-Live",
+    "publish_date": "2026-10-23",
+    "type": "其他",
+    "open_source": "否",
+    "summary": "Anima expands what care teams can do with OpenAI models, giving them more capacity to respond to patients.",
+    "details": "",
+    "url": "https://openai.com/index/anima",
+    "tags": "",
+    "created_at": "2026-10-28 07:46:13"
+  },
+  {
+    "id": "rss_https://huggingface.co/blog/LiquidAI/lfm3",
+    "company": "Hugging Face",
+    "title": "Build specialized multimodal models with LFM3",
+    "publish_date": "2026-10-27",
+    "type": "其他",
+    "open_source": "否",
+    "summary": "",
+    "details": "",
+    "url": "https://huggingface.co/blog/LiquidAI/lfm3",
+    "tags": "",
+    "created_at": "2026-10-28 07:46:15"
+  },
+  {
+    "id": "rss_https://huggingface.co/blog/allenai/novelty-bench",
+    "company": "Hugging Face",
+    "title": "Can we trust LLMs to judge whether a research idea is novel?",
+    "publish_date": "2026-10-27",
+    "type": "其他",
+    "open_source": "否",
+    "summary": "",
+    "details": "",
+    "url": "https://huggingface.co/blog/allenai/novelty-bench",
+    "tags": "",
+    "created_at": "2026-10-28 07:46:15"
   }
 ]
