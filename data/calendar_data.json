@@ -7603,5 +7603,31 @@
     "url": "https://huggingface.co/blog/allenai/novelty-bench",
     "tags": "",
     "created_at": "2026-10-28 07:46:15"
+  },
+  {
+    "id": "rss_https://openai.com/index/legora",
+    "company": "OpenAI",
+    "title": "Legora is building the agentic operating system for legal work",
+    "publish_date": "2026-10-28",
+    "type": "其他",
+    "open_source": "否",
+    "summary": "See how Legora uses OpenAI models, ChatGPT, and Codex to accelerate legal workflows, expand contract analysis, and free lawyers to focus on higher-value work.",
+    "details": "",
+    "url": "https://openai.com/index/legora",
+    "tags": "",
+    "created_at": "2026-10-29 07:50:17"
+  },
+  {
+    "id": "rss_https://deepmind.google/blog/gemini-4-carbon-our-next-frontier-model/",
+    "company": "Google DeepMind",
+    "title": "Gemini 4 Carbon: Our next frontier model",
+    "publish_date": "2026-10-28",
+    "type": "其他",
+    "open_source": "否",
+    "summary": "",
+    "details": "",
+    "url": "https://deepmind.google/blog/gemini-4-carbon-our-next-frontier-model/",
+    "tags": "",
+    "created_at": "2026-10-29 07:50:17"
   }
 ]
